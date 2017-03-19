@@ -325,7 +325,7 @@ Table_003_Alliance_50to60 = {
 			[5] = { str = "On the other side of town accept Are We There, Yeti? pt.1" },
 			[6] = { str = "Keep your eye out for those blue moonkin feathers to finish up Moontouched Wildkin" },
 			[7] = { str = "Run All the way south to 60,73 to complete Strange Sources", x = 60, y = 73, zone = "Winterspring" },
-			[8] = { str = "Hearth back to Everlook, if it’s not up die on purpose" },
+			[8] = { str = "Hearth back to Everlook, just run if it’s not up" },
 			[9] = { str = "Go to 65,45 and kill yeti’s for Are We There, Yeti? pt.1", x = 65, y = 45, zone = "Winterspring" },
 			[10] = { str = "Run back to Everlook and turn in Are We There, Yeti? pt.1 accept Are We There, Yeti? pt.2" },
 			[11] = { str = "Go back to 65,45 and kill matriarch’s and patriarch’s for Are We There, Yeti? pt.2 there are a lot in the cave at 67,42", x = 67, y = 42, zone = "Winterspring" },
