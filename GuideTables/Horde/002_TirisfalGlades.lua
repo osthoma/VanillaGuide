@@ -30,7 +30,7 @@ Table_002_TirisfalGlades = {
 			[5] = { str = "04) Exit the building and to your left down the hill complete  #DOQUEST\"The Mindless Ones\"# and #DOQUEST\"Piercing the Veil\"# then run back and turn them in." },
 			[6] = { str = "05) Accept #ACCEPT\"Rattling the Rattlecages\"#, #ACCEPT\"Tainted Scroll\", and #ACCEPT\"The Damned\"#" },
 			[7] = { str = "06) Turn in #TURNIN\"Tainted Scroll\"# at your class trainer then get new spells/skills (If you have no money merchant your items across the road)." },
-			[8] = { str = "07) Complete #DOQUEST\"The Damned\"# along with #DOQUEST\"Rattling the Rattlecages\"# these are found out around the village, once down turn them in and accept #ACCEPT\"Marla's Last Wish\"#." },
+			[8] = { str = "07) Complete #DOQUEST\"The Damned\"# along with #DOQUEST\"Rattling the Rattlecages\"# these are found out around the village, once done turn them in and accept #ACCEPT\"Marla's Last Wish\"#." },
 			[9] = { str = "08) Go outside the church, accept #ACCEPT\"Night Web's Hollow\"# and #ACCEPT\"Scavenging Deathknell\"#." },
 			[10] = { str = "09) Complete #DOQUEST\"Scavenging Deathknell\"# which are found around and inside buildings in the village then run down to (36, 62) and kill Samuel Fipps for #DOQUEST\"Marla's Last Wish\"#.", x = 36, y = 62, zone = "Tirisfal Glades" },
 			[11] = { str = "10) Run to the cave at (27,59) and do #DOQUEST\"Night Web's Hollow\"# then run to the cemetery in the village to (31,64) and click the grave to bury the skull.", x = 27, y = 59, zone = "Tirisfal Glades" },
