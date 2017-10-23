@@ -38,7 +38,7 @@ Table_002_TirisfalGlades = {
 			[13] = { str = "12) Accept #DOQUEST\"The Scarlet Crusade\"# outside the church and go do it at (35,68) then run back and turn it in.", x = 35, y = 68, zone = "Tirisfal Glades" },
 			[14] = { str = "13) Accept #ACCEPT\"The Red Messenger\"# and go and do it at (36,68) killing Meven Korgal then run back and turn it in.", x = 36, y = 68, zone = "Tirisfal Glades" },
 			[15] = { str = "14) Accept #ACCEPT\"Vital Intelligence\"# then get new spells/skills if you are level 6, if not grind until level 6 and do this." },
-			[16] = { str = "15) Run to the north of Death Knell and accept #ACCEPT\"A Rogue's Deal\"# then leave the starting area." },
+			[16] = { str = "15) Run to the north east of Death Knell and accept #ACCEPT\"A Rogue's Deal\"# then leave the starting area." },
 			--[17] = { str = "." },
 			--[18] = { str = "." },
     	}
