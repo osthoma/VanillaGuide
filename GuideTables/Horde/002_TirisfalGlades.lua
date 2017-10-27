@@ -62,7 +62,7 @@ Table_002_TirisfalGlades = {
 			[8] = { str = "07) Talk to Magistrate Sevren and accept #ACCEPT\"Graverobbers\"# then talk to Coleman Farthing and accept #ACCEPT\"Deaths in the Family\"# and #ACCEPT\"The Haunted Mills\"# then talk to Gretchen Deadmar and accept #ACCEPT\"The Chill of Death\"#." },
 			[9] = { str = "08) Go into the Inn and in the basement turn in the pumpkin to finish the quest at Captured Zealot." },
 			[10] = { str = "09) Go back to the bridge at (53,53) and kill the Scourge for 7 Putrid Claws and keep an eye out for any Gloom Weeds.", x = 53, y = 53, zone = "Tirisfal Glades" },
-			[11] = { str = "10) Run back to the Pumpkin farm at (62,52) and just behind kill 10 Scarlet Warriors and any Duskbats for 5 pelts which you can do on your way questing as well as Darkhounds for 5 Vials of Darkhound Blood.", x = 62, y = 52, zone = "Tirisfal Glades" },
+			[11] = { str = "10) Run back to the Pumpkin farm at (36,50) and just behind kill 10 Scarlet Warriors and any Duskbats for 5 pelts which you can do on your way questing as well as Darkhounds for 5 Vials of Darkhound Blood.", x = 36, y = 50, zone = "Tirisfal Glades" },
 			[12] = { str = "11) Go back to Brill and speak to the Trade Supplies Merchant and buy a Coarse Thread." },
 			[13] = { str = "12) Turn in #TURNIN\"A Putrid Task\"# accept #ACCEPT\"The Mills Overrun\"# and turn in #TURNIN\"The Chill of Death\"#." },
 			[14] = { str = "13) You should have all the Gloom Weed by now so turn the quest in at Junior Apothecary Holland (58,49) and accept #ACCEPT\"Doom Weed\"#.", x = 58, y = 49, zone = "Tirisfal Glades" },
