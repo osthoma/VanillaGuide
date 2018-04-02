@@ -77,7 +77,7 @@ Table_002_DunMorogh = {
             [16] = { str = "15) You also wanna head out to 40,65 and turn in “Ammo For Rumbleshot” watch the scene it’s cool, only if you aren’t time running. You should be 7 or very close now", x = 40, y = 65, zone = "Dun Morogh" },
             [17] = { str = "16) Hearth back to Kharanos" },
             [18] = { str = "17) Just outside the Inn, turn in “Beer Basted Boar Ribs”" },
-            [19] = { str = "18) Go to the house at 45,49, NE of the Inn, and accept Operation Recombobulation", x = 45, y = 49, zone = "Dun Morogh" },
+            [19] = { str = "18) Go to the house at 45,49, NW of the Inn, and accept Operation Recombobulation", x = 45, y = 49, zone = "Dun Morogh" },
             [20] = { str = "19) Run NE to 49,48 and turn in “Stocking Jetsteam” accept “Evershine”", x = 49, y = 48, zone = "Dun Morogh" },
             [21] = { str = "20) Turn in “The Grizzled Den”" },
             [22] = { str = "21) You should be close to half way through lvl 7 " },
