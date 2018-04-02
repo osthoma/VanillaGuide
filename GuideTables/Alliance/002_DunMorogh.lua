@@ -15,20 +15,20 @@ Connection:
 --]]--------------------------------------------------
 
 Table_002_DunMorogh = {
------------1-6 Cold Ridge Valley
+-----------1-6 Coldridge Valley
     --[13] = {
     [0106] = {
-        title = "1-6 Cold Ridge Valley",
-        --n = "1-6 Cold Ridge Valley",
+        title = "1-6 Coldridge Valley",
+        --n = "1-6 Coldridge Valley",
         --pID = 1, nID = 14,
         --itemCount = 25,
         items = {
-            [1] = { str = "1-6 Cold Ridge Valley" },
+            [1] = { str = "1-6 Coldridge Valley" },
             [2] = { str = "01) Right in front of where you start accept Dwarven Outfitters" },      
             [3] = { str = "02) Go south around 28,73 and kill wolves for the meat then go back to 29,71 and turn in Dwarven Outfitters then accept Encrypted Rune and Coldridge Valley Mail Delivery pt.1 ", x = 29, y = 71, zone = "Dun Morogh" },
             [4] = { str = "03) To your left accept A New Threat " },
             [5] = { str = "04) At 30,74 kill burly troggs and at 26,72 there is a camp of rockjaw troggs, kill them for A New Threat ", x = 26, y = 72, zone = "Dun Morogh" },
-            [6] = { str = "05) Go back to 29,71 and turn in A New Threat you should be 3 now " },
+            [6] = { str = "05) Go back to 29,71 and turn in A New Threat you should be 3 now ", x = 29, y = 71, zone = "Dun Morogh" },
             [7] = { str = "06) Go in Anvilmar at 28,69 and turn in your classes skill npc quest which was Encrypted Rune for a rogue", x = 28, y = 69, zone = "Dun Morogh" },
             [8] = { str = "07) Accept A Refugee's Quandary inside " },
             [9] = { str = "08) Follow the road south to 22,71 and turn in Coldridge Valley Mail Delivery pt.1 accept Coldridge Valley Mail Delivery pt.2 and The Boar Hunter", x = 22, y = 71, zone = "Dun Morogh" },
