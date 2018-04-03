@@ -118,7 +118,7 @@ Table_002_DunMorogh = {
             [57] = { str = "56) Go back to Goldshire, turn in “Gold Dust Exchange”, accept “A Fishy Peril” and turn it in. Turn in “The Fargodeep Mine”, skip the followup. Turn in “Kobold Candles” and “Note to William”, accept “Shipment to Stormwind”. Run to Stormwind and turn it in" },
             [58] = { str = "57) Go into the tram again at 63,10 accept “Deeprun Rat Roundup” just collect 5 rats and turn it in. You could skip this and keep the flute, It can really piss people off if you play it non stop around the IF bank. SKIP “Me Brother, Nipsy” unless you go back to SW on the tram because you get crap xp", x = 63, y = 10, zone = "Stormwind City" },
             [59] = { str = "58) After this you should be a bit over half way to 11 " },
-            [60] = { str = "59) Run east to 68,55 and accept “The Public Servant” ", x = 68, y = 55, zone = "Dun Morogh" },
+            [60] = { str = "59) Back in Dun Morogh, run east to 68,55 and accept “The Public Servant” ", x = 68, y = 55, zone = "Dun Morogh" },
             [61] = { str = "60) Go behind him and accept “Those Blasted Troggs!” " },
             [62] = { str = "61) Go in the pidd below and kill the troggs here and in the cave for both quests then turn them back in at 68,55 " },
             [63] = { str = "62) Go east to 80,51 and follow the path into Loch Modan ", x = 80, y = 51, zone = "Dun Morogh" },
