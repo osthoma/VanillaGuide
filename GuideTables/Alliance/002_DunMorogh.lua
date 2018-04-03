@@ -111,7 +111,7 @@ Table_002_DunMorogh = {
             [50] = { str = "49) Go south to the Fargodeep Mine at 39,82 and kill the kobold until you complete all 3 quests “The Fargodeep Mine”, “Gold Dust Exchange”, and “Kobold Candles” Make sure you go in the lower entrance so “The Fargodeep Mine” is easier ", x = 39, y = 82, zone = "Elwynn Forest" },
             [51] = { str = "50) Once all 3 are done go to the stonefield farm just up the hill east at 34,84 and accept “Lost Necklace” SKIP “Princess Must Die!” ", x = 34, y = 84, zone = "Elwynn Forest" },
             [52] = { str = "51) Go east to the Maclure Vinyard st 43,85 and turn in “Lost Necklace” accept “Pie For Billy” then turn around and kill boars until it’s finished ", x = 43, y = 85, zone = "Elwynn Forest" },
-            [53] = { str = "52) At 43,80 and accept “Young Lovers” ", x = 43, y = 80, zone = "Elwynn Forest" },
+            [53] = { str = "52) At 43,90 and accept “Young Lovers” ", x = 43, y = 90, zone = "Elwynn Forest" },
             [54] = { str = "53) Go back west to 34,84 and turn in “Pie For Billy” SKIP “Back to Billy” ", x = 34, y = 84, zone = "Elwynn Forest" },
             [55] = { str = "54) Go west some to the river at 29,85 and turn in “Young Lovers” accept “Speak with Gramma” ", x = 29, y = 85, zone = "Elwynn Forest" },
             [56] = { str = "55) Go back to 34,84 and turn in “Speak with Gramma” in the house, accept “Note to William” You should be 10 now ", x = 34, y = 84, zone = "Elwynn Forest" },
