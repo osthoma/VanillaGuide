@@ -96,7 +96,7 @@ Table_002_DunMorogh = {
             [35] = { str = "34) Explore the cave for “Frostmane Hold” To explore it just run in and stay to the right, it will curve left and you can see a raised platform with mobs, get near it to complete exploration." },
             [36] = { str = "35) Either straight down the steps of the Inn, or N of the GY, turn in “Frostmane Hold” accept “The Reports” " },
             [37] = { str = "36) Go NW in the house at 45,49 and turn in Operation Recombobulation ", x = 45, y = 49, zone = "Dun Morogh" },
-            [38] = { str = "37) Go east to 49,48 and turn in “Return to Bellowfiz” you should be half way to 10 now " },
+            [38] = { str = "37) Go east to 49,48 and turn in “Return to Bellowfiz” you should be half way to 10 now ", x = 49, y = 48, zone = "Dun Morogh" },
             [39] = { str = "38) Go North to IF at 53,35 ", x = 53, y = 35, zone = "Dun Morogh" },
             [40] = { str = "39) Make IF your home at 21,55 ", x = 21, y = 55, zone = "Ironforge" },
             [41] = { str = "40) Go to 39,56 in IF, behind the bank, in the kings room, turn in “The Reports” ", x = 39, y = 56, zone = "Ironforge" },
