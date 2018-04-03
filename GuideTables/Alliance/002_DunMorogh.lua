@@ -115,7 +115,7 @@ Table_002_DunMorogh = {
             [54] = { str = "53) Go back west to 34,84 and turn in “Pie For Billy” SKIP “Back to Billy” ", x = 34, y = 84, zone = "Elwynn Forest" },
             [55] = { str = "54) Go west some to the river at 29,85 and turn in “Young Lovers” accept “Speak with Gramma” ", x = 29, y = 85, zone = "Elwynn Forest" },
             [56] = { str = "55) Go back to 34,84 and turn in “Speak with Gramma” in the house, accept “Note to William” You should be 10 now ", x = 34, y = 84, zone = "Elwynn Forest" },
-            [57] = { str = "56) Go back to goldshire, either die or run " },
+            [57] = { str = "56) Go back to Goldshire, turn in “Gold Dust Exchange”, accept “A Fishy Peril” and turn it in. Turn in “The Fargodeep Mine”, skip the followup. Turn in “Kobold Candles” and “Note to William”, accept “Shipment to Stormwind”. Run to Stormwind and turn it in" },
             [58] = { str = "57) Go into the tram again at 63,10 accept “Deeprun Rat Roundup” just collect 5 rats and turn it in. You could skip this and keep the flute, It can really piss people off if you play it non stop around the IF bank. SKIP “Me Brother, Nipsy” unless you go back to SW on the tram because you get crap xp", x = 63, y = 10, zone = "Stormwind City" },
             [59] = { str = "58) After this you should be a bit over half way to 11 " },
             [60] = { str = "59) Run east to 68,55 and accept “The Public Servant” ", x = 68, y = 55, zone = "Dun Morogh" },
