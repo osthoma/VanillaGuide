@@ -125,7 +125,7 @@ Table_002_DunMorogh = {
             [64] = { str = "63) Go to 22,73 and accept In Defense of the King's Lands ", x = 22, y = 73, zone = "Loch Modan" },
             [65] = { str = "64) Go up in the tower and accept The Trogg Threat " },
             [66] = { str = "65) At 33,50 grab the FP ", x = 33, y = 50, zone = "Loch Modan" },
-            [67] = { str = "66) Look for the wandering guidrd and accept “Rat Catching” " },
+            [67] = { str = "66) Look for the wandering NPC Mountaineer Kadrell and accept “Rat Catching” " },
             [68] = { str = "67) Kill troggs from 27,53 and north for In Defense of the King's Lands and The Trogg Threat ", x = 27, y = 53, zone = "Loch Modan" },
             [69] = { str = "68) Go back to 22,73 and turn them both in ", x = 22, y = 73, zone = "Loch Modan" },
             [70] = { str = "69) Go north to the tower at 24,18 and turn in “Stormpike's Delivery” ", x = 24, y = 18, zone = "Loch Modan" },
