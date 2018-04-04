@@ -20,13 +20,13 @@ Table_003_Alliance_12to20 = {
 	[1214] = {
 		title = "12-14 Darkshore",
 		--n = "12-14 Darkshore",
-		--pID = 12, nID = 102, 
+		--pID = 12, nID = 102,
 		--itemCount = 39,
 		items = {
 			[1] = { str = "12-14 Darkshore" },
-			[2] = { str = "Once you land grab  Washed Ashore pt.1  right in front of you." },
+			[2] = { str = "Once you land grab  Washed Ashore pt.1  right in front of you at 37,46.", x = 37, y = 46, zone = "Darkshore" },
 			[3] = { str = "Turn in  Flight to Auberdine  accept  Return to Nessa  I fly back to darnassus to get it done. She’s right off the edge of the dock." },
-			[4] = { str = "Run out on the docks of Auberdine grab  For Love Eternal  at 35,43.", x = 35, y = 43, zone = "Darkshore" },
+			[4] = { str = "Make Auberdine your home. Run out on the docks of Auberdine grab  For Love Eternal  at 35,43.", x = 35, y = 43, zone = "Darkshore" },
 			[5] = { str = "Go upstairs accept  Buzzbox 827." },
 			[6] = { str = "Accept  Cave Mushrooms  in front of the Inn." },
 			[7] = { str = "Grab  The Red Crystal  near the bridge" },
@@ -36,9 +36,9 @@ Table_003_Alliance_12to20 = {
 			[11] = { str = "Go do  Washed Ashore pt.1  at 36,50 grind from town to there to get Crawler legs for  Buzzbox 827.", x = 36, y = 50, zone = "Darkshore" },
 			[12] = { str = "Turn in  Buzzbox 827  at 36,46 accept  Buzzbox 411", x = 36, y = 46, zone = "Darkshore" },
 			[13] = { str = "Turn in  Washed Ashore pt.1  accept   Washed Ashore pt.2." },
-			[14] = { str = "Do  Washed Ashore pt.2  at 31,46 west of boat dock. Turn it in", x = 31, y = 46, zone = "Darkshore" },
+			[14] = { str = "Do  Washed Ashore pt.2  at 31,46 in the water west of boat dock. Turn it in", x = 31, y = 46, zone = "Darkshore" },
 			[15] = { str = "Buzzbox 411  Threshers look like loch ness in the water, Turn it in at 41,28 accept  Buzzbox 323", x = 41, y = 28, zone = "Darkshore" },
-			[16] = { str = "Stop at 36,51 accept  Beached Sea Creature.", x = 36, y = 51, zone = "Darkshore" },
+			[16] = { str = "Stop at 42,32 accept  Beached Sea Creature.", x = 42, y = 32, zone = "Darkshore" },
 			[17] = { str = "Bashal'Aran pt.1  at 44,36 grinding along the way, accept  Bashal'Aran pt.2  killing grells around him for earrings.", x = 44, y = 36, zone = "Darkshore" },
 			[18] = { str = "Turn in  Bashal'Aran pt.2  at 44,36 accept  Bashal’Aran pt.3", x = 44, y = 36, zone = "Darkshore" },
 			[19] = { str = "Do  Bashal’Aran pt.3  by killing satyr’s and turn it in accept  Bashal’Aran pt.4 " },
@@ -70,7 +70,7 @@ Table_003_Alliance_12to20 = {
 	[1417] = {
 		title = "14-17 Darkshore",
 		--n = "14-17 Darkshore",
-		--pID = 101, nID = 103, 
+		--pID = 101, nID = 103,
 		--itemCount = 38,
 		items = {
 			[1] = { str = "14-17 Darkshore" },
@@ -119,7 +119,7 @@ Table_003_Alliance_12to20 = {
 	[1718] = {
 		title = "17-18 Loch Modan",
 		--n = "17-18 Loch Modan",
-		--pID = 102, nID = 104, 
+		--pID = 102, nID = 104,
 		--itemCount = 30,
 		items = {
 			[1] = { str = "17-18 Loch Modan" },
@@ -160,7 +160,7 @@ Table_003_Alliance_12to20 = {
 	[1820] = {
 		title = "18-20 Redredge Mountains",
 		--n = "18-20 Redredge Mountains",
-		--pID = 103, nID = 201, 
+		--pID = 103, nID = 201,
 		--itemCount = 29,
 		items = {
 			[1] = { str = "18-20 Redredge Mountains" },

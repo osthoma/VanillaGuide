@@ -132,11 +132,12 @@ Table_002_ElwynnForest = {
 			[27] = { str = " Go to 22,73 and accept In Defense of the King's Lands”", x = 22, y = 73, zone = "Loch Modan" },
 			[28] = { str = "Go up in the tower and accept The Trogg Threat" },
 			[29] = { str = "At 33,50 grab the FP", x = 33, y = 50, zone = "Loch Modan" },
-			[30] = { str = "Look for the wandering guidrd and accept “Rat Catching”" },
+			[30] = { str = "Look for the wandering NPC Mountaineer Kadrell and accept “Rat Catching” "" },
 			[31] = { str = "Kill troggs from 27,53 and north for In Defense of the King's Lands” and The Trogg Threat", x = 27, y = 53, zone = "Loch Modan" },
-			[32] = { str = "Go back to 22,73 and turn them both in", x = 22, y = 73, zone = "Loch Modan" },
-			[33] = { str = "Go north to the tower at 24,18 and turn in “Stormpike's Delivery”", x = 24, y = 18, zone = "Loch Modan" },
-			[34] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to IF guide but just go backwards. You’re going to go north through the wetlands to menethil, then boat to auberdine from here." },
+      [32] = { str = "Kill mobs from 26,43 and north for Rat Catching, then turn it in at Thelsamar ", x = 26, y = 43, zone = "Loch Modan" },
+			[33] = { str = "Go back to 22,73 and turn them both in", x = 22, y = 73, zone = "Loch Modan" },
+			[34] = { str = "Go north to the tower at 24,18 and turn in “Stormpike's Delivery”", x = 24, y = 18, zone = "Loch Modan" },
+			[35] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to IF guide but just go backwards. You’re going to go north through the wetlands to menethil, then boat to auberdine from here." },
 		}
 	},
 }
