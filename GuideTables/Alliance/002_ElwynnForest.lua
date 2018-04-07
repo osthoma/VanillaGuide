@@ -132,7 +132,7 @@ Table_002_ElwynnForest = {
 			[27] = { str = " Go to 22,73 and accept In Defense of the King's Lands”", x = 22, y = 73, zone = "Loch Modan" },
 			[28] = { str = "Go up in the tower and accept The Trogg Threat" },
 			[29] = { str = "At 33,50 grab the FP", x = 33, y = 50, zone = "Loch Modan" },
-			[30] = { str = "Look for the wandering NPC Mountaineer Kadrell and accept “Rat Catching” "" },
+			[30] = { str = "Look for the wandering NPC Mountaineer Kadrell and accept “Rat Catching” " },
 			[31] = { str = "Kill troggs from 27,53 and north for In Defense of the King's Lands” and The Trogg Threat", x = 27, y = 53, zone = "Loch Modan" },
       [32] = { str = "Kill mobs from 26,43 and north for Rat Catching, then turn it in at Thelsamar ", x = 26, y = 43, zone = "Loch Modan" },
 			[33] = { str = "Go back to 22,73 and turn them both in", x = 22, y = 73, zone = "Loch Modan" },
