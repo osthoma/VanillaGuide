@@ -65,7 +65,7 @@ Table_003_Alliance_20to30 = {
             [18] = { str = "And  The Ancient Statuette  at 14,20 it’s on the ground. ", x = 14, y = 20, zone = "Ashenvale" },
             [19] = { str = "Turn in  The Ancient Statuette  at 14,31 accept  Ruuzel ", x = 14, y = 31, zone = "Ashenvale" },
             [20] = { str = "Do  Ruuzel  at 9,15 You don’t actually have to kill Ruuzel. Kill Lady Vespia. A 22 weak elite and doesn’t have guards like Ruuzel", x = 9, y = 15, zone = "Ashenvale" },
-            [21] = { str = "Turn in  Ruuzel  at 14,20.", x = 14, y = 20, zone = "Ashenvale" },
+            [21] = { str = "Turn in  Ruuzel  at 14,31.", x = 14, y = 31, zone = "Ashenvale" },
             [22] = { str = "Turn in  Raene's Cleansing pt.1  at 20,42 accept  Raene’s Cleansing pt.2  Kill murlocs for the gem", x = 20, y = 42, zone = "Ashenvale" },
             [23] = { str = "Hearth back to Astranaar" },
             [24] = { str = "Turn in  The Zoram Strand  right as you enter town accept  Pridewings of Stonetalon" },
@@ -111,7 +111,7 @@ Table_003_Alliance_20to30 = {
         --itemCount = 20,
         items = {
             [1] = { str = "23-24 Darkshore" },
-            [2] = { str = "Turn in Both  Beached Sea Turtle  on the dock" },
+            [2] = { str = "Turn in  Beached Sea Turtle  on the dock" },
             [3] = { str = "Make Auberdine your home" },
             [4] = { str = "Turn in  The Absent Minded Prospector pt.2  just outside the merchant house accept  The Absent Minded Prospector pt.3 ." },
             [5] = { str = "Go in the last house accept  A Lost Master." },
