@@ -20,17 +20,17 @@ Table_003_Alliance_20to30 = {
     [2021] = {
         title = "20-21 Darkshore",
         --n = "20-21 Darkshore",
-        --pID = 104, nID = 202, 
+        --pID = 104, nID = 202,
         --itemCount = 10,
         items = {
             [1] = { str = "20-21 Darkshore" },
-            [2] = { str = "First thing, fly to Darnassus and get your new Skills." },
+            [2] = { str = "First thing, fly to Darnassus and get your new skills. Then fly back." },
             [3] = { str = "Turn in  Onu  at 43,76 accept  The Master's Glaive.", x = 43, y = 76, zone = "Darkshore" },
             [4] = { str = "Go to 39,85 it should say you found Master’s Glaive(complete) now use the phial of scrying. Click it turn in  The Master's Glaive  accept  The Twilight Camp", x = 39, y = 85, zone = "Darkshore" },
             [5] = { str = "Click the Book at 38,86 turn in  The Twilight Camp  accept  Return to Onu.", x = 38, y = 86, zone = "Darkshore" },
             [6] = { str = "Accept  Therylune's Escape  (escort) at 38,87 and do it.", x = 38, y = 87, zone = "Darkshore" },
             [7] = { str = "Turn in  The Absent Minded Prospector pt.1  at 35,83 accept  The Absent Minded Prospector pt.2  and do it.", x = 35, y = 83, zone = "Darkshore" },
-            [8] = { str = "Go west to 31,83 and 31,85 and accept  Beached Sea Turtle  at both.", x = 31, y = 83, zone = "Darkshore" },
+            [8] = { str = "Go west to 32,80, 31,83, 31,85 and 31,87 and accept  Beached Sea Turtle  at all four.", x = 32, y = 80, zone = "Darkshore" },
             [9] = { str = "Go back to 43,76 and turn in  Return to Onu  accept  Mathystra Relics.", x = 43, y = 76, zone = "Darkshore" },
             [10] = { str = "Accept  The Sleeper Has Awakened  (escort) the sleeping bear behind Onu. Hotbar his horn because he falls asleep every minute or so. This quest will bring you into Ashenvale. Horn is in the box beside him. Note: since he follows you, with aspect of the cheetah on you can skip mobs by running down the road or taking the offroad." },
         }
@@ -42,7 +42,7 @@ Table_003_Alliance_20to30 = {
     [2122] = {
         title = "21-22 Ashenvale",
         --n = "21-22 Ashenvale",
-        --pID = 201, nID = 203, 
+        --pID = 201, nID = 203,
         --itemCount = 33,
         items = {
             [1] = { str = "21-22 Ashenvale" },
