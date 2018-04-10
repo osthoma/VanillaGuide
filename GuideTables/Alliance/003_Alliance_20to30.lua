@@ -142,9 +142,9 @@ Table_003_Alliance_20to30 = {
         --itemCount = 16,
         items = {
             [1] = { str = "24-25 Ashenvale" },
-            [2] = { str = "Turn in  Trek to Ashenvale  right in front of you when you hearth." },
+            [2] = { str = "Turn in  Trek to Ashenvale  at the inn." },
             [3] = { str = "Run to the house on the East side, turn in  The Ruins of Stardust  accept  Fallen Sky Lake." },
-            [4] = { str = "Run to the West side of town, turn in  Pridewings of Stonetalon  accept  Kayneth Stillwind" },
+            [4] = { str = "Run to the West side of town, turn in  Pridewings of Stonetalon  accept  Kayneth Stillwind (requires level 24)" },
             [5] = { str = "Grind every mob down into Fire Scar Shrine and kill Ilkruk Mathrull at 25,61 for  The Tower of Althalaxx pt.5  Take him out as fast as you can. He summons 2 voidwalkers if you take too long.", x = 25, y = 61, zone = "Ashenvale" },
             [6] = { str = "Grind a path up to between 35,33 and 36,36 (he patrols) and kill Dal Bloodclaw for  Culling the Threat.", x = 35, y = 33, zone = "Ashenvale" },
             [7] = { str = "I then grind furbolg’s until I’m half way to 25 " },
