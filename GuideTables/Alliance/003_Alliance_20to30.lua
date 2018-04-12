@@ -218,8 +218,8 @@ Table_003_Alliance_20to30 = {
             [48] = { str = "Go to the west side of town, turn in  Apprentice's Duties." },
             [49] = { str = "Next down to the docks, hand in  Return the Statuette" },
             [50] = { str = "You should be 27 now. " },
-            [51] = { str = "Fly to IF, get new skills, hand in  An Old Colleague  at 71,51 SKIP the next part", x = 71, y = 51, zone = "Wetlands" },
-            [52] = { str = "Fly to SW, hand in  A Scroll From Mauren  at 43,80 SKIP the next part", x = 43, y = 80, zone = "Wetlands" },
+            [51] = { str = "Fly to IF, get new skills, hand in  An Old Colleague  at 71,51 SKIP the next part", x = 71, y = 51, zone = "Ironforge" },
+            [52] = { str = "Fly to SW, hand in  A Scroll From Mauren  at 43,80 SKIP the next part", x = 43, y = 80, zone = "Stormwind City" },
             [53] = { str = "Fly to Lakeshire" },
         }
     },
