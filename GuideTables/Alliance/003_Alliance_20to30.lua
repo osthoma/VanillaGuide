@@ -211,7 +211,7 @@ Table_003_Alliance_20to30 = {
             [41] = { str = "Go north again touch the half-burried barrel at 13,34 turn in  Search More Hovels  accept  Return the Statuette", x = 13, y = 34, zone = "Wetlands" },
             [42] = { str = "Stop at the sunken ships around 14,28 14,25 and kill the unded on either ship for  The Cursed Crew  Try to stay on top of the ships. Kill Snellig in the broken part of the first ship in the rear near the shore for the box.", x = 14, y = 28, zone = "Wetlands" },
             [43] = { str = "From here north you should be able to find Giant crocolisks for  Apprentice's Duties  as well as the fen dwellers (track hidden) in the waters all over this area while you head toward Ironbeard’s Tomb at 44,25 for  Digging Through the Ooze  Kill oozes for the bag.", x = 44, y = 25, zone = "Wetlands" },
-            [44] = { str = "Now once all your fen creepers are dead head back to the greenwarden at 56,40 and hand it in.", x = 56, y = 40, zone = "Wetlands" },
+            [44] = { str = "Now once all your fen creepers are dead head back to the greenwarden at 56,40 and hand in  Blisters on the Land.", x = 56, y = 40, zone = "Wetlands" },
             [45] = { str = "Hearth Back to Menethil Harbor." },
             [46] = { str = "Just outside hand in  The Cursed Crew  accept  Lifting the Curse." },
             [47] = { str = "Go north a little bit and hand in  Digging Through the Ooze" },
@@ -219,7 +219,7 @@ Table_003_Alliance_20to30 = {
             [49] = { str = "Next down to the docks, hand in  Return the Statuette" },
             [50] = { str = "You should be 27 now. " },
             [51] = { str = "Fly to IF, get new skills, hand in  An Old Colleague  at 71,51 SKIP the next part", x = 71, y = 51, zone = "Wetlands" },
-            [52] = { str = "Fly to SW, hand in  A Gnome’s Respite  at 43,80 SKIP the next part", x = 43, y = 80, zone = "Wetlands" },
+            [52] = { str = "Fly to SW, hand in  A Scroll From Mauren  at 43,80 SKIP the next part", x = 43, y = 80, zone = "Wetlands" },
             [53] = { str = "Fly to Lakeshire" },
         }
     },
