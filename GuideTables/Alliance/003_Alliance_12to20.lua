@@ -44,7 +44,7 @@ Table_003_Alliance_12to20 = {
 			[36] = { str = "Fill the Vial in the Moonwell for As Water Cascades." },
 			[37] = { str = "Accept WANTED: Murkdeep! in front of the Inn (lvl 15 quest now)." },
 			[38] = { str = "Turn in For Love Eternal on the dock. Watch the love story." },
-			[39] = { str = "You should be 14 by now. Talk to your #N_Class Trainer# in Darnassus to learn new spells and abilities. Be sure to accept the quest Trouble In Darkshore? from Chief Archaeologist Greywhisker at #C_[31,84]#.", x = 31, y = 84, zone = "Darnassus" },
+			[39] = { str = "You should be 14 by now. Talk to your #N_Class Trainer# in #A_Darnassus# to learn new spells and abilities. Be sure to accept the quest Trouble In Darkshore? from Chief Archaeologist Greywhisker at #C_[31,84]#.", x = 31, y = 84, zone = "Darnassus" },
 		}
 	},
 
@@ -78,7 +78,7 @@ Table_003_Alliance_12to20 = {
 			[22] = { str = "Cleansing the Infected at the first house accept Tharnariun's Hope." },
 			[23] = { str = "Turn in How Big a Threat? Pt.2 accept A Lost Master." },
 			[24] = { str = "Fill the Cleansing Bowl at the Moonwell." },
-			[25] = { str = "You should be 16 now. Talk to your #N_Class Trainer# in Darnassus to learn new spells and abilities." },
+			[25] = { str = "You should be 16 now. Talk to your #N_Class Trainer# in #A_Darnassus# to learn new spells and abilities." },
 			[26] = { str = "Do The Blackwood Corrupted at #C_[50,34]#(grains) clear b4 all 3 pick ups or the spawn will give adds. If so just run.", x = 50, y = 34, zone = "Darkshore" },
 			[27] = { str = "Go do Tharnariun's Hope at #C_[51,37]# (den mother) If you can’t kill her with the lvl 9 adds, kill them off and run till she’s alone. Immolate trap her and shoot first so you get the adds, not the pet.", x = 51, y = 37, zone = "Darkshore" },
 			[28] = { str = "Do The Blackwood Corrupted #C_[51,33]#(nuts) #C_[52,33]#(fruit).", x = 51, y = 33, zone = "Darkshore" },

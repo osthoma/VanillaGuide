@@ -60,7 +60,7 @@ Table_003_Horde_20to30 = {
 			[12] = { str = "Fly to XR." },
 			[13] = { str = "Turn in #Q_'Betrayal from Within'# part2 and #Q_'Egg Hunt'#." },
 			[14] = { str = "Do #Q_'Ishamuhale'# at #C_[60,32]#.", x = 60, y = 32, zone = "The Barrens" },
-			[15] = { str = "Turn in #Q_'Further Instructions'# (at Ratchet #C_[63,37]#). accept #Q_'Further Instructions'# part2.", x = 63, y = 37, zone = "The Barrens" },
+			[15] = { str = "Turn in #Q_'Further Instructions'# (at #A_Ratchet# #C_[63,37]#). accept #Q_'Further Instructions'# part2.", x = 63, y = 37, zone = "The Barrens" },
 			[16] = { str = "Turn in #Q_'Deepmoss Spider Eggs'# and #Q_'Chen's Empty Keg'#." },
 			[17] = { str = "Fly to Stonetalon Mountains." },
 		}
@@ -228,11 +228,11 @@ Table_003_Horde_20to30 = {
 			[26] = { str = "If you are not at least 4 bars from level 30, grind until you are. Then Use your #I_[Hearthstone]# to return to back to Freewind Post." },
 			[27] = { str = "Turn in #Q_'Free at Last'# #Q_'Wanted - Arnak Grimtotem'# #Q_'Grimtotem Spying'#." },
 			[28] = { str = "NOTE: I skip '#N_Test of Endurance'#." },
-			[29] = { str = "Fly to Orgrimmar." },
-			[30] = { str = "Make Orgrimmar your home." },
+			[29] = { str = "Fly to #A_Orgrimmar#." },
+			[30] = { str = "Make #A_Orgrimmar# your home." },
 
 			[31] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[32] = { str = "Go to #A_Undercity#. You need to get on the zeppelin just right outside of Orgrimmar." },
+			[32] = { str = "Go to #A_Undercity#. You need to get on the zeppelin just right outside of #A_Orgrimmar#." },
 			[33] = { str = "Run to Tarren Mill in Hillsbrad Foothills. (You can just bypass the #A_Undercity# for now if you like and just follow the path south out of Tirisfal Glades and into Silverpine Forest)." },
 		}
 	},
@@ -252,7 +252,7 @@ Table_003_Horde_20to30 = {
 			[9] = { str = "I keep grinding away at Yetis until I hit 30. (OPTIONAL: you could go do RFK instead of the grinding)." },
 			[10] = { str = "Also, the '#N_Helcular's Rod'# should have dropped before hitting 30, if not keep grinding away till it does." },
 
-			[11] = { str = "As soon as you hit 30, Use your #I_[Hearthstone]# to return to Orgrimmar and talk to your #N_Class Trainer# to learn new spells and abilities." },
+			[11] = { str = "As soon as you hit 30, Use your #I_[Hearthstone]# to return to #A_Orgrimmar# and talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[12] = { str = "Then go back to Hillsbrad." },
 			[13] = { str = "Turn #Q_'Helcular's Revenge'# in, accept the next part to it." },
 			[14] = { str = "Go back to the Yeti cave." },

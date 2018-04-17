@@ -77,7 +77,7 @@ Table_002_ElwynnForest = {
 			[66] = { str = "Go just south of the road and start killing gnolls for #Q_'Riverpaw Gnoll Bounty'# they can also drop a gold schedule which starts a quest." },
 			[67] = { str = "Go back up to #C_[34,74]# and turn in #Q_'Riverpaw Gnoll Bounty'#.", x = 34, y = 74, zone = "Elwynn Forest" },
 			[68] = { str = "You should be very close to 10 now." },
-			[69] = { str = "Follow the road west into Westfall." },
+			[69] = { str = "Follow the road west into #A_Westfall#." },
 		}
 	},
 
@@ -99,7 +99,7 @@ Table_002_ElwynnForest = {
 			[11] = { str = "Go to #C_[74,47]# and turn in #Q_'Continue to Stormwind'# accept #Q_'Dungar Longdrink'#.", x = 74, y = 47, zone = "Stormwind" },
 			[12] = { str = "Go to #C_[51,12]# and turn in 'Elmore's Task' accept 'Stormpike's Delivery' this will be done on the way to the wetlands.", x = 51, y = 12, zone = "Stormwind" },
 			[13] = { str = "Go to #C_[78,45]# and accept 'A Warrior’s Training' or your classes lvl 10 quest.", x = 78, y = 45, zone = "Stormwind" },
-			[14] = { str = "Go to #C_[66,62]# and turn in 'Stormpike's Delivery' accept 'Return to Lewis' then fly back to Westfall.", x = 66, y = 62, zone = "Stormwind" },
+			[14] = { str = "Go to #C_[66,62]# and turn in 'Stormpike's Delivery' accept 'Return to Lewis' then fly back to #A_Westfall#.", x = 66, y = 62, zone = "Stormwind" },
 			[15] = { str = "Go to the tower at #C_[56,47]# and turn in #Q_'Return to Lewis'# super easy xp.", x = 56, y = 47, zone = "Westfall" },
 			[16] = { str = "Fly back to #A_Stormwind# Go in the bar at #C_[74,37]# and turn in 'A Warrior’s Training' accept 'Bartleby the Drunk' then turn around and hand it in accept 'Beat Bartleby.", x = 74, y = 37, zone = "Stormwind" },
 			[17] = { str = "Kick bartleby’s ass then talk to him again and accept 'Bartleby's Mug' then turn it in behind you and learn your defense." },

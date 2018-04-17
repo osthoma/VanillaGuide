@@ -97,7 +97,7 @@ Table_003_Alliance_40to50 = {
 			[13] = { str = "Fly to Theramore, Boat to Menethil and Fly to #A_Ironforge#." },
 			[14] = { str = "Turn in 'Reagents For Reclaimers Inc pt.4' at #C_[67,17]#.", x = 67, y = 17, zone = "Ironforge" },
 			[15] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[16] = { str = "Fly to Booty Bay." },
+			[16] = { str = "Fly to #A_Booty Bay#." },
 		}
 	},
 
@@ -226,7 +226,7 @@ Table_003_Alliance_40to50 = {
 			[34] = { str = "Go in the small house across from the Inn, turn in #Q_'The High Wilderness'# then go upstairs and turn in #Q_'Freed From the Hive'# accept 'A Hero’s Welcome'." },
 			[35] = { str = "Go to the big building next door and turn in 'A Hero’s Welcome' accept 'Rise of the Silithid'." },
 			[36] = { str = "Fly out to Thalanaar (spot between 1k needles and here) turn in #Q_'Thalanaar Delivery'# at #C_[89,46]#.", x = 89, y = 46, zone = "Feralas" },
-			[37] = { str = "Fly to Rut'theran Village (Darnassus)." },
+			[37] = { str = "Fly to Rut'theran Village (#A_Darnassus#)." },
 			[38] = { str = "Follow the dock and go in the house, turn in #Q_'Handle With Care'# accept 'Favored of Elune?'." },
 			[39] = { str = "Go upstairs, turn in #Q_'In Search of Knowledge'# then go to the back of the house on the 2nd floor, open the green book and accept 'Feralas: A History' turn it back in to her, accept 'The Borrower'." },
 			[40] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
@@ -404,7 +404,7 @@ Table_003_Alliance_40to50 = {
 			[10] = { str = "Run up to #C_[48,25]# and kill the elite ogres all around here until Maury’s Key drops for Cracking Maury’s Foot If you don’t find this after an hour just abandon the quest. It has a low drop rate. I grind till im 2 bars from 49 if I don’t get the key. Usally it’s about an hours worth.", x = 48, y = 25, zone = "Stranglethorn Vale" },
 
 			[11] = { str = "Go up to Nessingways at #C_[35,10]# and turn in Big Game Hunter.", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[12] = { str = "Use your #I_[Hearthstone]# to return to Booty Bay Run up to the half boat just outside the Inn." },
+			[12] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# Run up to the half boat just outside the Inn." },
 			[13] = { str = "Turn in Stranglethorn Fever." },
 			[14] = { str = "Run to the shore just east of #A_Booty Bay# and open blue bottles until you get Carefully Folded Note which starts Message in A Bottle pt.1." },
 			[15] = { str = "Go to #C_[36,69]# and kill Gorlash for 'The Captain's Chest' He’s a 47 elite, it can be tough but I did it. Use everything you have.", x = 36, y = 69, zone = "Stranglethorn Vale" },
@@ -439,7 +439,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Go to Nethergarde Keep to the top of the tall tower at #C_[66,19]# and turn in #Q_'Thadius Grimshade'# SKIP the next part.", x = 66, y = 19, zone = "Blasted Lands" },
 			[10] = { str = "You should be close to 70% into 49 now. If you don’t want to do ZF to hit 50, grind here until you’re about 13k from 50. If you wanna do ZF go to the next step." },
 
-			[11] = { str = "Use your #I_[Hearthstone]# to return to Booty Bay." },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay#." },
 			[12] = { str = "Accept Zanzil's Mixture and A Fool's Stout." },
 			[13] = { str = "Get on the boat to Rachet." },
 			[14] = { str = "Accept 'Volcanic Activity at the first hut off the dock." },

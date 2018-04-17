@@ -32,13 +32,13 @@ Table_003_Horde_30to40 = {
 			[10] = { str = "Turn in #Q_'Raising Spirits'# part2. accept #Q_'Raising Spirits'# part3." },
 
 			[11] = { str = "Turn in #Q_'Raising Spirits'# part3. skip '#N_Guile of the Raptor'# for now." },
-			[12] = { str = "Use your #I_[Hearthstone]# to return to Orgrimmar." },
+			[12] = { str = "Use your #I_[Hearthstone]# to return to #A_Orgrimmar#." },
 			[13] = { str = "Fly to #A_Crossroads#." },
 			[14] = { str = "Run west in the #A_Crossroads#. accept #Q_'The Swarm Grows'#." },
 			[15] = { str = "Then run west from the #A_Crossroads# to the guy in the hut. accept #Q_'The Kolkar of Desolace'#." },
 			[16] = { str = "Run back to #A_Crossroads#, make #A_Crossroads# your home." },
-			[17] = { str = "Fly to Ratchet." },
-			[18] = { str = "Get on the boat at Ratchet to go to #A_Booty Bay#." },
+			[17] = { str = "Fly to #A_Ratchet#." },
+			[18] = { str = "Get on the boat at #A_Ratchet# to go to #A_Booty Bay#." },
 		}
 	},
 
@@ -89,11 +89,11 @@ Table_003_Horde_30to40 = {
 			[16] = { str = "You may or may not be level 32 right now, if not that's okay." },
 			[17] = { str = "Go south into Tanaris to get flight path in Gadgetzan at #C_[51,25]#.", x = 51, y = 25, zone = "Tanaris" },
 			[18] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads#." },
-			[19] = { str = "Fly to Orgrimmar." },
+			[19] = { str = "Fly to #A_Orgrimmar#." },
 			[20] = { str = "Turn in #Q_'The Swarm Grows'# at #C_[75,34]#. accept #Q_'The Swarm Grows'# part2.", x = 75, y = 34, zone = "Orgrimmar" },
 
 			[21] = { str = "Accept #Q_'Alliance Relations'# (get it from Craven Drok in the Cleft of Shadow, #C_[47,50]#).", x = 47, y = 50, zone = "Orgrimmar" },
-			[22] = { str = "Then go to #N_Keldran# in Orgrimmar #C_[23,53]# to accept #Q_'Alliance Relations'# part2.", x = 23, y = 53, zone = "Orgrimmar" },
+			[22] = { str = "Then go to #N_Keldran# in #A_Orgrimmar# #C_[23,53]# to accept #Q_'Alliance Relations'# part2.", x = 23, y = 53, zone = "Orgrimmar" },
 			[23] = { str = "Stop at first aid guy to buy silk bandage training. #VIDEONOTE:# Make sure you save all your extra Cloths in either your bank or mailbox, you will need them later for Cloth Donation quests." },
 			[24] = { str = "Then fly to Stonetalon Mountains." },
 			[25] = { str = "Run into Desolace." },
@@ -170,7 +170,7 @@ Table_003_Horde_30to40 = {
 			[59] = { str = "Turn those 3 quests in (#Q_'Suspicious Hoofprints'# #Q_'Lieutenant Paval Reethe'# and #Q_'The Black Shield'# ). accept and then turn in #Q_'The Black Shield'# Part2. Skip '#N_The Black Shield'# Part3 for now." },
 			[60] = { str = "Stop at the troll vendor, buy the 3 first aid books." },
 
-			[61] = { str = "Fly to Ratchet to turn in #Q_'Goblin Sponsorship'# & #Q_'Wharfmaster Dizzywig'#. accept #Q_'Goblin Sponsorship'# Part2 and #Q_'Parts for Kravel'#." },
+			[61] = { str = "Fly to #A_Ratchet# to turn in #Q_'Goblin Sponsorship'# & #Q_'Wharfmaster Dizzywig'#. accept #Q_'Goblin Sponsorship'# Part2 and #Q_'Parts for Kravel'#." },
 			[62] = { str = "Get on the boat to go to #A_Booty Bay#. (while waiting for the boat, build up first aid)." },
 		}
 	},
@@ -212,7 +212,7 @@ Table_003_Horde_30to40 = {
 			[29] = { str = "Fly to Grom'gol, turn in all quests: #Q_'The Defense of Grom'gol'# #Q_'Mok'thardin's Enchantment'# #Q_'Headhunting'# #Q_'Bloody Bone Necklaces'# and #Q_'The Vile Reef'#." },
 			[30] = { str = "Should be level 36 now, if not, grind to it. Accept #Q_'Trollbane'#. Talk to your #N_Class Trainer# to learn new spells and abilities." },
 
-			[31] = { str = "Get on the zeppelin to go to the Undercity." },
+			[31] = { str = "Get on the zeppelin to go to the #A_Undercity#." },
 			[32] = { str = "Once in the #A_Undercity#, turn in 60 Silk Cloth for #Q_'A Donation of Silk'# quest at #C_[71,28]#.", x = 71, y = 28, zone = "Undercity" },
 			[33] = { str = "Accept #Q_'To Steal From Thieves'# #C_[63,49]#.", x = 63, y = 49, zone = "Undercity" },
 			[34] = { str = "Then fly to Hammerfall." },
@@ -269,7 +269,7 @@ Table_003_Horde_30to40 = {
 			[9] = { str = "Once at #A_Undercity#, turn in #Q_'To Steal From Thieves'# and buy 3x'#N_Soothing Spices'." },
 			[10] = { str = "Get on zeppelin to go to orgrimmar." },
 
-			[11] = { str = "Once in Orgrimmar, turn in #Q_'Alliance Relations'# at #N_Keldran#. at #C_[21,53]#.", x = 21, y = 53, zone = "Orgrimmar" },
+			[11] = { str = "Once in #A_Orgrimmar#, turn in #Q_'Alliance Relations'# at #N_Keldran#. at #C_[21,53]#.", x = 21, y = 53, zone = "Orgrimmar" },
 			[12] = { str = "Then fly to #A_Crossroads#." },
 			[13] = { str = "Make #A_Crossroads# your home." },
 			[14] = { str = "Fly to Freewind Post (1k needles)." },
@@ -324,7 +324,7 @@ Table_003_Horde_30to40 = {
 
 			[21] = { str = "Turn in #Q_'The Severed Head'#. accept #Q_'The Troll Witchdoctor'#." },
 			[22] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads#." },
-			[23] = { str = "Fly to Ratchet, turn in #Q_'Stinky's Escape'# while your there." },
+			[23] = { str = "Fly to #A_Ratchet#, turn in #Q_'Stinky's Escape'# while your there." },
 			[24] = { str = "Get on the boat to go to #A_Booty Bay#." },
 
 		}

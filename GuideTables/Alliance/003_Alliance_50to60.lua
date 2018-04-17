@@ -64,12 +64,12 @@ Table_003_Alliance_50to60 = {
 			[54] = { str = "Open the chest on the ground accept 'Trinkets'. then open it again and complete it. Open it and keep the Black Dragonflight Molt for later In the Burning Steppes." },
 			[55] = { str = "Fly to the Blasted Lands and run up into the Swamp of Sorrows." },
 			[56] = { str = "Go to #C_[81,91]# and look for a named murloc Jarquia for 'Ledger From Tanaris'.", x = 81, y = 91, zone = "Swamp of Sorrows" },
-			[57] = { str = "Once you kill him Use your #I_[Hearthstone]# to return to #A_Ironforge# then either get a portal to Darnassus or fly to Menethil then boat to Auberdine and fly to Darnassus." },
+			[57] = { str = "Once you kill him Use your #I_[Hearthstone]# to return to #A_Ironforge# then either get a portal to #A_Darnassus# or fly to Menethil then boat to Auberdine and fly to #A_Darnassus#." },
 			[58] = { str = "Go to the top of the temple of the moon at #C_[38,80]# and turn in 'Prayer to Elune'(2).", x = 38, y = 80, zone = "darnassus" },
 			[59] = { str = "Go to the next section up here and turn in 'Rise of the Silithid' accept 'March of the Silithid'." },
 			[60] = { str = "Go to #C_[34,9]# at the top of the tower and turn in 'Assisting Arch Druid Staghelm' accept 'Un'Goro Soil'.", x = 34, y = 9, zone = "darnassus" },
 
-			[61] = { str = "Make Darnassus your home at #C_[67,15]#.", x = 67, y = 15, zone = "darnassus" },
+			[61] = { str = "Make #A_Darnassus# your home at #C_[67,15]#.", x = 67, y = 15, zone = "darnassus" },
 			[62] = { str = "Now either fly to Theramore or boat to Menethil then to Theramore." },
 			[63] = { str = "Get first aid up to 290 if you haven’t for heavy runecloth bandages." },
 			[64] = { str = "Go over to #C_[54,55]# to the wrecked ship and grab the overdue package for 'Ledger From Tanaris'.", x = 54, y = 55, zone = "Duskwallow Marsh" },
@@ -145,15 +145,15 @@ Table_003_Alliance_50to60 = {
 			[50] = { str = "Turn in #Q_'Expedition Salvation'#." },
 
 			[51] = { str = "In the back of the cave turn in 'The Northern Pylon' 'The Eastern Pylon' 'The Western Pylon' accept 'Making Sense of It' then turn it back in. She then tells you about buffs from the pylons." },
-			[52] = { str = "Run to #C_[29,22]# and follow the path into Slithus to #C_[50,34]# grab the flight path and fly to #A_Gadgetzan#.", x = 29, y = 22, zone = "Un’Goro Crater" },
+			[52] = { str = "Run to #C_[29,22]# and follow the path into #A_Silithus# to #C_[50,34]# grab the flight path and fly to #A_Gadgetzan#.", x = 29, y = 22, zone = "Un’Goro Crater" },
 			[53] = { str = "Go to the NW part of town, turn in Bungle in the Jungle SKIP the next part then hand in Super Sticky between the 2 entrances." },
-			[54] = { str = "Use your #I_[Hearthstone]# to return to  to Darnassus and talk to your #N_Class Trainer# to learn new spells and abilities." },
+			[54] = { str = "Use your #I_[Hearthstone]# to return to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[55] = { str = "You should have at least 50+ soils easy now." },
 			[56] = { str = "Go to #C_[31,8]# and turn in Un'Goro Soil.", x = 31, y = 8, zone = "Darnassus" },
 			[57] = { str = "Now go up to the top of the tower and accept Morrowgrain Research pt.1 then go downstairs and turn it in, accept Morrowgrain Research pt.2." },
 			[58] = { str = "Now you might want to get extra seed packets depending on how many soils you have. You can use the pouch every 10 minutes and you won’t always get a morrowgrain. All you need is 10 anyway." },
 			[59] = { str = "Run through to Rut’theran Village and go in the house to the right and accept Moontouched Wildkin it’s a winterspring feather quest." },
-			[60] = { str = "Fly to Astranaar, then ride all the way east on the road to #C_[91,46]# which goes into Azshara, it’s far.", x = 91, y = 46, zone = "Ashenvale" },
+			[60] = { str = "Fly to #A_Astranaar#, then ride all the way east on the road to #C_[91,46]# which goes into Azshara, it’s far.", x = 91, y = 46, zone = "Ashenvale" },
 		}
 	},
 
@@ -207,7 +207,7 @@ Table_003_Alliance_50to60 = {
 			[25] = { str = "Run south to #C_[31,45]# and turn in The New Springs accept Strange Sources also turn in It's A Secret to Everybody pt.3 accept The Videre Elixir and Threat of the Winterfall.", x = 31, y = 45, zone = "Winterspring" },
 			[26] = { str = "Run back throug the cave and go west at the fork into Moonglade." },
 			[27] = { str = "Go to #C_[48,67]# and grab the flight path.", x = 48, y = 67, zone = "Moodglade" },
-			[28] = { str = "You should be a hair from leveling now. You can kill something or just wait. Use your #I_[Hearthstone]# to return to Astranaar and fly to Feralas." },
+			[28] = { str = "You should be a hair from leveling now. You can kill something or just wait. Use your #I_[Hearthstone]# to return to #A_Astranaar# and fly to Feralas." },
 			[29] = { str = "Go in the Inn, accept Jonespyre's Request." },
 			[30] = { str = "Go up to the top of the tower, turn it in, accept The Mystery of Morrowgrain turn it back in unless you’re still making the stuff. If you don’t have enough no big deal during this guide I didn’t have enough." },
 
@@ -215,7 +215,7 @@ Table_003_Alliance_50to60 = {
 			[32] = { str = "At #C_[45,16]# you can be put up to the top of the colossal tower and parachute down. Just make sure you unmount, I forgot about that and smashed a crater in the ground.", x = 45, y = 16, zone = "Feralas" },
 			[33] = { str = "Go up to #C_[44,10]# and place the bait on the ground then go loot an everroot.", x = 44, y = 10, zone = "Felalas" },
 			[34] = { str = "Go back south to #C_[45,25]# to get your 3 videre elixir.", x = 45, y = 25, zone = "Felalas" },
-			[35] = { str = "Use your #I_[Hearthstone]# to return to Astranaar." },
+			[35] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar#." },
 			[36] = { str = "Run back up into Felwood to #C_[54,86]# and turn in Cleansing Felwood.", x = 54, y = 86, zone = "Felwood" },
 			[37] = { str = "Now she allows you to get stuff for some neat potions that are on different cooldowns than potions are." },
 			[38] = { str = "Go up to #C_[51,81]# and in the house turn in Further Corruption and Flute of Xavaric accept Felbound Ancients.", x = 51, y = 81, zone = "Felwood" },
@@ -259,7 +259,7 @@ Table_003_Alliance_50to60 = {
 			[15] = { str = "Run down and let the tar monsters kill you so you’re closer to the SE." },
 			[16] = { str = "Run down to #C_[71,75]# and turn in The Mighty U'cha.", x = 71, y = 75, zone = "Un’Goro" },
 			[17] = { str = "You should be over half way to 55 now." },
-			[18] = { str = "Use your #I_[Hearthstone]# to return to back to Astranaar and fly to Darnassus." },
+			[18] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Astranaar# and fly to #A_Darnassus#." },
 			[19] = { str = "Go in the Temple of the Moon at #C_[39,84]# and fill the vial for Felbound Ancients.", x = 39, y = 84, zone = "Darnassus" },
 			[20] = { str = "Run into Felwood." },
 		}
@@ -285,7 +285,7 @@ Table_003_Alliance_50to60 = {
 			[13] = { str = "Turn in Dousing the Flames of Protection SKIP the next part for now." },
 			[14] = { str = "In the house turn in Silver Heart accept Aquementas." },
 			[15] = { str = "If you have skinning I’m sure you have at least 5 tainted hides, go down to #C_[54,86]# and turn them in for Salve via Skinning.", x = 54, y = 86, zone = "Felwood" },
-			[16] = { str = "Use your #I_[Hearthstone]# to return to Astranaar and fly to Winterspring." },
+			[16] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar# and fly to Winterspring." },
 		}
 	},
 
@@ -319,9 +319,9 @@ Table_003_Alliance_50to60 = {
 			[22] = { str = "You should now be 25-30% into 55." },
 			[23] = { str = "Run through the tunnel to Felwood." },
 			[24] = { str = "Go to #C_[60,5]# and touch the cauldron at the camp which turns in Falling to Corruption accept Mystery Goo.", x = 60, y = 5, zone = "Winterspring" },
-			[25] = { str = "Use your #I_[Hearthstone]# to return to Everlook then fly to Darnassus." },
+			[25] = { str = "Use your #I_[Hearthstone]# to return to Everlook then fly to #A_Darnassus#." },
 			[26] = { str = "In Rut’theran Village turn in Moontouched Wildkin #C_[55,92]# accept Find Ranshalla.", x = 55, y = 92, zone = "Darnassus" },
-			[27] = { str = "Go into Darnassus up to #C_[34,8]# in the big tower and turn in The New Frontier pt.1 accept The New Frontier pt.2 go down 1 floor and turn that in, accept Rabine Saturna.", x = 34, y = 8, zone = "Darnassus" },
+			[27] = { str = "Go into #A_Darnassus# up to #C_[34,8]# in the big tower and turn in The New Frontier pt.1 accept The New Frontier pt.2 go down 1 floor and turn that in, accept Rabine Saturna.", x = 34, y = 8, zone = "Darnassus" },
 			[28] = { str = "Fly to Moonglade to #C_[51,45]# and turn in Rabine Saturna accept Wasteland.", x = 51, y = 45, zone = "Moonglade" },
 			[29] = { str = "Fly to Auberdine, boat to Menethil and fly to #A_Ironforge#, make it your home. Make sure you have your black dragonflight molt." },
 			[30] = { str = "Go to #C_[75,23]# and turn in A Little Slime Goes A Long Way pt.2.", x = 75, y = 23, zone = "Ironforge" },
@@ -383,7 +383,7 @@ Table_003_Alliance_50to60 = {
 			[6] = { str = "Fly to Un’goro." },
 			[7] = { str = "Find Quixxil and scare him for Are We There, Yeti? pt.3." },
 			[8] = { str = "Go to the back of the cave and turn in Aquementas accept Linken's Adventure and turn it in just outside the cave by the big tree SKIP the next part." },
-			[9] = { str = "Fly to Silithus." },
+			[9] = { str = "Fly to #A_Silithus#." },
 		}
 	},
 
@@ -587,7 +587,7 @@ Table_003_Alliance_50to60 = {
 			[14] = { str = "Once you’re 8k-8.5k from leveling, fly to Hinterlands and run all the way NE to the waterfall at #C_[80,46]# and jump off. Under the water loot the chest and finish 'Cortello’s Riddle pt.3' I bet you thought I forgot about it.", x = 80, y = 46, zone = "The Hinterlands" },
 			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge#." },
 			[16] = { str = "Go to the throne room at #C_[43,52]# and accept #Q_'An Earnest Proposition'# (pick your class from the list) You have to have your classes tier 0 bracers in order to do this quest. You can buy it on AH.", x = 43, y = 52, zone = "Ironforge" },
-			[17] = { str = "Fly to Menethil and boat to Auberdine, fly to Darnassus." },
+			[17] = { str = "Fly to Menethil and boat to Auberdine, fly to #A_Darnassus#." },
 			[18] = { str = "Go to #C_[35,8]# on the 2nd floor and turn in #Q_'Glyphed Oaken Branch'#.", x = 35, y = 8, zone = "Darnassus" },
 			[19] = { str = "You should be 59, fly to Winterspring." },
 		}
@@ -620,7 +620,7 @@ Table_003_Alliance_50to60 = {
 			[20] = { str = "Run into Felwood and go to #C_[48,24]# and kill toxic horrors for #Q_'Toxic Horrors'# these also drop essence of waters.", x = 48, y = 24, zone = "Felwood" },
 
 			[21] = { str = "Fly to Rut’theran Village and go to the house at #C_[55,92]# and turn in #Q_'Guardians of the Altar'# accept #Q_'Wildkin of Elune'#.", x = 55, y = 92, zone = "Teldrassil" },
-			[22] = { str = "Go in Darnassus and up to the top of the tower at #C_[34,8]# and turn in #Q_'Wildkin of Elune'#.", x = 34, y = 8, zone = "Darnassus" },
+			[22] = { str = "Go in #A_Darnassus# and up to the top of the tower at #C_[34,8]# and turn in #Q_'Wildkin of Elune'#.", x = 34, y = 8, zone = "Darnassus" },
 			[23] = { str = "Fly back to Felwood." },
 			[24] = { str = "Run back up into Winterspring and over to #C_[31,45]# turn in #Q_'Toxic Horrors'# accept #Q_'Winterfall Runners'#.", x = 31, y = 45, zone = "Winterspring" },
 			[25] = { str = "Now to find the runners. They travel anywhere from the Timbermaw Cave east to #C_[53,34]# then up around the mountains north of everlook over to Winterfall Village. If you didn’t see them from the cave to here, head east. You don’t have to kill all 3.", x = 53, y = 34, zone = "Winterspring" },
