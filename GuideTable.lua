@@ -30,23 +30,23 @@ function objGuideTable:new(oSettings)
 					if v2 then
 						local opentext = {
 							[1] = {
-								["find"] = "#QUEST",
+								["find"] = "#Q_",
 								["replace"] = "|c00ffff00"
 							},
 							[2] = {
-								["find"] = "#ITEM",
+								["find"] = "#I_",
 								["replace"] = "|c0000ffff"
 							},
 							[3] = {
-								["find"] = "#TURNIN",
+								["find"] = "#A_",
 								["replace"] = "|c00ff00ff"
 							},
 							[4] = {
-								["find"] = "#NPC",
+								["find"] = "#N_",
 								["replace"] = "|c0000ff00"
 							},
 							[5] = {
-								["find"] = "#COORDS",
+								["find"] = "#C_",
 								["replace"] = "|c000079d2"
 							},
 							[6] = {
