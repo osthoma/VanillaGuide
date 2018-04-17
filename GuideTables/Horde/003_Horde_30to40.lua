@@ -1,14 +1,14 @@
 --[[--------------------------------------------------
 003_Horde_30to40.lua
 Authors: mrmr
-Version: #COORDS[1,04]#.2
+Version: 1.04.2
 ------------------------------------------------------
 Description: Guide Serie - 003 From Lvl 30 to Lvl 40
-    #COORDS[1,04]#.1
+    1.04.1
         -- First Release
             Horde's Guide
             from level 30 to lever 40
-    #COORDS[1,04]#.2
+    1.04.2
     	-- no changes in here for this revision
 ------------------------------------------------------
 Connection:
@@ -33,8 +33,6 @@ Table_003_Horde_30to40 = {
 			[8] = { str = "Turn in #TURNIN\"Elixir of Pain\"# " },
 			[9] = { str = "Accept #ACCEPT\"The Hammer May Fall\"# " },
 			[10] = { str = "run into Arathi Highlands..." },
-			--[11] = { str = "." },
-			--[12] = { str = "." },
 		}
 	},
 
@@ -64,8 +62,6 @@ Table_003_Horde_30to40 = {
 			[16] = { str = "run back to XRs, make XRs your home." },
 			[17] = { str = "fly to Ratchet" },
 			[18] = { str = "get on the boat at Ratchet to go to BB..." },
-			--[19] = { str = "." },
-			--[20] = { str = "." },
 		}
 	},
 
@@ -93,8 +89,6 @@ Table_003_Horde_30to40 = {
 			[14] = { str = "Hearth to XRs." },
 			[15] = { str = "Fly to 1K needles." },
 			[16] = { str = "Go east into Shimmering Flats at #COORDS[77,77]#...", x = 77, y = 77, zone = "Thousand Needles" },
-			--[17] = { str = "." },
-			--[18] = { str = "." },
 		}
 	},
 
@@ -131,8 +125,6 @@ Table_003_Horde_30to40 = {
 			[23] = { str = "Stop at first aid guy to buy silk bandage training.  #VIDEONOTE:#  Make sure you save all your extra Cloths in either your bank or mailbox, you will need them later for Cloth Donation quests." },
 			[24] = { str = "Then fly to Stonetalon Mountains." },
 			[25] = { str = "Run into Desolace..." },
-			--[26] = { str = "." },
-			--[27] = { str = "." },
 		}
 	},
 
@@ -206,8 +198,6 @@ Table_003_Horde_30to40 = {
 			[60] = { str = "Stop at the troll vendor, buy the 3 first aid books." },
 			[61] = { str = "Fly to Ratchet to turn in #TURNIN\"Goblin Sponsorship\"# & #TURNIN\"Wharfmaster Dizzywig\"# ... accept #ACCEPT\"Goblin Sponsorship\"# Part2 and #ACCEPT\"Parts for Kravel\"# " },
 			[62] = { str = "Get on the boat to go to BB (Booty Bay) ... (while waiting for the boat, build up first aid)" },
-			--[63] = { str = "." },
-			--[64] = { str = "." },
 		}
 	},
 
@@ -253,8 +243,6 @@ Table_003_Horde_30to40 = {
 			[32] = { str = "Once in the UC, turn in 60 Silk Cloth for #TURNIN\"A Donation of Silk\"# quest at #COORDS[71,28]#.", x = 71, y = 28, zone = "Undercity" },
 			[33] = { str = "Accept #ACCEPT\"To Steal From Thieves\"# #COORDS[63,49]#", x = 63, y = 49, zone = "Undercity" },
 			[34] = { str = "Then fly to Hammerfall..." },
-			--[35] = { str = "." },
-			--[36] = { str = "." },
 		}
 	},
 
@@ -292,8 +280,6 @@ Table_003_Horde_30to40 = {
 			[24] = { str = "Complete the #DOQUEST\"Guile of the Raptor\"# quest chain by running back and forth..." },
 			[25] = { str = "NOTE: i SKIP all stromguard quests (but I still recommend doing them if you can find groups)" },
 			[26] = { str = "Fly to Tarren Mill..." },
-			--[27] = { str = "." },
-			--[28] = { str = "." },
 		}
 	},
 
@@ -319,8 +305,6 @@ Table_003_Horde_30to40 = {
 			[12] = { str = "Then fly to XRs." },
 			[13] = { str = "Make XRs your home." },
 			[14] = { str = "Fly to Freewind Post (1k needles)..." },
-			--[15] = { str = "." },
-			--[16] = { str = "." },
 		}
 	},
 
@@ -344,8 +328,6 @@ Table_003_Horde_30to40 = {
 			[10] = { str = "Turn in #TURNIN\"Parts of the Swarm\"# ... accept #ACCEPT\"Parts of the Swarm\"# part2" },
 			[11] = { str = "Get new spells/abilities." },
 			[12] = { str = "Fly to Dustwallow Marsh..." },
-			--[13] = { str = "." },
-			--[14] = { str = "." },
 		}
 	},
 
@@ -378,12 +360,9 @@ Table_003_Horde_30to40 = {
 			[19] = { str = "I then die on purpose, so i end up right at Brackenwall Village." },
 			[20] = { str = "turn in #TURNIN\"The Theramore Docks\"#" },
 			[21] = { str = "turn in #TURNIN\"The Severed Head\"# ... accept #ACCEPT\"The Troll Witchdoctor\"#" },
-			--[BB] = { str = "CC) Kill Deadmire at XX.YY" , x = XX, y = YY, zone = "Dustwallow Marsh" },
 			[22] = { str = "Hearth to XRs" },
 			[23] = { str = "fly to Ratchet, turn in #TURNIN\"Stinky's Escape\"# while your there." },
 			[24] = { str = "get on the boat to go to BB..." },
-			--[25] = { str = "." },
-			--[26] = { str = "." },
 		}
 	},
 
@@ -427,8 +406,6 @@ Table_003_Horde_30to40 = {
 			[30] = { str = "Then get on the zeppelin to go to the UC." },
 			[31] = { str = "Fly to Hammerfall and stop at the inn to get the #NPCFrost Oil#, the #NPCGyrochronatom#, the #NPCHealing Potion#, the #NPCLesser Invisibility Potion# and the #NPCPatterned Bronze Bracers# items for some free XP in Badlands." },
 			[32] = { str = "Run all the way to the Badlands..." },
-			--[33] = { str = "." },
-			--[34] = { str = "." },
 		}
 	},
 }
