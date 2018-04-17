@@ -1,30 +1,4 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-Frame_MainFrame.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-    	Main Frame Object
-    1.00
-		-- Initial Ace2 release
-	1.99a
-		-- Ally addition starter version
-    1.03
-		-- No Changes. Just adjusting "version".
-    		1.99x for a beta release was a weird choise.
-	1.04.1
-		-- Main Frame object
-	1.04.2
-		-- Reworked "MetaMapBWP" and renamed to "MetaMap"
-			cause now there's support for MetaMapNotes too
-			Now, the methods are called:
-		obj.RefreshMetaMap()
-		obj.SetMetaMapDestination(self, nX, nY, sZone, title, step, label, mode)
-			Diffentes modes, produces different behaviour, 
-			see the source for insight
-------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
 
@@ -81,7 +55,7 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 
 			local bottomStep = fStep:GetBottom()
 			local topScroll = fScroll:GetTop()
-			
+
 			if arg1 == "LeftButton" and not this.isMoving and not this.isResizing and not bLocked then
 				if (x < left + 5 and y < bottom + 5) then
 					this:StartSizing("BOTTOMLEFT")
@@ -107,7 +81,7 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 				elseif (y > top - 5) then
 					this:StartSizing("TOP")
 					this.isResizing = true
-				elseif StepFrame and ScrollFrame and 
+				elseif StepFrame and ScrollFrame and
 				  (x > left + 5 and y > topScroll and y < bottomStep and x < right +5) then
 					local nH = this:GetHeight()
 					local nGapMin = nH * 0.85 - (nH /2)
@@ -564,7 +538,7 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 	end
 
 	-------------------------------
-	--- External Methods 
+	--- External Methods
 	-------------------------------
 
 	obj.RefreshStepFrameLabel = function(self)
@@ -589,10 +563,10 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 		local UI = oSettings:GetSettingsUI()
 		local tColF = UI.StepFrameColor
 		local tColT = UI.ScrollFrameTextColor
-		
+
 		local sfc = obj.tWidgets.frame_ScrollFrameChild
 		sfc:Hide()
-		
+
 		t = {}
 		for k,_ in ipairs(tEntries) do
 			local sh
@@ -694,13 +668,13 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 		scrollFrameWidth = scrollFrameWidth * (1/s)
 
 		obj:ScrollFrameChildEntriesHide()
-		
+
 		local t = {}
 		t = oDisplay:GetScrollFrameDisplay()
 		fChild.Entries = obj:ScrollFrameChildEntriesCreate(t)
 
 		-- inside t we've the "lenght" of the rendered string
-		-- We need this to get how many lines there are in every 
+		-- We need this to get how many lines there are in every
 		-- ScrollFrameChildEntries entity
 		local totalHeight = 0
 		totalHeight, t = ScrollFrameChildHeight(tTexture, scrollFrameWidth, t)
@@ -771,20 +745,20 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 		local mode
 		if tMetaMap.Presence then
 			local mode
-			if (tMetaMap.NotesPresence and tMetaMap.NotesEnable) and 
+			if (tMetaMap.NotesPresence and tMetaMap.NotesEnable) and
 					not (tMetaMap.BWPPresence and tMetaMap.BWPEnable) then
 				mode = 1
-			elseif not (tMetaMap.NotesPresence and tMetaMap.NotesEnable) and 
+			elseif not (tMetaMap.NotesPresence and tMetaMap.NotesEnable) and
 					(tMetaMap.BWPPresence and tMetaMap.BWPEnable) then
-				mode = 2	
-			elseif (tMetaMap.NotesPresence and tMetaMap.NotesEnable) and 
+				mode = 2
+			elseif (tMetaMap.NotesPresence and tMetaMap.NotesEnable) and
 					(tMetaMap.BWPPresence and tMetaMap.BWPEnable) then
 				mode = 3
-			else 
+			else
 				mode = nil
 			end
-		
-			local title = oDisplay:GetGuideTitle() 
+
+			local title = oDisplay:GetGuideTitle()
 			local step = oDisplay:GetCurrentStep()
 			local label = oDisplay:GetStepLabel()
 			local t = oDisplay:GetCurrentStepInfo()
@@ -804,10 +778,10 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 	local function AddToDDM(nLevel, sType, sLabel, nID)
 		local info = {}
 		info.isTitle = false
-		
+
 		info.keepShownOnClick = false
 		info.disabled = nil
-		
+
 		info.notCheckable = true --1?
 
 		info.text = sLabel
@@ -828,7 +802,7 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 		UIDropDownMenu_AddButton(info, nLevel)
 	end
 
-	local function DropDown_Init(level)		
+	local function DropDown_Init(level)
 		local tDDM = oDisplay:RetriveTableDDM()
 		local tCharInfo = oSettings:GetSettingsCharInfo()
 		local info = {}
@@ -914,11 +888,11 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 			end
 			if mode == 1 or mode == 3 then
 				if sZone == mapName then
-					-- function MetaMapNotes_AddNewNote(continent, zone, 
-					--		xPos, yPos, 
-					--		name, inf1, inf2, 
-					--		creator, 
-					--		icon, 
+					-- function MetaMapNotes_AddNewNote(continent, zone,
+					--		xPos, yPos,
+					--		name, inf1, inf2,
+					--		creator,
+					--		icon,
 					--		ncol, in1c, in2c, mininote)
 					--
 					-- Colors
@@ -937,20 +911,20 @@ function objMainFrame:new(fParent, tTexture, oSettings, oDisplay)
 					--    0 - MapNote only
 					--    1 - MapNote & mininote
 					--    2 - mininote only
-					MetaMapNotes_AddNewNote(continent, zone, normX, normY, 
+					MetaMapNotes_AddNewNote(continent, zone, normX, normY,
 						"VG: Step[" .. step .. "] " .. title,
 						mapName, label, "VanillaGuide", 6, 6, 9, 8, 1)
 				end
 			end
 		else
-			if BWP_ClearDest then 
-				BWP_ClearDest() 
+			if BWP_ClearDest then
+				BWP_ClearDest()
 				local frame = getglobal("BWP_DisplayFrame")
 				frame:Hide()
 			end
 		end
 	end
-	
+
 	-------------------------------
     --- Initialization
     -------------------------------

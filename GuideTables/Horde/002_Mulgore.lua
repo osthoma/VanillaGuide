@@ -2,7 +2,7 @@ Table_002_Mulgore = {
 -----------1-6 Mulgore
 	[0106] = {
 		title = "1-6 Mulgore",
-	    items = {
+		items = {
 			[1] = { str = "1-6 Mulgore" },
 			[2] = { str = "In reference to the Shamans, please look down the guide at the class quest part and follow the link which will give you all the information on your class quests as you have them from level 4." },
 			[3] = { str = "Talk to Grull Hawkwing #COORDS[44,77]# and accept #ACCEPT\"The Hunt Begins\"# then go outside the area kill Plainstriders and loot 7 feathers and 7 meat. Run back turn it in and accept #ACCEPT\"The Hunt Continues\"# and accept #ACCEPT\"Etched Note\"#.", x = 44, y = 77, zone = "Mulgore" },
@@ -37,7 +37,7 @@ Table_002_Mulgore = {
 			[9] = { str = "Grind to level 8 if you aren't quite there yet." },
 			[10] = { str = "Go back to Bloodhoof Village and turn in #TURNIN\"Poison Water\"#, #TURNIN\"Dangers of the Windfury\"#, #TURNIN\"Swoop Hunting\"# then turn in #TURNIN\"Rite of Vision\"# and accept the next part. Accept #ACCEPT\"Winterhoof Cleansing\"#." },
 
-      [11] = { str = "Go to #COORDS[53,67]# and cleanse it using Thunderhorn's item. Then run back to Mull Thunderhorn #COORDS[49,60]# and turn in #TURNIN\"Winterhoof Cleansing\"# and accept #ACCEPT\"Thunderhorn Totem\"#.", x = 53, y = 67, zone = "Mulgore" },
+			[11] = { str = "Go to #COORDS[53,67]# and cleanse it using Thunderhorn's item. Then run back to Mull Thunderhorn #COORDS[49,60]# and turn in #TURNIN\"Winterhoof Cleansing\"# and accept #ACCEPT\"Thunderhorn Totem\"#.", x = 53, y = 67, zone = "Mulgore" },
 			[12] = { str = "Go to #COORDS[47,57]# and drink #TURNIN\"Water of the Seers\"# in your backpack, then follow the wolf spirit.", x = 47, y = 57, zone = "Mulgore" },
 			[13] = { str = "Turn in #TURNIN\"Rite of Vision\"# #COORDS[33,36]# when the spirit stops and accept #ACCEPT\"Rite of Wisdom\"#.", x = 33, y = 36, zone = "Mulgore" },
 			[14] = { str = "Continue to #COORDS[59,25]# to Lorekeeper Raintotem and accept #ACCEPT\"A Sacred Burial\"#. ", x = 59, y = 25, zone = "Mulgore" },
@@ -61,7 +61,7 @@ Table_002_Mulgore = {
 			[7] = { str = "Go to #COORDS[61,47]# and you should see the Venture Co. Mine. Kill 14 Workers and 6 Supervisors. Take a right at the first intersection and you should see Fizsprocket, then kill him.", x = 61, y = 47, zone = "Mulgore" },
 			[8] = { str = "Go to #COORDS[59,62]# and turn in #TURNIN\"The Venture Co.\"# and #TURNIN\"Supervisor Fizsprocket\"#.", x = 59, y = 62, zone = "Mulgore" },
 			[9] = { str = "Go to #COORDS[49,60]# and turn in #TURNIN\"Thunderhorn Cleansing\"# then accept #ACCEPT\"Wildmane Totem\"#. Go to #COORDS[69,51]# and turn in #TURNIN\"Rites of the Earthmother\"#.", x = 49, y = 60, zone = "Mulgore" },
-      [10] = { str = "Go to #COORDS[46,60]# and turn in #TURNIN\"The Hunters Way\"#.", x = 46, y = 60, zone = "Mulgore" },
+			[10] = { str = "Go to #COORDS[46,60]# and turn in #TURNIN\"The Hunters Way\"#.", x = 46, y = 60, zone = "Mulgore" },
 
 			[11] = { str = "Go to #COORDS[38,60]# in Thunder Bluff and you should see Eyahn Eagletalon. Accept #ACCEPT\"Preparation for Ceremony\"#.", x = 38, y = 60, zone = "Thunder Bluff" },
 			[12] = { str = "Go behind Thunder Buff and kill Bluffwatchers until you have 6 Azure and 6 Bronze Feathers then run back to #COORDS[38,60]# and turn it in.", x = 38, y = 60, zone = "Thunder Bluff" },
@@ -70,6 +70,6 @@ Table_002_Mulgore = {
 			[15] = { str = "You should be level 12 now, if not grind to it then run into the Barrens following the path until you come to Camp Taurajo. Talk to Kirge Sternhorn #COORDS[44,58]# and accept #ACCEPT\"Journey to the Crossroads\"# and get the Flight Path.", x = 44, y = 58, zone = "Mulgore" },
 			[16] = { str = "Run north up the road until you get to the Crossroads and turn in #TURNIN\"Journey to the Crossroads\"# get the Flight Path." },
 			[17] = { str = "Now you can continue with the 12-15 Barrens guide which is in the 1-60 guide." },
-    }
+		}
 	},
 }

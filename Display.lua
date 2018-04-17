@@ -1,28 +1,4 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-Display.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-		The Display object keeps track of what 
-		diplayed in the Main Frame
-    1.00
-		-- Initial Ace2 release
-	1.99a
-		-- Ally addition starter version
-    1.03
-		-- No Changes. Just adjusting "version".
-    		1.99x for a beta release was a weird choise.
-	1.04.1
-		-- This will be the object containing what the 
-			MainFrame will display.
-			It'll communicate with the GuideTable object
-			getting guides and steps from there...hopefully...
-	1.04.2
-		-- no changes in here for this revision
-------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
 
@@ -175,7 +151,7 @@ function objDisplay:new(oSettings, oGuideTables)
 	obj.GetScrollFrameDisplay = function(self)
 		return obj.ScrollFrameDisplay
 	end
-	
+
 	obj:RetriveData()
 
 	return obj

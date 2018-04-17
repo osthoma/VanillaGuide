@@ -7,7 +7,7 @@ Table_002_TirisfalGlades = {
 			[2] = { str = "Run up the steps and exit the Crypt." },
 			[3] = { str = "In front of you from Undertaker Mordo accept the quest #ACCEPT\"Rude Awakening\"# then run down the hill and turn it in at Shadow Priest Sarvis." },
 			[4] = { str = "Accept #ACCEPT\"The Mindless Ones\"# and if you are a Warlock accept #ACCEPT\"Piercing the Veil\"#." },
-			[5] = { str = "Exit the building and to your left down the hill complete  #DOQUEST\"The Mindless Ones\"# and #DOQUEST\"Piercing the Veil\"# then run back and turn them in." },
+			[5] = { str = "Exit the building and to your left down the hill complete #DOQUEST\"The Mindless Ones\"# and #DOQUEST\"Piercing the Veil\"# then run back and turn them in." },
 			[6] = { str = "Accept #ACCEPT\"Rattling the Rattlecages\"#, #ACCEPT\"Tainted Scroll\", and #ACCEPT\"The Damned\"#" },
 			[7] = { str = "Turn in #TURNIN\"Tainted Scroll\"# at your class trainer then get new spells/skills (If you have no money merchant your items across the road)." },
 			[8] = { str = "Complete #DOQUEST\"The Damned\"# along with #DOQUEST\"Rattling the Rattlecages\"# these are found out around the village, once done turn them in and accept #ACCEPT\"Marla's Last Wish\"#." },
@@ -15,12 +15,12 @@ Table_002_TirisfalGlades = {
 			[10] = { str = "Complete #DOQUEST\"Scavenging Deathknell\"# which are found around and inside buildings in the village then run down to (36, 62) and kill Samuel Fipps for #DOQUEST\"Marla's Last Wish\"#.", x = 36, y = 62, zone = "Tirisfal Glades" },
 
 			[11] = { str = "Run to the cave at #COORDS[27,59]# and do #DOQUEST\"Night Web's Hollow\"# then run to the cemetery in the village to #COORDS[31,64]# and click the grave to bury the skull.", x = 27, y = 59, zone = "Tirisfal Glades" },
-			[12] = { str = "Run back into the town and turn in all the quests which are #TURNIN\"Night Web's Hollow\"#, #TURNIN\"Scavenging Deathknell\"# and  #TURNIN\"Marla's Last Wish\"#. If you are a Priest accept #HUNTER\"In Favor of Darkness\"# which requires level 5 and will be done once you reach Brill." },
+			[12] = { str = "Run back into the town and turn in all the quests which are #TURNIN\"Night Web's Hollow\"#, #TURNIN\"Scavenging Deathknell\"# and #TURNIN\"Marla's Last Wish\"#. If you are a Priest accept #HUNTER\"In Favor of Darkness\"# which requires level 5 and will be done once you reach Brill." },
 			[13] = { str = "Accept #DOQUEST\"The Scarlet Crusade\"# outside the church and go do it at #COORDS[35,68]# then run back and turn it in.", x = 35, y = 68, zone = "Tirisfal Glades" },
 			[14] = { str = "Accept #ACCEPT\"The Red Messenger\"# and go and do it at #COORDS[36,68]# killing Meven Korgal then run back and turn it in.", x = 36, y = 68, zone = "Tirisfal Glades" },
 			[15] = { str = "Accept #ACCEPT\"Vital Intelligence\"# then get new spells/skills if you are level 6, if not grind until level 6 and do this." },
 			[16] = { str = "Run to the north east of Death Knell and accept #ACCEPT\"A Rogue's Deal\"# then leave the starting area." },
-    	}
+		}
 	},
 
 -----------6-10 Tirisfal Glades
@@ -52,7 +52,7 @@ Table_002_TirisfalGlades = {
 			[21] = { str = "Travel to the tower at #COORDS[53,66]# and kill 3 Scarlet Missionaries, 3 Scarlet Zealots and Captain Parrine #COORDS[51,68]# make sure you loot all 10 Scarlet Insignia Rings.", x = 53, y = 66, zone = "Tirisfal Glades" },
 			[22] = { str = "Run back to Brill and turn in #TURNIN\"At War with the Scarlet Crusade\"# and accept the next part. Turn in #TURNIN\"Proof of Demise\"#." },
 			[23] = { str = "You should now be level 10, its time to do your class quest and below will tell you each class quest and how to do them but you can wait until you hit 12 before doing them to continue with my full 1-60 guide." },
-    	}
+		}
 	},
 
 -----------10 -12 Tirisfal Glades
@@ -76,7 +76,7 @@ Table_002_TirisfalGlades = {
 			[14] = { str = "Go to Brightwater Lake and swim to Gunther's Retreat, and take the book here #COORDS[84,17]# then go back to #COORDS[65,60]# and turn in #TURNIN\"Rear Guard Patrol\"#.", x = 65, y = 60, zone = "Tirisfal Glades" },
 			[15] = { str = "Enter the Undercity. Go to #COORDS[84,17]# and turn in #TURNIN\"The Lich's Identity\"# accept #ACCEPT\"Return the Book\"#.", x = 84, y = 17, zone = "Undercity" },
 			[16] = { str = "Leave the Undercity and run back to Brill." },
-			[17] = { str = "Turn in #TURNIN\"At War with the Scarlet Crusade\"# and accept the next part. Turn in #TURNIN\"A New Plague\"# accept the next part and turn in  #TURNIN\"Return to the Magistrate\"#. Go to the Inn in the basement and turn in #TURNIN\"A New Plague\"#." },
+			[17] = { str = "Turn in #TURNIN\"At War with the Scarlet Crusade\"# and accept the next part. Turn in #TURNIN\"A New Plague\"# accept the next part and turn in #TURNIN\"Return to the Magistrate\"#. Go to the Inn in the basement and turn in #TURNIN\"A New Plague\"#." },
 			[18] = { str = "Go to the tower up the pathway at #COORDS[79,26]# and kill Captain Melrache for #DOQUEST\"At War with the Scarlet Crusade\"#. Note: This is a level 12 quest and if you find it hard to solo I advise you find someone to help.", x = 79, y = 26, zone = "Tirisfal Glades" },
 			[19] = { str = "Go back to Gunther's Retreat at #COORDS[68,41]# and turn in #TURNIN\"Return the Book\"# and accept #ACCEPT\"Proving Allegiance\"# then take a candle next to you.", x = 68, y = 41, zone = "Tirisfal Glades" },
 			[20] = { str = "At the little island just behind at #COORDS[66,44]# use the candle to summon Lillith Nefara, kill her then go back and turn the quest in then accept #ACCEPT\"The Prodigal Lich Returns\"#.", x = 66, y = 44, zone = "Tirisfal Glades" },
@@ -86,9 +86,9 @@ Table_002_TirisfalGlades = {
 			[23] = { str = "Get on the zeppelin to go to Orgrimmar." },
 			[24] = { str = "Get the Orgrimmar flight path." },
 			[25] = { str = "Go south to Razor Hill and accept #ACCEPT\"Conscript of the Horde\"#" },
-			[26] = { str = "Head west to the Barrens and turn in #TURNIN\"Crossroads Conscription\"#  Accept it again." },
+			[26] = { str = "Head west to the Barrens and turn in #TURNIN\"Crossroads Conscription\"# Accept it again." },
 			[27] = { str = "Run to the Crossroads and turn in #TURNIN\"#Crossroads Conscription\"#." },
 			[28] = { str = "Now you can continue with the Barrens 12-15 section which is in the FULL 1-60 guide." },
-    	}
+		}
 	},
 }

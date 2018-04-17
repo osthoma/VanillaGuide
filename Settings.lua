@@ -1,28 +1,4 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-Settings.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-    	This object handles the various addon settings
-    1.00
-		-- Initial Ace2 release
-	1.99a
-		-- Ally addition starter version
-    1.03
-		-- No Changes. Just adjusting "version".
-    		1.99x for a beta release was a weird choise.
-	1.04.1
-		-- Settings and/or "Saved Variables" are inclosed in
-			VGuide.Settings
-	1.04.2
-		-- scraped MetaMapBWP settings for MetaMapBWP
-			Now support for MetaMapNotes, too
-		-- Added a function for a proper MetaMap checking
-			MetaMapBWPSupportCheck()
-------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
 
@@ -118,10 +94,10 @@ function objSettings:new()
 	obj = AceLibrary("AceAddon-2.0"):new("AceDB-2.0")
 
 	obj:RegisterDB("VanillaGuideDB", "VanillaGuideDBPC")
-	
+
 	obj:RegisterDefaults("profile", profile_defaults)
 	obj:RegisterDefaults("char", char_defaults)
-	
+
 	obj.PrintSettings = function(self)
 		Dv("---------------------------")
 		Dv(" -- CharInfo")
@@ -151,7 +127,7 @@ function objSettings:new()
 			local MetaMapPresence, MetaMapNotesPresence, MetaMapBWPPresence
 			Dv("    MetaMap Support Check:")
 			-- control THESE TOO, although they're part of the WoW API
-			-- GetZoneText, GetRealZoneText, GetSubZoneText, GetMinimapZoneText. 
+			-- GetZoneText, GetRealZoneText, GetSubZoneText, GetMinimapZoneText.
 
 			-- MetaMap Support Check
 			if IsAddOnLoaded("MetaMap") then
@@ -162,7 +138,7 @@ function objSettings:new()
 					if MetaMapNotes_AddNewNote then
 						Di("      - MetaMapNotes Support Present")
 						MetaMapNotesPresence = true
-					else 
+					else
 						Di("      - MetaMapNotes Support not Present - no markers on your WorldMap")
 						MetaMapNotesPresence = false
 					end
@@ -220,8 +196,8 @@ function objSettings:new()
 			end
 		end
 
-		obj.db.char.MetaMap.Presence, 
-		obj.db.char.MetaMap.NotesPresence,	
+		obj.db.char.MetaMap.Presence,
+		obj.db.char.MetaMap.NotesPresence,
 		obj.db.char.MetaMap.BWPPresence = MetaMapBWPSupportCheck()
 	end
 

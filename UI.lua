@@ -1,28 +1,6 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-UI.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-    	Master UI object.
-    	From here Main/Settings/About frames spawns
-    1.00
-		-- Initial Ace2 release
-	1.99a
-		-- Ally addition starter version
-    1.03
-		-- No Changes. Just adjusting "version".
-    		1.99x for a beta release was a weird choise.
-	1.04.1
-		-- UI object rivisited!
-	1.04.2
-		-- no changes in here for this revision
-------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
-
 
 --local VGuide = VGuide
 Dv(" VGuide UI.lua Start")
@@ -53,7 +31,7 @@ function objUI:new(oSettings, oDisplay)
 		    --edgeSize = 4,
 		    insets = { left = -1, right = -2, top = -3, bottom = -3 },
 		},
-		
+
 		B_CLOSE = {
 			NORMAL    = VG_TEXTURE_DIR .. "Buttons\\Button-Close-Normal",
 			PUSHED    = VG_TEXTURE_DIR .. "Buttons\\Button-Close-Pushed",
@@ -143,7 +121,7 @@ function objUI:new(oSettings, oDisplay)
     obj.fMain = objMainFrame:new(nil, VG_TEXTURE, oSettings, oDisplay)
     obj.fSettings = objSettingsFrame:new(obj.fMain.tWidgets.frame_MainFrame, VG_TEXTURE, oSettings)
     obj.fAbout = objAboutFrame:new(obj.fMain.tWidgets.frame_MainFrame, VG_TEXTURE, oSettings)
-    
+
     return obj
 end
 

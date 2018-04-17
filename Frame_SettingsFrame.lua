@@ -1,25 +1,4 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-Frame_SettingsFrame.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-    	Settings Frame Object
-    1.00
-		-- Initial Ace2 release
-	1.99a
-		-- Ally addition starter version
-    1.03
-		-- No Changes. Just adjusting "version".
-    		1.99x for a beta release was a weird choise.
-	1.04.1
-		-- Settings Frame object
-	1.04.2
-		-- One more setting for MetaMapNotes
-		(like the one for MetaMapBWP)
-------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
 
@@ -30,7 +9,7 @@ Dv(" VGuide Frame_SettingsFrame.lua Start")
 objSettingsFrame = {}
 objSettingsFrame.__index = objSettingsFrame
 
-function objSettingsFrame:new(fParent, tTexture, oSettings)	
+function objSettingsFrame:new(fParent, tTexture, oSettings)
 	fParent = fParent or nil
 	local obj = {}
     setmetatable(obj, self)
@@ -180,7 +159,7 @@ function objSettingsFrame:new(fParent, tTexture, oSettings)
 		btn:SetScript( "OnClick", function()
 			local frame = getglobal(sText)
 			local tCol = nil
-			local opacitySlider = nil 
+			local opacitySlider = nil
 			if sText == "VG_MainFrame" then
 				tCol = tUI.MainFrameColor
 				opacitySlider = true
@@ -197,7 +176,7 @@ function objSettingsFrame:new(fParent, tTexture, oSettings)
 				tCol = tUI.ScrollFrameTextColor
 				opacitySlider = false
 			end
-			
+
 			local r1, g1, b1, a1 = tCol.nR, tCol.nG, tCol.nB, tCol.nA
 			if ColorPickerFrame:IsShown() then
 				ColorPickerFrame:Hide()
@@ -216,7 +195,7 @@ function objSettingsFrame:new(fParent, tTexture, oSettings)
 					r1, g1, b1, a1 = nr, ng, nb, na
 					btn.artwork:SetVertexColor(r1, g1, b1, a1)
 					--btn.background:SetVertexColor(r1, g1, b1, a1)
-					if sText == "VG_MainFrame" then 
+					if sText == "VG_MainFrame" then
 						frame:SetBackdropColor(r1, g1, b1, a1)
 						--VGuide.db.char.UIoptions.MainFrameColor = {
 						tUI.MainFrameColor = {
@@ -225,7 +204,7 @@ function objSettingsFrame:new(fParent, tTexture, oSettings)
 						oSettings:SetSettingsUI(tUI)
 					elseif sText == "VG_MainFrame_StepFrame" then
 						frame:SetBackdropColor(r1, g1, b1, a1)
-						--VGuide.db.char.UIoptions.StepFrameColor = {						
+						--VGuide.db.char.UIoptions.StepFrameColor = {
 						tUI.StepFrameColor = {
 							nR = r1, nG = g1, nB = b1, nA = a1,
 						}
@@ -261,10 +240,10 @@ function objSettingsFrame:new(fParent, tTexture, oSettings)
 				end
 				ColorPickerFrame.cancelFunc = ColorPickerFrame.func
 				ColorPickerFrame.opacityFunc = ColorPickerFrame.func
-				
+
 				ColorPickerFrame.hasOpacity = opacitySlider
 				ColorPickerFrame.opacity = 1 - a1
-				
+
 				ColorPickerFrame.previousValues = { r = r1, g = g1, b = b1, a = a1}
 
 				Dv(" -- r1: "..r1)
@@ -340,11 +319,11 @@ function objSettingsFrame:new(fParent, tTexture, oSettings)
 		obj.tWidgets.colorpicker_StepFrameTextColor = Render_SFColorSwatch(obj.tWidgets.frame_SettingFrame, "VG_MainFrame_StepFrameLabel", tUI)
 		obj.tWidgets.colorpicker_StepFrameTextColor:SetPoint("TOPLEFT", obj.tWidgets.frame_SettingFrame, "TOPLEFT", 10, -45)
 		obj.tWidgets.fs_ColorPickerStepFrameTextColor = Render_SFColorSwatchLabel(obj.tWidgets.colorpicker_StepFrameTextColor, "StepFrame TextColor")
-		
+
 		obj.tWidgets.colorpicker_ScrollFrameTextColor = Render_SFColorSwatch(obj.tWidgets.frame_SettingFrame, "VG_MainFrame_ScrollFrameLabels", tUI)
 		obj.tWidgets.colorpicker_ScrollFrameTextColor:SetPoint("TOPLEFT", obj.tWidgets.frame_SettingFrame, "TOPLEFT", 10, -63)
 		obj.tWidgets.fs_ColorPickerScrollFrameTextColor = Render_SFColorSwatchLabel(obj.tWidgets.colorpicker_ScrollFrameTextColor, "ScrollFrame TextColor")
-		
+
 		obj.tWidgets.colorpicker_MainFrame = Render_SFColorSwatch(obj.tWidgets.frame_SettingFrame, "VG_MainFrame", tUI)
 		obj.tWidgets.colorpicker_MainFrame:SetPoint("TOPLEFT", obj.tWidgets.frame_SettingFrame, "TOPLEFT", 10, -93)
 		obj.tWidgets.fs_ColorPickerMainFrame = Render_SFColorSwatchLabel(obj.tWidgets.colorpicker_MainFrame, "MainFrame Background")
@@ -507,7 +486,7 @@ function objSettingsFrame:new(fParent, tTexture, oSettings)
 	-------------------------------
 	obj.tWidgets.frame_SettingFrame:Hide()
 	--obj.tWidgets.frame_SettingFrame:Show()
-	
+
 	obj.ShowFrame = function(self)
 		local f = obj.tWidgets.frame_SettingsFrame
 		if not f:IsVisible() then

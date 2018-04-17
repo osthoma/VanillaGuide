@@ -2,9 +2,6 @@ Table_003_Horde_50to60 = {
 -----------50-50 Azshara
 	[5049] = {
 		title = "50-50 Azshara",
-		n = "50-50 Azshara",
-		pID = 414, nID = 502,
-		itemCount = 23,
 		items = {
 			[1] = { str = "50-50 Azshara" },
 			[2] = { str = "Accept: #ACCEPT\"Stealing Knowledge\"# " },
@@ -19,7 +16,7 @@ Table_003_Horde_50to60 = {
 
 			[11] = { str = "Go turn in #TURNIN\"Rise of the Silithid\"# ... accept #ACCEPT\"March of the Silithid\"# at #COORDS[56,46]#", x = 56, y = 46, zone = "Azshara" },
 			[12] = { str = "Turn in #TURNIN\"Delivery to Jes'rimon\"# at #COORDS[55,34]# ... accept #ACCEPT\"Jes'rimon's Payment to Jediga\"# and #ACCEPT\"Bone-Bladed Weapons\"# ", x = 55, y = 34, zone = "Azshara" },
-			[13] = { str = "Then turn in #TURNIN\"Ripple Delivery\"# at #COORDS[59,36]#  (If you did the Hinterlands section)", x = 59, y = 36, zone = "Azshara" },
+			[13] = { str = "Then turn in #TURNIN\"Ripple Delivery\"# at #COORDS[59,36]# (If you did the Hinterlands section)", x = 59, y = 36, zone = "Azshara" },
 			[14] = { str = "Then I go get new #HUNTERhunter# spells/abilities ... #HUNTERaccept# #ACCEPT\"The Hunter's Charm\"# #HUNTER(if you're a Hunter).#" },
 			[15] = { str = "Then go to The Undercity, head to the Apothecarium Quarter..." },
 			[16] = { str = "Turn in #TURNIN\"Delivery to Andron Gant\"# ... accept #ACCEPT\"Andron's Payment to Jediga\"# " },
@@ -100,10 +97,10 @@ Table_003_Horde_50to60 = {
 			[2] = { str = "Go accept: #ACCEPT\"The Apes of Un'Goro\"# and #ACCEPT\"The Fare of Lar'korwi\"# at #COORDS[71,75]#", x = 71, y = 75, zone = "Un'Goro Crater" },
 			[3] = { str = "Go do #DOQUEST\"The Fare of Lar'korwi\"# at #COORDS[68,56]#", x = 68, y = 56, zone = "Un'Goro Crater" },
 			[4] = { str = "Then go start doing: #DOQUEST\"Super Sticky\"# (up north in the middle) until this item drops #NPCA Mangled Journal#" },
-			[5] = { str = "Then go into Marshal's Refuge at #COORDS[43,10]#, accept ALL quests there:  #ACCEPT\"Chasing A-Me 01\"# #ACCEPT\"Shizzle's Flyer\"# #ACCEPT\"Lost!\"# #ACCEPT\"Beware of Pterrordax\"# #ACCEPT\"Roll the Bones\"# #ACCEPT\"Alien Ecology\"# #ACCEPT\"Expedition Salvation\"# #ACCEPT\"Larion and Muigin\"# ", x = 43, y = 10, zone = "Un'Goro Crater" },
+			[5] = { str = "Then go into Marshal's Refuge at #COORDS[43,10]#, accept ALL quests there: #ACCEPT\"Chasing A-Me 01\"# #ACCEPT\"Shizzle's Flyer\"# #ACCEPT\"Lost!\"# #ACCEPT\"Beware of Pterrordax\"# #ACCEPT\"Roll the Bones\"# #ACCEPT\"Alien Ecology\"# #ACCEPT\"Expedition Salvation\"# #ACCEPT\"Larion and Muigin\"# ", x = 43, y = 10, zone = "Un'Goro Crater" },
 			[6] = { str = "Turn in #TURNIN\"Williden's Journal\"# " },
 			[7] = { str = "Get FP there, then go do the Ungoro Grind :) ..." },
-			[8] = { str = "NOTE: don't worry about the ungoro dirt mounds, you'll find enough soil from mob drops.  Also I don't worry about the Bloodpetal Sprouts, as they are not turned in for any XP." },
+			[8] = { str = "NOTE: don't worry about the ungoro dirt mounds, you'll find enough soil from mob drops. Also I don't worry about the Bloodpetal Sprouts, as they are not turned in for any XP." },
 			[9] = { str = "While questing, find 7 crystals of each color (red, blue, green, and yellow for the #DOQUEST\"Crystals of Power\"# quest)" },
 			[10] = { str = "#DOQUEST\"Super Sticky\"# " },
 
@@ -122,7 +119,7 @@ Table_003_Horde_50to60 = {
 			[22] = { str = "Then turn in #TURNIN\"The Scent of Lar'korwi\"# ... accept #ACCEPT\"The Bait for Lar'korwi\"# at #COORDS[71,75]#", x = 71, y = 75, zone = "Un'Goro Crater" },
 			[23] = { str = "Then go do #DOQUEST\"Alien Ecology\"# along with #DOQUEST\"Bungle in the Jungle\"# at #COORDS[50,80]#", x = 50, y = 80, zone = "Un'Goro Crater" },
 			[24] = { str = "Go accept #ACCEPT\"Finding the Source\"# at #COORDS[30,50]#, then do it along with #DOQUEST\"Volcanic Activity\"# ", x = 30, y = 50, zone = "Un'Goro Crater" },
-			[25] = { str = "The hotspot path for the quest #DOQUEST\"Finding the Source\"# starts at 51,42 and the hot spot is at 50,46  (#VIDEOSee Video on where to find the hotspot#)", x = 51, y = 42, zone = "Un'Goro Crater" },
+			[25] = { str = "The hotspot path for the quest #DOQUEST\"Finding the Source\"# starts at 51,42 and the hot spot is at 50,46 (#VIDEOSee Video on where to find the hotspot#)", x = 51, y = 42, zone = "Un'Goro Crater" },
 			[26] = { str = "#DOQUEST\"Lost!\"# Make sure all quests are done before doing this (besides \"#NPCThe Mighty U'cha\"# and \"#NPCThe Bait for Lar'korwi\"# ), then..." },
 			[27] = { str = "...This leads back to Marshal's Refuge, Turn in ALL quests there, accept new ones (including all the Pylon quests in the cave)." },
 			[28] = { str = "Then go do (in the following order):" },
@@ -130,7 +127,7 @@ Table_003_Horde_50to60 = {
 			[30] = { str = "#DOQUEST\"The Mighty U'cha\"# (cave at #COORDS[63,13]#)", x = 63, y = 13, zone = "Un'Goro Crater" },
 
 			[31] = { str = "#DOQUEST\"The Eastern Pylon\"# at #COORDS[77,50]#", x = 77, y = 50, zone = "Un'Goro Crater" },
-			[32] = { str = "#DOQUEST\"The Bait for Lar'korwi\"# at #COORDS[80,50]#.  Then turn it in along with #TURNIN\"The Mighty U'cha\"# at #COORDS[71,75]#", x = 71, y = 75, zone = "Un'Goro Crater" },
+			[32] = { str = "#DOQUEST\"The Bait for Lar'korwi\"# at #COORDS[80,50]#. Then turn it in along with #TURNIN\"The Mighty U'cha\"# at #COORDS[71,75]#", x = 71, y = 75, zone = "Un'Goro Crater" },
 			[33] = { str = "Go west killing oozes along the way.." },
 			[34] = { str = "Turn in #TURNIN\"Finding the Source\"# ... accept #ACCEPT\"The New Springs\"# at #COORDS[30,50]#", x = 30, y = 50, zone = "Un'Goro Crater" },
 			[35] = { str = "#DOQUEST\"The Western Pylon\"# at #COORDS[23,58]#", x = 23, y = 58, zone = "Un'Goro Crater" },
@@ -159,7 +156,6 @@ Table_003_Horde_50to60 = {
 	},
 
 -----------52-53 Burning Steppes
-	--[505] = {
 	[5253] = {
 		title = "52-53 Burning Steppes",
 		items = {
@@ -209,7 +205,7 @@ Table_003_Horde_50to60 = {
 			[19] = { str = "turn in #TURNIN\"Kim'jael's \"Missing\" Equipment\"# " },
 			[20] = { str = "At this point im usually about 3/4th the way to lvl 54, I grind my way to level 54 on BloodElfs." },
 
-			[21] = { str = "I grind bloodelfs, cause their \"squishy\" mobs (mobs that have 30% fewer health/armor, than the average mob that level).  I used to grind satyrs on previous speed runs, but I was able to cut off almost a whole hour with the blood elfs." },
+			[21] = { str = "I grind bloodelfs, cause their \"squishy\" mobs (mobs that have 30% fewer health/armor, than the average mob that level). I used to grind satyrs on previous speed runs, but I was able to cut off almost a whole hour with the blood elfs." },
 			[22] = { str = "OPTIONAL: Instead of the grinding you could go do BRD instance instead." },
 			[23] = { str = "Once i hit 54 (or a few bars past it), i then hearth to Orgrimmar." },
 			[24] = { str = "I then go turn in #TURNIN\"Bone-Bladed Weapons\"# and #TURNIN\"Betrayed\"# " },
@@ -253,7 +249,7 @@ Table_003_Horde_50to60 = {
 			[7] = { str = "Accept: #ACCEPT\"Are We There, Yeti?\"# #ACCEPT\"The Everlook Report\"# #ACCEPT\"Duke Nicholas Zverenhoff\"# #ACCEPT\"Sister Pamela\"# #ACCEPT\"Trouble in Winterspring\"#and #ACCEPT\"Ursius of the Shardtooth\"#" },
 			[8] = { str = "Turn in #TURNIN\"Felnok Steelspring\"# ... accept #ACCEPT\"Chillwind Horns\"# " },
 			[9] = { str = "Make Everlook your home." },
-			[10] = { str = "Go do #DOQUEST\"Ursius of the Shardtooth\"#   (just keep grinding mobs on the hill north of everlook till #NPCUrsius# shows up)" },
+			[10] = { str = "Go do #DOQUEST\"Ursius of the Shardtooth\"#  (just keep grinding mobs on the hill north of everlook till #NPCUrsius# shows up)" },
 
 			[11] = { str = "Then turn in #TURNIN\"Ursius of the Shardtooth\"# ... accept #ACCEPT\"Brumeran of the Chillwind\"# " },
 			[12] = { str = "Go do #DOQUEST\"Brumeran of the Chillwind\"# (he patrols around #COORDS[60,60]#, see map for complete patrol path)", x = 60, y = 60, zone = "Winterspring" },
@@ -262,12 +258,12 @@ Table_003_Horde_50to60 = {
 			[15] = { str = "Turn in #TURNIN\"Brumeran of the Chillwind\"# ... SKIP \"#NPCShy-Rotam\"# " },
 			[16] = { str = "Then go do the following quests (steps 17-20, in any order) to the west and some to the north. When you're at west remember to turn-in #TURNIN\"Trouble in Winterspring\"# and accept #ACCEPT\"Threat of the Winterfall\"#:" },
 			[17] = { str = "#DOQUEST\"Are We There, Yeti?\"# " },
-			[18] = { str = "#DOQUEST\"Threat of the Winterfall\"# you should find #NPCEmpty Firewater Flask# which starts #ACCEPT\"Winterfall Firewater\"# while doing this quest.  When the #NPC\"Winterfall Ritual Totem\"# item drops, save it and put it in your bank you will need it later." },
+			[18] = { str = "#DOQUEST\"Threat of the Winterfall\"# you should find #NPCEmpty Firewater Flask# which starts #ACCEPT\"Winterfall Firewater\"# while doing this quest. When the #NPC\"Winterfall Ritual Totem\"# item drops, save it and put it in your bank you will need it later." },
 			[19] = { str = "#DOQUEST\"Wild Guardians\"# (the Ragged Owls are west of Everlook, and the Raging Owls are just north of Everlook)" },
 			[20] = { str = "#DOQUEST\"Chillwind Horns\"# (you can find a larger concentration of chimaera around #COORDS[66,29]#)", x = 66, y = 29, zone = "Winterspring" },
 
 			[21] = { str = "Once #DOQUEST\"Threat of the Winterfall\"# and #DOQUEST\"Winterfall Firewater\"# is completed go turn them in along with #TURNIN\"Strange Sources\"# at #COORDS[31,45]#... accept #ACCEPT\"Falling to Corruption\"# ", x = 31, y = 45, zone = "Winterspring" },
-			[22] = { str = "Once the rest of those quests are complete, go back to Everlook and turn in #TURNIN\"Are We There, Yeti?\"# ...accept #ACCEPT\"Are We There, Yeti?\"# part2.  Turn in #TURNIN\"Chillwind Horns\"# ... i SKIP \"#NPCReturn to Tinkee\"# " },
+			[22] = { str = "Once the rest of those quests are complete, go back to Everlook and turn in #TURNIN\"Are We There, Yeti?\"# ...accept #ACCEPT\"Are We There, Yeti?\"# part2. Turn in #TURNIN\"Chillwind Horns\"# ... i SKIP \"#NPCReturn to Tinkee\"# " },
 			[23] = { str = "Then go do:" },
 			[24] = { str = "#DOQUEST\"Winterfall Activity\"# at #COORDS[67,37]#", x = 67, y = 37, zone = "Winterspring" },
 			[25] = { str = "#DOQUEST\"Are We There, Yeti?\"# (find 2 Pristine Yeti Horns) at #COORDS[66,43]#", x = 66, y = 43, zone = "Winterspring" },
@@ -289,18 +285,18 @@ Table_003_Horde_50to60 = {
 			[5] = { str = "Go do in the following order:" },
 			[6] = { str = "Go do #DOQUEST\"A Husband's Last Battle\"# along with #DOQUEST\"Timbermaw Ally\"# at #COORDS[48,94]#", x = 48, y = 94, zone = "Felwood" },
 			[7] = { str = "Once they are done go turn in #TURNIN\"Timbermaw Ally\"# at #COORDS[50,85]# ... accept #ACCEPT\"Speak to Nafien\"#", x = 50, y = 85, zone = "Winterspring" },
-			[8] = { str = "Go do #DOQUEST\"Well of Corruption\"# at #COORDS[32,66]#.  Also make sure you collect 6 #NPCCorrupted Soul Shards# for the quest #DOQUEST\"Salve Via Hunting\"# ", x = 32, y = 66, zone = "Felwood" },
+			[8] = { str = "Go do #DOQUEST\"Well of Corruption\"# at #COORDS[32,66]#. Also make sure you collect 6 #NPCCorrupted Soul Shards# for the quest #DOQUEST\"Salve Via Hunting\"# ", x = 32, y = 66, zone = "Felwood" },
 			[9] = { str = "#DOQUEST\"Collection of the Corrupt Water\"# at #COORDS[35,59]#", x = 35, y = 59, zone = "Felwood" },
 			[10] = { str = "Then go to Bloodvenom Post" },
 
 			[11] = { str = "Turn in #TURNIN\"A Husband's Last Battle\"# and #TURNIN\"Well of Corruption\"# ... accept #ACCEPT\"Corrupted Sabers\"# " },
 			[12] = { str = "Go turn in #TURNIN\"Salve Via Hunting\"# (the 6 Corrupted Soul Shards) at #COORDS[46,83]#", x = 46, y = 83, zone = "Felwood" },
 			[13] = { str = "Go turn in #TURNIN\"Collection of the Corrupt Water\"# ... I SKIP \"#NPCSeeking Spiritual Aid\"# at #COORDS[51,82]# ", x = 51, y = 82, zone = "Felwood" },
-			[14] = { str = "Go do #DOQUEST\"Corrupted Sabers\"# at #COORDS[32,66]# then go turn it in.  (NOTE: when you turn it in, you have to talk to the cat first once you get to the NPC)", x = 32, y = 66, zone = "Felwood" },
+			[14] = { str = "Go do #DOQUEST\"Corrupted Sabers\"# at #COORDS[32,66]# then go turn it in. (NOTE: when you turn it in, you have to talk to the cat first once you get to the NPC)", x = 32, y = 66, zone = "Felwood" },
 			[15] = { str = "Then go up north and do:" },
-			[16] = { str = "#DOQUEST\"Deadwood of the North\"# at #COORDS[61,9]#  When the \"Deadwood Ritual Totem\" item drops, save it and put it in your bank when you get a chance, you will need it later.", x = 61, y = 9, zone = "Felwood" },
-			[17] = { str = "#DOQUEST\"Falling to Corruption\"# (the cauldron at #COORDS[60,5]#) (hint: I have my pet distract the mobs, while doing this quest)   ... then accept #ACCEPT\"Mystery Goo\"# ", x = 60, y = 5, zone = "Felwood" },
-			[18] = { str = "Go turn in #TURNIN\"Deadwood of the North\"# at #COORDS[64,8]# ... accept #ACCEPT\"Speak to Salfa\"# .  And turn in #TURNIN\"Speak to Nafien\"# ", x = 64, y = 8, zone = "Felwood" },
+			[16] = { str = "#DOQUEST\"Deadwood of the North\"# at #COORDS[61,9]# When the \"Deadwood Ritual Totem\" item drops, save it and put it in your bank when you get a chance, you will need it later.", x = 61, y = 9, zone = "Felwood" },
+			[17] = { str = "#DOQUEST\"Falling to Corruption\"# (the cauldron at #COORDS[60,5]#) (hint: I have my pet distract the mobs, while doing this quest)  ... then accept #ACCEPT\"Mystery Goo\"# ", x = 60, y = 5, zone = "Felwood" },
+			[18] = { str = "Go turn in #TURNIN\"Deadwood of the North\"# at #COORDS[64,8]# ... accept #ACCEPT\"Speak to Salfa\"# . And turn in #TURNIN\"Speak to Nafien\"# ", x = 64, y = 8, zone = "Felwood" },
 			[19] = { str = "Then run through the cave (you should be Unfriendly with Timbermaw, so they shouldn't attack you).." },
 			[20] = { str = "Turn in #TURNIN\"Winterfall Activity\"# and #TURNIN\"Speak to Salfa\"# " },
 
@@ -363,13 +359,13 @@ Table_003_Horde_50to60 = {
 			[9] = { str = "Then go to the barn next door, and..." },
 			[10] = { str = "Complete #DOQUEST\"Better Late Than Never\"# .. click on the chest again to accept #ACCEPT\"Better Late Than Never\"# again." },
 
-			[11] = { str = "Go do #DOQUEST\"Scarlet Diversions\"# (burn the tent down, and plant the banner, #COORDS[40,51]#)  ", x = 40, y = 51, zone = "Western Plaguelands" },
-			[12] = { str = "Go back to the Bulwark..  (#VIDEONOTE:# Make sure you save all #NPCBone Fragments# you find, you will need 30 of them for a later #NPCquest#)" },
+			[11] = { str = "Go do #DOQUEST\"Scarlet Diversions\"# (burn the tent down, and plant the banner, #COORDS[40,51]#) ", x = 40, y = 51, zone = "Western Plaguelands" },
+			[12] = { str = "Go back to the Bulwark.. (#VIDEONOTE:# Make sure you save all #NPCBone Fragments# you find, you will need 30 of them for a later #NPCquest#)" },
 			[13] = { str = "Turn in #TURNIN\"Scarlet Diversions\"# ... accept #ACCEPT\"All Along the Watchtowers\"# (Elite) and #ACCEPT\"The Scourge Cauldrons\"# " },
 			[14] = { str = "Turn in #TURNIN\"The Scourge Cauldrons\"# ... accept #ACCEPT\"Target: Felstone Field\"# " },
-			[15] = { str = "Go complete the whole Cauldron quest chain, you need to kill the Cauldron Lord at each targeted field (listed below), grab their key and use it at the big cauldron in the middle of the field.  (Just keep going back and forth from The Bulwark to the next field completing each one, turning them in and then accepting and doing the next one)..." },
+			[15] = { str = "Go complete the whole Cauldron quest chain, you need to kill the Cauldron Lord at each targeted field (listed below), grab their key and use it at the big cauldron in the middle of the field. (Just keep going back and forth from The Bulwark to the next field completing each one, turning them in and then accepting and doing the next one)..." },
 			[16] = { str = "#DOQUEST\"Target: Felstone Field\"# at #COORDS[37,56]#", x = 37, y = 56, zone = "Western Plaguelands" },
-			[17] = { str = "#DOQUEST\"Target: Dalson's Tears\"# at #COORDS[46,52]#.  #VIDEONOTE:#  While you are here, there is a small quest chain here that starts with a little Diary in the barn at #COORDS[47,50]# called #TURNIN\"Mrs. Dalson's Diary\"# , just click that to complete the quest.  Now, after you did that, then you need to kill a #NPCWandering Skeleton# to get a key that opens the outhouse behind the barn. After you get the key and open the outhouse, it will release a #NPCFarmer Dalson#, a level 56 undead. Kill him, grab that key, and then run in the house (that is right next to the barn) and go up the stairs, there you will find a cabinet, open the cabinet with that key (For the quest #DOQUEST\"Locked Away\"# ) and finally it's over.  Easy 10200 XP!  Or was it?", x = 46, y = 52, zone = "Western Plaguelands" },
+			[17] = { str = "#DOQUEST\"Target: Dalson's Tears\"# at #COORDS[46,52]#. #VIDEONOTE:# While you are here, there is a small quest chain here that starts with a little Diary in the barn at #COORDS[47,50]# called #TURNIN\"Mrs. Dalson's Diary\"# , just click that to complete the quest. Now, after you did that, then you need to kill a #NPCWandering Skeleton# to get a key that opens the outhouse behind the barn. After you get the key and open the outhouse, it will release a #NPCFarmer Dalson#, a level 56 undead. Kill him, grab that key, and then run in the house (that is right next to the barn) and go up the stairs, there you will find a cabinet, open the cabinet with that key (For the quest #DOQUEST\"Locked Away\"# ) and finally it's over. Easy 10200 XP! Or was it?", x = 46, y = 52, zone = "Western Plaguelands" },
 			[18] = { str = "#DOQUEST\"Target: Writhing Haunt\"# at #COORDS[53,65]# (while you're there accept #ACCEPT\"The Wildlife Suffers Too\"# (at #COORDS[53,64]#, the almost dead tauren in the hut)", x = 53, y = 65, zone = "Western Plaguelands" },
 			[19] = { str = "#DOQUEST\"Target: Gahrron's Withering\"# at #COORDS[62,59]#", x = 62, y = 59, zone = "Western Plaguelands" },
 			[20] = { str = "Just keep going back and forth completing each one." },
@@ -385,7 +381,7 @@ Table_003_Horde_50to60 = {
 		items = {
 			[1] = { str = "56-57 Eastern Plaguelands" },
 			[2] = { str = "Go accept: #ACCEPT\"Demon Dogs\"# #ACCEPT\"Blood Tinged Skies\"# and #ACCEPT\"Carrion Grubbage\"# at #COORDS[7,43]#", x = 7, y = 43, zone = "Eastern Plaguelands" },
-			[3] = { str = "Grind your way to at #COORDS[26,74]# and accept: #ACCEPT\"To Kill With Purpose\"# and #ACCEPT\"Un-Life's Little Annoyances\"# .  NOTE: I SKIP \"#NPCThe Ranger Lord's Behest\"# ", x = 26, y = 74, zone = "Eastern Plaguelands" },
+			[3] = { str = "Grind your way to at #COORDS[26,74]# and accept: #ACCEPT\"To Kill With Purpose\"# and #ACCEPT\"Un-Life's Little Annoyances\"# . NOTE: I SKIP \"#NPCThe Ranger Lord's Behest\"# ", x = 26, y = 74, zone = "Eastern Plaguelands" },
 			[4] = { str = "Go down in the crypt at The Undercroft at #COORDS[27,85]# and accept #ACCEPT\"Hameya's Plea\"# (the scroll on the ground). (??? TBC Quest?)", x = 27, y = 85, zone = "Eastern Plaguelands" },
 			[5] = { str = "Grind your way to Darrowshire at #COORDS[36,90]# while doing these quests:", x = 36, y = 90, zone = "Eastern Plaguelands" },
 			[6] = { str = "#DOQUEST\"Demon Dogs\"# " },
@@ -399,7 +395,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "Then go to Light's Hope Chapel at #COORDS[81,60]#", x = 81, y = 60, zone = "Eastern Plaguelands" },
 			[14] = { str = "Accept: #ACCEPT\"Zaeldarr the Outcast\"# and #ACCEPT\"The Restless Souls\"# " },
 			[15] = { str = "Turn in #TURNIN\"Duke Nicholas Zverenhoff\"# and #TURNIN\"Uncle Carlin\"# ... accept #ACCEPT\"Defenders of Darrowshire\"# " },
-			[16] = { str = "Get FP there.  Then go do:" },
+			[16] = { str = "Get FP there. Then go do:" },
 			[17] = { str = "#DOQUEST\"To Kill With Purpose\"# " },
 			[18] = { str = "#DOQUEST\"Defenders of Darrowshire\"# " },
 			[19] = { str = "#DOQUEST\"Hameya's Plea\"# at #COORDS[72,14]# (??? TBC Quest?)", x = 72, y = 14, zone = "Eastern Plaguelands" },
@@ -412,7 +408,7 @@ Table_003_Horde_50to60 = {
 			[25] = { str = "#DOQUEST\"The Restless Souls\"# (#NPCEgan# is in the hut at #COORDS[13,34]#) (The next part refers to Stratholme, which I skip)", x = 13, y = 34, zone = "Eastern Plaguelands" },
 			[26] = { str = "Then go turn in: #TURNIN\"Augustus' Receipt Book\"# " },
 			[27] = { str = "Grind your way through the cave at #COORDS[15,29]# (watch out it is not easy) ", x = 15, y = 29, zone = "Eastern Plaguelands" },
-			[28] = { str = "#VIDEONOTE:#  If the cave is too hard for you, another easy alternative is to take the Tower Gryphon ride from the Plaguewood Tower at #COORDS[22,32]# to the Crown Guard tower at #COORDS[39,75]#, as long as the horde has control over the towers that is.  Then turn in #TURNIN\"Demon Dogs\"# #TURNIN\"Blood Tinged Skies\"# and #TURNIN\"Carrion Grubbage\"#   accept #ACCEPT\"Redemption\"#   ... Just talk to the guy to complete it ... I SKIP \"#NPCOf Forgotten Memories\"# (you can try it if you find a group)", x = 22, y = 32, zone = "Eastern Plaguelands" },
+			[28] = { str = "#VIDEONOTE:# If the cave is too hard for you, another easy alternative is to take the Tower Gryphon ride from the Plaguewood Tower at #COORDS[22,32]# to the Crown Guard tower at #COORDS[39,75]#, as long as the horde has control over the towers that is. Then turn in #TURNIN\"Demon Dogs\"# #TURNIN\"Blood Tinged Skies\"# and #TURNIN\"Carrion Grubbage\"#  accept #ACCEPT\"Redemption\"#  ... Just talk to the guy to complete it ... I SKIP \"#NPCOf Forgotten Memories\"# (you can try it if you find a group)", x = 22, y = 32, zone = "Eastern Plaguelands" },
 			[29] = { str = "Then go turn in: #TURNIN\"To Kill With Purpose\"# and #TURNIN\"Un-Life's Little Annoyances\"# at #COORDS[26,74]#", x = 26, y = 74, zone = "Eastern Plaguelands" },
 			[30] = { str = "Then go do #DOQUEST\"Zaeldarr the Outcast\"# at #COORDS[27,85]#", x = 27, y = 85, zone = "Eastern Plaguelands" },
 
@@ -433,15 +429,15 @@ Table_003_Horde_50to60 = {
 			[2] = { str = "Turn in #TURNIN\"A Plague Upon Thee\"# ... accept #ACCEPT\"A Plague Upon Thee\"# part2." },
 			[3] = { str = "Go turn in #TURNIN\"Good Luck Charm\"# ...accept #ACCEPT\"Two Halves Become One\"# (the lady in the house at #COORDS[37,56]#)", x = 37, y = 56, zone = "Western Plaguelands" },
 			[4] = { str = "Do #DOQUEST\"Two Halves Become One\"# (#NPCJabbering ghouls# out in Felstone Field drop the item you need, once you get the item right-click it in your inventory), then go back to the lady in the house to turn it in." },
-			[5] = { str = "Then do #DOQUEST\"A Plague Upon Thee\"# part2 ... accept #ACCEPT\"A Plague Upon Thee\"# part3 (this is all done at #COORDS[48,31]#)  " },
+			[5] = { str = "Then do #DOQUEST\"A Plague Upon Thee\"# part2 ... accept #ACCEPT\"A Plague Upon Thee\"# part3 (this is all done at #COORDS[48,31]#) " },
 			[6] = { str = "Then go accept #ACCEPT\"Unfinished Business\"# part1 at #COORDS[51,28]#, then do it. (the mobs for this quest are at #COORDS[50,42]# and #COORDS[53,44]#)", x = 51, y = 28, zone = "Western Plaguelands" },
 			[7] = { str = "Turn in #TURNIN\"Unfinished Business\"# part1 (back at #COORDS[51,28]#) ... accept #ACCEPT\"Unfinished Business\"# part2, then go do it. The 2 mobs for this quest are at (#COORDS[57,37]# and #COORDS[54,24]#).", x = 55, y = 30, zone = "Western Plaguelands" },
 			[8] = { str = "Turn in #TURNIN\"Unfinished Business\"# part2 (back at #COORDS[51,28]#) ... accept #ACCEPT\"Unfinished Business\"# part3, then go do it. Need to go up in the tower at #COORDS[45,19]# in a certain spot, watch out for Elites.", x = 51, y = 28, zone = "Western Plaguelands" },
 			[9] = { str = "Then turn in #TURNIN\"Unfinished Business\"# part3" },
-			[10] = { str = "Then go complete and turn in #TURNIN\"The Wildlife Suffers Too\"# ... accept  #ACCEPT\"The Wildlife Suffers Too\"# part2 at #COORDS[53,64]#", x = 53, y = 64, zone = "Western Plaguelands" },
+			[10] = { str = "Then go complete and turn in #TURNIN\"The Wildlife Suffers Too\"# ... accept #ACCEPT\"The Wildlife Suffers Too\"# part2 at #COORDS[53,64]#", x = 53, y = 64, zone = "Western Plaguelands" },
 
 			[11] = { str = "Do #DOQUEST\"The Wildlife Suffers Too\"# part2, then turn it in ... accept #ACCEPT\"Glyphed Oaken Branch\"# " },
-			[12] = { str = "Go turn in #TURNIN\"Auntie Marlene\"# (in the house at #COORDS[49,78]#)  ...accept #ACCEPT\"A Strange Historian\"# ", x = 49, y = 78, zone = "Western Plaguelands" },
+			[12] = { str = "Go turn in #TURNIN\"Auntie Marlene\"# (in the house at #COORDS[49,78]#) ...accept #ACCEPT\"A Strange Historian\"# ", x = 49, y = 78, zone = "Western Plaguelands" },
 			[13] = { str = "Go get the ring for #DOQUEST\"A Strange Historian\"# (the ring is out in the graveyard)" },
 			[14] = { str = "Go into Andorhal.." },
 			[15] = { str = "Do #DOQUEST\"All Along the Watchtowers\"# while working your way to the inn at #COORDS[39,66]#", x = 39, y = 66, zone = "Western Plaguelands" },
@@ -504,7 +500,7 @@ Table_003_Horde_50to60 = {
 			[26] = { str = "turn in #TURNIN\"Guarding Secrets\"# part2 and #TURNIN\"Glyphed Oaken Branch\"# (both at Nara Wildmane)" },
 			[27] = { str = "Hearth back to Everlook." },
 			[28] = { str = "At this point im usually about 3/4 way to 60." },
-			[29] = { str = "I then go back down to the Owl Wing Thicket and Grind to 60.  (See End Game Credits)" },
+			[29] = { str = "I then go back down to the Owl Wing Thicket and Grind to 60. (See End Game Credits)" },
 			[30] = { str = "." },
 
 			[31] = { str = "." },

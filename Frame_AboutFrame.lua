@@ -1,24 +1,4 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-Frame_AboutFrame.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-	    About Frame Object
-    1.00
-		-- Initial Ace2 release
-	1.99a
-		-- Ally addition starter version
-    1.03
-		-- No Changes. Just adjusting "version".
-    		1.99x for a beta release was a weird choise.
-	1.04.1
-		-- About Frame object
-	1.04.2
-		-- no changes in here for this revision
-------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
 
@@ -44,13 +24,13 @@ function objAboutFrame:new(fParent, tTexture, oSettings)
 		"\n|cccff1919J|ccceeeeeeoana`s |cccff1919Horde|ccceeeeee Leveling Guide.|r" ..
 		"\n|ccca1a1a1in an in-game addon.\n" ..
 		"\n                           Made in |ccca11919mrmr|r|ccca1a1a1!|r"
-	local sAboutTextAlliance = "|cccff1919Vanilla|ccceeeeeeGuide" .. 
+	local sAboutTextAlliance = "|cccff1919Vanilla|ccceeeeeeGuide" ..
 		" |ccca1a1a1v|ccc4a4aa1" .. version .. "|r" ..
 		"\n\n\n|ccca1a1a1A 'remake' of the original|r" ..
 		"\n|ccc3939aaB|ccceeeeeerian |ccc3939aaKopps|ccceeeeee Leveling Guide.|r" ..
 		"\n|ccca1a1a1in an in-game addon.\n" ..
-		"\n                           Made in |ccca11919mrmr|r|ccca1a1a1!|r"	
-	
+		"\n                           Made in |ccca11919mrmr|r|ccca1a1a1!|r"
+
 	local sAboutText = ""
 
 	local tCharInfo = oSettings:GetSettingsCharInfo()

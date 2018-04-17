@@ -1,25 +1,4 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-VGuideFu.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-      Fubar plugin for VGuide
-    1.00
-		-- Initial Ace2 release
-	1.99a
-		-- Ally addition starter version
-    1.03
-		-- No Changes. Just adjusting "version".
-			1.99x for a beta release was a weird choise.
-	1.04.1
-		-- Just minor adjustments to reflect changes in the 
-			rest of addon
-	1.04.2
-		-- no changes in here for this revision
-------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
 
@@ -71,7 +50,7 @@ VGuideFu.OnMenuRequest = {
             desc = "Click to Toggle Labels Visibility",
             get = "IsLabels",
             set = "ToggleLabels",
-		},		
+		},
     }
 }
 
@@ -151,7 +130,7 @@ function VGuideFu:OnTextUpdate()
 		textGuideNameLabel = ""
 		textGuideStepLabel = ""
 	end
-	
+
 	if self:IsTitle() then
 		text = text .. textTitle
 	end
@@ -167,14 +146,14 @@ function VGuideFu:OnTextUpdate()
 		end
 		text = text .. textGuideStepLabel .. whiteTextColor .. step
 	end
-	
+
 	self:SetText(text)
 end
 
 function VGuideFu:OnTooltipUpdate()
 	tablet:SetHint("Click to Toggle VGuide's Frame")
-    -- as a rule, if you have an OnClick or OnDoubleClick or OnMouseUp or 
-    -- OnMouseDown, you should set a hint. 
+    -- as a rule, if you have an OnClick or OnDoubleClick or OnMouseUp or
+    -- OnMouseDown, you should set a hint.
 	local cat = tablet:AddCategory(
         "text", "Guide",
         "columns", 1,

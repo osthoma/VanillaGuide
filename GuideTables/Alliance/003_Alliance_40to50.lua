@@ -14,7 +14,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Grind over to the dig site at #COORDS[53,29]# and kill the dwarfs for “A Dwarf and His Tools” On the right side of the hole at #COORDS[53,33]# touch the note in the tent for “A Sign of Hope”", x = 53, y = 29, zone = "Badlands" },
 			[10] = { str = " Grind up to #COORDS[53,43]# and hand in “Mirages” accept “Scrounging”", x = 53, y = 43, zone = "Badlands" },
 
-      [11] = { str = "Also turn in “A Dwarf and His Tools” and “A Sign of Hope” accept the next part to Uldaman" },
+			[11] = { str = "Also turn in “A Dwarf and His Tools” and “A Sign of Hope” accept the next part to Uldaman" },
 			[12] = { str = "Grind down to #COORDS[61,54]# and accept “Tremors of the Earth” The ogres spawn at #COORDS[62,70]# and wander to #COORDS[29,56]# so kill them if you see them. The boss is easy to pull off the back, with the small add or none.", x = 61, y = 54, zone = "Badlands" },
 			[13] = { str = "Go south to #COORDS[62,70]# and kill ogres here for “Scrounging” and hopefully the boss is here. There isn’t many ogres so don’t worry ", x = 62, y = 70, zone = "Badlands" },
 			[14] = { str = "Grind to #COORDS[50,62]#, turn in “Find Agmond” accept “Murdaloc”", x = 50, y = 62, zone = "Badlands" },
@@ -25,7 +25,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Go back to #COORDS[26,44]# turn in “Study of the Elements: Rock pt.2” accept “Study of the Elements: Rock pt.3”", x = 26, y = 44, zone = "Badlands" },
 			[20] = { str = "Kill buzzards around #COORDS[15,60]# and coyotes around #COORDS[33,62]# for “Badlands Reagent Run” if you still need them", x = 33, y = 62, zone = "Badlands" },
 
-      [21] = { str = "Grind down to #COORDS[11,77]# and kill ogres for “Scrounging”", x = 11, y = 77, zone = "Badlands" },
+			[21] = { str = "Grind down to #COORDS[11,77]# and kill ogres for “Scrounging”", x = 11, y = 77, zone = "Badlands" },
 			[22] = { str = "Kill greater rock elementals at #COORDS[14,88]# for “Study of the Elements: Rock", x = 14, y = 88, zone = "Badlands" },
 			[23] = { str = "Go back to #COORDS[26,44]# turn in “Study of the Elements: Rock pt.3” accept “This Is Going To Be Hard pt.1” turn around and hand it in, accept “This Is Going To Be Hard pt.2” then turn around and hand it in, accept “This Is Going To Be Hard pt.3”", x = 26, y = 44, zone = "Badlands" },
 			[24] = { str = "Kill the elemental that’s summoned he’s 45. Then turn it back in to get your Nifty Stopwatch" },
@@ -36,7 +36,7 @@ Table_003_Alliance_40to50 = {
 			[29] = { str = "Go in the house behind the Inn and turn in “Badlands Reagent Run” accept the Uldaman part" },
 			[30] = { str = "Run to #COORDS[65,65]# turn in “Murdaloc” accept the Uldaman part I’m almost 25% into 41 now", x = 65, y = 65, zone = "Loch Modan" },
 
-      [31] = { str = "Fly to Duskwood, make it your home. Fly to SW Go to #COORDS[64,20]# and accept In Search of The Temple", x = 64, y = 20, zone = "Stormwind" },
+			[31] = { str = "Fly to Duskwood, make it your home. Fly to SW Go to #COORDS[64,20]# and accept In Search of The Temple", x = 64, y = 20, zone = "Stormwind" },
 			[32] = { str = "Fly back to Duskwood, Run into Swamp of Sorrows" },
 		}
 	},
@@ -56,7 +56,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Make sure you clear the camp beside the caged npc." },
 			[10] = { str = "Then accept “Galen’s Escape” it’s a breeze if you cleared the camp" },
 
-      [11] = { str = "Grind down to #COORDS[48,39]# to the busted up looking tent and open the chest to complete “Galen’s Escape”", x = 48, y = 39, zone = "Swamp of Sorrows" },
+			[11] = { str = "Grind down to #COORDS[48,39]# to the busted up looking tent and open the chest to complete “Galen’s Escape”", x = 48, y = 39, zone = "Swamp of Sorrows" },
 			[12] = { str = "Go back to #COORDS[26,31]# and turn in “Draenethyst Crystals”", x = 26, y = 31, zone = "Swamp of Sorrows" },
 			[13] = { str = "Go to #COORDS[26,59]# and turn in “The Lost Caravan” accept “Driftwood”", x = 26, y = 59, zone = "Swamp of Sorrows" },
 			[14] = { str = "Run through the swamp and go south into the Blasted Lands at #COORDS[36,59]# and over to Nethergarde Keep at #COORDS[54,78]#. Grab the FP and fly to Darkshire.", x = 54, y = 78, zone = "Blasted Lands" },
@@ -67,7 +67,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Run up to the lake around the Sunken Temple at #COORDS[70,54]# and you should get a complete message for In Search of The Temple", x = 70, y = 54, zone = "Swamp of Sorrows" },
 			[20] = { str = "Go up to about #COORDS[76,6]# and start killing silt and monstrous crawlers and work your way south for “… and bugs” until it’s done. Also look for wood planks on the ground for “Driftwood”", x = 76, y = 6, zone = "Swamp of Sorrows" },
 
-      [21] = { str = "Hearth to Darkshire and get your cat back out." },
+			[21] = { str = "Hearth to Darkshire and get your cat back out." },
 			[22] = { str = "Fly to Nethergarde and run back up into the swamp" },
 			[23] = { str = "Go to #COORDS[26,59]# and turn in “Driftwood” accept “Deliver the Shipment”", x = 26, y = 59, zone = "Swamp of Sorrows" },
 			[24] = { str = "Run down into the Blasted Lands and turn in “Deliver the Shipment” at #COORDS[66,21]#", x = 66, y = 21, zone = "Blasted Lands" },
@@ -92,7 +92,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Go back to #COORDS[47,61]# and turn in “Ghost-O-Plasm Round Up”", x = 47, y = 61, zone = "Desolace" },
 			[10] = { str = "Hearth to Nijel’s Point" },
 
-      [11] = { str = "Turn in “Down the Scarlet Path” SKIP the next part" },
+			[11] = { str = "Turn in “Down the Scarlet Path” SKIP the next part" },
 			[12] = { str = "Go just south of the Inn, turn in “Reagents For Reclaimers Inc pt.3” accept “Reagents For Reclaimers Inc pt.4”" },
 			[13] = { str = "Fly to Theramore, Boat to Menethil and Fly to IF" },
 			[14] = { str = "Turn in “Reagents For Reclaimers Inc pt.4” at #COORDS[67,17]#", x = 67, y = 17, zone = "Ironforge" },
@@ -100,6 +100,7 @@ Table_003_Alliance_40to50 = {
 			[16] = { str = "Fly to Booty Bay" },
 		}
 	},
+
 -----------42-43 Stranglethron Vale
 	[4243] = {
 		title = "42-43 Stranglethron Vale",
@@ -115,7 +116,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Kill the swashbucklers around the two camps at #COORDS[29,81]#(bloodsail charts are here on the box) and #COORDS[27,82]# (bloodsail orders, on the box, NE tent) for “The Bloodsail Buccaneers pt.4”", x = 27, y = 82, zone = "Stranglethorn Vale" },
 			[10] = { str = "Run back up into BB, and turn left" },
 
-      [11] = { str = "Turn in “Keep An Eye Out” near the forge" },
+			[11] = { str = "Turn in “Keep An Eye Out” near the forge" },
 			[12] = { str = "Go up in the Inn, turn in “Up To Snuff”" },
 			[13] = { str = "Go just outside and hand in “The Bloodsail Buccaneers pt.4” accept “The Bloodsail Buccaneers pt.5”" },
 			[14] = { str = "Go kill naga around #COORDS[25,63]# for “Akiris By the Bundle pt.1”", x = 25, y = 63, zone = "Stranglethorn Vale" },
@@ -126,7 +127,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Go up to the rebel camp at #COORDS[38,3]# and accept “Colonel Kurzen”", x = 38, y = 3, zone = "Stranglethorn Vale" },
 			[20] = { str = "Go to the cave at #COORDS[45,8]# go to the fork and go down once like earlier kill the elites and subchiefs (when they get a red aura stop your pet from hitting them or he’ll get owned) for “Colonel Kurzen” Kurzen is at #COORDS[49,3]# ", x = 49, y = 3, zone = "Stranglethorn Vale" },
 
-      [21] = { str = "Die on purpose so you’re near the rebel camp" },
+			[21] = { str = "Die on purpose so you’re near the rebel camp" },
 			[22] = { str = "Go to the rebel camp at #COORDS[38,3]# and turn in “Colonel Kurzen”", x = 38, y = 3, zone = "Stranglethorn Vale" },
 			[23] = { str = "Kill the trolls around #COORDS[44,34]# until you’re about 9k from leveling", x = 44, y = 34, zone = "Stranglethorn Vale" },
 			[24] = { str = "Hearth to BB" },
@@ -153,29 +154,29 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Go to #COORDS[80,75]# and accept “Keeping Pace” do it by talking with zamek just south of here, has a blue ? on his head. Don’t follow him, run to rizzles house at #COORDS[77,77]# and when he leaves grab the unguarded plans which turns in “Keeping Pace” accept “Rizzle's Schematics” turn it in at #COORDS[80,75]#", x = 80, y = 75, zone = "Thousand Needles" },
 			[10] = { str = "Hearth to Gadget" },
 
-      [11] = { str = "Run out to Steamwheedle Port at #COORDS[59,80]#", x = 59, y = 80, zone = "Tanaris" },
+			[11] = { str = "Run out to Steamwheedle Port at #COORDS[59,80]#", x = 59, y = 80, zone = "Tanaris" },
 			[12] = { str = "Turn in Stoley's Debt at the southern most house, accept “Stoley’s Shipment” and “Southsea Shakedown”" },
 			[13] = { str = "Go to the northern houses, accept “Pirate Hats Ahoy!” and “Screecher Spirits”" },
-			[14] = { str = "Go to around #COORDS[63,30]# and kill the mobs here for “Wastewander Justice” and “Water Pouch Bounty” Look for Caliph Scorpidsting and kill him for “WANTED: Caliph Scorpidsting”  while here. He has 2 stealthed guards but is fairly easy. He patrols up and down", x = 63, y = 30, zone = "Tanaris" },
+			[14] = { str = "Go to around #COORDS[63,30]# and kill the mobs here for “Wastewander Justice” and “Water Pouch Bounty” Look for Caliph Scorpidsting and kill him for “WANTED: Caliph Scorpidsting” while here. He has 2 stealthed guards but is fairly easy. He patrols up and down", x = 63, y = 30, zone = "Tanaris" },
 			[15] = { str = "Run over to the cave at #COORDS[68,41]# and go through to Lost Rigger Cove.", x = 68, y = 41, zone = "Tanaris" },
-			[16] = { str = "Start killing the mobs all back here for  “Southsea Shakedown” and “Pirate Hats Ahoy!”" },
-			[17] = { str = "1You may get some drops of Pirate's Footlocker which can hold Ship Schedule  and the upper middle and lower map fragments which starts “Cuergo’s Gold” and “Ship Schedules” only do them if you find them. If I don’t find them all I skip them or sell what I have." },
+			[16] = { str = "Start killing the mobs all back here for “Southsea Shakedown” and “Pirate Hats Ahoy!”" },
+			[17] = { str = "1You may get some drops of Pirate's Footlocker which can hold Ship Schedule and the upper middle and lower map fragments which starts “Cuergo’s Gold” and “Ship Schedules” only do them if you find them. If I don’t find them all I skip them or sell what I have." },
 			[18] = { str = "Kill Andre Firebeard at #COORDS[73,47]# for “WANTED: Andre Firebeard”", x = 73, y = 47, zone = "Tanaris" },
 			[19] = { str = "Go to the only 2 story house out here at #COORDS[72,46]# and get the stolen wine for “Stoley’s Shipment”. It’s on the 2nd floor", x = 72, y = 46, zone = "Tanaris" },
 			[20] = { str = "Hearth to Gadget" },
 
-      [21] = { str = "Turn in “Wastewander Justice”  accept “More Wastewander Justice”" },
+			[21] = { str = "Turn in “Wastewander Justice” accept “More Wastewander Justice”" },
 			[22] = { str = "Turn in “WANTED: Caliph Scorpidsting” and “Water Pouch Bounty”" },
 			[23] = { str = "You should be close to half way TNL" },
 			[24] = { str = "Go west to #COORDS[39,29]# and do “Gadgetzan Water Survey” Run once you get the sample a 47 and 48 attack you.", x = 32, y = 29, zone = "Tanaris" },
 			[25] = { str = "Run back to Gadget and hand in “Gadgetzan Water Survey” accept “Noxious Lair Investigation”" },
 			[26] = { str = "Go do “More Wastewander Justice” around #COORDS[60,35]# by killing the mobs", x = 60, y = 35, zone = "Tanaris" },
-			[27] = { str = "Go back up to Steamweedle Port at #COORDS[59,80]# to the southern house and turn in  “Stoley’s Shipment” accept “Deliver to MacKinley”", x = 59, y = 80, zone = "Tanaris" },
+			[27] = { str = "Go back up to Steamweedle Port at #COORDS[59,80]# to the southern house and turn in “Stoley’s Shipment” accept “Deliver to MacKinley”", x = 59, y = 80, zone = "Tanaris" },
 			[28] = { str = "Turn in “WANTED: Andre Firebeard” and “Southsea Shakedown”" },
 			[29] = { str = "Go to the northern house, turn in “Pirate Hats Ahoy!”" },
 			[30] = { str = "Hearth to Gadget" },
 
-      [31] = { str = "Turn in “More Wastewander Justice”" },
+			[31] = { str = "Turn in “More Wastewander Justice”" },
 			[32] = { str = "Accept “Handle With Care” near the north side of town" },
 			[33] = { str = "You should be about ¾ TNL now" },
 			[34] = { str = " Fly to Feralas" },
@@ -183,7 +184,6 @@ Table_003_Alliance_40to50 = {
 	},
 
 -----------43-45 Feralas
-	--[406] = {
 	[4345] = {
 		title = "43-45 Feralas",
 		items = {
@@ -198,7 +198,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Kill naga around #COORDS[26,54]# for “Against the Hatecrest pt.2”", x = 26, y = 54, zone = "Feralas" },
 			[10] = { str = "I kill the naga until im about 2500 TNL because I’m usually under 15k TNL when I get to this part. They give an average of 250 per kill" },
 
-      [11] = { str = "Go back to Feathermoon to the big building, turn in “Against the Hatecrest pt.2” accept “Against Lord Shalzaru”" },
+			[11] = { str = "Go back to Feathermoon to the big building, turn in “Against the Hatecrest pt.2” accept “Against Lord Shalzaru”" },
 			[12] = { str = " Go down to the cave at #COORDS[26,66]# and kill Lord Shalzaru at the end for “Against Lord Shalzaru”", x = 26, y = 66, zone = "Feralas" },
 			[13] = { str = "Die so you end up at Feathermoon" },
 			[14] = { str = "Go back to Feathermoon to the big building, turn in “Against Lord Shalzaru” accept “Delivering the Relic” go to the other side of the building and turn it in." },
@@ -209,7 +209,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Go in the little building across from the Inn on the 2nd floor, turn in “Boat Wreckage” accept “The Knife Revealed”" },
 			[20] = { str = "Go up top of the big spiral tower, turn in “The Knife Revealed” accept “Psychometric Reading”" },
 
-      [21] = { str = "Go in the little building across form the Inn on the 2nd floor, turn in “Psychometric Reading” accept “The Woodpaw Gnolls”" },
+			[21] = { str = "Go in the little building across form the Inn on the 2nd floor, turn in “Psychometric Reading” accept “The Woodpaw Gnolls”" },
 			[22] = { str = "Take the boat to the mainland" },
 			[23] = { str = "Go into the yeti cave at #COORDS[56,56]# and kill yeti’s for “The Mark of Quality” you can skin them and it’s also a drop.", x = 56, y = 56, zone = "Feralas" },
 			[24] = { str = "If a OOX-22/FE Distress Beacon has fallen accept the quest “Find OOX-22/FE!” and turn it in at the back of the cave SKIP the escort. " },
@@ -220,7 +220,7 @@ Table_003_Alliance_40to50 = {
 			[29] = { str = "Go down to #COORDS[73,56]# and touch Large Leather Backpacks on the big tree. Turn in “The Woodpaw Gnolls” accept “The Writhing Deep”", x = 73, y = 56, zone = "Feralas" },
 			[30] = { str = "Right click the Backpack, accept “Thalanaar Delivery”" },
 
-      [31] = { str = "Grind down to the hive at #COORDS[73,63]# and go all the way down. Go into the southern tunnel and stay right, You’ll see a Zukk’Ash Pod there. Turn in “The Writhing Deep” accept “Freed From the Hive", x = 73, y = 63, zone = "Feralas" },
+			[31] = { str = "Grind down to the hive at #COORDS[73,63]# and go all the way down. Go into the southern tunnel and stay right, You’ll see a Zukk’Ash Pod there. Turn in “The Writhing Deep” accept “Freed From the Hive", x = 73, y = 63, zone = "Feralas" },
 			[32] = { str = "Hearth to Feathermoon" },
 			[33] = { str = "On the water side of the Gazebo, turn in “The Mark of Quality” accept “Improved Quality”" },
 			[34] = { str = "Go in the small house across from the Inn, turn in “The High Wilderness” then go upstairs and turn in “Freed From the Hive” accept “A Hero’s Welcome”" },
@@ -231,7 +231,7 @@ Table_003_Alliance_40to50 = {
 			[39] = { str = "Go upstairs, turn in “In Search of Knowledge” then go to the back of the house on the 2nd floor, open the green book and accept “Feralas: A History” turn it back in to her, accept “The Borrower”" },
 			[40] = { str = "Get new skills" },
 
-      [41] = { str = "Go to the temple of the moon at #COORDS[39,86]# and up to the 2nd floor, turn in “Rise of the Silithid” and “Doling Justice pt.2", x = 39, y = 86, zone = "Feralas" },
+			[41] = { str = "Go to the temple of the moon at #COORDS[39,86]# and up to the 2nd floor, turn in “Rise of the Silithid” and “Doling Justice pt.2", x = 39, y = 86, zone = "Feralas" },
 			[42] = { str = "Buy 2 Elixir of Fortitude for a later part of this quest" },
 			[43] = { str = "Hearth to Feathermoon and fly to Gadgetzan and turn in “The Borrower” accept “The Super Snapper FX”" },
 		}
@@ -257,7 +257,7 @@ Table_003_Alliance_40to50 = {
 		items = {
 			[1] = { str = "46-47 The Hinterlands" },
 			[2] = { str = "Go up to #COORDS[11,46]# and turn in “In Search of The Hinterlands” accept “Gryphon Master Talonaxe”", x = 11, y = 46, zone = "The Hinterlands" },
-			[3] = { str = "Get the FP at #COORDS[11,46]# way up top then go in the cave and turn in  “Gryphon Master Talonaxe”, accept “Rhapsody Shindigger” and “Witherbark Cages” ", x = 11, y = 46, zone = "The Hinterlands" },
+			[3] = { str = "Get the FP at #COORDS[11,46]# way up top then go in the cave and turn in “Gryphon Master Talonaxe”, accept “Rhapsody Shindigger” and “Witherbark Cages” ", x = 11, y = 46, zone = "The Hinterlands" },
 			[4] = { str = "Go into the Inn and turn right, accept “Skulk Rock Clean-Up” and “Troll Necklace Bounty”" },
 			[5] = { str = "Go way in the back of the Inn up to around #COORDS[13,41]# and make Aerie Peak your home.", x = 13, y = 41, zone = "The Hinterlands" },
 			[6] = { str = "Grind east to #COORDS[20,48]# to the path while keeping an eye out for feathers on the ground for “Favored of Elune?” You don’t need them all yet", x = 20, y = 48, zone = "The Hinterlands" },
@@ -266,7 +266,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Grind east to #COORDS[31,57]# and open the 3rd cage for “Witherbark Cages”", x = 31, y = 57, zone = "The Hinterlands" },
 			[10] = { str = "You should also have 5 necklaces for “Troll Necklace Bounty” now" },
 
-      [11] = { str = "Go NE up to #COORDS[46,42]#, collecting feathers if you still need them on the way, and kill the Green Sludges for “Skulk Rock Clean-Up” part 1", x = 46, y = 62, zone = "The Hinterlands" },
+			[11] = { str = "Go NE up to #COORDS[46,42]#, collecting feathers if you still need them on the way, and kill the Green Sludges for “Skulk Rock Clean-Up” part 1", x = 46, y = 62, zone = "The Hinterlands" },
 			[12] = { str = "Go to #COORDS[49,37]# if you found OOX-09/HL Distress Beacon", x = 49, y = 37, zone = "The Hinterlands" },
 			[13] = { str = "Go to #COORDS[56,41]# and kill Jade Oozes for part 2 of “Skulk Rock Clean-Up”", x = 56, y = 41, zone = "The Hinterlands" },
 			[14] = { str = "Go to the waterfall at #COORDS[81,46]# and dive into the water below, then go south along this shore until you see Gammerita and take her picture for “The Super Snapper FX” Also you want to keep an eye out for bottles along the shore for “Whiskey Slim's Lost Grog”", x = 81, y = 46, zone = "The Hinterlands" },
@@ -277,7 +277,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Now I grind on the trolls and wolves around Zul until I’m 1 bar from 47. You should be at least half way through 46 at this point." },
 			[20] = { str = "Get the quest “Jammal'an the Prophet” at #COORDS[33,75]# if you plan to do Sunken Temple later.", x = 33, y = 75, zone = "The Hinterlands" },
 
-      [21] = { str = "I’m sure by the time you near 47 you’re going to find OOX-09/HL Distress Beacon accept “Find OOX-09/HL” and turn it in at #COORDS[49,37]# and then accept “Rescue OOX-09/HL” and escort it to #COORDS[78,61]# Theres only 2 encounters of 3 mobs, but watch out for the stealthed wolves", x = 49, y = 37, zone = "The Hinterlands" },
+			[21] = { str = "I’m sure by the time you near 47 you’re going to find OOX-09/HL Distress Beacon accept “Find OOX-09/HL” and turn it in at #COORDS[49,37]# and then accept “Rescue OOX-09/HL” and escort it to #COORDS[78,61]# Theres only 2 encounters of 3 mobs, but watch out for the stealthed wolves", x = 49, y = 37, zone = "The Hinterlands" },
 			[22] = { str = "Once you’re about 6k or 1 bar from 47 hearth to Aerie Peak" },
 			[23] = { str = "Turn in any “Troll Necklace Bounty” you have just before you go out" },
 			[24] = { str = "Go up past FP to #COORDS[9,44]# and turn in “The Altar of Zul” accept “Thadius Grimshade”", x = 9, y = 44, zone = "The Hinterlands" },
@@ -304,10 +304,10 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Run over to the grimtotem camp at #COORDS[65,45]# and accept “An Orphan Looking For A Home”", x = 65, y = 45, zone = "Feralas" },
 			[10] = { str = "Go down to the yeti cave at #COORDS[56,56]# and do the robot chicken escort if you can, don’t be afraid to ask for help if needed. It’s really eays now", x = 56, y = 56, zone = "Feralas" },
 
-      [11] = { str = "Grind to the yeti cave at #COORDS[51,31]# on Ironfur Bears and Groddoc Gorillas until you get 3 livers from each of them for “Rhapsody's Kalimdor Kocktail”", x = 51, y = 31, zone = "Feralas" },
+			[11] = { str = "Grind to the yeti cave at #COORDS[51,31]# on Ironfur Bears and Groddoc Gorillas until you get 3 livers from each of them for “Rhapsody's Kalimdor Kocktail”", x = 51, y = 31, zone = "Feralas" },
 			[12] = { str = "Kill the Rage Scar Yeti’s here for “Improved Quality” remember you can skin them for these as well. If a Pristine Yeti Hide drops, accept the quest it gives “Pristine Yeti Hide”" },
 			[13] = { str = "Go to Rockbiter at #COORDS[42,22]# and accept The Giant Guardian", x = 42, y = 22, zone = "Feralas" },
-			[14] = { str = "Do “The Stave of Equinex” by doing the following. Get the Blytan Essence from the fire at #COORDS[38,15]# “The Stave of Equinex” Get the Samha Essence from the fire at #COORDS[40,12]# (atop the ruined arch) to get to it, go around back and hop up the broken rocks (it’s not easily noticed) Go back out the back and Grab the Imbel Essence from the fire at #COORDS[39,9]#. Get the Lahassa Essence from the fire at #COORDS[37,12]# under the brown gazebo. Go down to the Equinex Monolith just over the cliff. Use Troya’s Staff next to it. Touch the Monolith and turn in “The Stave of Equinex”  accept The Morrow Stone", x = 38, y = 15, zone = "Feralas" },
+			[14] = { str = "Do “The Stave of Equinex” by doing the following. Get the Blytan Essence from the fire at #COORDS[38,15]# “The Stave of Equinex” Get the Samha Essence from the fire at #COORDS[40,12]# (atop the ruined arch) to get to it, go around back and hop up the broken rocks (it’s not easily noticed) Go back out the back and Grab the Imbel Essence from the fire at #COORDS[39,9]#. Get the Lahassa Essence from the fire at #COORDS[37,12]# under the brown gazebo. Go down to the Equinex Monolith just over the cliff. Use Troya’s Staff next to it. Touch the Monolith and turn in “The Stave of Equinex” accept The Morrow Stone", x = 38, y = 15, zone = "Feralas" },
 			[15] = { str = "Go back up near the previous flame to #COORDS[38,10]# and turn in The Giant Guardian accept the escort “Wandering Shay”", x = 38, y = 10, zone = "Feralas" },
 			[16] = { str = "Grab the bell from the chest and hotkey it. This is similar to the druid quest back in darkshore. Run her back to Rockbiter at #COORDS[42,21]#and turn in “Wandering Shay” (the trick is to keep ahead of her, if she’s with you by your side she will wander off a lot more and the bell has a 1 minute timer.", x = 42, y = 21, zone = "Feralas" },
 			[17] = { str = "Hearth to Feathermoon Stronghold" },
@@ -315,7 +315,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Take your 2 Elixirs of Fortitude out of your mailbox if you don’t already have them on you." },
 			[20] = { str = "Go across to the 2 story house, turn in The Morrow Stone" },
 
-      [21] = { str = "You should be close to 70% into 47" },
+			[21] = { str = "You should be close to 70% into 47" },
 			[22] = { str = "Fly to Gadgetzan" },
 		}
 	},
@@ -335,7 +335,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Run over west to the Dunemaul Compound clear a path to #COORDS[40,58]# and kill Gor’Marok the Ravager for “The Dunemaul Compound” You don’t need the 20 ogre kills all from here", x = 40, y = 58, zone = "Tanaris" },
 			[10] = { str = "Head over to #COORDS[47,65]# and finish killing the ogres for The Dunemaul Compound while gathering the rest of the artifacts for Gahz'Ridian", x = 47, y = 65, zone = "Tanaris" },
 
-      [11] = { str = "Grind on the ogres until you’re 10.000 XP from 48" },
+			[11] = { str = "Grind on the ogres until you’re 10.000 XP from 48" },
 			[12] = { str = "Sneak up the left side of uldum and go up to the pedestal at #COORDS[37,81]# and turn in Seeing What Happens", x = 37, y = 81, zone = "Tanaris" },
 			[13] = { str = "Talk to the guy who appears, accept The Stone Watcher and talk to him until completed. Then touch the pedastal to turn it back in" },
 			[14] = { str = "Touch the pedastal one more time and accept Return to Ironforge" },
@@ -346,7 +346,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Accept Yuka Screwspigot" },
 			[20] = { str = "Turn in Screecher Spirits at #COORDS[66,22]# SKIP the ZF part", x = 66, y = 22, zone = "Tanaris" },
 
-      [21] = { str = "Hearth to Gadget" },
+			[21] = { str = "Hearth to Gadget" },
 			[22] = { str = "Go near the entrance and accept The Thirsty Goblin back and turn it in accept In Good Taste" },
 			[23] = { str = "Go behind the Inn near the fire, turn in The Dunemaul Compound" },
 			[24] = { str = "Go near the north entrance, hand in Thistleshrub Valley" },
@@ -357,7 +357,7 @@ Table_003_Alliance_40to50 = {
 			[29] = { str = "Run down to the entrance at #COORDS[55,70]# take the spiral down to the entrance that is north. first fork go right. after the circular room at the next fork go right. You will enter a big square room. Go right to #COORDS[55,71]# and grab the survey gear for The Schrimshank Redemption", x = 55, y = 70, zone = "Tanaris" },
 			[30] = { str = "Die on purpose so you end up at Gadget" },
 
-      [31] = { str = "Go to the hill on the west side of town, turn in The Schrimshank Redemption accept Insect Part Analysis pt.1" },
+			[31] = { str = "Go to the hill on the west side of town, turn in The Schrimshank Redemption accept Insect Part Analysis pt.1" },
 			[32] = { str = "Go to the house on the NW part of town, turn in Insect Part Analysis pt.1 accept Insect Part Analysis pt.2" },
 			[33] = { str = "Go back up on the hill, turn in Insect Part Analysis pt.2 accept Rise of the Silithid" },
 			[34] = { str = "Run up to the Shimmering Flats to #COORDS[78,74]# and turn in An Orphan Looking For A Home accept A Short Incubation and since you already have this, turn it back in and accept The Newest Member of the Family now you have 1 hour.", x = 78, y = 74, zone = "Thousand Needles" },
@@ -368,7 +368,7 @@ Table_003_Alliance_40to50 = {
 			[39] = { str = "Turn around to #COORDS[70,18]# and turn in A Future Task", x = 70, y = 18, zone = "Ironforge" },
 			[40] = { str = "Go to #COORDS[31,4]# and turn in Passing the Burden accept Arcane Runes and An Easy Pickup", x = 31, y = 4, zone = "Ironforge" },
 
-      [41] = { str = "Go to #COORDS[70,93]#, turn in An Easy Pickup accept Signal For Pickup then turn it back in. Now you got the flare gun to signal later on.", x = 70, y = 93, zone = "Ironforge" },
+			[41] = { str = "Go to #COORDS[70,93]#, turn in An Easy Pickup accept Signal For Pickup then turn it back in. Now you got the flare gun to signal later on.", x = 70, y = 93, zone = "Ironforge" },
 			[42] = { str = "Fly to the Hinterlands" },
 		}
 	},
@@ -403,7 +403,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Go up to #COORDS[38,34]# and kill King Bangalash for Big Game Hunter he spawns level 33 minions. You can kill him before a few come out. Not like they’re a problem.", x = 38, y = 34, zone = "Stranglethorn Vale" },
 			[10] = { str = "Run up to #COORDS[48,25]# and kill the elite ogres all around here until Maury’s Key drops for Cracking Maury’s Foot If you don’t find this after an hour just abandon the quest. It has a low drop rate. I grind till im 2 bars from 49 if I don’t get the key. Usally it’s about an hours worth.", x = 48, y = 25, zone = "Stranglethorn Vale" },
 
-      [11] = { str = "Go up to Nessingways at #COORDS[35,10]# and turn in Big Game Hunter", x = 35, y = 10, zone = "Stranglethorn Vale" },
+			[11] = { str = "Go up to Nessingways at #COORDS[35,10]# and turn in Big Game Hunter", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[12] = { str = "Hearth to Booty Bay Run up to the half boat just outside the Inn" },
 			[13] = { str = "Turn in Stranglethorn Fever" },
 			[14] = { str = "Run to the shore just east of BB and open blue bottles until you get Carefully Folded Note which starts Message in A Bottle pt.1" },
@@ -414,7 +414,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "If hearth is up, use it, otherwise die so you end up at BB" },
 			[20] = { str = "Go near the boat, turn in “The Captain's Chest”" },
 
-      [21] = { str = "Go up top of the Inn, turn in “The Bloodsail Buccaneers pt.5”" },
+			[21] = { str = "Go up top of the Inn, turn in “The Bloodsail Buccaneers pt.5”" },
 			[22] = { str = "Fly to SW and go to #COORDS[64,20]# turn in “Rhapsody's Tale” SKIP the rest", x = 64, y = 20, zone = "Stormwind" },
 			[23] = { str = "From here on, either look at the AH when you go by one, or use your AH char to search for your Beaststalker Bracers. I got mine for 8g also look for a mithril casing for later in Un’Goro" },
 			[24] = { str = "Fly to Duskwood" },
@@ -437,9 +437,9 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "Grind down to #COORDS[51,35]# and accept Everything Counts In Large Amounts If you do find one of these, hand it back in when you pass her, you’re bound to find at least one while here. Don’t even bother with the other quest you’ll Never find it. I’ve been playing WoW since release and never found one. ", x = 51, y = 35, zone = "Blasted Lands" },
 			[8] = { str = "Go to #COORDS[50,14]# and turn in the 5 quests, The Basilisk's Bite Vulture's Vigor Snickerfang Jowls A Boar's Vitality and The Decisive Striker but turn in the one you want the most last, because you get buffed and get an item as well. These each give 4700 xp", x = 50, y = 14, zone = "Blasted Lands" },
 			[9] = { str = "Go to Nethergarde Keep to the top of the tall tower at #COORDS[66,19]# and turn in “Thadius Grimshade” SKIP the next part.", x = 66, y = 19, zone = "Blasted Lands" },
-			[10] = { str = "You should be close to 70% into 49 now.  If you don’t want to do ZF to hit 50, grind here until you’re about 13k from 50. If you wanna do ZF go to the next step." },
+			[10] = { str = "You should be close to 70% into 49 now. If you don’t want to do ZF to hit 50, grind here until you’re about 13k from 50. If you wanna do ZF go to the next step." },
 
-      [11] = { str = "Hearth to Booty Bay" },
+			[11] = { str = "Hearth to Booty Bay" },
 			[12] = { str = "Accept Zanzil's Mixture and A Fool's Stout" },
 			[13] = { str = "Get on the boat to Rachet" },
 			[14] = { str = "Accept “Volcanic Activity at the first hut off the dock" },
@@ -450,9 +450,9 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Run in the Shimmering Flats to #COORDS[77,77]# and turn in Zanzil's Mixture and A Fool's Stout accept Get the Goblins Drunk go to #COORDS[79,76]# and turn it in.", x = 77, y = 77, zone = "Thousand Needles" },
 			[20] = { str = "Go back to #COORDS[77,77]# and accept Report Back to Fizzlebub", x = 77, y = 77, zone = "Thousand Needles" },
 
-      [21] = { str = "Go to #COORDS[52,45]# and turn in “The Stone Circle” SKIP the rest unless you plan on doing the Sunken Temple.", x = 52, y = 45, zone = "Thousand Needles" },
+			[21] = { str = "Go to #COORDS[52,45]# and turn in “The Stone Circle” SKIP the rest unless you plan on doing the Sunken Temple.", x = 52, y = 45, zone = "Thousand Needles" },
 			[22] = { str = "You should be about 30k from 50 now, Like I said above, either go do ZF or you should have grinded in Blasted Lands." },
-			[23] = { str = "If you do ZF you only really need to complete at least 2-3 of the following quests Troll Temper Divino-matic Rod Gahz'rilla The Prophecy of Mosh'Aru I highly suggest getting  Divino-matic Rod and Gahz'rilla because you get an awesome ring and a mount speed inscrease trinket which I’ve used since the start of WoW and you will use them on up to 60 and then some." },
+			[23] = { str = "If you do ZF you only really need to complete at least 2-3 of the following quests Troll Temper Divino-matic Rod Gahz'rilla The Prophecy of Mosh'Aru I highly suggest getting Divino-matic Rod and Gahz'rilla because you get an awesome ring and a mount speed inscrease trinket which I’ve used since the start of WoW and you will use them on up to 60 and then some." },
 			[24] = { str = "Now you should be about 1-2 bars into 50 if you went to ZF. From here on out there is a lot more fresh content, as you seen 45-50 is a pain in the ass. We still have a lot of untouched areas to XP in now." },
 			[25] = { str = "Hearth to BB and turn in Report Back to Fizzlebub" },
 			[26] = { str = "Fly to IF to get new skills and accept the quest “The Hunter's Charm”" },
