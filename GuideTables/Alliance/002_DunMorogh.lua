@@ -20,7 +20,7 @@ Table_002_DunMorogh = {
 			[14] = { str = "At #COORDS[26,79]# clear in front of the cave and grab Felix's Bucket of Bolts for 'A Refugee's Quandary' then kill the trolls in and out of it until you complete 'The Troll Cave'.", x = 26, y = 79, zone = "Dun Morogh" },
 			[15] = { str = "Run back up to #COORDS[25,75]# and turn in 'The Troll Cave' accept 'The Stolen Journal' you should be 5 or very close to it now.", x = 25, y = 75, zone = "Dun Morogh" },
 			[16] = { str = "Go back in the cave at #COORDS[26,79]# and go left at the 3 directions to #COORDS[30,80]# and kill Grik'nir the Cold for 'The Stolen Journal'.", x = 30, y = 80, zone = "Dun Morogh" },
-			[17] = { str = "Return back to #COORDS[25,75]# and turn in 'The Stolen Journal' accept 'Senir's Observations pt.1'", x = 25, y = 75, zone = "Dun Morogh" },
+			[17] = { str = "Return back to #COORDS[25,75]# and turn in 'The Stolen Journal' accept 'Senir's Observations pt.1'.", x = 25, y = 75, zone = "Dun Morogh" },
 			[18] = { str = "Turn around and Accept 'Scalding Mornbrew Delivery' and hearth." },
 			[19] = { str = "Run up into Anvilmar at #COORDS[28,69]# and turn in 'A Refugee's Quandary'.", x = 28, y = 69, zone = "Dun Morogh" },
 			[20] = { str = "Go further back and turn in 'Scalding Mornbrew Delivery' accept 'Bring Back the Mug'." },
