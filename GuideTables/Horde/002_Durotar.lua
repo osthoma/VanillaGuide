@@ -33,7 +33,7 @@ Table_002_Durotar = {
 			[8] = { str = "Then turn #TURNIN\"Sarkoth\"# in at #COORDS[40,62]# ... Accept #ACCEPT\"Sarkoth\"# pt.2", x = 40, y = 62, zone = "Durotar" },
 			[9] = { str = "Make sure #DOQUEST\"Cutting Teeth\"# is complete." },
 			[10] = { str = "Go turn in #TURNIN\"Sarkoth\"# pt.2 and #TURNIN\"Cutting Teeth\"# at #COORDS[42,68]# ... Accept #ACCEPT\"Etched Tablet\"# and #ACCEPT\"Sting of the Scorpid\"# ", x = 42, y = 68, zone = "Durotar" },
-			[11] = { str = "Turn in #ACCEPT\"Etched Tablet\"# (around at #COORDS[43,69]#) and get new spells/abilities for your class.", x = 43, y = 69, zone = "Durotar" },
+			[11] = { str = "Turn in #ACCEPT\"Etched Tablet\"# (around #COORDS[43,69]#) and get new spells/abilities for your class.", x = 43, y = 69, zone = "Durotar" },
 			[12] = { str = "Then accept and do the following:  #DOQUEST\"Sting of the Scorpid\"#   #DOQUEST\"Vile Familiars\"#   #DOQUEST\"Galgar's Cactus Apple Surprise\"# and #DOQUEST\"Lazy Peons\"#   (all these are done north and north-east of Valley of Trials)" },
 			[13] = { str = "Turn all those quests in, then accept #ACCEPT\"Burning Blade Medallion\"# and #ACCEPT\"Thazz'ril's Pick\"# " },
 			[14] = { str = "Go do: #DOQUEST\"Burning Blade Medallion\"# and #DOQUEST\"Thazz'ril's Pick\"#   (these are done in the cave at #COORDS[44,56]#)", x = 44, y = 56, zone = "Durotar" },
