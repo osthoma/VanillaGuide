@@ -12,7 +12,7 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "Accept 'Liquid Stone' then turn it back in" },
 			[8] = { str = "Grind down to #COORDS[66,21]# and open the crate for 'Mirages'", x = 66, y = 21, zone = "Badlands" },
 			[9] = { str = "Grind over to the dig site at #COORDS[53,29]# and kill the dwarfs for 'A Dwarf and His Tools' On the right side of the hole at #COORDS[53,33]# touch the note in the tent for 'A Sign of Hope'", x = 53, y = 29, zone = "Badlands" },
-			[10] = { str = " Grind up to #COORDS[53,43]# and hand in 'Mirages' accept 'Scrounging'", x = 53, y = 43, zone = "Badlands" },
+			[10] = { str = "Grind up to #COORDS[53,43]# and hand in 'Mirages' accept 'Scrounging'", x = 53, y = 43, zone = "Badlands" },
 
 			[11] = { str = "Also turn in 'A Dwarf and His Tools' and 'A Sign of Hope' accept the next part to Uldaman" },
 			[12] = { str = "Grind down to #COORDS[61,54]# and accept 'Tremors of the Earth' The ogres spawn at #COORDS[62,70]# and wander to #COORDS[29,56]# so kill them if you see them. The boss is easy to pull off the back, with the small add or none.", x = 61, y = 54, zone = "Badlands" },
@@ -179,7 +179,7 @@ Table_003_Alliance_40to50 = {
 			[31] = { str = "Turn in 'More Wastewander Justice'." },
 			[32] = { str = "Accept 'Handle With Care' near the north side of town" },
 			[33] = { str = "You should be about ¾ TNL now" },
-			[34] = { str = " Fly to Feralas" },
+			[34] = { str = "Fly to Feralas" },
 		}
 	},
 
@@ -199,10 +199,10 @@ Table_003_Alliance_40to50 = {
 			[10] = { str = "I kill the naga until im about 2500 TNL because I’m usually under 15k TNL when I get to this part. They give an average of 250 per kill" },
 
 			[11] = { str = "Go back to Feathermoon to the big building, turn in 'Against the Hatecrest pt.2' accept 'Against Lord Shalzaru'." },
-			[12] = { str = " Go down to the cave at #COORDS[26,66]# and kill Lord Shalzaru at the end for 'Against Lord Shalzaru'", x = 26, y = 66, zone = "Feralas" },
+			[12] = { str = "Go down to the cave at #COORDS[26,66]# and kill Lord Shalzaru at the end for 'Against Lord Shalzaru'", x = 26, y = 66, zone = "Feralas" },
 			[13] = { str = "Die so you end up at Feathermoon" },
 			[14] = { str = "Go back to Feathermoon to the big building, turn in 'Against Lord Shalzaru' accept 'Delivering the Relic' go to the other side of the building and turn it in." },
-			[15] = { str = " Take the boat to the mainland" },
+			[15] = { str = "Take the boat to the mainland" },
 			[16] = { str = "Go south of the dock and kill screechers for 'Screecher Spirits'." },
 			[17] = { str = "Go down to #COORDS[45,65]# and touch the wrecked boat to turn in 'The Missing Courier pt.2' accept 'Boat Wreckage'", x = 45, y = 65, zone = "Feralas" },
 			[18] = { str = "Hearth to Feathermoon" },
@@ -408,7 +408,7 @@ Table_003_Alliance_40to50 = {
 			[13] = { str = "Turn in Stranglethorn Fever" },
 			[14] = { str = "Run to the shore just east of BB and open blue bottles until you get Carefully Folded Note which starts Message in A Bottle pt.1" },
 			[15] = { str = "Go to #COORDS[36,69]# and kill Gorlash for 'The Captain's Chest' He’s a 47 elite, it can be tough but I did it. Use everything you have.", x = 36, y = 69, zone = "Stranglethorn Vale" },
-			[16] = { str = " Go to #COORDS[38,80]# and turn in Message in A Bottle pt.1 SKIP the next part, unless you can get a group to kill the 51 ape.", x = 38, y = 80, zone = "Stranglethorn Vale" },
+			[16] = { str = "Go to #COORDS[38,80]# and turn in Message in A Bottle pt.1 SKIP the next part, unless you can get a group to kill the 51 ape.", x = 38, y = 80, zone = "Stranglethorn Vale" },
 			[17] = { str = "Go down to the pirate ships, 1 is at #COORDS[33,87]# and the other 2 are at #COORDS[30,88]# You want to go to the 2nd floor near the front of the ship and kill the captain of each for 'The Bloodsail Buccaneers pt.5'", x = 33, y = 87, zone = "Stranglethorn Vale" },
 			[18] = { str = "Look for a scroll on one of the ships called Cortello's Riddle which starts 'Cortello's Riddle pt.1'." },
 			[19] = { str = "If hearth is up, use it, otherwise die so you end up at BB" },
@@ -429,8 +429,8 @@ Table_003_Alliance_40to50 = {
 		title = "49-50 Blasted Lands",
 		items = {
 			[1] = { str = "49-50 Blasted Lands" },
-			[2] = { str = " No need to rush through this zone, so grind on anything you see." },
-			[3] = { str = " Stop at #COORDS[50,14]# and accept the following 5 quests: The Basilisk's Bite Vulture's Vigor Snickerfang Jowls A Boar's Vitality and The Decisive Striker.", x = 50, y = 14, zone = "Blasted Lands" },
+			[2] = { str = "No need to rush through this zone, so grind on anything you see." },
+			[3] = { str = "Stop at #COORDS[50,14]# and accept the following 5 quests: The Basilisk's Bite Vulture's Vigor Snickerfang Jowls A Boar's Vitality and The Decisive Striker.", x = 50, y = 14, zone = "Blasted Lands" },
 			[4] = { str = "You’re going to need the following amount of items to complete all 5 of these quests. Snickerfang Jowls:5, Blasted Boar Lungs:6, Scorpok Pincers:6, Basilisk Brain:11, Vulture Gizzards:14 It’s going to be like grinding getting all this so you’re killing 2 birds with 1 stone. You’ll most likely gain half a level before you turn these in." },
 			[5] = { str = "Just circle the center of the map and you’ll find all the stuff you need to kill. I’d mark it with coords but there would be way too many. You might want to avoid anything 53 and up which are farther to the south You should make some nice money with skinning here." },
 			[6] = { str = "You should be close to 3 ½ bars into 49 now" },

@@ -614,7 +614,7 @@ Table_003_Alliance_50to60 = {
 			[14] = { str = "Hearth to Everlook" },
 			[15] = { str = "Turn in 'Luck Be With You' at the 2 horde near the back of everlook" },
 			[16] = { str = "You should be about 25% into 59 now." },
-			[17] = { str = " Accept 'Cache of Mau'Ari' if you want to. This just gives you an item which allows the mobs here to drop stuff which you can turn in for buffs" },
+			[17] = { str = "Accept 'Cache of Mau'Ari' if you want to. This just gives you an item which allows the mobs here to drop stuff which you can turn in for buffs" },
 			[18] = { str = "Go up to Starfall Village at #COORDS[52,30]# and turn in 'Enraged Wildkin pt.3'", x = 52, y = 30, zone = "Winterspring" },
 			[19] = { str = "Run to #COORDS[31,45]# and turn in 'Mystery Goo' accept 'Toxic Horrors'", x = 31, y = 45, zone = "Winterspring" },
 			[20] = { str = "Run into Felwood and go to #COORDS[48,24]# and kill toxic horrors for 'Toxic Horrors' these also drop essence of waters.", x = 48, y = 24, zone = "Felwood" },
