@@ -32,7 +32,7 @@ Table_003_Alliance_40to50 = {
 			[25] = { str = "Go to #C_[53,43]# and turn in #Q_'Scrounging'#.", x = 53, y = 43, zone = "Badlands" },
 			[26] = { str = "Go to #C_[61,54]# and turn in #Q_'Tremors of the Earth'# SKIP the next part.", x = 61, y = 54, zone = "Badlands" },
 			[27] = { str = "Now you should be 41, if you’re not go east into the ravine and kill the whelps until you level. I usually go here and grind for at least 30 min whether or not im 41 and try to get the heart for #Q_'Fiery Blaze Enchantment'# If you don’t find it in 30 min just abandon it." },
-			[28] = { str = "Hearth to Thelsamar." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to Thelsamar." },
 			[29] = { str = "Go in the house behind the Inn and turn in #Q_'Badlands Reagent Run'# accept the Uldaman part." },
 			[30] = { str = "Run to #C_[65,65]# turn in #Q_'Murdaloc'# accept the Uldaman part I’m almost 25% into 41 now.", x = 65, y = 65, zone = "Loch Modan" },
 
@@ -67,7 +67,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Run up to the lake around the Sunken Temple at #C_[70,54]# and you should get a complete message for In Search of The Temple.", x = 70, y = 54, zone = "Swamp of Sorrows" },
 			[20] = { str = "Go up to about #C_[76,6]# and start killing silt and monstrous crawlers and work your way south for '… and bugs' until it’s done. Also look for wood planks on the ground for #Q_'Driftwood'#.", x = 76, y = 6, zone = "Swamp of Sorrows" },
 
-			[21] = { str = "Hearth to Darkshire and get your cat back out." },
+			[21] = { str = "Use your #I_[Hearthstone]# to return to Darkshire and get your cat back out." },
 			[22] = { str = "Fly to Nethergarde and run back up into the swamp." },
 			[23] = { str = "Go to #C_[26,59]# and turn in #Q_'Driftwood'# accept #Q_'Deliver the Shipment'#.", x = 26, y = 59, zone = "Swamp of Sorrows" },
 			[24] = { str = "Run down into the Blasted Lands and turn in #Q_'Deliver the Shipment'# at #C_[66,21]#.", x = 66, y = 21, zone = "Blasted Lands" },
@@ -90,7 +90,7 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "Kill undead ravagers around #C_[61,90]# for #Q_'Down the Scarlet Path'# and 'Ghost-O-Plasm Round Up' between the 2 skeletons in the middle.", x = 61, y = 90, zone = "Desolace" },
 			[8] = { str = "You should hit 42 by the time you’re done kililng these." },
 			[9] = { str = "Go back to #C_[47,61]# and turn in 'Ghost-O-Plasm Round Up'.", x = 47, y = 61, zone = "Desolace" },
-			[10] = { str = "Hearth to Nijel’s Point." },
+			[10] = { str = "Use your #I_[Hearthstone]# to return to Nijel’s Point." },
 
 			[11] = { str = "Turn in #Q_'Down the Scarlet Path'# SKIP the next part." },
 			[12] = { str = "Go just south of the Inn, turn in 'Reagents For Reclaimers Inc pt.3' accept 'Reagents For Reclaimers Inc pt.4'." },
@@ -130,7 +130,7 @@ Table_003_Alliance_40to50 = {
 			[21] = { str = "Die on purpose so you’re near the rebel camp." },
 			[22] = { str = "Go to the rebel camp at #C_[38,3]# and turn in #Q_'Colonel Kurzen'#.", x = 38, y = 3, zone = "Stranglethorn Vale" },
 			[23] = { str = "Kill the trolls around #C_[44,34]# until you’re about 9k from leveling.", x = 44, y = 34, zone = "Stranglethorn Vale" },
-			[24] = { str = "Hearth to #A_Booty Bay#." },
+			[24] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay#." },
 			[25] = { str = "Turn in 'Zanzil's Secret'." },
 			[26] = { str = "Go down by the Bank, turn in 'Akiris By the Bundle pt.1' accept 'Akiris By the Bundle pt.2'." },
 			[27] = { str = "Go to the house in front of the half boat, turn in #Q_'Voodoo Dues'# accept 'Cracking Maury's Foot'." },
@@ -152,7 +152,7 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "Go to The Shimmering Flats to #C_[77,77]# and turn in #Q_'Rumors for Kravel'# accept #Q_'Back to Booty Bay'#.", x = 77, y = 77, zone = "Thousand Needles" },
 			[8] = { str = "Just beside him turn in #Q_'News for Fizzle'#." },
 			[9] = { str = "Go to #C_[80,75]# and accept #Q_'Keeping Pace'# do it by talking with zamek just south of here, has a blue ? on his head. Don’t follow him, run to rizzles house at #C_[77,77]# and when he leaves grab the unguarded plans which turns in #Q_'Keeping Pace'# accept 'Rizzle's Schematics' turn it in at #C_[80,75]#.", x = 80, y = 75, zone = "Thousand Needles" },
-			[10] = { str = "Hearth to Gadget." },
+			[10] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
 
 			[11] = { str = "Run out to Steamwheedle Port at #C_[59,80]#.", x = 59, y = 80, zone = "Tanaris" },
 			[12] = { str = "Turn in Stoley's Debt at the southern most house, accept 'Stoley’s Shipment' and 'Southsea Shakedown'." },
@@ -163,7 +163,7 @@ Table_003_Alliance_40to50 = {
 			[17] = { str = "1You may get some drops of Pirate's Footlocker which can hold Ship Schedule and the upper middle and lower map fragments which starts 'Cuergo’s Gold' and 'Ship Schedules' only do them if you find them. If I don’t find them all I skip them or sell what I have." },
 			[18] = { str = "Kill Andre Firebeard at #C_[73,47]# for 'WANTED: Andre Firebeard'.", x = 73, y = 47, zone = "Tanaris" },
 			[19] = { str = "Go to the only 2 story house out here at #C_[72,46]# and get the stolen wine for 'Stoley’s Shipment'. It’s on the 2nd floor.", x = 72, y = 46, zone = "Tanaris" },
-			[20] = { str = "Hearth to Gadget." },
+			[20] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
 
 			[21] = { str = "Turn in #Q_'Wastewander Justice'# accept #Q_'More Wastewander Justice'#." },
 			[22] = { str = "Turn in 'WANTED: Caliph Scorpidsting' and 'Water Pouch Bounty'." },
@@ -174,7 +174,7 @@ Table_003_Alliance_40to50 = {
 			[27] = { str = "Go back up to Steamweedle Port at #C_[59,80]# to the southern house and turn in 'Stoley’s Shipment' accept 'Deliver to MacKinley'.", x = 59, y = 80, zone = "Tanaris" },
 			[28] = { str = "Turn in 'WANTED: Andre Firebeard' and 'Southsea Shakedown'." },
 			[29] = { str = "Go to the northern house, turn in 'Pirate Hats Ahoy!'." },
-			[30] = { str = "Hearth to Gadget." },
+			[30] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
 
 			[31] = { str = "Turn in #Q_'More Wastewander Justice'#." },
 			[32] = { str = "Accept #Q_'Handle With Care'# near the north side of town." },
@@ -205,7 +205,7 @@ Table_003_Alliance_40to50 = {
 			[15] = { str = "Take the boat to the mainland." },
 			[16] = { str = "Go south of the dock and kill screechers for #Q_'Screecher Spirits'#." },
 			[17] = { str = "Go down to #C_[45,65]# and touch the wrecked boat to turn in 'The Missing Courier pt.2' accept 'Boat Wreckage'.", x = 45, y = 65, zone = "Feralas" },
-			[18] = { str = "Hearth to Feathermoon." },
+			[18] = { str = "Use your #I_[Hearthstone]# to return to Feathermoon." },
 			[19] = { str = "Go in the little building across from the Inn on the 2nd floor, turn in #Q_'Boat Wreckage'# accept #Q_'The Knife Revealed'#." },
 			[20] = { str = "Go up top of the big spiral tower, turn in #Q_'The Knife Revealed'# accept #Q_'Psychometric Reading'#." },
 
@@ -221,7 +221,7 @@ Table_003_Alliance_40to50 = {
 			[30] = { str = "Right click the Backpack, accept #Q_'Thalanaar Delivery'#." },
 
 			[31] = { str = "Grind down to the hive at #C_[73,63]# and go all the way down. Go into the southern tunnel and stay right, You’ll see a Zukk’Ash Pod there. Turn in #Q_'The Writhing Deep'# accept 'Freed From the Hive.", x = 73, y = 63, zone = "Feralas" },
-			[32] = { str = "Hearth to Feathermoon." },
+			[32] = { str = "Use your #I_[Hearthstone]# to return to Feathermoon." },
 			[33] = { str = "On the water side of the Gazebo, turn in #Q_'The Mark of Quality'# accept #Q_'Improved Quality'#." },
 			[34] = { str = "Go in the small house across from the Inn, turn in #Q_'The High Wilderness'# then go upstairs and turn in #Q_'Freed From the Hive'# accept 'A Hero’s Welcome'." },
 			[35] = { str = "Go to the big building next door and turn in 'A Hero’s Welcome' accept 'Rise of the Silithid'." },
@@ -233,7 +233,7 @@ Table_003_Alliance_40to50 = {
 
 			[41] = { str = "Go to the temple of the moon at #C_[39,86]# and up to the 2nd floor, turn in #Q_'Rise of the Silithid'# and 'Doling Justice pt.2.", x = 39, y = 86, zone = "Feralas" },
 			[42] = { str = "Buy 2 Elixir of Fortitude for a later part of this quest." },
-			[43] = { str = "Hearth to Feathermoon and fly to Gadgetzan and turn in #Q_'The Borrower'# accept #Q_'The Super Snapper FX'#." },
+			[43] = { str = "Use your #I_[Hearthstone]# to return to Feathermoon and fly to Gadgetzan and turn in #Q_'The Borrower'# accept #Q_'The Super Snapper FX'#." },
 		}
 	},
 
@@ -270,7 +270,7 @@ Table_003_Alliance_40to50 = {
 			[12] = { str = "Go to #C_[49,37]# if you found OOX-09/HL Distress Beacon.", x = 49, y = 37, zone = "The Hinterlands" },
 			[13] = { str = "Go to #C_[56,41]# and kill Jade Oozes for part 2 of 'Skulk Rock Clean-Up'.", x = 56, y = 41, zone = "The Hinterlands" },
 			[14] = { str = "Go to the waterfall at #C_[81,46]# and dive into the water below, then go south along this shore until you see Gammerita and take her picture for #Q_'The Super Snapper FX'# Also you want to keep an eye out for bottles along the shore for 'Whiskey Slim's Lost Grog'.", x = 81, y = 46, zone = "The Hinterlands" },
-			[15] = { str = "Hearth to Aerie Peak." },
+			[15] = { str = "Use your #I_[Hearthstone]# to return to Aerie Peak." },
 			[16] = { str = "Go to the front of the Inn and turn in 'Skulk Rock Clean-Up' and 'Troll Necklace Bounty' and any extra 5 necklaces you have." },
 			[17] = { str = "Go up past the flight path in the cave at #C_[9,44]# and turn in #Q_'Witherbark Cages'# accept #Q_'The Altar of Zul'#.", x = 9, y = 44, zone = "The Hinterlands" },
 			[18] = { str = "Go run up top of the Altar of Zul at #C_[48,68]# for #Q_'The Altar of Zul'#.", x = 48, y = 68, zone = "The Hinterlands" },
@@ -278,7 +278,7 @@ Table_003_Alliance_40to50 = {
 			[20] = { str = "Get the quest 'Jammal'an the Prophet' at #C_[33,75]# if you plan to do Sunken Temple later.", x = 33, y = 75, zone = "The Hinterlands" },
 
 			[21] = { str = "I’m sure by the time you near 47 you’re going to find OOX-09/HL Distress Beacon accept 'Find OOX-09/HL' and turn it in at #C_[49,37]# and then accept 'Rescue OOX-09/HL' and escort it to #C_[78,61]# Theres only 2 encounters of 3 mobs, but watch out for the stealthed wolves.", x = 49, y = 37, zone = "The Hinterlands" },
-			[22] = { str = "Once you’re about 6k or 1 bar from 47 hearth to Aerie Peak." },
+			[22] = { str = "Once you’re about 6k or 1 bar from 47 use your #I_[Hearthstone]# to return to Aerie Peak." },
 			[23] = { str = "Turn in any #Q_'Troll Necklace Bounty'# you have just before you go out." },
 			[24] = { str = "Go up past flight path to #C_[9,44]# and turn in #Q_'The Altar of Zul'# accept #Q_'Thadius Grimshade'#.", x = 9, y = 44, zone = "The Hinterlands" },
 			[25] = { str = "Fly to Menethil Harbor and take the boat to Auberdine, then fly to Rut’theran Village." },
@@ -310,7 +310,7 @@ Table_003_Alliance_40to50 = {
 			[14] = { str = "Do #Q_'The Stave of Equinex'# by doing the following. Get the Blytan Essence from the fire at #C_[38,15]# #Q_'The Stave of Equinex'# Get the Samha Essence from the fire at #C_[40,12]# (atop the ruined arch) to get to it, go around back and hop up the broken rocks (it’s not easily noticed) Go back out the back and Grab the Imbel Essence from the fire at #C_[39,9]#. Get the Lahassa Essence from the fire at #C_[37,12]# under the brown gazebo. Go down to the Equinex Monolith just over the cliff. Use Troya’s Staff next to it. Touch the Monolith and turn in #Q_'The Stave of Equinex'# accept The Morrow Stone.", x = 38, y = 15, zone = "Feralas" },
 			[15] = { str = "Go back up near the previous flame to #C_[38,10]# and turn in The Giant Guardian accept the escort #Q_'Wandering Shay'#.", x = 38, y = 10, zone = "Feralas" },
 			[16] = { str = "Grab the bell from the chest and hotkey it. This is similar to the druid quest back in darkshore. Run her back to Rockbiter at #C_[42,21]#and turn in #Q_'Wandering Shay'# (the trick is to keep ahead of her, if she’s with you by your side she will wander off a lot more and the bell has a 1 minute timer.", x = 42, y = 21, zone = "Feralas" },
-			[17] = { str = "Hearth to Feathermoon Stronghold." },
+			[17] = { str = "Use your #I_[Hearthstone]# to return to Feathermoon Stronghold." },
 			[18] = { str = "Go to the gazebo near the water beside the hippograph master, turn in #Q_'Pristine Yeti Hide'# and #Q_'Improved Quality'#." },
 			[19] = { str = "Take your 2 Elixirs of Fortitude out of your mailbox if you don’t already have them on you." },
 			[20] = { str = "Go across to the 2 story house, turn in The Morrow Stone." },
@@ -346,7 +346,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Accept Yuka Screwspigot." },
 			[20] = { str = "Turn in Screecher Spirits at #C_[66,22]# SKIP the ZF part.", x = 66, y = 22, zone = "Tanaris" },
 
-			[21] = { str = "Hearth to Gadget." },
+			[21] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
 			[22] = { str = "Go near the entrance and accept The Thirsty Goblin back and turn it in accept In Good Taste." },
 			[23] = { str = "Go behind the Inn near the fire, turn in The Dunemaul Compound." },
 			[24] = { str = "Go near the north entrance, hand in Thistleshrub Valley." },
@@ -384,7 +384,7 @@ Table_003_Alliance_40to50 = {
 			[5] = { str = "Grind until you’re east of #C_[57,47]# and kill Silvermane Stalkers for Food For Baby.", x = 57, y = 47, zone = "The Hinterlands" },
 			[6] = { str = "Run back to Aerie Peak and go to the bottom floor of the Inn." },
 			[7] = { str = "Turn in Food For Baby accept Becoming A Parent then turn it back in. Cute pet and good xp =)." },
-			[8] = { str = "Hearth to #A_Ironforge# and fly to #A_Booty Bay#." },
+			[8] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Booty Bay#." },
 		}
 	},
 
@@ -404,14 +404,14 @@ Table_003_Alliance_40to50 = {
 			[10] = { str = "Run up to #C_[48,25]# and kill the elite ogres all around here until Maury’s Key drops for Cracking Maury’s Foot If you don’t find this after an hour just abandon the quest. It has a low drop rate. I grind till im 2 bars from 49 if I don’t get the key. Usally it’s about an hours worth.", x = 48, y = 25, zone = "Stranglethorn Vale" },
 
 			[11] = { str = "Go up to Nessingways at #C_[35,10]# and turn in Big Game Hunter.", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[12] = { str = "Hearth to Booty Bay Run up to the half boat just outside the Inn." },
+			[12] = { str = "Use your #I_[Hearthstone]# to return to Booty Bay Run up to the half boat just outside the Inn." },
 			[13] = { str = "Turn in Stranglethorn Fever." },
 			[14] = { str = "Run to the shore just east of #A_Booty Bay# and open blue bottles until you get Carefully Folded Note which starts Message in A Bottle pt.1." },
 			[15] = { str = "Go to #C_[36,69]# and kill Gorlash for 'The Captain's Chest' He’s a 47 elite, it can be tough but I did it. Use everything you have.", x = 36, y = 69, zone = "Stranglethorn Vale" },
 			[16] = { str = "Go to #C_[38,80]# and turn in Message in A Bottle pt.1 SKIP the next part, unless you can get a group to kill the 51 ape.", x = 38, y = 80, zone = "Stranglethorn Vale" },
 			[17] = { str = "Go down to the pirate ships, 1 is at #C_[33,87]# and the other 2 are at #C_[30,88]# You want to go to the 2nd floor near the front of the ship and kill the captain of each for 'The Bloodsail Buccaneers pt.5'.", x = 33, y = 87, zone = "Stranglethorn Vale" },
 			[18] = { str = "Look for a scroll on one of the ships called Cortello's Riddle which starts 'Cortello's Riddle pt.1'." },
-			[19] = { str = "If hearth is up, use it, otherwise die so you end up at #A_Booty Bay#." },
+			[19] = { str = "If your #I_[Hearthstone]# is up, use it, otherwise die so you end up at #A_Booty Bay#." },
 			[20] = { str = "Go near the boat, turn in 'The Captain's Chest'." },
 
 			[21] = { str = "Go up top of the Inn, turn in 'The Bloodsail Buccaneers pt.5'." },
@@ -439,7 +439,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Go to Nethergarde Keep to the top of the tall tower at #C_[66,19]# and turn in #Q_'Thadius Grimshade'# SKIP the next part.", x = 66, y = 19, zone = "Blasted Lands" },
 			[10] = { str = "You should be close to 70% into 49 now. If you don’t want to do ZF to hit 50, grind here until you’re about 13k from 50. If you wanna do ZF go to the next step." },
 
-			[11] = { str = "Hearth to Booty Bay." },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to Booty Bay." },
 			[12] = { str = "Accept Zanzil's Mixture and A Fool's Stout." },
 			[13] = { str = "Get on the boat to Rachet." },
 			[14] = { str = "Accept 'Volcanic Activity at the first hut off the dock." },
@@ -454,7 +454,7 @@ Table_003_Alliance_40to50 = {
 			[22] = { str = "You should be about 30k from 50 now, Like I said above, either go do ZF or you should have grinded in Blasted Lands." },
 			[23] = { str = "If you do ZF you only really need to complete at least 2-3 of the following quests Troll Temper Divino-matic Rod Gahz'rilla The Prophecy of Mosh'Aru I highly suggest getting Divino-matic Rod and Gahz'rilla because you get an awesome ring and a mount speed inscrease trinket which I’ve used since the start of WoW and you will use them on up to 60 and then some." },
 			[24] = { str = "Now you should be about 1-2 bars into 50 if you went to ZF. From here on out there is a lot more fresh content, as you seen 45-50 is a pain in the ass. We still have a lot of untouched areas to XP in now." },
-			[25] = { str = "Hearth to #A_Booty Bay# and turn in Report Back to Fizzlebub." },
+			[25] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# and turn in Report Back to Fizzlebub." },
 			[26] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Accept the quest 'The Hunter's Charm'." },
 			[27] = { str = "Make sure you get at least 15 silk cloths out of the mailbox or AH alt." },
 			[28] = { str = "Make #A_Ironforge# your home and accept #Q_'Assisting Arch Druid Staghelm'#." },

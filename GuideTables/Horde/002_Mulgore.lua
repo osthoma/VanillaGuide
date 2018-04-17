@@ -14,7 +14,7 @@ Table_002_Mulgore = {
 			[9] = { str = "Run to #C_[53,81]# and kill Battleboar until you have 8 Flank and 8 Snout.", x = 53, y = 81, zone = "Mulgore" },
 			[10] = { str = "Run to the cave at #C_[58,85]# kill the Quilboar for 12 Belts as you make your way to the tent at #C_[64,77]# and kill Sharptusk making sure to loot him for #Q_'Break Sharptusk!'# then run to the little cave at #C_[63,82]# and on the inside is a Dirt-stained Map. Use it to start #Q_'Attack on Camp Narache'#.", x = 58, y = 85, zone = "Mulgore" },
 
-			[11] = { str = "Hearth back to #A_Camp Narache# go to Chief Hawkwind #C_[44,77]# and turn in #Q_'The Battleboars'#, #Q_'Attack on Camp Narache'# and #Q_'Rite of Strength'# then accept #Q_'Rites of the Earthmother'# part 2.", x = 44, y = 77, zone = "Mulgore" },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Narache# go to Chief Hawkwind #C_[44,77]# and turn in #Q_'The Battleboars'#, #Q_'Attack on Camp Narache'# and #Q_'Rite of Strength'# then accept #Q_'Rites of the Earthmother'# part 2.", x = 44, y = 77, zone = "Mulgore" },
 			[12] = { str = "Talk to Brave Windfeather and turn in #Q_'Break Sharptusk!'#." },
 			[13] = { str = "Go to #C_[38,81]# and speak to Antur Fallow and accept #Q_'A Task Unfinished'# then continue following the road to #A_Bloodhoof Village#.", x = 38, y = 81, zone = "Mulgore" },
 			[14] = { str = "Talk to Innkeeper Kauth and turn in #Q_'A Task Unfinished'# and make #A_Bloodhoof Village# your home." },
@@ -53,7 +53,7 @@ Table_002_Mulgore = {
 		title = "10-12 Mulgore",
 		items = {
 			[1] = { str = "10-12 Mulgore" },
-			[2] = { str = "Hearth to #A_Bloodhoof Village#. Talk to Skorm Whitecloud #C_[46,60]# accept #Q_'The Hunter's Way'#.", x = 46, y = 60, zone = "Mulgore" },
+			[2] = { str = "Use your #I_[Hearthstone]# to return to #A_Bloodhoof Village#. Talk to Skorm Whitecloud #C_[46,60]# accept #Q_'The Hunter's Way'#.", x = 46, y = 60, zone = "Mulgore" },
 			[3] = { str = "Turn in #Q_'Dwarven Digging'# and #Q_'Thunderhorn Totem'# then accept #Q_'Thunderhorn Cleansing'#." },
 			[4] = { str = "Go to 48,60 and speak to Baine Bloodhoof and turn in #Q_'Sharing the Land'#.", x = 48, y = 60, zone = "Mulgore" },
 			[5] = { str = "Go to the Water Well at #C_[44,45]# and use it to cleanse your totem in your inventory.", x = 44, y = 45, zone = "Mulgore" },

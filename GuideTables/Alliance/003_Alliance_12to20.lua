@@ -32,7 +32,7 @@ Table_003_Alliance_12to20 = {
 			[25] = { str = "Do Bashal’Aran pt.4 at #C_[42,61]#.", x = 42, y = 61, zone = "Darkshore" },
 			[26] = { str = "Turn in The Fall of Ameth'Aran at #C_[40,59]#.", x = 40, y = 59, zone = "Darkshore" },
 			[27] = { str = "To the west of Amath’Aran do Plagued Lands." },
-			[28] = { str = "Hearth back to Auberdine Turn in Plagued Lands at the first house accept Cleansing the Infected." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to Auberdine Turn in Plagued Lands at the first house accept Cleansing the Infected." },
 			[29] = { str = "Go inside hand in How Big a Threat? pt.1 accept How Big a Threat? Pt.2." },
 			[30] = { str = "Accept Thundris Windweaver." },
 
@@ -67,7 +67,7 @@ Table_003_Alliance_12to20 = {
 			[12] = { str = "Kill Grizzled Thistle Bear South of Grove of the Ancients for Buzzbox 525 then turn it in at #C_[41,80]#.", x = 41, y = 80, zone = "Darkshore" },
 			[13] = { str = "Stop at #C_[35,74]# and do WANTED: Murkdeep! you have to clear the camp, then the 2 waves from the ocean, then he comes. He’s lvl 19 If you have trouble with him just kite him.", x = 35, y = 74, zone = "Darkshore" },
 			[14] = { str = "Grind over to #C_[32,80]# and get Beached Sea Creature.", x = 32, y = 80, zone = "Darkshore" },
-			[15] = { str = "Hearth back to Auberdine and Turn in all beached creature quests at the hippograph dock." },
+			[15] = { str = "Use your #I_[Hearthstone]# to return to Auberdine and Turn in all beached creature quests at the hippograph dock." },
 			[16] = { str = "Go under the dock grab Fruit of the Sea." },
 			[17] = { str = "Turn in Cave Mushrooms in front of the Inn Accept Onu." },
 			[18] = { str = "Turn in The Fragments Within in front of the Inn." },
@@ -88,7 +88,7 @@ Table_003_Alliance_12to20 = {
 			[31] = { str = "Hand in The Tower of Althalaxx pt.2 accept The Tower of Althalaxx pt.3." },
 			[32] = { str = "Run to #C_[53,18]# and grab Beached Sea Creature.", x = 53, y = 18, zone = "Darkshore" },
 			[33] = { str = "Do Fruit of the Sea from crawlers around here." },
-			[34] = { str = "Hearth back to Auberdine (if you’re not 17 yet you will be) turn in Beached Sea Creature on the dock." },
+			[34] = { str = "Use your #I_[Hearthstone]# to return to Auberdine (if you’re not 17 yet you will be) turn in Beached Sea Creature on the dock." },
 			[35] = { str = "Turn in Fruit of the Sea under the dock." },
 			[36] = { str = "Turn in The Blackwood Corrupted in the merchant house." },
 			[37] = { str = "Turn in Tharnariun's Hope at the last house." },
@@ -170,7 +170,7 @@ Table_003_Alliance_12to20 = {
 			[27] = { str = "Kill Gnolls north of Lakeshire for The Everstill Bridge." },
 			[28] = { str = "Turn in The Everstill Bridge next to the Bridge." },
 			[29] = { str = "Turn in Murloc Poachers in front of the shed." },
-			[30] = { str = "Hearth back to Auberdine. You should definitely be 20 by this point and at least half way to 21." },
+			[30] = { str = "Use your #I_[Hearthstone]# to return to Auberdine. You should definitely be 20 by this point and at least half way to 21." },
 		}
 	},
 }

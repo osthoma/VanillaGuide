@@ -27,7 +27,7 @@ Table_003_Alliance_30to40 = {
 			[1] = { str = "31-31 Alterac Mountains" },
 			[2] = { str = "Run up into Alterac Mountains near the AV entrance around #C_[64,38]# and kill lions for Costly Menace They’re all along the southern border near AV. I usually get all mine in front and West of AV.", x = 64, y = 38, zone = "Alterac Mountains" },
 			[3] = { str = "Go east of AV and do Syndicate Assassins at the camp around #C_[55,67]#. There is a camp close to AV but this one has a quest you can grab near the tents on the table. Clear the camp and touch the syndicate document, accept Foreboding Plans and Encrypted Letter.", x = 55, y = 67, zone = "Alterac Mountains" },
-			[4] = { str = "Hearth to Southshore." },
+			[4] = { str = "Use your #I_[Hearthstone]# to return to Southshore." },
 			[5] = { str = "Go into the town hall, turn in Syndicate Assassins and Foreboding Plans accept Noble Deaths." },
 			[6] = { str = "Stop at the house North of the Inn, turn in Encrypted Letter accept Letter to Stormpike." },
 			[7] = { str = "Go to the barn and turn in Costly Menace." },
@@ -41,7 +41,7 @@ Table_003_Alliance_30to40 = {
 		items = {
 			[1] = { str = "31-32 Arathi Highlands" },
 			[2] = { str = "Accept Northfold Manor grind to it at #C_[33,27]# I grind here until I’m 32.", x = 33, y = 27, zone = "Arathi Highlands" },
-			[3] = { str = "Hearth to Southshore, Fly to Refuge point, turn in Northfold Manor Fly to #A_Ironforge#." },
+			[3] = { str = "Use your #I_[Hearthstone]# to return to Southshore, Fly to Refuge point, turn in Northfold Manor Fly to #A_Ironforge#." },
 			[4] = { str = "Go to the hall of explorers at #C_[69,20]# in #A_Ironforge# accept Reclaimers' Business in Desolace then go turn in Letter to Stormpike accept Further Mysteries.", x = 69, y = 20, zone = "Arathi Highlands" },
 			[5] = { str = "Accept The Brassbolts Brothers in The Hall of Arms at #C_[72,93]# then talk to your #N_Class Trainer# to learn new spells and abilities.", x = 72, y = 93, zone = "Arathi Highlands" },
 			[6] = { str = "Make #A_Ironforge# your home at #C_[18,51]# Buy some Bloodstone Ore for a quest later in STV. If there is none check the AH in Booty Bay.", x = 18, y = 51, zone = "Arathi Highlands" },
@@ -102,7 +102,7 @@ Table_003_Alliance_30to40 = {
 			[16] = { str = "Run east to #C_[80,75]# turn in Load Lightening accept Goblin Sponsorship pt.1.", x = 80, y = 75, zone = "Thousand Needles" },
 			[17] = { str = "Go to #C_[81,77]# and turn in A Bump in the Road.", x = 81, y = 77, zone = "Thousand Needles" },
 			[18] = { str = "Run south into Tanaris and Grab the flight path at Gadgetzan." },
-			[19] = { str = "Hearth back to #A_Ironforge# and fly to Menethil Harbor, get on the boat to Theramore, Get flight path and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
+			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to Menethil Harbor, get on the boat to Theramore, Get flight path and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
 		}
 	},
 
@@ -121,7 +121,7 @@ Table_003_Alliance_30to40 = {
 		items = {
 			[1] = { str = "33-35 Desolace" },
 			[2] = { str = "Make Nijel’s Point your home then fly back to Stonetalon and hand in Reclaiming the Charred Vale SKIP the next part." },
-			[3] = { str = "Hearth back to Desolace." },
+			[3] = { str = "Use your #I_[Hearthstone]# to return to Desolace." },
 			[4] = { str = "Go south of the Inn, hand in Reclaimers' Business in Desolace accept Reagents for Reclaimers Inc pt.1 and The Karnitol Shipwreck pt.1." },
 			[5] = { str = "I SKIP both of the faction centaur quests. It’s just a useless grind for 2 quests that aren’t worth it." },
 			[6] = { str = "Accept Centaur Bounty." },
@@ -150,7 +150,7 @@ Table_003_Alliance_30to40 = {
 			[27] = { str = "Swim all the way NW on the map to Ranazjar Isle and open the chest at #C_[30,9]# for Claim Rackmore's Treasure!", x = 30, y = 9, zone = "Desolace" },
 			[28] = { str = "Go to the back of the island and clear all around the serpent statue at #C_[28,7]#. You’re gonna do Book of the Ancients This quest bugs if you do not click the gem in your inventory and then on the statue. Don’t just click on the statue. He’s 38 but super easy.", x = 28, y = 7, zone = "Desolace" },
 			[29] = { str = "Swim back to #C_[38,27]# and turn in Book of the Ancients.", x = 38, y = 27, zone = "Desolace" },
-			[30] = { str = "Hearth to Nijel’s." },
+			[30] = { str = "Use your #I_[Hearthstone]# to return to Nijel’s." },
 
 			[31] = { str = "Go south of the Inn and turn in Reagents for Reclaimers Inc pt.2 SKIP pt.3 for now, and The Karnitol Shipwreck pt.2 SKIP the rest." },
 			[32] = { str = "Go south a bit more, turn in Centaur Bounty." },
@@ -196,7 +196,7 @@ Table_003_Alliance_30to40 = {
 			[25] = { str = "Kill Bloodscalp at #C_[29,19]# for Bloodscalp Ears You’ll probably have to clear it 2-3 times. They’re easy.", x = 29, y = 19, zone = "Stranglethorn Vale" },
 			[26] = { str = "Kill Basalisks to finish Singing Blue Shards just west of here above the shore." },
 			[27] = { str = "Run south on the Island till it says complete for The Stone of the Tides Go back up and kill basalisks if needed." },
-			[28] = { str = "Hearth to #A_Booty Bay#." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to to #A_Booty Bay#." },
 			[29] = { str = "Turn in Singing Blue Shards SKIP the next for now." },
 			[30] = { str = "Go upstairs turn in Investigate the Camp, Bloodscalp Ears." },
 
@@ -207,7 +207,7 @@ Table_003_Alliance_30to40 = {
 			[35] = { str = "If you’re first aid is at 225 go do Triage then fly to Gadgetzan." },
 			[36] = { str = "Run out to Shimmering Flats at #C_[77,77]# and turn in Parts for Kravel accept Delivery to the Gnomes then turn around and hand it in.", x = 77, y = 77, zone = "Stranglethorn Vale" },
 			[37] = { str = "Go a little East and hand in Goblin Sponsorship pt.5 accept The Eighteenth Pilot then hand it in 2 feet away, accept Razzeric's Tweaking." },
-			[38] = { str = "Grab The Rumormonger at #C_[77,77]# then Hearth to Menethil Harbor.", x = 77, y = 77, zone = "Stranglethorn Vale" },
+			[38] = { str = "Grab The Rumormonger at #C_[77,77]# then Use your #I_[Hearthstone]# to return to Menethil Harbor.", x = 77, y = 77, zone = "Stranglethorn Vale" },
 		}
 	},
 
@@ -221,7 +221,7 @@ Table_003_Alliance_30to40 = {
 			[4] = { str = "Run into Alterac Mountains to #C_[47,55]# and kill ogres for Crushridge Bounty.", x = 47, y = 55, zone = "Alterac Mountains" },
 			[5] = { str = "Grind up to Strahnbrad around #C_[60,43]# and kill the syndicate and grab their rings for Noble Deaths You can also kill shadow mages here for Dark Council which is easier than killing them in the camps later.", x = 60, y = 43, zone = "Alterac Mountains" },
 			[6] = { str = "Grind your way west to to the house at #C_[39,16]# and kill Nagaz for Dark Council. I take out the first camp you come across then grind anything in my way west that’s not in a camp.", x = 39, y = 16, zone = "Alterac Mountains" },
-			[7] = { str = "You wanna be at least 2 bars from 37, if so hearth to #A_Southshore#." },
+			[7] = { str = "You wanna be at least 2 bars from 37, if so Use your #I_[Hearthstone]# to return to #A_Southshore#." },
 			[8] = { str = "Run across from the Inn, turn in Crushridge Bounty SKIP the next." },
 			[9] = { str = "Go in the Inn, turn in Dark Council and Noble Deaths." },
 			[10] = { str = "Fly to Arathi Highlands." },
@@ -257,9 +257,9 @@ Table_003_Alliance_30to40 = {
 			[21] = { str = "Turn in Deep Sea Salvage on the dock." },
 			[22] = { str = "Turn in Drowned Sorrows next to the fire, then Sunken Treasure pt.2 accept Sunken Treasure pt.3." },
 			[23] = { str = "Hand that in on the dock accept Sunken Treasure pt.4." },
-			[24] = { str = "Run back towards Go’Shek Farm, if you haven’t found the courier yet abandon quest and hearth to #A_Southshore#. If so go to #C_[60,53]# and hand in Hints of a New Plague? Pt.2 accept Hints of a New Plague? Pt.3 then turn it right back in accept Hints of a New Plague? Pt.4.", x = 60, y = 53, zone = "Arathi Highlands" },
+			[24] = { str = "Run back towards Go’Shek Farm, if you haven’t found the courier yet abandon quest and use your #I_[Hearthstone]# to return to #A_Southshore#. If so go to #C_[60,53]# and hand in Hints of a New Plague? Pt.2 accept Hints of a New Plague? Pt.3 then turn it right back in accept Hints of a New Plague? Pt.4.", x = 60, y = 53, zone = "Arathi Highlands" },
 			[25] = { str = "Escort her when done turn it back in and accept 'Hints of a New Plague? Pt.5' Grind until youre 3500 to 38." },
-			[26] = { str = "Hearth to Southshore." },
+			[26] = { str = "Use your #I_[Hearthstone]# to return to Southshore." },
 			[27] = { str = "Turn in 'Hints of a New Plague? Pt.5' just outside the Inn." },
 			[28] = { str = "Fly to #A_Stormwind# and talk to your #N_Class Trainer# to learn new spells and abilities. Get the quest Morgan Stern from Angus Stern at 41 89, then fly to Menethil and boat to Theramore.", x = 41, y = 89, zone = "Stormwind" },
 		}
@@ -282,7 +282,7 @@ Table_003_Alliance_30to40 = {
 
 			[11] = { str = "Go to #C_[29,47]#, the shady rest inn, and grab these 3 quests, touch the hoofrints just out front #Q_'Suspicious Hoofprints'# the badge on the board laying on the floorboards (it’s a tiny badge) 'Lieutenant Paval Reethe pt.1' and the shield over the fireplace 'The Black Shield pt.1'.", x = 29, y = 47, zone = "Dustwallow Marsh" },
 			[12] = { str = "Run over to #C_[54,56]# and open the shipping crate for 'Razzeric's Tweaking'.", x = 54, y = 56, zone = "Dustwallow Marsh" },
-			[13] = { str = "Hearth to Theramore." },
+			[13] = { str = "Use your #I_[Hearthstone]# to return to Theramore." },
 			[14] = { str = "Turn in #Q_'Mudrock Soup and Bugs'# in front of you, accept '… and bugs'." },
 			[15] = { str = "Go to the docks at the tower and turn in #Q_'The Orc Report'# accept #Q_'Captain Vimes'# Run in the castle behind the Inn and turn it in." },
 			[16] = { str = "Turn in 'Lieutenant Paval Reethe pt.1' accept 'Lieutenant Paval Reethe pt.2'." },
@@ -300,7 +300,7 @@ Table_003_Alliance_30to40 = {
 			[27] = { str = "Turn in 'Stinky's Escape' in the Inn." },
 			[28] = { str = "Go up in the castle, turn in 'The Deserters pt.2'." },
 			[29] = { str = "Fly to Gadgetzan and run up to the Shimmering Flats to #C_[80,76]# turn in 'Razzeric's Tweaking' accept 'Safety First pt.1' turn it in in Gadget and accept 'Safety First pt.2' then run back to the flats and hand it in.", x = 80, y = 76, zone = "Dustwallow Marsh" },
-			[30] = { str = "Hearth to Theramore and fly to Rachet, get on the boat to #A_Booty Bay#." },
+			[30] = { str = "Use your #I_[Hearthstone]# to return to Theramore and fly to Rachet, get on the boat to #A_Booty Bay#." },
 		}
 	},
 
@@ -321,7 +321,7 @@ Table_003_Alliance_30to40 = {
 
 			[11] = { str = "Run up to the camps around #C_[42,37]# and do #Q_'Skullsplitter Tusks'#.", x = 42, y = 37, zone = "Stranglethorn Vale" },
 			[12] = { str = "Now you’re gonna have to find Bhag'thera for 'Panther Mastery pt.4' she is anywhere between just north of Mosh’ogg at #C_[49,25]# to just north of the ZG entrance at #C_[48,17]# she’s elite. Easy way to do it is lay immolation trap and run her into it, once pet gets half health fear it and keep attacking it.", x = 48, y = 25, zone = "Stranglethorn Vale" },
-			[13] = { str = "Hearth back to #A_Booty Bay#." },
+			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay#." },
 			[14] = { str = "Turn in #Q_'Venture Company Mining'#." },
 			[15] = { str = "Go upstairs, turn in #Q_'Skullsplitter Tusks'#." },
 			[16] = { str = "Walk outside, turn in #Q_'Water Elementals'# SKIP the next." },
@@ -342,7 +342,7 @@ Table_003_Alliance_30to40 = {
 			[30] = { str = "Accept #Q_'The Green Hills of Stranglethorn'# then turn it in." },
 
 			[31] = { str = "You should be at lest 25% or less to 40 now go grind on basalisks and raptors around #C_[33,39]# until you’re 40.", x = 33, y = 39, zone = "Stranglethorn Vale" },
-			[32] = { str = "Hearth to #A_Booty Bay#." },
+			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay#." },
 			[33] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in #Q_'Excelsior'#." },
 			[34] = { str = "Now fly to #A_Ironforge# and accept Ironband Wants You from Prospector Stormpike at 74 11, and either to Darnassus and talk to your #N_Class Trainer# to learn new spells and abilities and your mount, or get skills in #A_Ironforge# and prepare for a few badlands quests by buying a frost oil and a gyrochronatom (don’t by a gyro if you can’t find a frost oil) Then a healing potion and lesser invisibility potion. Again don’t get either of the potions if you can’t get a frost oil or gyro.", x = 74, y = 11, zone = "Iron Forge" },
 			[35] = { str = "Fly to Loch Modan Stable your pet and make Thelsamar your home." },

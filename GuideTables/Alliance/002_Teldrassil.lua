@@ -82,7 +82,7 @@ Table_002_Teldrassil = {
 			[45] = { str = "Accept Teldrassil." },
 			[46] = { str = "Run back to Darnassus, turn in Tumors at #C_[38,21]# accept Return to Denalan.", x = 38, y = 21, zone = "Teldrassil" },
 			[47] = { str = "Turn in Teldrassil atop the tower at #C_[36,12]# accept Grove of the Ancients.", x = 36, y = 12, zone = "Teldrassil" },
-			[48] = { str = "Hearth to Dolanaar." },
+			[48] = { str = "Use your #I_[Hearthstone]# to return to Dolanaar." },
 			[49] = { str = "Hand in Crown of the Earth pt.5 accept Crown of the Earth pt.6." },
 			[50] = { str = "Turn in Ursal the Mauler." },
 

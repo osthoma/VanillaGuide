@@ -26,7 +26,7 @@ Table_003_Horde_12to20 = {
 			[20] = { str = "Run back, to Gazlowe #C_[63,36]#, turn in #Q_'The Missing Shipment'# part2 accept #Q_'Stolen Booty'#.", x = 63, y = 36, zone = "The Barrens" },
 
 			[21] = { str = "Then go do #Q_'Stolen Booty'# (south of Ratchet again) (Telescopic Lens=64.49, and Shipment of Boots=#C_[63,50]#).", x = 63, y = 50, zone = "The Barrens" },
-			[22] = { str = "Once #Q_'Stolen Booty'#  is completed hearth to #A_Crossroads#. (don't turn it in yet)." },
+			[22] = { str = "Once #Q_'Stolen Booty'#  is completed Use your #I_[Hearthstone]# to return to #A_Crossroads#. (don't turn it in yet)." },
 			[23] = { str = "Turn in #Q_'The Disruption Ends'# and #Q_'Supplies for the Crossroads'#." },
 			[24] = { str = "Turn in #Q_'Plainstrider Menace'# (It should be done by now) accept #Q_'The Zhevra'#. Also accept #Q_'Consumed by Hatred'# and #Q_'Lost in Battle'#." },
 			[25] = { str = "At this point, I make sure I have three/four 6 slot bags, if I don't, I buy them at the bag vendor." },
@@ -65,7 +65,7 @@ Table_003_Horde_12to20 = {
 			[4] = { str = "Make sure you finish up #Q_'Raptor Thieves'# #Q_'The Zhevra'# #Q_'Fungal Spores'# and #Q_'The Forgotten Pools'# before returning to the #A_Crossroads#." },
 			[5] = { str = "Run to #A_Crossroads# (Cross Roads at #C_[52,30]#).", x = 52, y = 30, zone = "The Barrens" },
 			[6] = { str = "Turn in ALL quests, grab ALL new ones." },
-			[7] = { str = "then do #Q_'Apothecary Zamah'# Which has you run all the way to #A_Thunder Bluff# at the spirt rise cave. Do these along the way:" },
+			[7] = { str = "Then do #Q_'Apothecary Zamah'# Which has you run all the way to #A_Thunder Bluff# at the spirt rise cave. Do these along the way:" },
 			[8] = { str = "Grind your way down south (to #C_[49,50]#) and do #Q_'Lost in Battle'# (Manrik's Wife) She's laying dead by the hut, west of the bridge.", x = 49, y = 50, zone = "The Barrens" },
 			[9] = { str = "Go down to #A_Camp Taurajo# (CT) accept #Q_'Tribes at War'# (gnoll in the cage at #C_[44,59]#), and get flight path there.", x = 44, y = 59, zone = "The Barrens" },
 			[10] = { str = "Then do #Q_'Apothecary Zamah'# Which has you run all the way to #A_Thunder Bluff# (in Mulgore at #C_[39,27]#).", x = 39, y = 27, zone = "Mulgore" },
@@ -75,7 +75,7 @@ Table_003_Horde_12to20 = {
 			[13] = { str = "Turn in #Q_'Apothecary Zamah'# the cave below the spirit rise at #C_[29,29]#.", x = 29, y = 29, zone = "The Barrens" },
 			[14] = { str = "Go to first aid guy at spirit rise to build up first aid." },
 			[15] = { str = "Go up to the tower in middle of town to get flight path, but DON'T fly back to #A_Crossroads#." },
-			[16] = { str = "Hearth back to #A_Crossroads#." },
+			[16] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Crossroads#." },
 			[17] = { str = "Turn in #Q_'Lost in Battle'#." },
 			[18] = { str = "Then go north west of #A_Crossroads# and do #Q_'Prowlers of the Barrens'# #C_[37,20]#.", x = 37, y = 20, zone = "The Barrens" },
 			[19] = { str = "Then #Q_'Harpy Lieutenants'# #C_[38,14]#.", x = 38, y = 14, zone = "The Barrens" },
@@ -94,7 +94,7 @@ Table_003_Horde_12to20 = {
 
 			[31] = { str = "Then grind your way north and do: #Q_'Serena Bloodfeather'# at #C_[38,11]#.", x = 38, y = 11, zone = "The Barrens" },
 			[32] = { str = "Then go east (grind mobs along the way) and do #Q_'Echeyakee'# (coords are at #C_[55,17]#).", x = 55, y = 17, zone = "The Barrens" },
-			[33] = { str = "Hearth to #A_Crossroads#." },
+			[33] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads#." },
 			[34] = { str = "Turn in #Q_'Echeyakee'#. accept #Q_'The Angry Scytheclaws'#." },
 			[35] = { str = "Turn in #Q_'Serena Bloodfeather'# accept #Q_'Letter to Jin'Zil'#. Make sure that #Q_'Consumed by Hatred'# is also accepted." },
 		}
@@ -124,7 +124,7 @@ Table_003_Horde_12to20 = {
 			[17] = { str = "Turn in #Q_'Stolen Silver'# #Q_'Consumed by Hatred'# #Q_'Altered Beings'# and #Q_'The Angry Scytheclaws'#.accept all new quests. SKIP '#N_Mura Runetotem'#. You should be lvl 20 now." },
 			[18] = { str = "Fly to Orgrimmar and talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[19] = { str = "Grab #Q_'The Ashenvale Hunt'# quest." },
-			[20] = { str = "Hearth back to #A_Crossroads#." },
+			[20] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Crossroads#." },
 
 			[21] = { str = "Fly to Ratchet." },
 			[22] = { str = "Turn in #Q_'Chen's Empty Keg'# (if you did it, if not don't worry). accept the next part to it." },
@@ -133,7 +133,7 @@ Table_003_Horde_12to20 = {
 			[25] = { str = "Then once #Q_'The Guns of Northwatch'# is done, do:" },
 			[26] = { str = "#Q_'Free From the Hold'# (escort quest)." },
 			[27] = { str = "Turn in both quests at Ratchet, then." },
-			[28] = { str = "Hearth to #A_Crossroads#. (if hearth stone is still on a cooldown, fly to #A_Crossroads#)." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads#. (if hearth stone is still on a cooldown, fly to #A_Crossroads#)." },
 			[29] = { str = "Run west into Stonetalon Mountains." },
 		}
 	},

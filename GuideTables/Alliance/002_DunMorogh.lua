@@ -21,7 +21,7 @@ Table_002_DunMorogh = {
 			[15] = { str = "Run back up to #C_[25,75]# and turn in #Q_'The Troll Cave'# accept #Q_'The Stolen Journal'# you should be 5 or very close to it now.", x = 25, y = 75, zone = "Dun Morogh" },
 			[16] = { str = "Go back in the cave at #C_[26,79]# and go left at the 3 directions to #C_[30,80]# and kill Grik'nir the Cold for #Q_'The Stolen Journal'#.", x = 30, y = 80, zone = "Dun Morogh" },
 			[17] = { str = "Return back to #C_[25,75]# and turn in #Q_'The Stolen Journal'# accept #Q_'Senir's Observations pt.1'#.", x = 25, y = 75, zone = "Dun Morogh" },
-			[18] = { str = "Turn around and Accept #Q_'Scalding Mornbrew Delivery'# and hearth." },
+			[18] = { str = "Turn around and Accept #Q_'Scalding Mornbrew Delivery'# and use your #I_[Hearthstone]#." },
 			[19] = { str = "Run up into #A_Anvilmar# at #C_[28,69]# and turn in #Q_'A Refugee's Quandary'#.", x = 28, y = 69, zone = "Dun Morogh" },
 			[20] = { str = "Go further back and turn in #Q_'Scalding Mornbrew Delivery'# accept #Q_'Bring Back the Mug'#." },
 
@@ -54,7 +54,7 @@ Table_002_DunMorogh = {
 			[14] = { str = "If you’re having trouble finding boars, just go to around #C_[40,65]# there is a lot.", x = 40, y = 65, zone = "Dun Morogh" },
 			[15] = { str = "Go into the grizzled den at #C_[42,54]# and kill wendingos until you get 8 manes for #Q_'The Grizzled Den'#.", x = 42, y = 54, zone = "Dun Morogh" },
 			[16] = { str = "You also wanna head out to #C_[40,65]# and turn in #Q_'Ammo For Rumbleshot'# watch the scene it’s cool, only if you aren’t time running. You should be 7 or very close now.", x = 40, y = 65, zone = "Dun Morogh" },
-			[17] = { str = "Hearth back to #A_Kharanos#." },
+			[17] = { str = "Use your #I_[Hearthstone]# to return to #A_Kharanos#." },
 			[18] = { str = "Just outside the Inn, turn in #Q_'Beer Basted Boar Ribs'#." },
 			[19] = { str = "Go to the house at #C_[45,49]#, NW of the Inn, and accept #Q_'Operation Recombobulation'#.", x = 45, y = 49, zone = "Dun Morogh" },
 			[20] = { str = "Run NE to #C_[49,48]# and turn in #Q_'Stocking Jetsteam'# accept #Q_'Evershine'#.", x = 49, y = 48, zone = "Dun Morogh" },

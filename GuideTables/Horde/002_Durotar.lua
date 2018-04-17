@@ -18,7 +18,7 @@ Table_002_Durotar = {
 			[12] = { str = "Then accept and do the following: #Q_'Sting of the Scorpid'# #Q_'Vile Familiars'# #Q_'Galgar's Cactus Apple Surprise'# and #Q_'Lazy Peons'# (all these are done north and north-east of Valley of Trials)." },
 			[13] = { str = "Turn all those quests in, then accept #Q_'Burning Blade Medallion'# and #Q_'Thazz'ril's Pick'#." },
 			[14] = { str = "Go do: #Q_'Burning Blade Medallion'# and #Q_'Thazz'ril's Pick'# (these are done in the cave at #C_[44,56]#).", x = 44, y = 56, zone = "Durotar" },
-			[15] = { str = "Once those two quests are done use your hearthstone." },
+			[15] = { str = "Once those two quests are done use your #I_[Hearthstone]#." },
 			[16] = { str = "Turn those 2 quests in and accept #Q_'Report to Sen'jin Village'#." },
 			[17] = { str = "The starting area is now completed. Leave starting noob zone (by heading east)." },
 		}
@@ -57,7 +57,7 @@ Table_002_Durotar = {
 			[25] = { str = "#Q_'Zalazane'# (Zalazane is at #C_[67,86]#)." },
 			[26] = { str = "After completing all these quests, die on purpose, so you end up right at #A_Sen'jin Village# at #C_[55,74]#.", x = 55, y = 74, zone = "Durotar" },
 			[27] = { str = "Turn in #Q_'Practical Prey'# #Q_'Minshina's Skull'# and #Q_'Zalazane'#. Save the quest reward item #N_Faintly Glowing Skull# for a later quest called '#N_Burning Shadows'#." },
-			[28] = { str = "Hearth to #A_Razor Hill#. Turn in #Q_'Break a Few Eggs'#." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to #A_Razor Hill#. Turn in #Q_'Break a Few Eggs'#." },
 			[29] = { str = "Then do the second half of #Q_'Encroachment'# (west of #A_Razor Hill# at #C_[42,38]#).", x = 42, y = 38, zone = "Durotar" },
 		}
 	},
@@ -77,7 +77,7 @@ Table_002_Durotar = {
 			[9] = { str = "Do your level 10 class quests. #HUNTERI do this as a hunter: do all three pet quests '#Taming the Beast':#." },
 			[10] = { str = "#HUNTER09) Dire molted bore (south of razor hill)#." },
 
-			[11] = { str = "#HUNTER10) Surf crawler (north east of razor hill at #C_[58,30]#), DON'T go down to Senjen Village, it's too far away. Then Hearth if you can, if not run back.#.", x = 58, y = 30, zone = "Durotar" },
+			[11] = { str = "#HUNTER10) Surf crawler (north east of razor hill at #C_[58,30]#), DON'T go down to Senjen Village, it's too far away. Then use your #I_[Hearthstone]# if you can, if not run back.#.", x = 58, y = 30, zone = "Durotar" },
 			[12] = { str = "#HUNTER11) Armored scorpid (north west of razor hill)#." },
 			[13] = { str = "#HUNTER12) After completing all those, accept '#Training the Beast'#." },
 			[14] = { str = "#HUNTER13) Go way up north-east, at #C_[57,16]# and tame an Encrusted Surf Crawler for your first real pet#.", x = 57, y = 16, zone = "Durotar" },
@@ -107,7 +107,7 @@ Table_002_Durotar = {
 			[36] = { str = "Also keep talking to him to complete #Q_'Hidden Enemies'#." },
 			[37] = { str = "Then go back to Thrall and turn in #Q_'Hidden Enemies'# again. The 3rd part refers to RFC instance, which I skip." },
 			[38] = { str = "Leave #A_Orgrimmar#, and turn in #Q_'Need for a Cure'# at #C_[41,18]# (you will most likely have to accept it again to turn it in).", x = 40, y = 62, zone = "Durotar" },
-			[39] = { str = "Hearth to #A_Razor Hill#." },
+			[39] = { str = "Use your #I_[Hearthstone]# to return to #A_Razor Hill#." },
 			[40] = { str = "Build up first aid." },
 
 			[41] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
