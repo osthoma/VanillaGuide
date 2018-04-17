@@ -1,27 +1,7 @@
---[[--------------------------------------------------
-002_Teldrassil.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: Guide Serie - 002 Teldrassil
-    1.04.1
-        -- First Release
-            Night Elves Teldrassil's Guide
-            from level 1 to lever 12
-    1.04.2
-    	-- no changes in here for this revision
-------------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_002_Teldrassil = {
 -----------1-6 Teldrassil
-	--[11] = {
 	[0106] = {
 		title = "1-6 Teldrassil",
-		--n = "1-6 Teldrassil",
-		--pID = 1, nID = 12,
-		--itemCount = 20,
 		items = {
 			[1] = { str = "1-6 Teldrassil" },
 			[2] = { str = "Accept The Balance of Nature pt.1 at #COORDS[58,44]# and go do it by killing mobs at #COORDS[57,45]# and #COORDS[61,43]#. Turn it in at #COORDS[58,44]#.", x = 58, y = 44, zone = "Teldrassil" },
@@ -33,7 +13,8 @@ Table_002_Teldrassil = {
 			[8] = { str = "Webwood Venom  at #COORDS[57,32]# in and outside the cave.", x = 57, y = 32, zone = "Teldrassil" },
 			[9] = { str = "Turn in  A Good Friend  at #COORDS[54,32]# in a cove just west of the cave. Accept  A Friend in Need .", x = 54, y = 32, zone = "Teldrassil" },
 			[10] = { str = "Turn in  Webwood Venom  at #COORDS[57,41]#. Accept  Webwood Egg .", x = 57, y = 41, zone = "Teldrassil" },
-			[11] = { str = "Turn in  The Balance of Nature pt.2  at #COORDS[58,44]#", x = 58, y = 44, zone = "Teldrassil" },
+
+      [11] = { str = "Turn in  The Balance of Nature pt.2  at #COORDS[58,44]#", x = 58, y = 44, zone = "Teldrassil" },
 			[12] = { str = "Turn in  A Friend in Need  at #COORDS[60,41]#, accept  Iverron's Antidote pt.1", x = 60, y = 41, zone = "Teldrassil" },
 			[13] = { str = "Iverron's Antidote pt.1  (lilies and mushrooms) around #COORDS[57,37]#.", x = 57, y = 37, zone = "Teldrassil" },
 			[14] = { str = "Iverron's Antidote pt.1  (ichor) in the cave #COORDS[57,32]# along with  Webwood Egg  at #COORDS[56,26]#", x = 57, y = 32, zone = "Teldrassil" },
@@ -47,12 +28,8 @@ Table_002_Teldrassil = {
 	},
 
 -----------6-12 Teldrassil
-	--[12] = {
 	[0612] = {
 		title = "6-12 Teldrassil",
-		--n = "6-12 Teldrassil",
-		--pID = 11, nID = 101,
-		--itemCount = 57,
 		items = {
 			[1] = { str = "6-12 Teldrassil" },
 			[2] = { str = "Accept  Dolanaar Delivery  at #COORDS[61,47]#", x = 61, y = 47, zone = "Teldrassil" },
@@ -64,7 +41,8 @@ Table_002_Teldrassil = {
 			[8] = { str = "Denalan's Earth   A Troubling Breeze  Get First Aid  The Emerald Dreamcatcher   Twisted Hatred." },
 			[9] = { str = "Accept  The Road to Darnassus  from the mounted patrol (if she’s there) right around #COORDS[56,57]#", x = 56, y = 57, zone = "Teldrassil" },
 			[10] = { str = "Zenn's Bidding  mobs east of Dolanaar" },
-			[11] = { str = "Crown of the Earth pt.3  at #COORDS[63,58]#.", x = 63, y = 58, zone = "Teldrassil" },
+
+      [11] = { str = "Crown of the Earth pt.3  at #COORDS[63,58]#.", x = 63, y = 58, zone = "Teldrassil" },
 			[12] = { str = "Turn in  A Troubling Breeze  at #COORDS[66,58]# accept  Gnarlpine Corruption.", x = 66, y = 58, zone = "Teldrassil" },
 			[13] = { str = "The Emerald Dreamcatcher  #COORDS[68,59]#", x = 68, y = 59, zone = "Teldrassil" },
 			[14] = { str = "Turn in  Zenn's Bidding  at #COORDS[60,56]# then go to the Dolanaar tower and get  Seek Redemption!.", x = 60, y = 56, zone = "Teldrassil" },
@@ -74,7 +52,8 @@ Table_002_Teldrassil = {
 			[18] = { str = "Turn in  Crown of the Earth pt.3  accept  Crown of the Earth pt.4" },
 			[19] = { str = "Turn in  Gnarlpine Corruption  accept  The Relics of Wakening." },
 			[20] = { str = "Turn in   The Emerald Dreamcatcher  accept  Ferocitas the Dream Eater" },
-			[21] = { str = "You should be 8 by now. Get new skills." },
+
+      [21] = { str = "You should be 8 by now. Get new skills." },
 			[22] = { str = "Finish  Seek Redemption!  Then go North of Starbreeze." },
 			[23] = { str = "Do  Ferocitas the Dream Eater  mobs around #COORDS[68,53]#", x = 68, y = 53, zone = "Teldrassil" },
 			[24] = { str = "Die on purpose so you end up at Dolanaar" },
@@ -84,7 +63,8 @@ Table_002_Teldrassil = {
 			[28] = { str = "Go do  The Relics of Wakening  at #COORDS[44,57]# in the cave", x = 44, y = 57, zone = "Teldrassil" },
 			[29] = { str = "Accept  The Sleeping Druid  inside, kill shamans to get it, turn it in." },
 			[30] = { str = "Accept  Druid of the Claw  do it at #COORDS[45,58]#", x = 45, y = 58, zone = "Teldrassil" },
-			[31] = { str = "Go south and do  Crown of the Earth pt.4  at #COORDS[42,67]#.", x = 42, y = 67, zone = "Teldrassil" },
+
+      [31] = { str = "Go south and do  Crown of the Earth pt.4  at #COORDS[42,67]#.", x = 42, y = 67, zone = "Teldrassil" },
 			[32] = { str = "Die so you end up at Dolanaar" },
 			[33] = { str = "Turn in  Crown of the Earth pt.4  accept  Crown of the Earth pt.5." },
 			[34] = { str = "Turn in  The Road to Darnassus  just west of tower to mountie" },
@@ -94,7 +74,8 @@ Table_002_Teldrassil = {
 			[38] = { str = "Get  Nessa Shadowsong  at #COORDS[70,45]# in Darnassus", x = 70, y = 45, zone = "Teldrassil" },
 			[39] = { str = "Get  The  Glowing Fruit  at #COORDS[42,76]#.", x = 42, y = 76, zone = "Teldrassil" },
 			[40] = { str = "Do  Ursal the Mauler  at #COORDS[38,77]#.", x = 38, y = 77, zone = "Teldrassil" },
-			[41] = { str = "Die so you’re in front of Darnassus." },
+
+      [41] = { str = "Die so you’re in front of Darnassus." },
 			[42] = { str = "Tumors  at #COORDS[42,42]#", x = 42, y = 42, zone = "Teldrassil" },
 			[43] = { str = "Crown of the Earth pt.5  at #COORDS[38,34]#", x = 38, y = 34, zone = "Teldrassil" },
 			[44] = { str = "Accept  The Enchanted Glade  at #COORDS[38,34]#. Then do it at #COORDS[35,43]#. Turn it back in", x = 38, y = 34, zone = "Teldrassil" },
@@ -104,7 +85,8 @@ Table_002_Teldrassil = {
 			[48] = { str = "Hearth to Dolanaar." },
 			[49] = { str = "Hand in  Crown of the Earth pt.5  accept  Crown of the Earth pt.6." },
 			[50] = { str = "Turn in  Ursal the Mauler." },
-			[51] = { str = "Go SE to #COORDS[60,68]# Turn in  Return to Denalan  accept  Oakenscowl elite.", x = 60, y = 68, zone = "Teldrassil" },
+
+      [51] = { str = "Go SE to #COORDS[60,68]# Turn in  Return to Denalan  accept  Oakenscowl elite.", x = 60, y = 68, zone = "Teldrassil" },
 			[52] = { str = "Turn in  Glowing Fruit" },
 			[53] = { str = "Go kill  Oakenscowl  at #COORDS[53,74]#. Turn it in at #COORDS[60,68]#.", x = 53, y = 74, zone = "Teldrassil" },
 			[54] = { str = "Run to Darnassus, if you’re not within 1100xp to 12 yet grind on harpies North of the Darnassus entrance." },

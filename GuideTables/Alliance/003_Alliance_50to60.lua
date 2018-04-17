@@ -1,27 +1,7 @@
---[[--------------------------------------------------
-003_Alliance_50to60.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: Guide Serie - 003 From Lvl 50 to Lvl 60
-    1.04.1
-        -- First Release
-            Alliance's Guide
-            from level 50 to lever 60
-    1.04.2
-    	-- no changes in here for this revision
-------------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_003_Alliance_50to60 = {
 -----------50-51 Searing Gorge
-	--[501] = {
 	[5051] = {
 		title = "50-51 Searing Gorge",
-		--n = "50-51 Searing Gorge",
-		--pID = 413, nID = 502,
-		--itemCount = 72,
 		items = {
 			[1] = { str = "50-51 Searing Gorge" },
 			[2] = { str = "Go down to #COORDS[65,62]# and touch the outhouse, accept Caught!", x = 65, y = 62, zone = "Searing Gorge" },
@@ -33,7 +13,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Run up to Thorium Point at #COORDS[38,26]#", x = 38, y = 26, zone = "Searing Gorge" },
 			[9] = { str = "Grab these quests off the sign: WANTED: Overseer Maltorius (this will require a group) STOLEN: Smithing Tuyere and Lookout's Spyglass and JOB OPPORTUNITY: Culling the Competition" },
 			[10] = { str = "Accept Curse These Fat Fingers Fiery Menace! Incendosaurs? Whateverosaur is More Like It near the tower" },
-			[11] = { str = "Under the tent accept What The Flux?" },
+
+      [11] = { str = "Under the tent accept What The Flux?" },
 			[12] = { str = "Grab the FP and fly to IF" },
 			[13] = { str = "Stop at #COORDS[71,16]# and turn in Suntara Stones pt.2 accept Dwarven Justice", x = 71, y = 16, zone = "Searing Gorge" },
 			[14] = { str = "Fly to Thelsamar" },
@@ -43,7 +24,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "Go to #COORDS[75,23]# and accept A Little Slime Goes A Long Way", x = 75, y = 23, zone = "Searing Gorge" },
 			[19] = { str = "Fly to Thelsamar and run to #COORDS[18,83]#", x = 18, y = 83, zone = "Searing Gorge" },
 			[20] = { str = "Turn in At Last! put the key on your keyring. Easy 12k xp" },
-			[21] = { str = "Now the fun part, doing all these quests. Some of the mobs you have to kill are in a widespread area so I really won’t list coords on them." },
+
+      [21] = { str = "Now the fun part, doing all these quests. Some of the mobs you have to kill are in a widespread area so I really won’t list coords on them." },
 			[22] = { str = "From here south kill glassweb spiders for Ledger From Tanaris" },
 			[23] = { str = "Kill any golems you see over here for The Flawless Flame" },
 			[24] = { str = "Go around the southern part of the cauldron (the pit) and circle it back towards TP and do the following:" },
@@ -53,7 +35,8 @@ Table_003_Alliance_50to60 = {
 			[28] = { str = "Kill greater lava spiders (not searing) for Fiery Menace! Mostly SW" },
 			[29] = { str = "If the Grimesilt Outhouse Key dropped, use it to start The Key to Freedom and turn it in at #COORDS[65,62]#", x = 65, y = 62, zone = "Searing Gorge" },
 			[30] = { str = "Go to #COORDS[63,38]# and start going down into the cauldron.", x = 63, y = 38, zone = "Searing Gorge" },
-			[31] = { str = "Kill dark iron taskmasters and slavers down here and inside the cave if you see them for JOB OPPORTUNITY: Culling the Competition and Forging the Shaft" },
+
+      [31] = { str = "Kill dark iron taskmasters and slavers down here and inside the cave if you see them for JOB OPPORTUNITY: Culling the Competition and Forging the Shaft" },
 			[32] = { str = "Enter the caves at #COORDS[41,54]#", x = 41, y = 54, zone = "Searing Gorge" },
 			[33] = { str = "Go in the cave to #COORDS[41,25]# and go through the jail bar door, turn in  Dwarven Justice accept Release Them", x = 41, y = 25, zone = "Searing Gorge" },
 			[34] = { str = "Go up the ramp and stay right until #COORDS[40,35]# kill the boss here for WANTED: Overseer Maltorius and grab What The Flux? on the rail behind him. If you can’t find a group have the pet get the aggro and run the guys away from the plans. This is doable with 2 people but very tough. If you can’t get this quest done no big deal but I usually get it done.", x = 40, y = 35, zone = "Searing Gorge" },
@@ -63,7 +46,8 @@ Table_003_Alliance_50to60 = {
 			[38] = { str = "Go next to the sign, turn in WANTED: Overseer Maltorius" },
 			[39] = { str = "To the right of the tower, turn in Curse These Fat Fingers Fiery Menace! and Incendosaurs? Whateverosaur is More Like It" },
 			[40] = { str = "Go to the tent behind here, turn in STOLEN: Smithing Tuyere and Lookout's Spyglass and JOB OPPORTUNITY: Culling the Competition" },
-			[41] = { str = "Go to the next tent, turn in What The Flux?" },
+
+      [41] = { str = "Go to the next tent, turn in What The Flux?" },
 			[42] = { str = "Once this is all handed in you can now do repeat quests for small xp and faction with TB. The reason I said to save the scales or sell em" },
 			[43] = { str = "You should be a hair from 51 now, go south of base to #COORDS[38,38]#", x = 38, y = 38, zone = "Searing Gorge" },
 			[44] = { str = "Turn in Forging the Shaft accept The Flame’s Casing" },
@@ -73,7 +57,8 @@ Table_003_Alliance_50to60 = {
 			[48] = { str = "While killing these guys around the pool you should have found a Symbol of Ragnaros for The Flame’s Casing if not kill until you do" },
 			[49] = { str = "Make sure you talk to the caged npc next to the lava, he gives you Prayer to Elune pt.1 Listen to his short story and turn it in for Prayer to Elune pt.2 Now you have to kill these for the Rag dropping and the Prayer of Elune, Easy drops" },
 			[50] = { str = "Go down to #COORDS[38,38]# and turn in The Flame’s Casing accept The Torch of Retribution pt.1 then turn it back in accept The Torch of Retribution pt.2 then grab the torch in front of him and complete it and accept Squire Maltrake and turn that back in and accept Set Them Ablaze!", x = 38, y = 38, zone = "Searing Gorge" },
-			[51] = { str = "Now equip the staff and run to each of the 4 towers at N:#COORDS[33,53]# W:#COORDS[36,60]# S:#COORDS[44,61]# E:#COORDS[50,54]# and either kill the guys downstairs, and run up and light the brazier." },
+
+      [51] = { str = "Now equip the staff and run to each of the 4 towers at N:#COORDS[33,53]# W:#COORDS[36,60]# S:#COORDS[44,61]# E:#COORDS[50,54]# and either kill the guys downstairs, and run up and light the brazier." },
 			[52] = { str = "When you get them all, look for a safe spot to jump down and go in the caves at #COORDS[41,54]# again and through the jail bar door at #COORDS[37,44]# and run to the room with the golem at #COORDS[41,25]# and touch the candle covered stone and turn in Release Them SKIP the next part unless you wanna do it with a group, it’s very tough you have to fight that golem and a dwarf both elites.", x = 41, y = 54, zone = "Searing Gorge" },
 			[53] = { str = "Die on purpose so you end up at TP and go down to #COORDS[29,38]# and turn in Set Them Ablaze! watch the cutscene as he turns into a dragon", x = 29, y = 38, zone = "Searing Gorge" },
 			[54] = { str = "Open the chest on the ground accept Trinkets... then open it again and complete it. Open it and keep the Black Dragonflight Molt for later In the Burning Steppes." },
@@ -83,7 +68,8 @@ Table_003_Alliance_50to60 = {
 			[58] = { str = "Go to the top of the temple of the moon at #COORDS[38,80]# and turn in Prayer to Elune pt.2", x = 38, y = 80, zone = "darnassus" },
 			[59] = { str = "Go to the next section up here and turn in Rise of the Silithid accept March of the Silithid" },
 			[60] = { str = "Go to #COORDS[34,9]# at the top of the tower and turn in Assisting Arch Druid Staghelm accept Un'Goro Soil", x = 34, y = 9, zone = "darnassus" },
-			[61] = { str = "Make Darnassus your home at #COORDS[67,15]#", x = 67, y = 15, zone = "darnassus" },
+
+      [61] = { str = "Make Darnassus your home at #COORDS[67,15]#", x = 67, y = 15, zone = "darnassus" },
 			[62] = { str = "Now either fly to Theramore or boat to Menethil then to Theramore" },
 			[63] = { str = "Get first aid up to 290 if you haven’t for heavy runecloth bandages" },
 			[64] = { str = "Go over to #COORDS[54,55]# to the wrecked ship and grab the overdue package for Ledger From Tanaris", x = 54, y = 55, zone = "Duskwallow Marsh" },
@@ -93,18 +79,16 @@ Table_003_Alliance_50to60 = {
 			[68] = { str = "Just as you enter Gadget, turn in Ledger From Tanaris" },
 			[69] = { str = "Get your level 52 set gloves out of bank or mail for later" },
 			[70] = { str = "Between the 2 North gates accept Super Sticky" },
-			[71] = { str = "Go to the hut just west and turn in March of the Silithid accept Bungle in the Jungle" },
+
+      [71] = { str = "Go to the hut just west and turn in March of the Silithid accept Bungle in the Jungle" },
 			[72] = { str = "Run down into the Un’Goro Crater at #COORDS[26,52]#", x = 26, y = 52, zone = "Tanaris" },
 		}
 	},
 
 -----------51-52 Un’Goro Crater
-	--[502] = {
 	[5152] = {
 		title = "51-52 Un’Goro Crater",
-		--n = "51-52 Un’Goro Crater",
-		--pID = 501, nID = 503,
-		--itemCount = 34,
+
 		items = {
 			[1] = { str = "51-52 Un’Goro Crater" },
 			[2] = { str = "Keep an eye out for the following items laying around the crafter: Power Crystals (need 7 of red,blue,green,yellow), Un’Goro Dirt Piles (get as many as you can), and Bloodpetal Sprouts: save in sets of 15" },
@@ -116,7 +100,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Grind west to about #COORDS[67,63]# and there will be 2 spots with a bunch of eggs. Clear the raptors around it and stand on the eggs to get the mates to spawn for The Scent of Lar'Korwi", x = 67, y = 63, zone = "Un’Goro Crater" },
 			[9] = { str = "Once you have this done, go back to #COORDS[71,75]# and turn in The Scent of Lar'Korwi accept The Bait For Lar'Korwi you should have found the jornal by now as well, if not keep grinding raptors while you’re questing in this spot. If you have start the quest Williden’s Journal", x = 71, y = 75, zone = "Un’Goro Crater" },
 			[10] = { str = "Go up to #COORDS[79,49]# it’s off to the east side in the mountains, behind the east pylon. You’ll see a big skeleton which is also the GY. There is a fairly big flat stone, stand on it and use the meat and phermone. This will summon Lar’Korwi for The Bait For Lar'Korwi super easy kill even at 51 and he’s 56, he has 3600 hp.", x = 79, y = 49, zone = "Un’Goro Crater" },
-			[11] = { str = "Go to #COORDS[46,13]# and accept Chasing A-Me 01 and run up the path behind her into Marshal’s Refuge.", x = 46, y = 13, zone = "Un’Goro Crater" },
+
+      [11] = { str = "Go to #COORDS[46,13]# and accept Chasing A-Me 01 and run up the path behind her into Marshal’s Refuge.", x = 46, y = 13, zone = "Un’Goro Crater" },
 			[12] = { str = "Just to the left accept Shizzle's Flyer" },
 			[13] = { str = "Next to the left, a little bit back, accept Muigin and Larion" },
 			[14] = { str = "Next, near the sign accept Lost! and on the sign accept Beware of Pterrordax" },
@@ -126,7 +111,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "To the right again, turn in Williden’s Journal accept Expedition Salvation" },
 			[19] = { str = "Run just south a bit and you’ll fine Linken just outside of a half hollow tree. Turn in It's A Secret to Everybody pt.2 accept It's A Secret to Everybody pt.3" },
 			[20] = { str = "Get the FP to the right of the cave (added in 1.11) then go in the cave all the way to the end and accept Crystals of Power and then turn it in Accept the 3 pylon quests The Northern Pylon The Eastern Pylon The Western Pylon" },
-			[21] = { str = "When ever you see the following mobs kill them on site until the quest associate with them is finished." },
+
+      [21] = { str = "When ever you see the following mobs kill them on site until the quest associate with them is finished." },
 			[22] = { str = "Kill bloodpetals for Muigin and Larion" },
 			[23] = { str = "Kill  diametradons and pterrodaxes for Shizzle's Flyer and Roll the Bones" },
 			[24] = { str = "Kill pterrodaxes and frenzied pterrodaxes for Beware of Pterrordax" },
@@ -136,7 +122,8 @@ Table_003_Alliance_50to60 = {
 			[28] = { str = "Stop at #COORDS[68,36]# and grab the crate of foodstuff for Expedition Salvation", x = 68, y = 36, zone = "Un’Goro Crater" },
 			[29] = { str = "Try to collect all the stuff for Shizzle's Flyer out here if you aren’t just going around looking for them alone. I always seem to find them all before I finish the bloodpetals." },
 			[30] = { str = "Go to #COORDS[76,51]# and follow the path up to the pylon for The Eastern Pylon and there should be pterrodaxes further south at #COORDS[75,61]#", x = 76, y = 51, zone = "Un’Goro Crater" },
-			[31] = { str = "Go to #COORDS[71,75]# and turn in The Bait For Lar'Korwi and The Apes of Un'Goro SKIP the next part for now", x = 71, y = 75, zone = "Un’Goro Crater" },
+
+      [31] = { str = "Go to #COORDS[71,75]# and turn in The Bait For Lar'Korwi and The Apes of Un'Goro SKIP the next part for now", x = 71, y = 75, zone = "Un’Goro Crater" },
 			[32] = { str = "Now if you grinded a whole lot like I did on those damn flowers and dinosaurs, you should be really close to 52 if not 52 now." },
 			[33] = { str = "Just east of the volcano (center of map) there are pterrodaxes all for Beware of Pterrordax if you’re having trouble finding them there is a spawn of 6 of them all the way south at #COORDS[55,90]#", x = 55, y = 90, zone = "Un’Goro Crater" },
 			[34] = { str = "Run west to #COORDS[55,73]# there is a diametradon camp of about 5-6 Kill these if you need scales still for Shizzle's Flyer or Roll the Bones", x = 55, y = 73, zone = "Un’Goro Crater" },
@@ -146,7 +133,8 @@ Table_003_Alliance_50to60 = {
 			[38] = { str = "Kill frenzied pterrodaxes all around #COORDS[35,38]# (they’re everywhere) in the NW part of the map for Beware of Pterrordax plus there are many diametradons here for Shizzle's Flyer or Roll the Bones", x = 35, y = 38, zone = "Un’Goro Crater" },
 			[39] = { str = "Go down to #COORDS[23,59]# and touch the western pylon for The Western Pylon and kill any pterrodaxes you need behind it", x = 23, y = 59, zone = "Un’Goro Crater" },
 			[40] = { str = "Go to #COORDS[30,50]# and accept Finding the Source", x = 30, y = 50, zone = "Un’Goro Crater" },
-			[41] = { str = "Go over to Fire Plume Ridge at #COORDS[51,48]# and kill elementals, try to avoid anything 56+ for Volcanic Activity Leave blazing invaders alone", x = 51, y = 48, zone = "Un’Goro Crater" },
+
+      [41] = { str = "Go over to Fire Plume Ridge at #COORDS[51,48]# and kill elementals, try to avoid anything 56+ for Volcanic Activity Leave blazing invaders alone", x = 51, y = 48, zone = "Un’Goro Crater" },
 			[42] = { str = "Once you have that done, dismiss pet and mount up towards the top of the volcano and look for what looks like the instance waiting stones but with fire cracks in it. Dismount and FD then if there is a mob near it put pet on it and use the thermometer for Finding the Source there is more than one and it doesn’t have to be at the top I see them at the bottom too." },
 			[43] = { str = "Unless you need ashes still run to #COORDS[30,50]# and turn in Finding the Source accept The New Springs", x = 30, y = 50, zone = "Un’Goro Crater" },
 			[44] = { str = "Go up into the cave (in the same manner) at #COORDS[51,49]# and turn in Lost! then accept A Little Help From My Friends he follows you, once you get him out of the ridge it’s easy. Just go straight out the cave over the edge, if done right you only have to fight 1 element. Once you go north past the river it’s pie.", x = 51, y = 49, zone = "Un’Goro Crater" },
@@ -156,7 +144,8 @@ Table_003_Alliance_50to60 = {
 			[48] = { str = "Turn in Roll the Bones" },
 			[49] = { str = "Turn in Alien Ecology" },
 			[50] = { str = "Turn in Expedition Salvation" },
-			[51] = { str = "In the back of the cave turn in The Northern Pylon The Eastern Pylon The Western Pylon accept Making Sense of It then turn it back in. She then tells you about buffs from the pylons." },
+
+      [51] = { str = "In the back of the cave turn in The Northern Pylon The Eastern Pylon The Western Pylon accept Making Sense of It then turn it back in. She then tells you about buffs from the pylons." },
 			[52] = { str = "Run to #COORDS[29,22]# and follow the path into Slithus to #COORDS[50,34]# grab the FP and fly to gadget.", x = 29, y = 22, zone = "Un’Goro Crater" },
 			[53] = { str = "Go to the NW part of town, turn in Bungle in the Jungle SKIP the next part then hand in Super Sticky between the 2 entrances" },
 			[54] = { str = "Hearth to Darnassus and get new skills" },
@@ -170,12 +159,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 -----------52-53 Azshara
-	--[503] = {
 	[5253] = {
 		title = "52-53 Azshara",
-		--n = "52-53 Azshara",
-		--pID = 502, nID = 504,
-		--itemCount = 10,
 		items = {
 			[1] = { str = "52-53 Azshara" },
 			[2] = { str = "Just as you enter, on the right at #COORDS[11,77]# grab the FP", x = 11, y = 77, zone = "Azshara" },
@@ -191,12 +176,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 ------------53-54 Felwood
-	--[504] = {
 	[5354] = {
 		title = "53-54 Felwood",
-		--n = "53-54 Felwood",
-		--pID = 503, nID = 505,
-		--itemCount = 51,
 		items = {
 			[1] = { str = "53-54 Felwood" },
 			[2] = { str = "Stop at #COORDS[54,86]# and accept Cleansing Felwood", x = 54, y = 86, zone = "Felwood" },
@@ -208,7 +189,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Go back to #COORDS[50,85]# and turn in Timbermaw Ally accept Speak to Nefian the other is repeatable for rep", x = 50, y = 85, zone = "Felwood" },
 			[9] = { str = "Go up near the 2 lakes at #COORDS[40,69]# and kill the cursed oozes for the first part of A Little Slime Goes A Long Way pt.1", x = 40, y = 69, zone = "Felwood" },
 			[10] = { str = "Go to the west of here now to #COORDS[37,69]# and kill the jadefire demons for The Corruption of the Jadefire these are good to farm too.", x = 37, y = 69, zone = "Felwood" },
-			[11] = { str = "Go up to #COORDS[39,59]# and kill the tainted oozes for the second part of A Little Slime Goes A Long Way pt.1", x = 39, y = 59, zone = "Felwood" },
+
+      [11] = { str = "Go up to #COORDS[39,59]# and kill the tainted oozes for the second part of A Little Slime Goes A Long Way pt.1", x = 39, y = 59, zone = "Felwood" },
 			[12] = { str = "Go just west of here around #COORDS[37,59]# and kill the Jaedenar for Forces of Jaedenar You don’t have to go in the caves.", x = 37, y = 59, zone = "Felwood" },
 			[13] = { str = "Go back to #COORDS[51,82]# and turn in Forces of Jaedenar accept Collection of the Corrupt Water.", x = 51, y = 82, zone = "Felwood" },
 			[14] = { str = "Inside the house turn in The Corruption of the Jadefire accept Further Corruption" },
@@ -218,7 +200,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "Go up to #COORDS[46,14]# and follow it to the back, killing the demons for Further Corruption When you kill Xavaric he'll drop Flute of Xavaric which starts Flute of Xavaric kill the satyr’s now to complete this.", x = 46, y = 14, zone = "Felwood" },
 			[19] = { str = "Run over to Irontree Cavern at #COORDS[55,17]# and kill 15 of the elementals and that should be enough for Cleansing Felwood", x = 55, y = 17, zone = "Felwood" },
 			[20] = { str = "Go up to #COORDS[62,24]# and get the FP", x = 62, y = 24, zone = "Felwood" },
-			[21] = { str = "Go north to #COORDS[64,8]# and turn in Speak to Nefian accept Deadwood of the North", x = 64, y = 8, zone = "Felwood" },
+
+      [21] = { str = "Go north to #COORDS[64,8]# and turn in Speak to Nefian accept Deadwood of the North", x = 64, y = 8, zone = "Felwood" },
 			[22] = { str = "Now fall off the cliff to the west and start killing for Deadwood of the North once you’re done you want to kill until you’re 150 rep from the next rank with the timbermaw (put the rep as an xp bar for ease)" },
 			[23] = { str = "Go back to #COORDS[64,8]# and turn in Deadwood of the North and you should be unfriendly now and not aggro’d any longer. Accept Speak to Salfa and turn in any 5 sets of feathers for extra rep and 550 xp", x = 64, y = 8, zone = "Felwood" },
 			[24] = { str = "Go through the cave to Winterspring and just outside the cave to the right at #COORDS[27,34]# turn in Speak to Salfa", x = 27, y = 34, zone = "Winterspring" },
@@ -228,7 +211,8 @@ Table_003_Alliance_50to60 = {
 			[28] = { str = "You should be a hair from leveling now. You can kill something or just wait. Hearth to Astranaar and fly to Feralas" },
 			[29] = { str = "Go in the Inn, accept Jonespyre's Request" },
 			[30] = { str = "Go up to the top of the tower, turn it in, accept The Mystery of Morrowgrain turn it back in unless you’re still making the stuff. If you don’t have enough no big deal during this guide I didn’t have enough" },
-			[31] = { str = "Go up to #COORDS[45,25]# and buy a bait and read on how to get the videre elixir", x = 45, y = 25, zone = "Feralas" },
+
+      [31] = { str = "Go up to #COORDS[45,25]# and buy a bait and read on how to get the videre elixir", x = 45, y = 25, zone = "Feralas" },
 			[32] = { str = "At #COORDS[45,16]# you can be put up to the top of the colossal tower and parachute down. Just make sure you unmount, I forgot about that and smashed a crater in the ground.", x = 45, y = 16, zone = "Feralas" },
 			[33] = { str = "Go up to #COORDS[44,10]# and place the bait on the ground then go loot an everroot", x = 44, y = 10, zone = "Felalas" },
 			[34] = { str = "Go back south to #COORDS[45,25]# to get your 3 videre elixir", x = 45, y = 25, zone = "Felalas" },
@@ -238,7 +222,8 @@ Table_003_Alliance_50to60 = {
 			[38] = { str = "Go up to #COORDS[51,81]# and in the house turn in Further Corruption and Flute of Xavaric accept Felbound Ancients", x = 51, y = 81, zone = "Felwood" },
 			[39] = { str = "Under the tent, turn in Verifying the Corruption" },
 			[40] = { str = "Run up to #COORDS[62,23]#", x = 62, y = 23, zone = "Felwood" },
-			[41] = { str = "Go through the cave to Winterfall and just outside the cave accept Winterfall Activity" },
+
+      [41] = { str = "Go through the cave to Winterfall and just outside the cave accept Winterfall Activity" },
 			[42] = { str = "Go to #COORDS[31,45]# and turn in The Videre Elixir accept Meet at the Grave", x = 31, y = 45, zone = "Winterspring" },
 			[43] = { str = "Go to #COORDS[62,36]# and grab the FP", x = 62, y = 36, zone = "Winterspring" },
 			[44] = { str = "Fly to Rachet" },
@@ -248,17 +233,14 @@ Table_003_Alliance_50to60 = {
 			[48] = { str = "Just outside the military ward there should be a wandering npc, one is near FP too, grab the quest The New Frontier pt.1" },
 			[49] = { str = "Go to #COORDS[75,23]# and turn in A Little Slime Goes A Long Way pt.1 accept A Little Slime Goes A Long Way pt.2", x = 75, y = 23, zone = "Ironforge" },
 			[50] = { str = "Go to #COORDS[31,4]# and turn in Return to Tymor see it was worth the run", x = 31, y = 4, zone = "Ironforge" },
-			[51] = { str = "Fly to Menethil then boat to Theramore and fly to Gadget" },
+
+      [51] = { str = "Fly to Menethil then boat to Theramore and fly to Gadget" },
 		}
 	},
 
 -----------54-54 Tanaris
-	--[505] = {
 	[5453] = {
 		title = "54-54 Tanaris",
-		--n = "54-54 Tanaris",
-		--pID = 504, nID = 506,
-		--itemCount = 20,
 		items = {
 			[1] = { str = "54-54 Tanaris" },
 			[2] = { str = "Get your mithril casing out of your bank or mailbox" },
@@ -270,7 +252,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Keep collecting dirt here if you need more morrowgrain" },
 			[9] = { str = "Now all around the crater is slimes but you can find all the ones you need west of the volcano around #COORDS[37,37]# for A Little Slime Goes A Long Way pt.2 I think there are more on the west side of the volcano but you can look on both sides they’re scattered. If it says they’re cloning, finish them very fast or stun them. If they clone it’s a full health mob that you can’t scoop up.", x = 37, y = 37, zone = "Un’Goro" },
 			[10] = { str = "Go to the cave at #COORDS[64,16]# and go to the right, when you see A-Me 01 accept Chasing A-Me 01 pt.1 and turn it back in. Fall over the edge and to the right and up around until you see U’cha for The Mighty U'cha", x = 64, y = 16, zone = "Un’Goro" },
-			[11] = { str = "Run back to the front and go right again and accept Chasing A-Me 01 pt.2 now escort her out" },
+
+      [11] = { str = "Run back to the front and go right again and accept Chasing A-Me 01 pt.2 now escort her out" },
 			[12] = { str = "Escort A-Me to Marshal’s at #COORDS[46,13]# and turn in Chasing A-Me 01 pt.2", x = 46, y = 13, zone = "Un’Goro" },
 			[13] = { str = "Go into Marshal’s and turn in Linken's Sword accept A Gnome's Assistance" },
 			[14] = { str = "Go to the back of the cave and turn in A Gnome's Assistance  and accept Linken’s Memory" },
@@ -284,12 +267,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 -----------54-54 Felwood
-	--[506] = {
 	[5454] = {
 		title = "54-54 Felwood",
-		--n = "54-54 Felwood",
-		--pID = 505, nID = 507,
-		--itemCount = 16,
 		items = {
 			[1] = { str = "54-54 Felwood" },
 			[2] = { str = "Go to #COORDS[51,82]# and turn in Cleansed Water Returns to Felwood accept Dousing the Flames of Protection", x = 51, y = 82, zone = "Felwood" },
@@ -301,7 +280,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Continue past the room with candles surrounding the hole to the next open room at #COORDS[36,53]# for the 3rd and 4th brazier for Dousing the Flames of Protection", x = 36, y = 53, zone = "Felwood" },
 			[9] = { str = "Don’t even bother trying to do the escort unless you get a group, I always skip it even if I find the key." },
 			[10] = { str = "Run back outside and up to #COORDS[51,19]# and kill the tree elementals for Silver Heart", x = 51, y = 19, zone = "Felwood" },
-			[11] = { str = "If you want to do the escort with the flute I suggest getting a group you get jumped by a lot of mobs." },
+
+      [11] = { str = "If you want to do the escort with the flute I suggest getting a group you get jumped by a lot of mobs." },
 			[12] = { str = "Run All the way back down to #COORDS[51,82]# (I know no one wants to run back here, why the quest hub is so far from the FP is beyond me)", x = 51, y = 82, zone = "Felwood" },
 			[13] = { str = "Turn in Dousing the Flames of Protection SKIP the next part for now" },
 			[14] = { str = "In the house turn in Silver Heart accept Aquementas" },
@@ -311,12 +291,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 --------------54-55 Winterspring
-	--[507] = {
 	[5455] = {
 		title = "54-55 Winterspring",
-		--n = "54-55 Winterspring",
-		--pID = 506, nID = 508,
-		--itemCount = 34,
 		items = {
 			[1] = { str = "54-55 Winterspring" },
 			[2] = { str = "Go in Everlook accept Enraged Wildkin pt.1" },
@@ -328,7 +304,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Hearth back to Everlook, if it’s not up die on purpose" },
 			[9] = { str = "Go to #COORDS[65,45]# and kill yeti’s for Are We There, Yeti? pt.1", x = 65, y = 45, zone = "Winterspring" },
 			[10] = { str = "Run back to Everlook and turn in Are We There, Yeti? pt.1 accept Are We There, Yeti? pt.2" },
-			[11] = { str = "Go back to #COORDS[65,45]# and kill matriarch’s and patriarch’s for Are We There, Yeti? pt.2 there are a lot in the cave at #COORDS[67,42]#", x = 67, y = 42, zone = "Winterspring" },
+
+      [11] = { str = "Go back to #COORDS[65,45]# and kill matriarch’s and patriarch’s for Are We There, Yeti? pt.2 there are a lot in the cave at #COORDS[67,42]#", x = 67, y = 42, zone = "Winterspring" },
 			[12] = { str = "Run back to Everlook and turn in Are We There, Yeti? pt.2 accept Are We There, Yeti? pt.3" },
 			[13] = { str = "Go just east of the Inn and scare Legacki for Are We There, Yeti? pt.3" },
 			[14] = { str = "Go east of Winterspring to #COORDS[66,34]# and kill the furlbogs there for Winterfall Activity and part of Threat of the Winterfall", x = 66, y = 34, zone = "Winterspring" },
@@ -338,7 +315,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "Grab the relic at #COORDS[55,42]# for Troubled Spirits of Kel'Theril dismiss pet before you open them then run and FD. 2nd relic is at #COORDS[53,43]#. 3rd at #COORDS[52,41]# 4th at #COORDS[50,41]#" },
 			[19] = { str = "Go west to #COORDS[39,43]# and kill furlbog here for Threat of the Winterfall also make sure you have your 10 feathers for Moontouched Wildkin", x = 39, y = 43, zone = "Winterspring" },
 			[20] = { str = "Go to #COORDS[31,45]# and turn in Strange Sources Threat of the Winterfall and Winterfall Firewater accept Falling to Corruption", x = 31, y = 45, zone = "Winterspring" },
-			[21] = { str = "Run to #COORDS[27,34]# and turn in Winterfall Activity", x = 27, y = 34, zone = "Winterspring" },
+
+      [21] = { str = "Run to #COORDS[27,34]# and turn in Winterfall Activity", x = 27, y = 34, zone = "Winterspring" },
 			[22] = { str = "You should now be 25-30% into 55" },
 			[23] = { str = "Run through the tunnel to Felwood" },
 			[24] = { str = "Go to #COORDS[60,5]# and touch the cauldron at the camp which turns in Falling to Corruption accept Mystery Goo", x = 60, y = 5, zone = "Winterspring" },
@@ -348,7 +326,8 @@ Table_003_Alliance_50to60 = {
 			[28] = { str = "Fly to Moonglade to #COORDS[51,45]# and turn in Rabine Saturna accept Wasteland", x = 51, y = 45, zone = "Moonglade" },
 			[29] = { str = "Fly to Auberdine, boat to Menethil and fly to IF, make it your home. Make sure you have your black dragonflight molt" },
 			[30] = { str = "Go to #COORDS[75,23]# and turn in A Little Slime Goes A Long Way pt.2", x = 75, y = 23, zone = "Ironforge" },
-			[31] = { str = "Go to #COORDS[38,55]# in the throne room and accept The Smoldering Ruins of Thaurissan pt.1 then click on her and listen to the story and turn it back in, accept The Smoldering Ruins of Thaurissan pt.2", x = 38, y = 55, zone = "Ironforge" },
+
+      [31] = { str = "Go to #COORDS[38,55]# in the throne room and accept The Smoldering Ruins of Thaurissan pt.1 then click on her and listen to the story and turn it back in, accept The Smoldering Ruins of Thaurissan pt.2", x = 38, y = 55, zone = "Ironforge" },
 			[32] = { str = "In front of the FP accept Taking Back Silithus" },
 			[33] = { str = "Fly to Lakeshire" },
 			[34] = { str = "Run north to #COORDS[46,6]# and enter the Burning Steppes", x = 46, y = 6, zone = "Redridge Mountains" },
@@ -356,12 +335,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 -----------55-56 Burning Steppes
-	--[508] = {
 	[5556] = {
 		title = "55-56 Burning Steppes",
-		--n = "55-56 Burning Steppes",
-		--pID = 507, nID = 509,
-		--itemCount = 29,
 		items = {
 			[1] = { str = "55-56 Burning Steppes" },
 			[2] = { str = "Go to #COORDS[83,63]# and follow the path up and grab the FP", x = 83, y = 63, zone = "Burning Steps" },
@@ -373,7 +348,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Outside accept Tablet of the Seven and Broodling Essence" },
 			[9] = { str = "Go to #COORDS[54,40]# and touch the dwarf statue for Tablet of the Seven", x = 54, y = 40, zone = "Burning Steps" },
 			[10] = { str = "Go west to #COORDS[43,46]# to blackrock stronghold or south to #COORDS[49,55]# the pillar of ash and kill the orcs for FIFTY! YEP! they drop in large amounts", x = 43, y = 46, zone = "Burning Steps" },
-			[11] = { str = "While in the pillar of ash at #COORDS[40,56]# you should kill Gor’tesh for Gor'tesh the Brute Lord", x = 40, y = 56, zone = "Burning Steps" },
+
+      [11] = { str = "While in the pillar of ash at #COORDS[40,56]# you should kill Gor’tesh for Gor'tesh the Brute Lord", x = 40, y = 56, zone = "Burning Steps" },
 			[12] = { str = "Get a group if you can for Dragonkin Menace and then kill the mobs for it just ne of the camp along the east wall. It’s soloable but cutting it Also get 8 of the broodlings for Broodling Essence by using the device on them before you attack them." },
 			[13] = { str = "Go to the cave at #COORDS[94,31]# and accept A Taste of Flame then give him the molt and hand the quest back in. SKIP the next part", x = 94, y = 31, zone = "Burning Steps" },
 			[14] = { str = "Run back up to #COORDS[65,23]# and turn in Tablet of the Seven and Broodling Essence accept Felnok Steelspring", x = 65, y = 23, zone = "Burning Steps" },
@@ -383,7 +359,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "Fly to Lakeshire and run to the town hall at #COORDS[29,44]# and turn in The True Masters pt.1 accept The True Masters pt.2", x = 29, y = 44, zone = "Redridge Mountains" },
 			[19] = { str = "Fly to SW" },
 			[20] = { str = "Go to #COORDS[78,18]# into the SW keep and turn in The True Masters pt.2 accept The True Masters pt.3 then talk to the lady and then turn it back in and accept The True Masters pt.4", x = 78, y = 18, zone = "Stormwind City" },
-			[21] = { str = "Fly back to Lakeshire and go to the townhall at #COORDS[29,44]# and turn in The True Masters pt.4 accept The True Masters pt.5", x = 29, y = 44, zone = "Redridge Mountains" },
+
+      [21] = { str = "Fly back to Lakeshire and go to the townhall at #COORDS[29,44]# and turn in The True Masters pt.4 accept The True Masters pt.5", x = 29, y = 44, zone = "Redridge Mountains" },
 			[22] = { str = "Fly to the Burning Steppes and turn in The True Masters pt.5 when you land and accept The True Masters pt.6" },
 			[23] = { str = "Run up to #COORDS[64,23]# and listen to ragged john then run back to #COORDS[84,68]# and turn in The True Masters pt.6 I SKIP the next part, do it later if you’re worried about speed leveling. That was an easy 30k xp for doing nothing and your ony key chain is started.", x = 64, y = 23, zone = "Burning Steps" },
 			[24] = { str = "You should be about 10k from 56, go grind until 5k on the orcs at #COORDS[49,55]#", x = 49, y = 55, zone = "Burning Steps" },
@@ -396,12 +373,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 -----------56-56 Tanaris
-	--[509] = {
 	[5655] = {
 		title = "56-56 Tanaris",
-		--n = "56-56 Tanaris",
-		--pID = 508, nID = 510,
-		--itemCount = 9,
 		items = {
 			[1] = { str = "56-56 Tanaris" },
 			[2] = { str = "Go to the NW side of town and scare sprinkle for Are We There, Yeti? pt.3" },
@@ -416,12 +389,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 -----------56-56 Silithus
-	--[510] = {
 	[5656] = {
 		title = "56-56 Silithus",
-		--n = "56-56 Silithus",
-		--pID = 509, nID = 511,
-		--itemCount = 42,
 		items = {
 			[1] = { str = "56-56 Silithus" },
 			[2] = { str = "Near the moonwell accept The Twilight Mystery" },
@@ -433,7 +402,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Go do Securing the Supply Lines and Deadly Desert Venom North and NE of town all around #COORDS[55,24]# the dredges, scorpids, and skitterers for these 2 quests are all over this area.", x = 55, y = 24, zone = "Silithus" },
 			[9] = { str = "Run up to #COORDS[81,18]# and turn in Wasteland accept The Spirits of Southwind", x = 81, y = 18, zone = "Silithus" },
 			[10] = { str = "Run up NW to around 22.9 and pick up the twilight tablet fragments for The Twilight Mystery They litter this spot", x = 22, y = 9, zone = "Silithus" },
-			[11] = { str = "Hearth to Cenarion Hold" },
+
+      [11] = { str = "Hearth to Cenarion Hold" },
 			[12] = { str = "Up stairs turn in Deadly Desert Venom accept Noggle's Last Hope" },
 			[13] = { str = "In front of the Inn, turn in Securing the Supply Lines accept Stepping Up Security" },
 			[14] = { str = "Go next to the moonwell and turn in The Twilight Mystery accept The Deserter" },
@@ -443,7 +413,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "Go to the cave at #COORDS[67,69]# and turn in The Deserter accept The Twilight Lexicon", x = 67, y = 69, zone = "Silithus" },
 			[19] = { str = "You can find flayers and stalkers outside of the cave for Noggle's Last Hope they are also both around #COORDS[43,72]# on the other side of the hive", x = 43, y = 72, zone = "Silithus" },
 			[20] = { str = "Hearth back to Cenarion Hold or die so you end up there" },
-			[21] = { str = "Go upstairs and turn in for Noggle's Last Hope accept Noggle's Lost Satchel" },
+
+      [21] = { str = "Go upstairs and turn in for Noggle's Last Hope accept Noggle's Lost Satchel" },
 			[22] = { str = "Outside the Inn, turn in Stepping Up Security" },
 			[23] = { str = "Go to #COORDS[29,35]# and kill Twilight Keeper Manya for The Twilight Lexicon she fears a bit. She’s at the SE corner of came", x = 29, y = 35, zone = "Silithus" },
 			[24] = { str = "Go to #COORDS[41,41]# and kill Twilight Keeper Havanuth for The Twilight Lexicon he’s on the east side of camp, he has a nasty aoe", x = 41, y = 41, zone = "Silithus" },
@@ -453,7 +424,8 @@ Table_003_Alliance_50to60 = {
 			[28] = { str = "Run up to #COORDS[81,18]# and turn in The Spirits of Southwind accept Hive in the Tower", x = 81, y = 18, zone = "Silithus" },
 			[29] = { str = "Go to the top of the tower at #COORDS[61,52]# Be careful 3 bugs spawn when you enter. Shift right click the pod because as soon as you open it some amushers spawn. Kill at least 1 and loot it for Hive in the Tower", x = 61, y = 52, zone = "Silithus" },
 			[30] = { str = "Go up to #COORDS[81,18]# and turn in Hive in the Tower accept Umber, Archivist", x = 81, y = 18, zone = "Silithus" },
-			[31] = { str = "Hearth to Cenarion Hold" },
+
+      [31] = { str = "Hearth to Cenarion Hold" },
 			[32] = { str = "Ignore" },
 			[33] = { str = "Go upstairs and turn in Noggle's Lost Satchel" },
 			[34] = { str = "Go into the long building and turn in A Terrible Purpose" },
@@ -463,18 +435,15 @@ Table_003_Alliance_50to60 = {
 			[38] = { str = "You should now be 80-85% into leveling" },
 			[39] = { str = "Fly to Auberdine and boat to Menethil then fly to IF" },
 			[40] = { str = "Make IF your home, then find the wandering commander dwarf and accept  A Call To Arms: The Plaguelands!" },
-			[41] = { str = "Fly to Southshore" },
+
+      [41] = { str = "Fly to Southshore" },
 			[42] = { str = "Run north into Alterac Mountains and over NE to #COORDS[80,34]# and run into Western Plaguelands (WPL)", x = 80, y = 34, zone = "Alterac Mountains" },
 		}
 	},
 
 ------------56-57 Western Plaguelands
-	--[511] = {
 	[5657] = {
 		title = "56-57 Western Plaguelands",
-		--n = "56-57 Western Plaguelands",
-		--pID = 510, nID = 512,
-		--itemCount = 43,
 		items = {
 			[1] = { str = "56-57 Western Plaguelands" },
 			[2] = { str = "Next to the shack accept A Plague Upon Thee pt.1" },
@@ -487,7 +456,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Go back to Chillwind Camp at #COORDS[42,84]# and turn in Clear The Way accept All Along the Watchtowers and The Scourge Cauldrons", x = 42, y = 84, zone = "Western Plaguelands" },
 			[9] = { str = "Turn around and turn in The Scourge Cauldrons accept Target: Felstone Field" },
 			[10] = { str = "You should now be about 5-10k from 57" },
-			[11] = { str = "Go back NE to #COORDS[48,72]# and go over the bridge", x = 48, y = 72, zone = "Western Plaguelands" },
+
+      [11] = { str = "Go back NE to #COORDS[48,72]# and go over the bridge", x = 48, y = 72, zone = "Western Plaguelands" },
 			[12] = { str = "Just in the town on the left at #COORDS[47,71]# is the 4th tower for All Along the Watchtowers, there are elites inside but you can stand out of LOS on the edge and mark the doors easily. 1st tower West of here at #COORDS[40,71]#. 2nd tower NE of here at #COORDS[42,66]#. 3rd tower NE of here at #COORDS[44,63]#. Just behind this tower.", x = 47, y = 71, zone = "Western Plaguelands" },
 			[13] = { str = "Go NW to #COORDS[37,56]# to Felstone field, kill Cauldron Lord Bilemaw for his cauldron key. Then go right click the cauldron and turn in Target: Felstone Field accept Return to Chillwind Camp", x = 37, y = 56, zone = "Western Plaguelands" },
 			[14] = { str = "Theres 2 houses on the NE side of the field at #COORDS[38,54]#, enter the northern house and go upstairs. Accept Better Late Than Never pt.1", x = 38, y = 54, zone = "Western Plaguelands" },
@@ -497,7 +467,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "Near the FP turn in Return to Chillwind Camp accept Target: Dalson's Tears" },
 			[19] = { str = "Go up to #COORDS[46,52]# to Dalson’Tears, kill Cauldron Lord Malvinious for his cauldron key. Then go right click the cauldron and turn in Target: Dalson's Tears accept Return to Chillwind Camp", x = 46, y = 52, zone = "Western Plaguelands" },
 			[20] = { str = "Enter the barn here at #COORDS[47,50]# and Touch the diary on the floor and complete it, another quest that isn’t a quest.", x = 47, y = 50, zone = "Western Plaguelands" },
-			[21] = { str = "Go behind the barn and look for a Wandering Skeleton and get Dalson Outhouse Key off of him. Use this to open the outhouse back here and kill Farmer Dalson and get his Dalson Cabinet Key. Use the key on the locked cabinet upsairs in the house now at #COORDS[47,49]# next to the barn and complete the quest Locked Away", x = 47, y = 49, zone = "Western Plaguelands" },
+
+      [21] = { str = "Go behind the barn and look for a Wandering Skeleton and get Dalson Outhouse Key off of him. Use this to open the outhouse back here and kill Farmer Dalson and get his Dalson Cabinet Key. Use the key on the locked cabinet upsairs in the house now at #COORDS[47,49]# next to the barn and complete the quest Locked Away", x = 47, y = 49, zone = "Western Plaguelands" },
 			[22] = { str = "Go back to Chillwind Camp at #COORDS[42,84]# and turn in Return to Chillwind Camp accept Target: Writhing Haunt", x = 42, y = 84, zone = "Western Plaguelands" },
 			[23] = { str = "Hearth to IF then fly to SW" },
 			[24] = { str = "Go to the building at #COORDS[48,30]# on the 2nd floor of the cathedral area and turn in Better Late Than Never pt.2 accept Good Natured Emma", x = 48, y = 30, zone = "Stormwind" },
@@ -507,7 +478,8 @@ Table_003_Alliance_50to60 = {
 			[28] = { str = "Fly back to WPL" },
 			[29] = { str = "In front of the house turn in Flint Shadowmore accept The Eastern Plagues" },
 			[30] = { str = "Go back to Felstone field to the house upstairs at #COORDS[38,54]# and turn in Good Luck Charm accept Two Halves Become One Go outside and look for a jabbering ghoul. You can’t miss him he carry’s a pitchfork. Keep clearing in front of the house until you find him. This will give you a good time to get those skeletal fragments", x = 38, y = 54, zone = "Western Plaguelands" },
-			[31] = { str = "Combine the halves and go back upstairs and turn in Two Halves Become One" },
+
+      [31] = { str = "Combine the halves and go back upstairs and turn in Two Halves Become One" },
 			[32] = { str = "Go SE to #COORDS[53,65]# to Writhing Haunt, kill Cauldron Lord Razarch for his cauldron key. Then go right click the cauldron and turn in Target: Writhing Haunt accept Return to Chillwind Camp", x = 53, y = 65, zone = "Western Plaguelands" },
 			[33] = { str = "In the house at #COORDS[54,65]# accept The Wildlife Suffers Too pt.1 now go north of the haunt and kill the diseased wolves. Don’t go any farther east to find these just go North, maybe NW some.", x = 54, y = 65, zone = "Western Plaguelands" },
 			[34] = { str = "Go back to #COORDS[54,65]# and turn in The Wildlife Suffers Too pt.1 accept The Wildlife Suffers Too pt.2", x = 54, y = 65, zone = "Western Plaguelands" },
@@ -517,19 +489,16 @@ Table_003_Alliance_50to60 = {
 			[38] = { str = "Go back to #COORDS[54,65]# and turn in The Wildlife Suffers Too pt.2 accept Glyphed Oaken Branch", x = 54, y = 65, zone = "Western Plaguelands" },
 			[39] = { str = "If you haven’t finished Skeletal Fragments yet go to the crypt at #COORDS[54,79]# and kill the skeletons until you have 15 fragments", x = 54, y = 79, zone = "Western Plaguelands" },
 			[40] = { str = "Go back to Chillwind Camp at #COORDS[42,84]# and turn in Return to Chillwind Camp", x = 42, y = 84, zone = "Western Plaguelands" },
-			[41] = { str = "Turn around to the guy in front of the tent, and complete the quest Mission Accomplished! no link for it cuz it’s not a quest again lol. Now see that running back and forth seemed out of the way but there was a huge xp boost at the end, and nice xp throughout." },
+
+      [41] = { str = "Turn around to the guy in front of the tent, and complete the quest Mission Accomplished! no link for it cuz it’s not a quest again lol. Now see that running back and forth seemed out of the way but there was a huge xp boost at the end, and nice xp throughout." },
 			[42] = { str = "To your right turn in Skeletal Fragments SKIP the next part unless you want to start on your scholo key." },
 			[43] = { str = "Run east to #COORDS[70,50]# and enter the Eastern Plaguelands (EPL)", x = 70, y = 50, zone = "Western Plaguelands" },
 		}
 	},
 
 -----------57-58 Eastern Plaguelands
-	--[512] = {
 	[5758] = {
 		title = "57-58 Eastern Plaguelands",
-		--n = "57-58 Eastern Plaguelands",
-		--pID = 511, nID = 513,
-		--itemCount = 19,
 		items = {
 			[1] = { str = "57-58 Eastern Plaguelands" },
 			[2] = { str = "Run up the west coast to #COORDS[67,4]# and accept the 3 quests Demon Dogs Blood Tinged Skies and Carrion Grubbage", x = 67, y = 4, zone = "Eastern Plaguelands" },
@@ -541,7 +510,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Don’t forget to kill the grubs along the way too for Carrion Grubbage, they’re not as important because they’re all over." },
 			[9] = { str = "Kill Plaguehounds for Demon Dogs all around #COORDS[56,57]# this is north of the scar and south of blackwood lake. Don’t forget the grubs", x = 56, y = 57, zone = "Eastern Plaguelands" },
 			[10] = { str = "Kill Frenzied Plaguehounds for Demon Dogs  all around #COORDS[61,41]# this is north of blackwood lake but now west of it.", x = 61, y = 41, zone = "Eastern Plaguelands" },
-			[11] = { str = "Head to lights hope chapel at #COORDS[81,58]# if you still need grub meat for Carrion Grubbage, then kill them as you", x = 81, y = 58, zone = "Eastern Plaguelands" },
+
+      [11] = { str = "Head to lights hope chapel at #COORDS[81,58]# if you still need grub meat for Carrion Grubbage, then kill them as you", x = 81, y = 58, zone = "Eastern Plaguelands" },
 			[12] = { str = "Get the FP" },
 			[13] = { str = "Turn in Uncle Carlin accept Defenders of Darrowshire" },
 			[14] = { str = "Turn around and turn in Duke Nicholas Zverenhoff" },
@@ -556,12 +526,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 -----------58-58 Western Plaguelands
-	--[513] = {
 	[5857] = {
 		title = "58-58 Western Plaguelands",
-		--n = "58-58 Western Plaguelands",
-		--pID = 512, nID = 514,
-		--itemCount = 9,
 		items = {
 			[1] = { str = "58-58 Western Plaguelands" },
 			[2] = { str = "Go NE to the house at #COORDS[49,78]# and go upstairs. Turn in Pamela's Doll accept A Strange Historian", x = 49, y = 78, zone = "Western Plaguelands" },
@@ -576,12 +542,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 -----------58-58 Eastern Plaguelands
-	--[514] = {
 	[5858] = {
 		title = "58-58 Eastern Plaguelands",
-		--n = "58-58 Eastern Plaguelands",
-		--pID = 513, nID = 515,
-		--itemCount = 18,
 		items = {
 			[1] = { str = "58-58 Eastern Plaguelands" },
 			[2] = { str = "Run out of here and into EPL up to the NW at #COORDS[7,43]# and turn in the 3 quests Demon Dogs Blood Tinged Skies and Carrion Grubbage accept Redemption then listen to him and turn it back in. Then accept Of Forgotten Memories", x = 7, y = 43, zone = "Eastern Plaguelands" },
@@ -593,7 +555,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Go down to #COORDS[79,63]# and turn in Zaeldarr the Outcast", x = 79, y = 63, zone = "Eastern Plaguelands" },
 			[9] = { str = "Go down just North of Corin’s Crossing to #COORDS[53,65]# and grab the sword for Villains of Darrowshire It’s down in the scar. Don’t forget to do some of Defenders of Darrowshire at Corin’s Just get what you can", x = 53, y = 65, zone = "Eastern Plaguelands" },
 			[10] = { str = "Go north to Blackwood Lake at #COORDS[51,49]# and grab the skull under the water for Villains of Darrowshire", x = 51, y = 49, zone = "Eastern Plaguelands" },
-			[11] = { str = "Go NE to around #COORDS[65,41]# and kill the zombies for part of Defenders of Darrowshire there are quite a lot here you could probably finish", x = 65, y = 41, zone = "Eastern Plaguelands" },
+
+      [11] = { str = "Go NE to around #COORDS[65,41]# and kill the zombies for part of Defenders of Darrowshire there are quite a lot here you could probably finish", x = 65, y = 41, zone = "Eastern Plaguelands" },
 			[12] = { str = "Go to the lake at #COORDS[71,33]# and grab the flag next to the cage, it’s hard to see and is laying flat for Of Lost Honor", x = 71, y = 33, zone = "Eastern Plaguelands" },
 			[13] = { str = "Go NW to the tower at #COORDS[56,24]# and turn in Troubled Spirits of Kel'Theril SKIP the next part", x = 56, y = 24, zone = "Eastern Plaguelands" },
 			[14] = { str = "Run West to #COORDS[45,34]# and loot the termite mounds here for A Plague Upon Thee pt.1 until you get 100 termites, also kill ghouls to finish up Defenders of Darrowshire", x = 45, y = 34, zone = "Eastern Plaguelands" },
@@ -605,12 +568,8 @@ Table_003_Alliance_50to60 = {
 	},
 
 ------------58-59 Western Plaguelands
-	--[515] = {
 	[5859] = {
 		title = "58-59 Western Plaguelands",
-		--n = "58-59 Western Plaguelands",
-		--pID = 514, nID = 516,
-		--itemCount = 19,
 		items = {
 			[1] = { str = "58-59 Western Plaguelands" },
 			[2] = { str = "Run up to #COORDS[51,28]# and accept “Unfinished Business pt.1”", x = 52, y = 30, zone = "Western Plaguelands" },
@@ -622,7 +581,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Run back straight south over the mountains to #COORDS[51,28]# and turn in “Unfinished Business pt.3”", x = 51, y = 28, zone = "Western Plaguelands" },
 			[9] = { str = "Run into EPL and up to #COORDS[7,43]# and turn in “Of Lost Honor” accept “Of Love and Family pt.1”", x = 7, y = 43, zone = "Eastern Plaguelands" },
 			[10] = { str = "Go back to WPL and run/swim to the island Scholo is on at #COORDS[65,75]# and turn in “Of Love and Family pt.1” SKIP the rest until you do strat", x = 65, y = 75, zone = "Western Plaguelands" },
-			[11] = { str = "Go back to Chillwind Camp at #COORDS[43,84]# and turn in “A Plague Upon Thee pt.3”", x = 43, y = 84, zone = "Western Plaguelands" },
+
+      [11] = { str = "Go back to Chillwind Camp at #COORDS[43,84]# and turn in “A Plague Upon Thee pt.3”", x = 43, y = 84, zone = "Western Plaguelands" },
 			[12] = { str = "Now you want to do 2 things here. Get friendly with Argent Dawn and get 8-8.5k from leveling. You can do “Alas, Andorhal” if you can find a group, it’s not that hard but can take 5-10 people. This will give you an easy 8300 xp instead of grinding." },
 			[13] = { str = "Now you want to go up to andorhal and just grind until you’re friendly, once you’re friendly go back to Chillwind Camp and turn in all your scourge tokens. This allows you to buy mana biscuits which restore mana and health and more than food can. If you still need to level then go grind on mobs in andorhal again until you’re 8-8.5k from 59" },
 			[14] = { str = "Once you’re 8k-8.5k from leveling, fly to Hinterlands and run all the way NE to the waterfall at #COORDS[80,46]# and jump off. Under the water loot the chest and finish “Cortello’s Riddle pt.3” I bet you thought I forgot about it", x = 80, y = 46, zone = "The Hinterlands" },
@@ -638,9 +598,6 @@ Table_003_Alliance_50to60 = {
 	--[516] = {
 	[5960] = {
 		title = "59-60 Winterspring",
-		--n = "59-60 Winterspring",
-		--pID = 515, nID = 516,
-		--itemCount = 31,
 		items = {
 			[1] = { str = "59-60 Winterspring" },
 			[2] = { str = "On your left after entering turn in “Are We There, Yeti? pt.3”" },
@@ -652,7 +609,8 @@ Table_003_Alliance_50to60 = {
 			[8] = { str = "Turn in “Chillwind Horns” SKIP the other unless you wanna go there" },
 			[9] = { str = "Go south to #COORDS[59,59]# and touch the crate and turn in “Enraged Wildkin pt.1” accept “Enraged Wildkin pt.2”", x = 59, y = 59, zone = "Winterspring" },
 			[10] = { str = "Go back to the road at #COORDS[61,60]# and touch the wagon, turn in “Enraged Wildkin pt.2” accept “Enraged Wildkin pt.3” grab the box in the snow", x = 61, y = 60, zone = "Winterspring" },
-			[11] = { str = "Run east again to #COORDS[63,59]# and turn in “Find Ranshalla” accept “Guardians of the Altar”", x = 63, y = 59, zone = "Winterspring" },
+
+      [11] = { str = "Run east again to #COORDS[63,59]# and turn in “Find Ranshalla” accept “Guardians of the Altar”", x = 63, y = 59, zone = "Winterspring" },
 			[12] = { str = "Now protect her while she does her thing. Make sure you get the feather off an owl for “Enraged Wildkin pt.3” When she stops in a cave, light the torch for her. If you don’t get the feather before you’re done keep killing until you got it." },
 			[13] = { str = "Go south to #COORDS[62,69]# and loot the gems for “Luck Be With You” hunters and locks can use pet to distract mobs while u loot, other classes will have to group.", x = 62, y = 69, zone = "Winterspring" },
 			[14] = { str = "Hearth to Everlook" },
@@ -662,7 +620,8 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "Go up to Starfall Village at #COORDS[52,30]# and turn in “Enraged Wildkin pt.3”", x = 52, y = 30, zone = "Winterspring" },
 			[19] = { str = "Run to #COORDS[31,45]# and turn in “Mystery Goo” accept “Toxic Horrors”", x = 31, y = 45, zone = "Winterspring" },
 			[20] = { str = "Run into Felwood and go to #COORDS[48,24]# and kill toxic horrors for “Toxic Horrors” these also drop essence of waters", x = 48, y = 24, zone = "Felwood" },
-			[21] = { str = "Fly to Rut’theran Village and go to the house at #COORDS[55,92]# and turn in “Guardians of the Altar” accept “Wildkin of Elune”", x = 55, y = 92, zone = "Teldrassil" },
+
+      [21] = { str = "Fly to Rut’theran Village and go to the house at #COORDS[55,92]# and turn in “Guardians of the Altar” accept “Wildkin of Elune”", x = 55, y = 92, zone = "Teldrassil" },
 			[22] = { str = "Go in Darnassus and up to the top of the tower at #COORDS[34,8]# and turn in “Wildkin of Elune”", x = 34, y = 8, zone = "Darnassus" },
 			[23] = { str = "Fly back to Felwood" },
 			[24] = { str = "Run back up into Winterspring and over to #COORDS[31,45]# turn in “Toxic Horrors” accept “Winterfall Runners”", x = 31, y = 45, zone = "Winterspring" },
@@ -672,7 +631,8 @@ Table_003_Alliance_50to60 = {
 			[28] = { str = "You should be 45-50% through 59. Now I make sure I got my mana bisquits and I start grinding until im 6600 to 60.  Anywhere is fine where there is a lot of mobs It’s all a matter of preference. I choose the owl wing thicket at #COORDS[64,62]# or anything north of everlook. I like to kill the furlbogs for timbermaw rep also.", x = 64, y = 62, zone = "Winterspring" },
 			[29] = { str = "If you don’t want to grind this large amount then do BRD, scholo, or strat. You have a lot of quests in those spots to do" },
 			[30] = { str = "Once you’re 6600 to 60 go to IF and turn in An Earnest Proposition" },
-			[31] = { str = "Grats on 60...fuck the police." },
+
+      [31] = { str = "Grats on 60...fuck the police." },
 		}
 	},
 }

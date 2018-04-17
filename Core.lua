@@ -1,33 +1,4 @@
 --[[--------------------------------------------------
------ VanillaGuide -----
-------------------
-Core.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: 
-        Powerleveling Guide for 1.12.1 servers
-        based on Joana Guide. Core FILE!
-    1.00
-        -- Initial Ace2 release
-	1.99a
-        -- Ally addition starter version
-    1.03
-        -- No Changes. Just adjusting "version".
-            1.99x for a beta release was a weird choise.
-    1.04.1
-        -- Vanilla Guide Rewrite
-            The "keybind" problems is forcing me to rethink
-            this entire Addon. Let's see what comes out!
-        -- Two level Debug (let's waste time!)
-        -- Two New object created:
-            .Settings, containing various settings (unneeded?)
-            .GuideTables, containing the actual guides
-    1.04.2
-        -- no changes in here for this revision
---]]--------------------------------------------------
-
---[[--------------------------------------------------
 Debug:
 --]]--------------------------------------------------
 
@@ -109,7 +80,7 @@ function VGuide:OnInitialize(Addon_Name)
     self:RegisterEvent("ADDON_LOADED")
     -- Fires immediately before `PLAYER_ENTERING_WORLD` on login and UI reload
     self:RegisterEvent("PLAYER_LOGIN")
-    -- Fired when the player enters the world, reloads the UI, 
+    -- Fired when the player enters the world, reloads the UI,
     -- enters/leaves an instance or battleground, or respawns at a graveyard.
     -- Also fires any other time the player sees a loading screen
     --self:RegisterEvent("PLAYER_ENTERING_WORLD")
@@ -138,7 +109,7 @@ function VGuide:ADDON_LOADED(name)
     if name == "VanillaGuide" then
         Dv("      -- Event |c00FF3333ADDON_LOADED|r: " .. name)
         Dv("        |c00FF3333Vanilla Guide|r and its own SavedVariables should be loaded now!")
-        
+
     end
     --Dv("    -- ADDON_LOADED End")
 end
@@ -178,14 +149,14 @@ function VGuide:OnEnable(first)
     Dv("                ...let's check our old SavedVariables or create a new set...")
 
     self.Settings = objSettings:new()
-    
-	self.Settings:CheckSettings()  
+
+	self.Settings:CheckSettings()
     --self.Settings:PrintSettings()
     self.GuideTable = objGuideTable:new(self.Settings)
     self.Display = objDisplay:new(self.Settings, self.GuideTable)
     self.UI = objUI:new(self.Settings, self.Display)
 
-    
+
 
     Dv("      -- Event |c00FF3333OnEnable|r:  Player is logged in...loading UI!")
     --Dv("    -- OnEnable End")

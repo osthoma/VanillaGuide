@@ -1,27 +1,7 @@
---[[--------------------------------------------------
-002_DunMorogh.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: Guide Serie - 002 DunMorogh
-    1.04.1
-        -- First Release
-            Dwarves&Gnomes DunMorogh's Guide
-            from level 1 to lever 12
-    1.04.2
-        -- no changes in here for this revision
-------------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_002_DunMorogh = {
 -----------1-6 Coldridge Valley
-    --[13] = {
     [0106] = {
         title = "1-6 Coldridge Valley",
-        --n = "1-6 Coldridge Valley",
-        --pID = 1, nID = 14,
-        --itemCount = 25,
         items = {
             [1] = { str = "1-6 Coldridge Valley" },
             [2] = { str = "Right in front of where you start accept Dwarven Outfitters" },
@@ -33,6 +13,7 @@ Table_002_DunMorogh = {
             [8] = { str = "Accept A Refugee's Quandary inside " },
             [9] = { str = "Follow the road south to #COORDS[22,71]# and turn in Coldridge Valley Mail Delivery pt.1 accept Coldridge Valley Mail Delivery pt.2 and The Boar Hunter", x = 22, y = 71, zone = "Dun Morogh" },
             [10] = { str = "Just behind him start killing small boars until you have 12 for The Boar Hunter then go back to #COORDS[22,71]# and turn it in" },
+
             [11] = { str = "At #COORDS[20,76]# clear the front of the tent and grab Felix's Box for A Refugee's Quandary", x = 20, y = 76, zone = "Dun Morogh" },
             [12] = { str = "At #COORDS[22,80]# clear in front of the tent and grab Felix's Chest for A Refugee's Quandary", x = 22, y = 80, zone = "Dun Morogh" },
             [13] = { str = "Run up to #COORDS[25,75]# (it’s the end of the road on the map) and turn in Coldridge Valley Mail Delivery pt.2 and accept The Troll Cave ", x = 25, y = 75, zone = "Dun Morogh" },
@@ -43,6 +24,7 @@ Table_002_DunMorogh = {
             [18] = { str = "Turn around and Accept “Scalding Mornbrew Delivery” and hearth." },
             [19] = { str = "Run up into Anvilmar at #COORDS[28,69]# and turn in “A Refugee's Quandary”.", x = 28, y = 69, zone = "Dun Morogh" },
             [20] = { str = "Go further back and turn in “Scalding Mornbrew Delivery” accept “Bring Back the Mug”." },
+
             [21] = { str = "Get training before you leave." },
             [22] = { str = "Run right to #COORDS[25,75]#, everything is yellow so nothing will attack you, and turn in “Bring Back the Mug”.", x = 25, y = 75, zone = "Dun Morogh" },
             [23] = { str = "Head toward the tunnel and turn in “Senir's Observations pt.1” at #COORDS[33,71]# and accept “Senir's Observations pt.2”.", x = 33, y = 71, zone = "Dun Morogh" },
@@ -52,12 +34,8 @@ Table_002_DunMorogh = {
     },
 
 -----------6-12 Dun Morogh
-    --[14] = {
     [0612] = {
         title = "6-12 Dun Morogh",
-        --n = "6-12 Dun Morogh",
-        --pID = 13, nID = 101,
-        --itemCount = 71,
         items = {
             [1] = { str = "6-12 Dun Morogh" },
             [2] = { str = "Go through the tunnel and kill all the stuff on the way. Follow the road to #COORDS[46,53]# in Kharanos and kill stuff on the way until you’re 6. Save your boar ribs and boar meat.", x = 46, y = 53, zone = "Dun Morogh" },
@@ -69,6 +47,7 @@ Table_002_DunMorogh = {
             [8] = { str = "Go across the road from the Inn and accept “Tools For Steelgrill” " },
             [9] = { str = "Go NE to #COORDS[49,48]# and accept “Stocking Jetsteam” and “The Grizzled Den”", x = 49, y = 48, zone = "Dun Morogh" },
             [10] = { str = "Go to the left house and turn in “Tools For Steelgrill”" },
+
             [11] = { str = "By the tree out front accept “Ammo For Rumbleshot”" },
             [12] = { str = "Go to the small camp at #COORDS[44,56]# and open the box for “Ammo For Rumbleshot”", x = 44, y = 56, zone = "Dun Morogh" },
             [13] = { str = "From around this camp to the SW kill boars and bears until you finish “Stocking Jetsteam” and “Beer Basted Boar Ribs”" },
@@ -79,6 +58,7 @@ Table_002_DunMorogh = {
             [18] = { str = "Just outside the Inn, turn in “Beer Basted Boar Ribs”" },
             [19] = { str = "Go to the house at #COORDS[45,49]#, NW of the Inn, and accept Operation Recombobulation", x = 45, y = 49, zone = "Dun Morogh" },
             [20] = { str = "Run NE to #COORDS[49,48]# and turn in “Stocking Jetsteam” accept “Evershine”", x = 49, y = 48, zone = "Dun Morogh" },
+
             [21] = { str = "Turn in “The Grizzled Den”" },
             [22] = { str = "You should be close to half way through lvl 7 " },
             [23] = { str = "Run west to #COORDS[30,45]# and turn in “Evershine” accept “A Favor For Evershine” and “The Perfect Stout”. ", x = 30, y = 45, zone = "Dun Morogh" },
@@ -89,6 +69,7 @@ Table_002_DunMorogh = {
             [28] = { str = "Next to the GY accept “Frostmane Hold”" },
             [29] = { str = "Go into the Inn and buy a thunder ale off the Innkeeper and down in the basement, give the ale to Jarven Thunderbrew. When he leaves touch the barrel to turn in “Bitter Rivals” accept “Return to Marleth”. " },
             [30] = { str = "Get new skills" },
+
             [31] = { str = "Go west to brewnall village again at #COORDS[30,45]# and turn in “The Perfect Stout” and “A Favor For Evershine” accept “Return to Bellowfiz” and “Shimmer Stout”. ", x = 30, y = 45, zone = "Dun Morogh" },
             [32] = { str = "Next to him turn in “Return to Marleth” you should be past half way to 9 now" },
             [33] = { str = "Go west of brewnall and kill leper gnomes until you complete Operation Recombobulation you should hit 9 getting kills " },
@@ -99,6 +80,7 @@ Table_002_DunMorogh = {
             [38] = { str = "Go east to #COORDS[49,48]# and turn in “Return to Bellowfiz” you should be half way to 10 now ", x = 49, y = 48, zone = "Dun Morogh" },
             [39] = { str = "Go North to IF at #COORDS[53,35]# ", x = 53, y = 35, zone = "Dun Morogh" },
             [40] = { str = "Make IF your home at #COORDS[21,55]# ", x = 21, y = 55, zone = "Ironforge" },
+
             [41] = { str = "Go to #COORDS[39,56]# in IF, behind the bank, in the kings room, turn in “The Reports” ", x = 39, y = 56, zone = "Ironforge" },
             [42] = { str = "Enter the tram at #COORDS[76,51]# ", x = 76, y = 51, zone = "Ironforge" },
             [43] = { str = "Take the tram down to SW " },
@@ -109,6 +91,7 @@ Table_002_DunMorogh = {
             [48] = { str = "In the blacksmith house right here accept “Elmore's Task” " },
             [49] = { str = "Go near the carts at #COORDS[42,67]# and accept “Gold Dust Exchange” ", x = 42, y = 67, zone = "Elwynn Forest" },
             [50] = { str = "Go south to the Fargodeep Mine at #COORDS[39,82]# and kill the kobold until you complete all 3 quests “The Fargodeep Mine”, “Gold Dust Exchange”, and “Kobold Candles” Make sure you go in the lower entrance so “The Fargodeep Mine” is easier ", x = 39, y = 82, zone = "Elwynn Forest" },
+
             [51] = { str = "Once all 3 are done go to the stonefield farm just up the hill east at #COORDS[34,84]# and accept “Lost Necklace” SKIP “Princess Must Die!” ", x = 34, y = 84, zone = "Elwynn Forest" },
             [52] = { str = "Go east to the Maclure Vinyard st #COORDS[43,85]# and turn in “Lost Necklace” accept “Pie For Billy” then turn around and kill boars until it’s finished ", x = 43, y = 85, zone = "Elwynn Forest" },
             [53] = { str = "At #COORDS[43,90]# and accept “Young Lovers” ", x = 43, y = 90, zone = "Elwynn Forest" },
@@ -119,6 +102,7 @@ Table_002_DunMorogh = {
             [58] = { str = "Go to #COORDS[52,12]# and turn in “Elmore's Task”, accept “Stormpike's Delivery”", x = 52, y = 12, zone = "Stormwind City" },
             [59] = { str = "Go into the tram again at #COORDS[63,10]# accept “Deeprun Rat Roundup” just collect 5 rats and turn it in. You could skip this and keep the flute, It can really piss people off if you play it non stop around the IF bank. SKIP “Me Brother, Nipsy” unless you go back to SW on the tram because you get crap xp", x = 63, y = 10, zone = "Stormwind City" },
             [60] = { str = "Back in Dun Morogh, run east to #COORDS[68,55]# and accept “The Public Servant” ", x = 68, y = 55, zone = "Dun Morogh" },
+
             [61] = { str = "Go behind him and accept “Those Blasted Troggs!” " },
             [62] = { str = "Go in the pidd below and kill the troggs here and in the cave for both quests then turn them back in at #COORDS[68,55]# " },
             [63] = { str = "Go east to #COORDS[86,49]# and turn in “Shimmer Stout”, accept the followup, then follow the path into Loch Modan ", x = 86, y = 49, zone = "Dun Morogh" },
@@ -129,6 +113,7 @@ Table_002_DunMorogh = {
             [68] = { str = "Kill troggs from #COORDS[27,53]# and north for In Defense of the King's Lands and The Trogg Threat ", x = 27, y = 53, zone = "Loch Modan" },
             [69] = { str = "Kill mobs from #COORDS[26,43]# and north for Rat Catching, then turn it in at Thelsamar at Mountaineer Kadrell, accept “Mountaineer Stormpike's Task” ", x = 26, y = 43, zone = "Loch Modan" },
             [70] = { str = "Go back to #COORDS[22,73]# and turn in In Defense of the King's Lands and The Trogg Threat ", x = 22, y = 73, zone = "Loch Modan" },
+
             [71] = { str = "Go north to the tower at #COORDS[24,18]# and turn in “Stormpike's Delivery” and “Mountaineer Stormpike's Task” ", x = 24, y = 18, zone = "Loch Modan" },
             [72] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to IF guide but just go backwards. You’re going to go north through the wetlands to menethil, then boat to auberdine from here." },
         }

@@ -1,22 +1,5 @@
---[[--------------------------------------------------
-003_Horde_50to60.lua
-Authors: mrmr
-Version: #COORDS[1,04]#.2
-------------------------------------------------------
-Description: Guide Serie - 003 From Lvl 50 to Lvl 60
-    #COORDS[1,04]#.1
-        -- First Release
-            Horde's Guide
-            from level 50 to lever 60
-    #COORDS[1,04]#.2
-    	-- no changes in here for this revision
-------------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_003_Horde_50to60 = {
 -----------50-50 Azshara
-	--[501] = {
 	[5049] = {
 		title = "50-50 Azshara",
 		n = "50-50 Azshara",
@@ -33,6 +16,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "Then fly to Thunder Bluff.." },
 			[9] = { str = "Turn in #TURNIN\"Delivery to Magatha\"# (on Elder Rise) ... accept #ACCEPT\"Magatha's Payment to Jediga\"# " },
 			[10] = { str = "Hearth to Orgrimmar." },
+
 			[11] = { str = "Go turn in #TURNIN\"Rise of the Silithid\"# ... accept #ACCEPT\"March of the Silithid\"# at #COORDS[56,46]#", x = 56, y = 46, zone = "Azshara" },
 			[12] = { str = "Turn in #TURNIN\"Delivery to Jes'rimon\"# at #COORDS[55,34]# ... accept #ACCEPT\"Jes'rimon's Payment to Jediga\"# and #ACCEPT\"Bone-Bladed Weapons\"# ", x = 55, y = 34, zone = "Azshara" },
 			[13] = { str = "Then turn in #TURNIN\"Ripple Delivery\"# at #COORDS[59,36]#  (If you did the Hinterlands section)", x = 59, y = 36, zone = "Azshara" },
@@ -43,17 +27,14 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "Then accept #ACCEPT\"Seeping Corruption\"# ... then turn it in (at the tauren right next to him) ..." },
 			[19] = { str = "... Then complete #TURNIN\"Seeping Corruption\"# for the final time." },
 			[20] = { str = "Then accept #ACCEPT\"A Sample of Slime...\"# and #ACCEPT\"... and a Batch of Ooze\"# " },
+
 			[21] = { str = "Then fly to Raventusj Village..." },
 		}
 	},
 
 -----------50-50 Hinterlands
-	--[502] = {
 	[5050] = {
 		title = "50-50 Hinterlands",
-		--n = "50-50 Hinterlands",
-		--pID = 501, nID = 503,
-		--itemCount = 20,
 		items = {
 			[1] = { str = "50-50 Hinterlands" },
 			[2] = { str = "Accept: #ACCEPT\"Snapjaws, Mon!\"# #ACCEPT\"Gammerita, Mon!\"# (Elite) and #ACCEPT\"Lard Lost His Lunch\"# " },
@@ -65,6 +46,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "then go do #DOQUEST\"Sprinkle's Secret Ingredient\"# at #COORDS[41,60]#", x = 41, y = 60, zone = "The Hinterlands" },
 			[9] = { str = "then hearth to Orgrimmar." },
 			[10] = { str = "Fly to Azshara." },
+
 			[11] = { str = "turn in all 4 delivery quests." },
 			[12] = { str = "Fly to XRs." },
 			[13] = { str = "make XRs your home." },
@@ -77,12 +59,8 @@ Table_003_Horde_50to60 = {
 	},
 
 ------------50-51 Blasted Lands
-	--[503] = {
 	[5051] = {
 		title = "50-51 Blasted Lands",
-		--n = "50-51 Blasted Lands",
-		--pID = 502, nID = 504,
-		--itemCount = 27,
 		items = {
 			[1] = { str = "50-51 Blasted Lands" },
 			[2] = { str = "I then find all the items to complete these 5 quests:" },
@@ -94,6 +72,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "you need to find these many items to complete these quests:" },
 			[9] = { str = "#NPCVulture Gizzards# x14" },
 			[10] = { str = "#NPCBasilisk Brain# x11" },
+
 			[11] = { str = "#NPCBlasted Boar Lungs# x6" },
 			[12] = { str = "#NPCScorpok Pincers# x6" },
 			[13] = { str = "#NPCSnickerfang Jowls# x5" },
@@ -104,6 +83,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "I turn in #TURNIN\"The Decisive Striker\"# in last for Ground Scorpok Assay (+50 to agility)" },
 			[19] = { str = "then hearth to XRs." },
 			[20] = { str = "Fly to Tanaris (GET A MITHRIL CASING for a later quest in Un'Goro!!!)" },
+
 			[21] = { str = "turn in #TURNIN\"Sprinkle's Secret Ingredient\"# ... accept #ACCEPT\"Delivery for Marin\"# " },
 			[22] = { str = "turn in #TURNIN\"March of the Silithid\"# ... accept #ACCEPT\"Bungle in the Jungle\"# " },
 			[23] = { str = "turn in #TURNIN\"Delivery for Marin\"# ...accept #ACCEPT\"Noggenfogger Elixir\"# then turn it in." },
@@ -113,12 +93,8 @@ Table_003_Horde_50to60 = {
 	},
 
 -----------51-52 Un'Goro Crater
-	--[504] = {
 	[5152] = {
 		title = "51-52 Un'Goro Crater",
-		--n = "51-52 Un'Goro Crater",
-		--pID = 503, nID = 505,
-		--itemCount = 56,
 		items = {
 			[1] = { str = "51-52 Un'Goro Crater" },
 			[2] = { str = "Go accept: #ACCEPT\"The Apes of Un'Goro\"# and #ACCEPT\"The Fare of Lar'korwi\"# at #COORDS[71,75]#", x = 71, y = 75, zone = "Un'Goro Crater" },
@@ -130,6 +106,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "NOTE: don't worry about the ungoro dirt mounds, you'll find enough soil from mob drops.  Also I don't worry about the Bloodpetal Sprouts, as they are not turned in for any XP." },
 			[9] = { str = "While questing, find 7 crystals of each color (red, blue, green, and yellow for the #DOQUEST\"Crystals of Power\"# quest)" },
 			[10] = { str = "#DOQUEST\"Super Sticky\"# " },
+
 			[11] = { str = "#DOQUEST\"The Apes of Un'Goro\"# along with #DOQUEST\"Chasing A-Me 01\"# (if you have a #NPCmithril casing# do the escort) at #COORDS[63,17]#", x = 63, y = 17, zone = "Un'Goro Crater" },
 			[12] = { str = "#DOQUEST\"Larion and Muigin\"# " },
 			[13] = { str = "#DOQUEST\"Beware of Pterrordax\"# along with #DOQUEST\"Shizzle's Flyer\"# and.." },
@@ -140,6 +117,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "Turn in #TURNIN\"The Fare of Lar'korwi\"# ... accept #ACCEPT\"The Scent of Lar'korwi\"# " },
 			[19] = { str = "Then go do:" },
 			[20] = { str = "#DOQUEST\"Bone-Bladed Weapons\"# along with #DOQUEST\"The Scent of Lar'korwi\"# " },
+
 			[21] = { str = "#ACCEPT\"It's a Secret to Everybody\"# ... click on boat and then bag under water at #COORDS[63,68]#", x = 63, y = 68, zone = "Un'Goro Crater" },
 			[22] = { str = "Then turn in #TURNIN\"The Scent of Lar'korwi\"# ... accept #ACCEPT\"The Bait for Lar'korwi\"# at #COORDS[71,75]#", x = 71, y = 75, zone = "Un'Goro Crater" },
 			[23] = { str = "Then go do #DOQUEST\"Alien Ecology\"# along with #DOQUEST\"Bungle in the Jungle\"# at #COORDS[50,80]#", x = 50, y = 80, zone = "Un'Goro Crater" },
@@ -150,6 +128,7 @@ Table_003_Horde_50to60 = {
 			[28] = { str = "Then go do (in the following order):" },
 			[29] = { str = "#DOQUEST\"The Northern Pylon\"# at #COORDS[56,13]#", x = 56, y = 13, zone = "Un'Goro Crater" },
 			[30] = { str = "#DOQUEST\"The Mighty U'cha\"# (cave at #COORDS[63,13]#)", x = 63, y = 13, zone = "Un'Goro Crater" },
+
 			[31] = { str = "#DOQUEST\"The Eastern Pylon\"# at #COORDS[77,50]#", x = 77, y = 50, zone = "Un'Goro Crater" },
 			[32] = { str = "#DOQUEST\"The Bait for Lar'korwi\"# at #COORDS[80,50]#.  Then turn it in along with #TURNIN\"The Mighty U'cha\"# at #COORDS[71,75]#", x = 71, y = 75, zone = "Un'Goro Crater" },
 			[33] = { str = "Go west killing oozes along the way.." },
@@ -160,6 +139,7 @@ Table_003_Horde_50to60 = {
 			[38] = { str = "Fly to Tanaris." },
 			[39] = { str = "Turn in #TURNIN\"Super Sticky\"# and #TURNIN\"Bungle in the Jungle\"# ... I SKIP \"#NPCPawn Captures Queen\"# " },
 			[40] = { str = "Then fly to Thunder Bluff." },
+
 			[41] = { str = "Go to Elder Rise." },
 			[42] = { str = "Accept #ACCEPT\"Un'goro Soil\"# .. then turn it in ... accept #ACCEPT\"Morrowgrain Research\"# .. then turn that in..." },
 			[43] = { str = "...but SKIP the next part (the part that says bring 10 Morrowgrain)" },
@@ -170,6 +150,7 @@ Table_003_Horde_50to60 = {
 			[48] = { str = "Get on the boat to go to BB.." },
 			[49] = { str = "Turn in #TURNIN\"Whiskey Slim's Lost Grog\"# " },
 			[50] = { str = "Also turn in #TURNIN\"Rescue OOX-17/TN!\"# (if you did it)" },
+
 			[51] = { str = "Fly to Kargath (Badlands).." },
 			[52] = { str = "Turn in #TURNIN\"Vivian Lagrave\"# " },
 			[53] = { str = "Accept: #ACCEPT\"Dreadmaul Rock\"# and #ACCEPT\"The Rise of the Machines\"# " },
@@ -181,9 +162,6 @@ Table_003_Horde_50to60 = {
 	--[505] = {
 	[5253] = {
 		title = "52-53 Burning Steppes",
-		--n = "52-53 Burning Steppes",
-		--pID = 504, nID = 506,
-		--itemCount = 18,
 		items = {
 			[1] = { str = "52-53 Burning Steppes" },
 			[2] = { str = "Accept: #ACCEPT\"Broodling Essence\"# and #ACCEPT\"Tablet of the Seven\"# " },
@@ -195,6 +173,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "Go turn in #TURNIN\"Tablet of the Seven\"# and #TURNIN\"Broodling Essence\"# ... accept #ACCEPT\"Felnok Steelspring\"# " },
 			[9] = { str = "Then fly to Kargath (Badlands)" },
 			[10] = { str = "Turn in #TURNIN\"Krom'Grul\"# " },
+
 			[11] = { str = "Turn in #TURNIN\"The Rise of the Machines\"# ... accept #ACCEPT\"The Rise of the Machines\"# part2" },
 			[12] = { str = "Go turn in #TURNIN\"The Rise of the Machines\"# part2 (at #COORDS[25,46]# in Badlands)", x = 25, y = 46, zone = "Badlands" },
 			[13] = { str = "Then hearth to XRs." },
@@ -205,12 +184,8 @@ Table_003_Horde_50to60 = {
 	},
 
 --------------53-54 Azshara
-	--[506] = {
 	[5354] = {
 		title = "53-54 Azshara",
-		--n = "53-54 Azshara",
-		--pID = 505, nID = 507,
-		--itemCount = 28,
 		items = {
 			[1] = { str = "53-54 Azshara" },
 			[2] = { str = "accept #ACCEPT\"Betrayed\"# " },
@@ -222,6 +197,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "#DOQUEST\"Kim'jael Indeed!\"# " },
 			[9] = { str = "NOTE: I grind away at bloodelfs for a while doing those 2 quests." },
 			[10] = { str = "Once those 3 quests are done, go turn in #TURNIN\"Kim'jael Indeed!\"# ... accept #ACCEPT\"Kim'jael's \"Missing\" Equipment\"# " },
+
 			[11] = { str = "turn in #TURNIN\"Courser Antlers\"# ... accept #ACCEPT\"Wavethrashing\"# " },
 			[12] = { str = "then go do:" },
 			[13] = { str = "#DOQUEST\"Kim'jael's \"Missing\" Equipment\"# " },
@@ -232,6 +208,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "turn in #TURNIN\"Wavethrashing\"# ... i SKIP #NPC\"The Green Drake\"# " },
 			[19] = { str = "turn in #TURNIN\"Kim'jael's \"Missing\" Equipment\"# " },
 			[20] = { str = "At this point im usually about 3/4th the way to lvl 54, I grind my way to level 54 on BloodElfs." },
+
 			[21] = { str = "I grind bloodelfs, cause their \"squishy\" mobs (mobs that have 30% fewer health/armor, than the average mob that level).  I used to grind satyrs on previous speed runs, but I was able to cut off almost a whole hour with the blood elfs." },
 			[22] = { str = "OPTIONAL: Instead of the grinding you could go do BRD instance instead." },
 			[23] = { str = "Once i hit 54 (or a few bars past it), i then hearth to Orgrimmar." },
@@ -242,12 +219,8 @@ Table_003_Horde_50to60 = {
 	},
 
 -----------54-54 Felwood
-	--[507] = {
 	[5454] = {
 		title = "54-54 Felwood",
-		--n = "54-54 Felwood",
-		--pID = 506, nID = 508,
-		--itemCount = 16,
 		items = {
 			[1] = { str = "54-54 Felwood" },
 			[2] = { str = "Accept #ACCEPT\"Timbermaw Ally\"# at #COORDS[50,85]# (??? TBC Quest?) Just talk to the NPC there he will give it to you.", x = 50, y = 85, zone = "Felwood" },
@@ -259,6 +232,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "Accept: #ACCEPT\"A Husband's Last Battle\"# and #ACCEPT\"Wild Guardians\"# " },
 			[9] = { str = "Get FP there." },
 			[10] = { str = "Then go do in the following order:" },
+
 			[11] = { str = "#DOQUEST\"Verifying the Corruption\"# (Elite) at #COORDS[41,41]#", x = 41, y = 41, zone = "Felwood" },
 			[12] = { str = "#DOQUEST\"Cleansing Felwood\"# at #COORDS[54,16]#", x = 54, y = 16, zone = "Felwood" },
 			[13] = { str = "Go accept #ACCEPT\"Deadwood of the North\"# at #COORDS[64,8]# but DON'T do it now.", x = 64, y = 8, zone = "Felwood" },
@@ -267,12 +241,8 @@ Table_003_Horde_50to60 = {
 	},
 
 -----------54-55 Winterspring
-	--[508] = {
 	[5455] = {
 		title = "54-55 Winterspring",
-		--n = "54-55 Winterspring",
-		--pID = 507, nID = 509,
-		--itemCount = 31,
 		items = {
 			[1] = { str = "54-55 Winterspring" },
 			[2] = { str = "Exit the cave and accept #ACCEPT\"Winterfall Activity\"# right outside of it." },
@@ -284,6 +254,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "Turn in #TURNIN\"Felnok Steelspring\"# ... accept #ACCEPT\"Chillwind Horns\"# " },
 			[9] = { str = "Make Everlook your home." },
 			[10] = { str = "Go do #DOQUEST\"Ursius of the Shardtooth\"#   (just keep grinding mobs on the hill north of everlook till #NPCUrsius# shows up)" },
+
 			[11] = { str = "Then turn in #TURNIN\"Ursius of the Shardtooth\"# ... accept #ACCEPT\"Brumeran of the Chillwind\"# " },
 			[12] = { str = "Go do #DOQUEST\"Brumeran of the Chillwind\"# (he patrols around #COORDS[60,60]#, see map for complete patrol path)", x = 60, y = 60, zone = "Winterspring" },
 			[13] = { str = "Then go Discover Darkwhisper Gorge at #COORDS[59,73]# for the quest #DOQUEST\"Strange Sources\"# ", x = 59, y = 73, zone = "Winterspring" },
@@ -294,6 +265,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "#DOQUEST\"Threat of the Winterfall\"# you should find #NPCEmpty Firewater Flask# which starts #ACCEPT\"Winterfall Firewater\"# while doing this quest.  When the #NPC\"Winterfall Ritual Totem\"# item drops, save it and put it in your bank you will need it later." },
 			[19] = { str = "#DOQUEST\"Wild Guardians\"# (the Ragged Owls are west of Everlook, and the Raging Owls are just north of Everlook)" },
 			[20] = { str = "#DOQUEST\"Chillwind Horns\"# (you can find a larger concentration of chimaera around #COORDS[66,29]#)", x = 66, y = 29, zone = "Winterspring" },
+
 			[21] = { str = "Once #DOQUEST\"Threat of the Winterfall\"# and #DOQUEST\"Winterfall Firewater\"# is completed go turn them in along with #TURNIN\"Strange Sources\"# at #COORDS[31,45]#... accept #ACCEPT\"Falling to Corruption\"# ", x = 31, y = 45, zone = "Winterspring" },
 			[22] = { str = "Once the rest of those quests are complete, go back to Everlook and turn in #TURNIN\"Are We There, Yeti?\"# ...accept #ACCEPT\"Are We There, Yeti?\"# part2.  Turn in #TURNIN\"Chillwind Horns\"# ... i SKIP \"#NPCReturn to Tinkee\"# " },
 			[23] = { str = "Then go do:" },
@@ -307,12 +279,8 @@ Table_003_Horde_50to60 = {
 	},
 
 -----------55-55 Felwood
-	--[509] = {
 	[5554] = {
 		title = "55-55 Felwood",
-		--n = "55-55 Felwood",
-		--pID = 508, nID = 510,
-		--itemCount = 31,
 		items = {
 			[1] = { str = "55-55 Felwood" },
 			[2] = { str = "Turn in #TURNIN\"Wild Guardians\"# ... Accept #ACCEPT\"Wild Guardians\"# part2 and #ACCEPT\"Well of Corruption\"#" },
@@ -324,6 +292,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "Go do #DOQUEST\"Well of Corruption\"# at #COORDS[32,66]#.  Also make sure you collect 6 #NPCCorrupted Soul Shards# for the quest #DOQUEST\"Salve Via Hunting\"# ", x = 32, y = 66, zone = "Felwood" },
 			[9] = { str = "#DOQUEST\"Collection of the Corrupt Water\"# at #COORDS[35,59]#", x = 35, y = 59, zone = "Felwood" },
 			[10] = { str = "Then go to Bloodvenom Post" },
+
 			[11] = { str = "Turn in #TURNIN\"A Husband's Last Battle\"# and #TURNIN\"Well of Corruption\"# ... accept #ACCEPT\"Corrupted Sabers\"# " },
 			[12] = { str = "Go turn in #TURNIN\"Salve Via Hunting\"# (the 6 Corrupted Soul Shards) at #COORDS[46,83]#", x = 46, y = 83, zone = "Felwood" },
 			[13] = { str = "Go turn in #TURNIN\"Collection of the Corrupt Water\"# ... I SKIP \"#NPCSeeking Spiritual Aid\"# at #COORDS[51,82]# ", x = 51, y = 82, zone = "Felwood" },
@@ -334,6 +303,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "Go turn in #TURNIN\"Deadwood of the North\"# at #COORDS[64,8]# ... accept #ACCEPT\"Speak to Salfa\"# .  And turn in #TURNIN\"Speak to Nafien\"# ", x = 64, y = 8, zone = "Felwood" },
 			[19] = { str = "Then run through the cave (you should be Unfriendly with Timbermaw, so they shouldn't attack you).." },
 			[20] = { str = "Turn in #TURNIN\"Winterfall Activity\"# and #TURNIN\"Speak to Salfa\"# " },
+
 			[21] = { str = "Then go turn in #TURNIN\"Mystery Goo\"# (at #COORDS[31,45]# in Winterspring) ... SKIP \"#NPCToxic Horrors\"# ", x = 31, y = 45, zone = "Winterspring" },
 			[22] = { str = "Then hearth to Everlook." },
 			[23] = { str = "Fly to Orgrimmar and make it your home." },
@@ -347,12 +317,8 @@ Table_003_Horde_50to60 = {
 	},
 
 ------------55-55 Silithus
-	--[510] = {
 	[5555] = {
 		title = "55-55 Silithus",
-		--n = "55-55 Silithus",
-		--pID = 509, nID = 511,
-		--itemCount = 25,
 		items = {
 			[1] = { str = "55-55 Silithus" },
 			[2] = { str = "accept: #ACCEPT\"The Twilight Mystery\"# #ACCEPT\"Securing the Supply Lines\"# and #ACCEPT\"Deadly Desert Venom\"# " },
@@ -364,6 +330,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "#DOQUEST\"Noggle's Last Hope\"# " },
 			[9] = { str = "Once all three of those are done, go turn them in accept new ones." },
 			[10] = { str = "go do:" },
+
 			[11] = { str = "#DOQUEST\"Noggle's Lost Satchel\"# (it's at around #COORDS[40,90]#)", x = 40, y = 90, zone = "Silithus" },
 			[12] = { str = "NOTE: I skip #NPC\"Wanted - Deathclasp, Terror of the Sands\"# (Elite) cause it's too hard to solo at 55, but do it if you can find a group." },
 			[13] = { str = "#DOQUEST\"The Deserter\"# (he's in the cave at #COORDS[67,71]#) ... i SKIP #NPC\"The Twilight Lexicon\"# ", x = 67, y = 71, zone = "Silithus" },
@@ -374,6 +341,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "then hearth to Orgrimmar." },
 			[19] = { str = "go to the Under City." },
 			[20] = { str = "go complete #TURNIN\"A Sample of Slime...\"# and #TURNIN\"... and a Batch of Ooze\"# " },
+
 			[21] = { str = "go accept #ACCEPT\"A Call To Arms: The Plaguelands!\"# " },
 			[22] = { str = "make Under City your home." },
 			[23] = { str = "go to the Bulwark... (which is a small village east of Tirisfal Glades)" },
@@ -381,12 +349,8 @@ Table_003_Horde_50to60 = {
 	},
 
 -----------55-56 Western Plaguelands
-	--[511] = {
 	[5556] = {
 		title = "55-56 Western Plaguelands",
-		--n = "55-56 Western Plaguelands",
-		--pID = 510, nID = 512,
-		--itemCount = 24,
 		items = {
 			[1] = { str = "55-56 Western Plaguelands" },
 			[2] = { str = "Turn in #TURNIN\"A Call To Arms: The Plaguelands!\"# accept #ACCEPT\"Scarlet Diversions\"# ..." },
@@ -398,6 +362,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "Accept #ACCEPT\"Better Late Than Never\"# (the lady in the house)" },
 			[9] = { str = "Then go to the barn next door, and..." },
 			[10] = { str = "Complete #DOQUEST\"Better Late Than Never\"# .. click on the chest again to accept #ACCEPT\"Better Late Than Never\"# again." },
+
 			[11] = { str = "Go do #DOQUEST\"Scarlet Diversions\"# (burn the tent down, and plant the banner, #COORDS[40,51]#)  ", x = 40, y = 51, zone = "Western Plaguelands" },
 			[12] = { str = "Go back to the Bulwark..  (#VIDEONOTE:# Make sure you save all #NPCBone Fragments# you find, you will need 30 of them for a later #NPCquest#)" },
 			[13] = { str = "Turn in #TURNIN\"Scarlet Diversions\"# ... accept #ACCEPT\"All Along the Watchtowers\"# (Elite) and #ACCEPT\"The Scourge Cauldrons\"# " },
@@ -408,18 +373,15 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "#DOQUEST\"Target: Writhing Haunt\"# at #COORDS[53,65]# (while you're there accept #ACCEPT\"The Wildlife Suffers Too\"# (at #COORDS[53,64]#, the almost dead tauren in the hut)", x = 53, y = 65, zone = "Western Plaguelands" },
 			[19] = { str = "#DOQUEST\"Target: Gahrron's Withering\"# at #COORDS[62,59]#", x = 62, y = 59, zone = "Western Plaguelands" },
 			[20] = { str = "Just keep going back and forth completing each one." },
+
 			[21] = { str = "Then go accept and complete #DOQUEST\"Mission Accomplished!\"# " },
 			[22] = { str = "Then head into Eastern Plaguelands..." },
 		}
 	},
 
 -----------56-57 Eastern Plaguelands
-	--[512] = {
 	[5657] = {
 		title = "56-57 Eastern Plaguelands",
-		--n = "56-57 Eastern Plaguelands",
-		--pID = 511, nID = 513,
-		--itemCount = 38,
 		items = {
 			[1] = { str = "56-57 Eastern Plaguelands" },
 			[2] = { str = "Go accept: #ACCEPT\"Demon Dogs\"# #ACCEPT\"Blood Tinged Skies\"# and #ACCEPT\"Carrion Grubbage\"# at #COORDS[7,43]#", x = 7, y = 43, zone = "Eastern Plaguelands" },
@@ -431,6 +393,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "#DOQUEST\"Carrion Grubbage\"# " },
 			[9] = { str = "Then turn in #TURNIN\"Sister Pamela\"# ... accept and do #ACCEPT\"Pamela's Doll\"# (there's 3 parts of the doll)" },
 			[10] = { str = "Turn in #TURNIN\"Pamela's Doll\"# ... accept #ACCEPT\"Auntie Marlene\"# and #ACCEPT\"Uncle Carlin\"# " },
+
 			[11] = { str = "Then go complete #DOQUEST\"Blood Tinged Skies\"# " },
 			[12] = { str = "Then make sure you kill 20 Plaguehound Runts for the quest #DOQUEST\"Demon Dogs\"# " },
 			[13] = { str = "Then go to Light's Hope Chapel at #COORDS[81,60]#", x = 81, y = 60, zone = "Eastern Plaguelands" },
@@ -441,6 +404,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "#DOQUEST\"Defenders of Darrowshire\"# " },
 			[19] = { str = "#DOQUEST\"Hameya's Plea\"# at #COORDS[72,14]# (??? TBC Quest?)", x = 72, y = 14, zone = "Eastern Plaguelands" },
 			[20] = { str = "#DOQUEST\"Demon Dogs\"# " },
+
 			[21] = { str = "#DOQUEST\"Carrion Grubbage\"# " },
 			[22] = { str = "#DOQUEST\"Un-Life's Little Annoyances\"# " },
 			[23] = { str = "#DOQUEST\"A Plague Upon Thee\"# (done at Plaguewood up north)" },
@@ -451,6 +415,7 @@ Table_003_Horde_50to60 = {
 			[28] = { str = "#VIDEONOTE:#  If the cave is too hard for you, another easy alternative is to take the Tower Gryphon ride from the Plaguewood Tower at #COORDS[22,32]# to the Crown Guard tower at #COORDS[39,75]#, as long as the horde has control over the towers that is.  Then turn in #TURNIN\"Demon Dogs\"# #TURNIN\"Blood Tinged Skies\"# and #TURNIN\"Carrion Grubbage\"#   accept #ACCEPT\"Redemption\"#   ... Just talk to the guy to complete it ... I SKIP \"#NPCOf Forgotten Memories\"# (you can try it if you find a group)", x = 22, y = 32, zone = "Eastern Plaguelands" },
 			[29] = { str = "Then go turn in: #TURNIN\"To Kill With Purpose\"# and #TURNIN\"Un-Life's Little Annoyances\"# at #COORDS[26,74]#", x = 26, y = 74, zone = "Eastern Plaguelands" },
 			[30] = { str = "Then go do #DOQUEST\"Zaeldarr the Outcast\"# at #COORDS[27,85]#", x = 27, y = 85, zone = "Eastern Plaguelands" },
+
 			[31] = { str = "Then go to the dirt mound behind the crypt and turn in #TURNIN\"Hameya's Plea\"# (??? TBC Quest?)" },
 			[32] = { str = "Then turn in: #TURNIN\"Zaeldarr the Outcast\"# and #TURNIN\"Defenders of Darrowshire\"# at Light's Hope Chapel" },
 			[33] = { str = "Hearth to Under City.." },
@@ -461,12 +426,8 @@ Table_003_Horde_50to60 = {
 	},
 
 -----------57-58 Western Plaguelands
-	--[513] = {
 	[5758] = {
 		title = "57-58 Western Plaguelands",
-		--n = "57-58 Western Plaguelands",
-		--pID = 512, nID = 514,
-		--itemCount = 37,
 		items = {
 			[1] = { str = "57-58 Western Plaguelands" },
 			[2] = { str = "Turn in #TURNIN\"A Plague Upon Thee\"# ... accept #ACCEPT\"A Plague Upon Thee\"# part2." },
@@ -478,6 +439,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "Turn in #TURNIN\"Unfinished Business\"# part2 (back at #COORDS[51,28]#) ... accept #ACCEPT\"Unfinished Business\"# part3, then go do it. Need to go up in the tower at #COORDS[45,19]# in a certain spot, watch out for Elites.", x = 51, y = 28, zone = "Western Plaguelands" },
 			[9] = { str = "Then turn in #TURNIN\"Unfinished Business\"# part3" },
 			[10] = { str = "Then go complete and turn in #TURNIN\"The Wildlife Suffers Too\"# ... accept  #ACCEPT\"The Wildlife Suffers Too\"# part2 at #COORDS[53,64]#", x = 53, y = 64, zone = "Western Plaguelands" },
+
 			[11] = { str = "Do #DOQUEST\"The Wildlife Suffers Too\"# part2, then turn it in ... accept #ACCEPT\"Glyphed Oaken Branch\"# " },
 			[12] = { str = "Go turn in #TURNIN\"Auntie Marlene\"# (in the house at #COORDS[49,78]#)  ...accept #ACCEPT\"A Strange Historian\"# ", x = 49, y = 78, zone = "Western Plaguelands" },
 			[13] = { str = "Go get the ring for #DOQUEST\"A Strange Historian\"# (the ring is out in the graveyard)" },
@@ -488,6 +450,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "#DOQUEST\"All Along the Watchtowers\"# (Elite) " },
 			[19] = { str = "#DOQUEST\"A Matter of Time\"# at #COORDS[47,62]#", x = 47, y = 62, zone = "Western Plaguelands" },
 			[20] = { str = "#DOQUEST\"The Annals of Darrowshire\"# the book for this is in the building at #COORDS[42,67]#, the actual Annals of Darrowshire book looks different from the others, it has a lighter tint on the top portion of the pages in the book, unlike the rest which has a darker tint on the top portion of the pages.", x = 42, y = 67, zone = "Western Plaguelands" },
+
 			[21] = { str = "Go turn in #TURNIN\"A Matter of Time\"# and #TURNIN\"The Annals of Darrowshire\"# ... accept #ACCEPT\"Counting Out Time\"# and #ACCEPT\"Brother Carlin\"# " },
 			[22] = { str = "Go do #DOQUEST\"Counting Out Time\"# then turn it in. (it's repeatable but you only get XP once from it)" },
 			[23] = { str = "I then keep grinding away at mobs in Andorhal till i'm Friendly with the Argent Dawn, so im able to buy Enriched Manna Biscuits (which replenish mana faster from drinking). As soon as I hit friendly with AD, I then go back to the Bulwark.." },
@@ -498,6 +461,7 @@ Table_003_Horde_50to60 = {
 			[28] = { str = "I then go back to Andorhal, and grind all the way to level 58 while doing #DOQUEST\"Skeletal Fragments\"# quest." },
 			[29] = { str = "As soon as I hit 58 and #DOQUEST\"Skeletal Fragments\"# is done and you also have 30 #NPCBone Fragments# (please note, if you are far off from the 30 bone fragments, then you can just skip it), then go back to the Bulwark and turn in #TURNIN\"Skeletal Fragments\"# .. I SKIP \"#NPCMold Rhymes With...\"# " },
 			[30] = { str = "I turn in any scourge stones, I have." },
+
 			[31] = { str = "I then stock up on #NPCEnriched Manna Biscuits# (about 600? :D)" },
 			[32] = { str = "then go get on the zeppelin to go to Orgrimmar. (while waiting, make heavy runecloth bandages)" },
 			[33] = { str = "Once in Orgrimmar i get new spells/abilites." },
@@ -507,12 +471,8 @@ Table_003_Horde_50to60 = {
 	},
 
 ------------58-60 Winterspring
-	--[514] = {
 	[5860] = {
 		title = "58-60 Winterspring",
-		--n = "58-60 Winterspring",
-		--pID = 513, nID = 514,
-		--itemCount = 32,
 		items = {
 			[1] = { str = "58-60 Winterspring" },
 			[2] = { str = "First thing i do here is stable my pet." },
@@ -524,6 +484,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "then hearth to Everlook." },
 			[9] = { str = "go do #DOQUEST\"Ursius of the Shardtooth\"# (Elite) (just keep grinding mobs on the hill north of everlook till Ursius shows up)" },
 			[10] = { str = "go turn in #TURNIN\"Luck Be With You\"# (if it's done yet) and #TURNIN\"Ursius of the Shardtooth\"# ... accept #ACCEPT\"Brumeran of the Chillwind\"# (Elite)" },
+
 			[11] = { str = "then go south and do:" },
 			[12] = { str = "#DOQUEST\"Brumeran of the Chillwind\"# (Elite)" },
 			[13] = { str = "#DOQUEST\"Luck Be With You\"# (Elite) (if you still need to finish it up)" },
@@ -534,6 +495,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "turn in #TURNIN\"Wild Guardians\"# part2 ... accept #ACCEPT\"Wild Guardians\"# part3" },
 			[19] = { str = "then hearth back to Everlook." },
 			[20] = { str = "Then go down to the Owl Wing Thicket and do #DOQUEST\"Wild Guardians\"# part3" },
+
 			[21] = { str = "I keep grinding away at Owls till im about 59 and a half, then..." },
 			[22] = { str = "I die on purpose, so i end up at Everlook (don’t hearth)" },
 			[23] = { str = "then Fly to Bloodvenom Post (Felwood).." },
@@ -544,6 +506,7 @@ Table_003_Horde_50to60 = {
 			[28] = { str = "At this point im usually about 3/4 way to 60." },
 			[29] = { str = "I then go back down to the Owl Wing Thicket and Grind to 60.  (See End Game Credits)" },
 			[30] = { str = "." },
+
 			[31] = { str = "." },
 			[32] = { str = "CONGRATULATION, you're lvl60 now!"},
 			[33] = { str = "." },

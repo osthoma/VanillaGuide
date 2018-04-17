@@ -1,27 +1,7 @@
---[[--------------------------------------------------
-003_Alliance_12to20.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: Guide Serie - 003 From Lvl 12 to Lvl 20
-    1.04.1
-        -- First Release
-            Alliance's Guide
-            from level 12 to lever 20
-    1.04.2
-    	-- no changes in here for this revision
-------------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_003_Alliance_12to20 = {
 -----------12-14 Darkshore
-	--[101] = {
 	[1214] = {
 		title = "12-14 Darkshore",
-		--n = "12-14 Darkshore",
-		--pID = 12, nID = 102,
-		--itemCount = 39,
 		items = {
 			[1] = { str = "12-14 Darkshore" },
 			[2] = { str = "Once you land grab  Washed Ashore pt.1  right in front of you at #COORDS[37,46]#.", x = 37, y = 46, zone = "Darkshore" },
@@ -33,7 +13,8 @@ Table_003_Alliance_12to20 = {
 			[8] = { str = "Buy some 6 slot bags if you haven’t found 3 by now at #COORDS[37,40]# then grab  Bashal'Aran pt.1  and  Tools of the Highborne.", x = 37, y = 40, zone = "Darkshore" },
 			[9] = { str = "Go south over the bridge, grab  Plagued Lands." },
 			[10] = { str = "Run inside, grab  How Big a Threat? pt.1." },
-			[11] = { str = "Go do  Washed Ashore pt.1  at #COORDS[36,50]# grind from town to there to get Crawler legs for  Buzzbox 827.", x = 36, y = 50, zone = "Darkshore" },
+
+      [11] = { str = "Go do  Washed Ashore pt.1  at #COORDS[36,50]# grind from town to there to get Crawler legs for  Buzzbox 827.", x = 36, y = 50, zone = "Darkshore" },
 			[12] = { str = "Turn in  Buzzbox 827  at #COORDS[36,46]# accept  Buzzbox 411", x = 36, y = 46, zone = "Darkshore" },
 			[13] = { str = "Turn in  Washed Ashore pt.1  accept   Washed Ashore pt.2." },
 			[14] = { str = "Do  Washed Ashore pt.2  at #COORDS[31,46]# in the water west of boat dock. Turn it in", x = 31, y = 46, zone = "Darkshore" },
@@ -43,7 +24,8 @@ Table_003_Alliance_12to20 = {
 			[18] = { str = "Turn in  Bashal'Aran pt.2  at #COORDS[44,36]# accept  Bashal’Aran pt.3", x = 44, y = 36, zone = "Darkshore" },
 			[19] = { str = "Do  Bashal’Aran pt.3  by killing satyr’s and turn it in accept  Bashal’Aran pt.4 " },
 			[20] = { str = "Grind to #COORDS[47,48]# and do  The Red Crystal", x = 47, y = 48, zone = "Darkshore" },
-			[21] = { str = "Grind to #COORDS[40,53]# to find the camp for  How Big a Threat? pt.1 ", x = 40, y = 53, zone = "Darkshore" },
+
+      [21] = { str = "Grind to #COORDS[40,53]# to find the camp for  How Big a Threat? pt.1 ", x = 40, y = 53, zone = "Darkshore" },
 			[22] = { str = "Run down to Ameth’Aran at #COORDS[40,59]# and accept   The Fall of Ameth'Aran  do it at #COORDS[43,58]# and #COORDS[42,63]#", x = 40, y = 59, zone = "Darkshore" },
 			[23] = { str = "Do  Tools of the Highborne  while in here, killing mobs for them." },
 			[24] = { str = "Do  For Love Eternal  at #COORDS[41,58]# she’s lvl 16 but easy.", x = 41, y = 58, zone = "Darkshore" },
@@ -53,7 +35,8 @@ Table_003_Alliance_12to20 = {
 			[28] = { str = "Hearth back to Auberdine Turn in  Plagued Lands  at the first house accept  Cleansing the Infected " },
 			[29] = { str = "Go inside hand in  How Big a Threat? pt.1  accept  How Big a Threat? Pt.2" },
 			[30] = { str = "Accept  Thundris Windweaver." },
-			[31] = { str = "Go Upstairs accept  The Tower of Althalaxx pt.1" },
+
+      [31] = { str = "Go Upstairs accept  The Tower of Althalaxx pt.1" },
 			[32] = { str = "Don’t do  Deep Ocean, Vast Sea  it’s not worth it and too hard" },
 			[33] = { str = "Go in the merchant house, turn in  Tools of the Highborne." },
 			[34] = { str = "Turn in  Thundris Windweaver accept  The Cliffspring River " },
@@ -66,12 +49,8 @@ Table_003_Alliance_12to20 = {
 	},
 
 -----------14-17 Darkshore
-	--[102] = {
 	[1417] = {
 		title = "14-17 Darkshore",
-		--n = "14-17 Darkshore",
-		--pID = 101, nID = 103,
-		--itemCount = 38,
 		items = {
 			[1] = { str = "14-17 Darkshore" },
 			[2] = { str = "Go back to Darkshore. Turn in Trouble In Darkshore? at #COORDS[37,42]#. Then turn in  Bashal’Aran pt.4  at #COORDS[44,36]#.", x = 44, y = 36, zone = "Darkshore" },
@@ -83,7 +62,8 @@ Table_003_Alliance_12to20 = {
 			[8] = { str = "Grind to #COORDS[40,53]# and do  How Big a Threat? Pt.2", x = 40, y = 53, zone = "Darkshore" },
 			[9] = { str = "Stop at #COORDS[37,62]# and grab  Beached Sea Turtle", x = 37, y = 62, zone = "Darkshore" },
 			[10] = { str = "Follow the shore and grab another  Beached Sea Creature  at #COORDS[36,70]#.", x = 36, y = 70, zone = "Darkshore" },
-			[11] = { str = "Turn in  Grove of the Ancients  at #COORDS[43,76]# if you have it", x = 43, y = 76, zone = "Darkshore" },
+
+      [11] = { str = "Turn in  Grove of the Ancients  at #COORDS[43,76]# if you have it", x = 43, y = 76, zone = "Darkshore" },
 			[12] = { str = "Kill Grizzled Thistle Bear South of Grove of the Ancients for  Buzzbox 525  then turn it in at #COORDS[41,80]#.", x = 41, y = 80, zone = "Darkshore" },
 			[13] = { str = "Stop at #COORDS[35,74]# and do  WANTED: Murkdeep!  you have to clear the camp, then the 2 waves from the ocean, then he comes. He’s lvl 19 If you have trouble with him just kite him.", x = 35, y = 74, zone = "Darkshore" },
 			[14] = { str = "Grind over to #COORDS[32,80]# and get  Beached Sea Creature.", x = 32, y = 80, zone = "Darkshore" },
@@ -93,7 +73,8 @@ Table_003_Alliance_12to20 = {
 			[18] = { str = "Turn in  The Fragments Within  in front of the Inn" },
 			[19] = { str = "Accept  The Absent Minded Prospector  at #COORDS[37,41]#", x = 37, y = 41, zone = "Darkshore" },
 			[20] = { str = "Go to the merchant house turn in  The Cliffspring River." },
-			[21] = { str = "You should be 15 by now so you can accept:  The Blackwood Corrupted." },
+
+      [21] = { str = "You should be 15 by now so you can accept:  The Blackwood Corrupted." },
 			[22] = { str = "Cleansing the Infected  at the first house accept  Tharnariun's Hope." },
 			[23] = { str = "Turn in  How Big a Threat? Pt.2  accept  A Lost Master" },
 			[24] = { str = "Fill the Cleansing Bowl at the Moonwell" },
@@ -103,7 +84,8 @@ Table_003_Alliance_12to20 = {
 			[28] = { str = "Do  The Blackwood Corrupted  #COORDS[51,33]#(nuts) #COORDS[52,33]#(fruit)", x = 51, y = 33, zone = "Darkshore" },
 			[29] = { str = "Clear around the Bonfire at #COORDS[52,33]# place the food. Don’t worry they turn good.When Xabraxxis appears kill him. Talisman falls beside.", x = 52, y = 33, zone = "Darkshore" },
 			[30] = { str = "Go to #COORDS[54,24]# turn in  The Tower of Althalaxx pt.1  Accept  The Tower of Althalaxx pt.2  do it. Kill any mob around the tower, NOT in it.", x = 54, y = 24, zone = "Darkshore" },
-			[31] = { str = "Hand in  The Tower of Althalaxx pt.2  accept  The Tower of Althalaxx pt.3" },
+
+      [31] = { str = "Hand in  The Tower of Althalaxx pt.2  accept  The Tower of Althalaxx pt.3" },
 			[32] = { str = "Run to #COORDS[53,18]# and grab  Beached Sea Creature ", x = 53, y = 18, zone = "Darkshore" },
 			[33] = { str = "Do  Fruit of the Sea  from crawlers around here." },
 			[34] = { str = "Hearth back to Auberdine (if you’re not 17 yet you will be) turn in Beached Sea Creature  on the dock." },
@@ -115,12 +97,8 @@ Table_003_Alliance_12to20 = {
 	},
 
 -----------17-18 Loch Modan
-	--[103] = {
 	[1718] = {
 		title = "17-18 Loch Modan",
-		--n = "17-18 Loch Modan",
-		--pID = 102, nID = 104,
-		--itemCount = 30,
 		items = {
 			[1] = { str = "17-18 Loch Modan" },
 			[2] = { str = "Stop right in Loch Modan tower at #COORDS[24,18]# and accept  Filthy Paws  and  Stormpike's Order", x = 24, y = 18, zone = "Loch Modan" },
@@ -132,7 +110,8 @@ Table_003_Alliance_12to20 = {
 			[8] = { str = "Do  Gathering Idols  behind here then turn it back in." },
 			[9] = { str = "Go behind the excavation site to the house at #COORDS[82,62]#.", x = 82, y = 62, zone = "Loch Modan" },
 			[10] = { str = "Turn right when you enter and get  Crocolisk Hunting  (behind hunter trainer) then go to the other side and grab  A Hunter's Boast " },
-			[11] = { str = "Go do  A Hunter's Boast  birds in front of the house." },
+
+      [11] = { str = "Go do  A Hunter's Boast  birds in front of the house." },
 			[12] = { str = "Turn in  A Hunter's Boast  accept  A Hunter's Challenge  do it,mobs are around #COORDS[75,41]#.", x = 75, y = 41, zone = "Loch Modan" },
 			[13] = { str = "Turn in  A Hunter's Challenge  Accept  Vyrin's Revenge pt.1" },
 			[14] = { str = "Go to #COORDS[63,47]# and accept  Bingles' Missing Supplies. Requieries pre-quest Find Bingles from Gnoarn at #COORDS[69,50]# in Ironforge ", x = 63, y = 47, zone = "Loch Modan" },
@@ -142,7 +121,8 @@ Table_003_Alliance_12to20 = {
 			[18] = { str = "Turn in  A Dark Threat Looms pt.2  at #COORDS[45,13]#", x = 45, y = 13, zone = "Loch Modan" },
 			[19] = { str = "Run down the west coast Turn in  Excavation Progress Report  in Thelsamar, accept  Report to Ironforge." },
 			[20] = { str = "Go to #COORDS[38,61]# and do  Vyrin's Revenge pt.1", x = 38, y = 61, zone = "Loch Modan" },
-			[21] = { str = "Run back to the house at #COORDS[83,62]# turn in  Crocolisk Hunting  and  Vyrin's Revenge pt.1  accept  Wyrin’s Revenge pt.2.", x = 83, y = 62, zone = "Loch Modan" },
+
+      [21] = { str = "Run back to the house at #COORDS[83,62]# turn in  Crocolisk Hunting  and  Vyrin's Revenge pt.1  accept  Wyrin’s Revenge pt.2.", x = 83, y = 62, zone = "Loch Modan" },
 			[22] = { str = "Turn in  Wyrin’s Revenge pt.2  behind you." },
 			[23] = { str = "Go to #COORDS[63,47]# Turn in  Bingles' Missing Supplies ", x = 63, y = 47, zone = "Loch Modan" },
 			[24] = { str = "If you don't have IF flight path, run down to #COORDS[22,70]# and follow the path North into Dun Morogh", x = 22, y = 70, zone = "Loch Modan" },
@@ -156,12 +136,8 @@ Table_003_Alliance_12to20 = {
 	},
 
 -----------18-20 Redridge Mountains
-	--[104] = {
 	[1820] = {
 		title = "18-20 Redridge Mountains",
-		--n = "18-20 Redridge Mountains",
-		--pID = 103, nID = 201,
-		--itemCount = 29,
 		items = {
 			[1] = { str = "18-20 Redridge Mountains" },
 			[2] = { str = "Accept  Encroaching Gnolls  from the patrol around #COORDS[15,71]#", x = 15, y = 71, zone = "Redridge Mountains" },
@@ -173,7 +149,8 @@ Table_003_Alliance_12to20 = {
 			[8] = { str = "Accept  Selling Fish  near the shed out front" },
 			[9] = { str = "Go in the Inn and accept  A Free Lunch , SKIP  Dry Times" },
 			[10] = { str = "Go west of Lakeshire and accept  Redridge Goulash." },
-			[11] = { str = "Get Great Goretusk Snouts just west of the houses (watch out for bellygrub we’ll get him later) for  Redridge Goulash." },
+
+      [11] = { str = "Get Great Goretusk Snouts just west of the houses (watch out for bellygrub we’ll get him later) for  Redridge Goulash." },
 			[12] = { str = "Then head toward #COORDS[41,54]# to do  The Lost Tools  and do  Selling Fish  by killing murlocs, keep an eye out for a glinting mud pile underwater for  Hilary's Necklace  Save at least 8 murloc fins for a later quest", x = 41, y = 54, zone = "Redridge Mountains" },
 			[13] = { str = "Turn in  The Lost Tools  by the bridge accept  The Everstill Bridge" },
 			[14] = { str = "Turn in  Hilary's Necklace  on the dock." },
@@ -183,7 +160,8 @@ Table_003_Alliance_12to20 = {
 			[18] = { str = "Kill spiders for  Redridge Goulash  between #COORDS[14,70]# and #COORDS[29,83]#.", x = 29, y = 83, zone = "Redridge Mountains" },
 			[19] = { str = "Kill gnolls for Assessing the Threat at #COORDS[31,82]#", x = 31, y = 82, zone = "Redridge Mountains" },
 			[20] = { str = "Kill condors for  Redridge Goulash  around #COORDS[57,73]#", x = 57, y = 73, zone = "Redridge Mountains" },
-			[21] = { str = "Turn in  Assessing the Threat  near the FP" },
+
+      [21] = { str = "Turn in  Assessing the Threat  near the FP" },
 			[22] = { str = "Accept  Murloc Poachers (requires lvl 20)  in front of the shed." },
 			[23] = { str = "Stop at the house just west of Lakeshire, turn in  Visit the Herbalist  accept  Delivering Daffodils" },
 			[24] = { str = "Go to the next house, turn in  Redridge Goulash" },

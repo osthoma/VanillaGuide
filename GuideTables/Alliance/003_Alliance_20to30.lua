@@ -1,27 +1,7 @@
---[[--------------------------------------------------
-003_Alliance_20to30.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: Guide Serie - 003 From Lvl 20 to Lvl 30
-    1.04.1
-        -- First Release
-            Alliance's Guide
-            from level 20 to lever 30
-    1.04.2
-        -- no changes in here for this revision
-------------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_003_Alliance_20to30 = {
 -----------20-21 Darkshore
-    --[201] = {
     [2021] = {
         title = "20-21 Darkshore",
-        --n = "20-21 Darkshore",
-        --pID = 104, nID = 202,
-        --itemCount = 10,
         items = {
             [1] = { str = "20-21 Darkshore" },
             [2] = { str = "First thing, fly to Darnassus and get your new skills. Then fly back." },
@@ -38,12 +18,8 @@ Table_003_Alliance_20to30 = {
 
 
 -----------21-22 Ashenvale
-    --[202] = {
     [2122] = {
         title = "21-22 Ashenvale",
-        --n = "21-22 Ashenvale",
-        --pID = 201, nID = 203,
-        --itemCount = 33,
         items = {
             [1] = { str = "21-22 Ashenvale" },
             [2] = { str = "Run to #COORDS[26,36]# Maestra’s Post in Ashenvale, and this will complete  The Sleeper Has Awakened  Go turn it in straight ahead in the house.", x = 26, y = 36, zone = "Ashenvale" },
@@ -55,7 +31,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Go to #COORDS[22,51]# turn in  Therylune's Escape.", x = 22, y = 51, zone = "Ashenvale" },
             [9] = { str = "Run into Astranaar at #COORDS[33,48]# and get FP", x = 33, y = 48, zone = "Ashenvale" },
             [10] = { str = "Accept  The Zoram Strand  right as you enter town." },
-            [11] = { str = "Accept  On Guard in Stonetalon pt.1  on the house to the right." },
+
+      [11] = { str = "Accept  On Guard in Stonetalon pt.1  on the house to the right." },
             [12] = { str = "Cross the road near the gazebo accept  Journey to Stonetalon Peak " },
             [13] = { str = "In the Inn accept  Raene's Cleansing pt.1  and  Culling the Threat." },
             [14] = { str = "Make Astranaar your home." },
@@ -65,7 +42,8 @@ Table_003_Alliance_20to30 = {
             [18] = { str = "And  The Ancient Statuette  at #COORDS[14,20]# it’s on the ground. ", x = 14, y = 20, zone = "Ashenvale" },
             [19] = { str = "Turn in  The Ancient Statuette  at #COORDS[14,31]# accept  Ruuzel ", x = 14, y = 31, zone = "Ashenvale" },
             [20] = { str = "Do  Ruuzel  at #COORDS[9,15]# You don’t actually have to kill Ruuzel. Kill Lady Vespia. A 22 weak elite and doesn’t have guards like Ruuzel", x = 9, y = 15, zone = "Ashenvale" },
-            [21] = { str = "Turn in  Ruuzel  at #COORDS[14,31]#.", x = 14, y = 31, zone = "Ashenvale" },
+
+      [21] = { str = "Turn in  Ruuzel  at #COORDS[14,31]#.", x = 14, y = 31, zone = "Ashenvale" },
             [22] = { str = "Turn in  Raene's Cleansing pt.1  at #COORDS[20,42]# accept  Raene’s Cleansing pt.2  Kill murlocs for the gem", x = 20, y = 42, zone = "Ashenvale" },
             [23] = { str = "Hearth back to Astranaar" },
             [24] = { str = "Turn in  The Zoram Strand  right as you enter town accept  Pridewings of Stonetalon" },
@@ -75,19 +53,16 @@ Table_003_Alliance_20to30 = {
             [28] = { str = "You should already be 22. Go to #COORDS[55,61]# and do  An Aggressive Defense", x = 55, y = 61, zone = "Ashenvale" },
             [29] = { str = "Hearth to Astranaar" },
             [30] = { str = "Turn in  An Aggressive Defense" },
-            [31] = { str = "Go to the east exit house, turn in  Elune's Tear  accept  The Ruins of Stardust" },
+
+      [31] = { str = "Go to the east exit house, turn in  Elune's Tear  accept  The Ruins of Stardust" },
             [32] = { str = "Exit Astranaar out the east exit follow the south path till you are at #COORDS[33,66]# and grab stardust covered bushes for  The Ruins of Stardust", x = 33, y = 66, zone = "Ashenvale" },
             [33] = { str = "Grind east to Talondeep path at #COORDS[42,71]#", x = 42, y = 71, zone = "Ashenvale" },
         }
     },
 
 -----------22-23 Stonetalon Mountains
-    --[203] = {
     [2223] = {
         title = "22-23 Stonetalon Mountains",
-        --n = "22-23 Stonetalon Mountains",
-        --pID = 202, nID = 204,
-        --itemCount = 10,
         items = {
             [1] = { str = "22-23 Stonetalon Mountains" },
             [2] = { str = "Run down Stonetalon to the hut at #COORDS[58,62]# accept  Super Reaper 6000", x = 58, y = 62, zone = "Stonetalon Mountains" },
@@ -103,12 +78,8 @@ Table_003_Alliance_20to30 = {
     },
 
 -----------23-24 Darkshore
-    --[204] = {
     [2324] = {
         title = "23-24 Darkshore",
-        --n = "23-24 Darkshore",
-        --pID = 203, nID = 205,
-        --itemCount = 20,
         items = {
             [1] = { str = "23-24 Darkshore" },
             [2] = { str = "Turn in  Beached Sea Turtle  on the dock" },
@@ -120,7 +91,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Go to around #COORDS[58,21]# for  Mathystra Relics  The relics are all over.", x = 58, y = 21, zone = "Darkshore" },
             [9] = { str = "Stop at #COORDS[56,13]# accept  Gyromast's Retrieval  Kill raging reef crawlers around here and Murlocs north near the ship at #COORDS[55,12]#", x = 56, y = 13, zone = "Darkshore" },
             [10] = { str = "Run north of Ruins of Mathystra killing sire’s and matriach’s for  A Lost Master  Also kill Foreststriders for  Gyromast's Retrieval" },
-            [11] = { str = "Turn in  Gyromast's Retrieval  at #COORDS[56,13]# accept  Gyromast's Revenge.", x = 56, y = 13, zone = "Darkshore" },
+
+      [11] = { str = "Turn in  Gyromast's Retrieval  at #COORDS[56,13]# accept  Gyromast's Revenge.", x = 56, y = 13, zone = "Darkshore" },
             [12] = { str = "Turn the key on The First Mate at #COORDS[55,18]# somewhere in the middle he’s gonna attack you. You have to kill him. Then turn it in at #COORDS[56,13]#", x = 55, y = 18, zone = "Darkshore" },
             [13] = { str = "Run back to Auberdine." },
             [14] = { str = "Turn in  A Lost Master pt.1  at the first house in town. Accept  A Lost Master pt.2" },
@@ -134,12 +106,8 @@ Table_003_Alliance_20to30 = {
     },
 
 -----------24-25 Ashenvale
-    --[205] = {
     [2425] = {
         title = "24-25 Ashenvale",
-        --n = "24-25 Ashenvale",
-        --pID = 204, nID = 206,
-        --itemCount = 16,
         items = {
             [1] = { str = "24-25 Ashenvale" },
             [2] = { str = "Turn in  Trek to Ashenvale  at the inn." },
@@ -151,7 +119,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Then run to Maestra’s Post at #COORDS[26,38]# turn in  The Tower of Althalaxx pt.5  accept  The Tower of Althalaxx pt.6.", x = 26, y = 38, zone = "Ashenvale" },
             [9] = { str = "Accept  Supplies to Auberdine  (escort) may seem out of the way, you run into a fight of 4, and 2 fights of 3. You only go to the darkshore border and it completes. Easy 2900 xp, not far out of the way. Turn it back in at #COORDS[26,38]#.", x = 26, y = 38, zone = "Ashenvale" },
             [10] = { str = "Run to Astranaar" },
-            [11] = { str = "Turn in  Culling the Threat  at the inn " },
+
+      [11] = { str = "Turn in  Culling the Threat  at the inn " },
             [12] = { str = "Run down to Silverwing Refuge at #COORDS[49,67]# and accept Elemental Bracers do it in the lake here.", x = 49, y = 67, zone = "Ashenvale" },
             [13] = { str = "Once you have all 5 inact bracers, use the scroll on them and then hand it back in at #COORDS[49,67]# SKIP  Mage Summoner. ", x = 49, y = 67, zone = "Ashenvale" },
             [14] = { str = "I’m usually about 1 bar from 25 so I grind to 25 on the elementals " },
@@ -161,12 +130,8 @@ Table_003_Alliance_20to30 = {
     },
 
 -----------25-27 Wetlands
-    --[206] = {
     [2526] = {
         title = "25-27 Wetlands",
-        --n = "25-27 Wetlands",
-        --pID = 205, nID = 207,
-        --itemCount = 53,
         items = {
             [1] = { str = "25-27 Wetlands" },
             [2] = { str = "Stop at the end of the docks, accept  Claws From the Deep" },
@@ -178,7 +143,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Make Menethil Harbor your home" },
             [9] = { str = "Go upstairs in the inn, turn in  The Absent Minded Prospector pt.4  accept  The Absent Minded Prospector pt.5" },
             [10] = { str = "Buy a  Flagon of Mead  from the bartender for  The Third Fleet  and give it to the guy outside the inn. Accept  The Cursed Crew " },
-            [11] = { str = "On the bridge accept  In Search of the Excavation Team pt.1" },
+
+      [11] = { str = "On the bridge accept  In Search of the Excavation Team pt.1" },
             [12] = { str = "Kill Young Crocolisks just east of the bridge around #COORDS[14,52]# and north on the land of the lake also along the road to the greenwarden for  Young Crocolisk Skins ", x = 14, y = 52, zone = "Wetlands" },
             [13] = { str = "Kill Bluegill Murlocs and Gobbler at #COORDS[18,40]# for  Claws From the Deep", x = 18, y = 40, zone = "Wetlands" },
             [14] = { str = "Kill Mottled Raptors and Screechers around #COORDS[25,46]# to get Stone of Relu for  The Absent Minded Prospector pt.5", x = 25, y = 46, zone = "Wetlands" },
@@ -188,7 +154,8 @@ Table_003_Alliance_20to30 = {
             [18] = { str = "Accept  Uncovering the Past." },
             [19] = { str = "Outside the cave accept  Ormer s Revenge pt.1." },
             [20] = { str = "Go back to where you killed the raptors a few minutes ago at #COORDS[25,46]# and do  Ormer's Revenge pt.1  by killing mottled raptors and screechers.", x = 25, y = 46, zone = "Wetlands" },
-            [21] = { str = "Run back up to the cave at #COORDS[38,52]# and turn in  Ormer's Revenge pt.1  accept  Ormer’s Revenge pt.2", x = 38, y = 52, zone = "Wetlands" },
+
+      [21] = { str = "Run back up to the cave at #COORDS[38,52]# and turn in  Ormer's Revenge pt.1  accept  Ormer’s Revenge pt.2", x = 38, y = 52, zone = "Wetlands" },
             [22] = { str = "Now do both  Ormer’s Revenge pt.2  by killing Scythclaw and Razormaw Raptors below, and  Uncovering the Past  relics for this are all around the raptors. There are 4 different ones that randomly spawn but each is in it’s own shape which are: (Modr=Thin Red Vase) (Golm=Fat Yellow Vase) (Neru=Dirt Pile) (Ados=Tomb)." },
             [23] = { str = "Go back up to #COORDS[38,52]# and turn in  Ormer’s Revenge pt.2  accept  Ormer’s Revenge pt.3", x = 38, y = 52, zone = "Wetlands" },
             [24] = { str = "Turn in  Uncovering the Past" },
@@ -198,7 +165,8 @@ Table_003_Alliance_20to30 = {
             [28] = { str = "Run straight East from here to #COORDS[56,40]# and turn in  The Greenwarden  accept  Tramping Paws", x = 56, y = 40, zone = "Wetlands" },
             [29] = { str = "Kill Mosshide around #COORDS[56,74]# for  Tramping Paws  at the camp. They’re a fast respawn I couldn’t kill em fast enough. Turn it in at #COORDS[56,40]# and accept  Fire Taboo  You should be 26 by now, if not you will be soon", x = 56, y = 74, zone = "Wetlands" },
             [30] = { str = "Do  Fire Taboo  by killing any mosshides but the ones you just killed, The flints are easily dropped by the ones around #COORDS[44,33]# there is a few.", x = 44, y = 33, zone = "Wetlands" },
-            [31] = { str = "Turn in  Fire Taboo  at #COORDS[56,40]# accept  Blisters on the Land  Now this is one of those quests you just do as you go. Fen Creepers are stealthed elementals that lurk in the water. If you see one, kill it.", x = 56, y = 40, zone = "Wetlands" },
+
+      [31] = { str = "Turn in  Fire Taboo  at #COORDS[56,40]# accept  Blisters on the Land  Now this is one of those quests you just do as you go. Fen Creepers are stealthed elementals that lurk in the water. If you see one, kill it.", x = 56, y = 40, zone = "Wetlands" },
             [32] = { str = "Hearth back to Menethil Harbor." },
             [33] = { str = "Turn in  The Absent Minded Prospector pt.5  2nd floor of the Inn" },
             [34] = { str = "Go inside the castle upstairs, turn in  War Banners  accept  Nek'Rosh's Gambit" },
@@ -208,7 +176,8 @@ Table_003_Alliance_20to30 = {
             [38] = { str = "You should definitely be 26 by this point and near ½ way to 27. You can either wait till you fly through IF to get talents or do it now." },
             [39] = { str = "Touch the damaged crate at #COORDS[13,41]# turn in  Reclaiming Goods  accept  The Search Continues.", x = 13, y = 41, zone = "Wetlands" },
             [40] = { str = "Go just north to the next camp Touch the sealed barrel at #COORDS[13,38]# turn in  The Search Continues  accept  Search More Hovels.", x = 13, y = 38, zone = "Wetlands" },
-            [41] = { str = "Go north again touch the half-burried barrel at #COORDS[13,34]# turn in  Search More Hovels  accept  Return the Statuette", x = 13, y = 34, zone = "Wetlands" },
+
+      [41] = { str = "Go north again touch the half-burried barrel at #COORDS[13,34]# turn in  Search More Hovels  accept  Return the Statuette", x = 13, y = 34, zone = "Wetlands" },
             [42] = { str = "Stop at the sunken ships around #COORDS[14,28]# #COORDS[14,25]# and kill the unded on either ship for  The Cursed Crew  Try to stay on top of the ships. Kill Snellig in the broken part of the first ship in the rear near the shore for the box.", x = 14, y = 28, zone = "Wetlands" },
             [43] = { str = "From here north you should be able to find Giant crocolisks for  Apprentice's Duties  as well as the fen dwellers (track hidden) in the waters all over this area while you head toward Ironbeard’s Tomb at #COORDS[44,25]# for  Digging Through the Ooze  Kill oozes for the bag.", x = 44, y = 25, zone = "Wetlands" },
             [44] = { str = "Now once all your fen creepers are dead head back to the greenwarden at #COORDS[56,40]# and hand in  Blisters on the Land.", x = 56, y = 40, zone = "Wetlands" },
@@ -218,19 +187,16 @@ Table_003_Alliance_20to30 = {
             [48] = { str = "Go to the west side of town, turn in  Apprentice's Duties." },
             [49] = { str = "Next down to the docks, hand in  Return the Statuette" },
             [50] = { str = "You should be 27 now. " },
-            [51] = { str = "Fly to IF, get new skills, hand in  An Old Colleague  at #COORDS[71,51]# SKIP the next part", x = 71, y = 51, zone = "Ironforge" },
+
+      [51] = { str = "Fly to IF, get new skills, hand in  An Old Colleague  at #COORDS[71,51]# SKIP the next part", x = 71, y = 51, zone = "Ironforge" },
             [52] = { str = "Fly to SW, hand in  A Scroll From Mauren  at #COORDS[43,80]# SKIP the next part", x = 43, y = 80, zone = "Stormwind City" },
             [53] = { str = "Fly to Lakeshire" },
         }
     },
 
 -----------27-28 Lakeshire
-    --[207] = {
     [2728] = {
         title = "27-28 Lakeshire",
-        --n = "27-28 Lakeshire",
-        --pID = 206, nID = 208,
-        --itemCount = 18,
         items = {
             [1] = { str = "27-28 Lakeshire" },
             [2] = { str = "Accept  Blackrock Bounty  right in front of FP near bridge " },
@@ -242,7 +208,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Go to Render’s Camp at #COORDS[44,19]# and kill the orcs here for  Blackrock Menace  while you head NW to #COORDS[34,7]# for  Blackrock Bounty ", x = 44, y = 19, zone = "Redridge Mountains" },
             [9] = { str = "Once at the cave kill for the axes and champions Go left when you go in towards the down area with water, there is an escort quest here." },
             [10] = { str = "You should have your axes and champions killed by the time you get to the escort. If not you can kill them on your way out." },
-            [11] = { str = "Get the escort quest  Missing In Action  at #COORDS[28,12]# in the cave and escort him out. He’s a 25 elite so he won’t die easy. Once you’re out of the camp he starts running back to Lakeshire, turn the quest in right where you stop as well as  Blackrock Menace  SKIP  Tharil'Zun ", x = 28, y = 12, zone = "Redridge Mountains" },
+
+      [11] = { str = "Get the escort quest  Missing In Action  at #COORDS[28,12]# in the cave and escort him out. He’s a 25 elite so he won’t die easy. Once you’re out of the camp he starts running back to Lakeshire, turn the quest in right where you stop as well as  Blackrock Menace  SKIP  Tharil'Zun ", x = 28, y = 12, zone = "Redridge Mountains" },
             [12] = { str = "Run over the Bridge near the FP turn in,  Blackrock Bounty" },
             [13] = { str = "Kill the Gnolls all around #COORDS[74,42]# for  Solomon's Law  and Keep an eye out for  Wanted: Lieutenant Fangore  he is at #COORDS[80,40]# Make sure you clear the mobs around him or they come running in", x = 74, y = 42, zone = "Redridge Mountains" },
             [14] = { str = "Once you got those both done, grind on these shadowhide until youre about 4k or 2 bars from 28" },
@@ -254,12 +221,8 @@ Table_003_Alliance_20to30 = {
     },
 
 -----------28-29 Duskwood
-    --[208] = {
     [2829] = {
         title = "28-29 Duskwood",
-        --n = "28-29 Duskwood",
-        --pID = 207, nID = 209,
-        --itemCount = 48,
         items = {
             [1] = { str = "28-29 Duskwood" },
             [2] = { str = "Note on Duskwood, it has a few long, pointless chains that you only do a few parts of, then SKIP the rest" },
@@ -271,7 +234,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Run out the door straight across to the Inn and make it your home." },
             [9] = { str = "Exit and go to the right, accept  The Night Watch pt.1" },
             [10] = { str = "Turn in  The Legend of Stalvan pt.1  SKIP the rest" },
-            [11] = { str = "Start off doing  Worgen in the Woods pt.1  to the east of Duskwood around #COORDS[64,46]# by killing Nightbane Shadow Weaver", x = 64, y = 46, zone = "Duskwood" },
+
+      [11] = { str = "Start off doing  Worgen in the Woods pt.1  to the east of Duskwood around #COORDS[64,46]# by killing Nightbane Shadow Weaver", x = 64, y = 46, zone = "Duskwood" },
             [12] = { str = "Turn in  Worgen in the Woods pt.1  back in the center of town, accept  Worgen in the Woods pt.2" },
             [13] = { str = "Go back to around #COORDS[64,46]# and kill Nightbane Dark Runners now for  Worgen in the Woods pt.2  There are a lot in the camps", x = 64, y = 46, zone = "Duskwood" },
             [14] = { str = "Go turn in  Worgen in the Woods pt.2  in the center of town again and accept  Worgen in the Woods pt.3" },
@@ -281,7 +245,8 @@ Table_003_Alliance_20to30 = {
             [18] = { str = "Kill the mobs around #COORDS[73,73]# inside and out of the cave for  Worgen in the Woods pt.3.", x = 73, y = 73, zone = "Duskwood" },
             [19] = { str = "Hearth back to Darkshire." },
             [20] = { str = "Just outside the Inn, hand in  The Night Watch pt.1  accept  The Night Watch pt.2." },
-            [21] = { str = "Go east from here and hand in  Worgen in the Woods pt.3  accept  Worgen in the Woods pt.4  go in the house and turn that in." },
+
+      [21] = { str = "Go east from here and hand in  Worgen in the Woods pt.3  accept  Worgen in the Woods pt.4  go in the house and turn that in." },
             [22] = { str = "Go just south of the FP to #COORDS[79,47]# turn in  Look to the Stars pt.3  accept  Look to the Stars pt.4 ", x = 79, y = 47, zone = "Duskwood" },
             [23] = { str = "You should be over half way to 29, more near ¾ the way" },
             [24] = { str = "Stop at the ogre mound cave at #COORDS[33,75]# and kill Zzarc' Vul for  Look to the Stars pt.4  Stay left inside the cave", x = 33, y = 75, zone = "Duskwood" },
@@ -291,7 +256,8 @@ Table_003_Alliance_20to30 = {
             [28] = { str = "Kill black widow’s east of the graveyard for the last part of  The Totem of Infliction" },
             [29] = { str = "Go to the shack NE of Raven Hill at #COORDS[28,31]# and turn in  The Hermit  accept  Supplies From Darkshire.", x = 28, y = 31, zone = "Duskwood" },
             [30] = { str = "Go to #COORDS[17,29]# at the grave and get  The Weathered Grave", x = 17, y = 29, zone = "Duskwood" },
-            [31] = { str = "Run to #COORDS[7,34]# and turn in  Deliveries to Sven  accept  Sven's Revenge ", x = 7, y = 34, zone = "Duskwood" },
+
+      [31] = { str = "Run to #COORDS[7,34]# and turn in  Deliveries to Sven  accept  Sven's Revenge ", x = 7, y = 34, zone = "Duskwood" },
             [32] = { str = "Hearth to Darkshire" },
             [33] = { str = "Right in front of the inn, turn in  The Night Watch pt.2  accept  The Night Watch pt.3" },
             [34] = { str = "Go in town hall, turn in  The Weathered Grave  accept  Morgan Ladimore  Turn it in just out front of the town hall SKIP  Mor'Ladim " },
@@ -301,7 +267,8 @@ Table_003_Alliance_20to30 = {
             [38] = { str = "Go to #COORDS[49,77]# (you can sneak around everything to here by going towards STV and then to this location) and turn in  Sven's Revenge  accept  Sven’s Camp ", x = 49, y = 77, zone = "Duskwood" },
             [39] = { str = "Run up to the shack NE of Raven Hill and hand in  Deliver the Thread  accept  Zombie Juice" },
             [40] = { str = "Go to the underground at #COORDS[23,35]# kill plagued spreaders just around here and down inside for  The Night Watch pt.3  you probably won’t get them all in 1 pass.", x = 23, y = 35, zone = "Duskwood" },
-            [41] = { str = "Grind your way back out then over to Sven at #COORDS[7,34]# hand in  Sven's Revenge  accept  The Shadowy Figure", x = 7, y = 34, zone = "Duskwood" },
+
+      [41] = { str = "Grind your way back out then over to Sven at #COORDS[7,34]# hand in  Sven's Revenge  accept  The Shadowy Figure", x = 7, y = 34, zone = "Duskwood" },
             [42] = { str = "Hearth back to Darkshire" },
             [43] = { str = "Turn in  Zombie Juice  right in front of you, SKIP the rest" },
             [44] = { str = "Turn in  The Night Watch pt.3  right outside the Inn" },
@@ -313,12 +280,8 @@ Table_003_Alliance_20to30 = {
     },
 
 -----------29-30 Ashenvale
-    --[209] = {
     [2930] = {
         title = "29-30 Ashenvale",
-        --n = "29-30 Ashenvale",
-        --pID = 208, nID = 210,
-        --itemCount = 18,
         items = {
             [1] = { str = "29-30 Ashenvale" },
             [2] = { str = "Make Astranaar your home." },
@@ -330,7 +293,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Go to #COORDS[66,81]# and do  Fallen Sky Lake  the mob is in the center", x = 66, y = 81, zone = "Ashenvale" },
             [9] = { str = "Kill rotting slimes until a chest falls east of the road near the lake for  Raene’s Cleansing pt.5" },
             [10] = { str = "Go to #COORDS[75,71]# and do  Forsaken Diseases  the bottle is on the table.", x = 75, y = 71, zone = "Ashenvale" },
-            [11] = { str = "Hand in  Forsaken Diseases  at #COORDS[85,44]# SKIP the next part.", x = 85, y = 44, zone = "Ashenvale" },
+
+      [11] = { str = "Hand in  Forsaken Diseases  at #COORDS[85,44]# SKIP the next part.", x = 85, y = 44, zone = "Ashenvale" },
             [12] = { str = "Hearth back to Astranaar" },
             [13] = { str = "Turn in  Fallen Sky Lake  at the last house on the east side of town" },
             [14] = { str = "Go to #COORDS[53,46]# turn in  Raene’s Cleansing pt.5  accept  Raene's Cleansing pt.5  Go turn it in at the shrine inside the tree at #COORDS[56,49]# accept  Raene’s Cleansing pt.6   Turn it back in at the moonwell at #COORDS[53,46]# accept  Raene’s Cleansing pt.7  die so you end up near town", x = 53, y = 46, zone = "Ashenvale" },
@@ -342,12 +306,8 @@ Table_003_Alliance_20to30 = {
     },
 
 -----------30-30 Wetlands
-    --[210] = {
     [3030] = {
         title = "30-30 Wetlands",
-        --n = "30-30 Wetlands",
-        --pID = 209, nID = 301,
-        --itemCount = 18,
         items = {
             [1] = { str = "30-30 Wetlands" },
             [2] = { str = "Make Menethil Harbor your home." },
@@ -359,7 +319,8 @@ Table_003_Alliance_20to30 = {
             [8] = { str = "Go up top of the castle, hand in  Defeat Nek’Rosh." },
             [9] = { str = "Accept  Fall of Dun Modr  just outside the inn " },
             [10] = { str = "Turn in  Fall of Dun Modr  at #COORDS[49,18]# accept  The Thandol Span pt.1", x = 49, y = 18, zone = "Wetlands" },
-            [11] = { str = "Go half way across the bridge to #COORDS[51,8]# and go in the door that leads down, look for the dead dwarf body, hand in  The Thandol Span pt.1  accept  The Thandol Span pt.2  turn that back in at the camp at #COORDS[49,18]# accept  The Thandol Span pt.3 ", x = 51, y = 8, zone = "Wetlands" },
+
+      [11] = { str = "Go half way across the bridge to #COORDS[51,8]# and go in the door that leads down, look for the dead dwarf body, hand in  The Thandol Span pt.1  accept  The Thandol Span pt.2  turn that back in at the camp at #COORDS[49,18]# accept  The Thandol Span pt.3 ", x = 51, y = 8, zone = "Wetlands" },
             [12] = { str = "Go back over the bridge, just to the right is a tinier bridge. Cross it and destroy the explosives cart for  The Thandol Span pt.3  at #COORDS[48,88]# accept  Plea to the Alliance", x = 48, y = 88, zone = "Wetlands" },
             [13] = { str = "Run into Arathi Highlands to Refuge Point at #COORDS[45,47]# and hand in  Plea to the Alliance.", x = 45, y = 47, zone = "Arathi Highlands" },
             [14] = { str = "Grab the FP" },

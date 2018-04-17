@@ -1,27 +1,7 @@
---[[--------------------------------------------------
-003_Alliance_30to40.lua
-Authors: mrmr
-Version: 1.04.2
-------------------------------------------------------
-Description: Guide Serie - 003 From Lvl 30 to Lvl 40
-    1.04.1
-        -- First Release
-            Alliance's Guide
-            from level 30 to lever 40
-    1.04.2
-    	-- no changes in here for this revision
-------------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_003_Alliance_30to40 = {
 -----------30-31 Hillsbrad Foothills
-	--[301] = {
 	[3031] = {
 		title = "30-31 Hillsbrad Foothills",
-		--n = "30-31 Hillsbrad Foothills",
-		--pID = 210, nID = 302,
-		--itemCount = 13,
 		items = {
 			[1] = { str = "30-31 Hillsbrad Foothills" },
 			[2] = { str = "Run into southshore at #COORDS[49,52]# and grab the FP", x = 49, y = 52, zone = "Hillsbrad Foothills" },
@@ -33,19 +13,16 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Go in the town hall, accept Syndicate Assassins" },
 			[9] = { str = "Go just SW of Southshore and do  Down the Coast  on the shore, killing murlocs. Turn it in at the Inn when you’re done, accept  Farren's Proof pt.1" },
 			[10] = { str = "Do  Farren's Proof pt.1  again on the shore, if I’m not 31 by the time I’m done getting heads, I grind till I am." },
-			[11] = { str = "Go back to the Inn, turn in  Farren's Proof pt.1  accept  Farren’s Proof pt.2  hand that in just out front of the Inn, accept  Farren’s Proof pt.3  Go back into the Inn, hand it in accept Stormwind ho! " },
+
+      [11] = { str = "Go back to the Inn, turn in  Farren's Proof pt.1  accept  Farren’s Proof pt.2  hand that in just out front of the Inn, accept  Farren’s Proof pt.3  Go back into the Inn, hand it in accept Stormwind ho! " },
 			[12] = { str = "Go do Stormwind ho!  just SE of the dock now, kill the naga along the shore." },
 			[13] = { str = "Go back to the Inn hand in Stormwind ho! , accept  Reassignment " },
 		}
 	},
 
 -----------31-31 Alterac Mountains
-	--[302] = {
 	[3131] = {
 		title = "31-31 Alterac Mountains",
-		--n = "31-31 Alterac Mountains",
-		--pID = 301, nID = 303,
-		--itemCount = 8,
 		items = {
 			[1] = { str = "31-31 Alterac Mountains" },
 			[2] = { str = "Run up into Alterac Mountains near the AV entrance around #COORDS[64,38]# and kill lions for Costly Menace They’re all along the southern border near AV. I usually get all mine in front and West of AV", x = 64, y = 38, zone = "Alterac Mountains" },
@@ -59,12 +36,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------31-32 Arathi Highlands
-	--[303] = {
 	[3132] = {
 		title = "31-32 Arathi Highlands",
-		--n = "31-32 Arathi Highlands",
-		--pID = 302, nID = 304,
-		--itemCount = 10,
 		items = {
 			[1] = { str = "31-32 Arathi Highlands" },
 			[2] = { str = "Accept  Northfold Manor  grind to it at #COORDS[33,27]# I grind here until I’m 32", x = 33, y = 27, zone = "Arathi Highlands" },
@@ -80,12 +53,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------32-32 Stranglethorn Vale
-	--[304] = {
 	[3232] = {
 		title = "32-32 Stranglethorn Vale",
-		--n = "32-32 Stranglethorn Vale",
-		--pID = 303, nID = 305,
-		--itemCount = 19,
 		items = {
 			[1] = { str = "32-32 Stranglethorn Vale" },
 			[2] = { str = "Run to the Rebel Camp at #COORDS[37,3]# its just west after you enter.", x = 37, y = 3, zone = "Stranglethorn Vale" },
@@ -97,7 +66,8 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Go to #COORDS[44,10]# and do  The Second Rebellion  and the Kurzen supply crate at #COORDS[44,9]# in front of the Inn for  Bad Medicine  the remedies are a low drop from medicine men.", x = 44, y = 10, zone = "Stranglethorn Vale" },
 			[9] = { str = "Run back up to the rebel camp at #COORDS[37,3]# Turn in  The Second Rebellion  and  Bad Medicine  SKIP  Special Forces.", x = 37, y = 3, zone = "Stranglethorn Vale" },
 			[10] = { str = "Go back to Nessingway’s at #COORDS[35,10]# and hand in  Panther Mastery pt.1  &  Tiger Mastery pt.1  accept  Panther Mastery pt.2  &  Tiger Mastery pt.2.", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[11] = { str = "Kill Stranglethorn Tigers for around #COORDS[29,10]# for  Tiger Mastery pt.2 and the Panthers around #COORDS[28,12]# for  Panther Mastery pt.2.", x = 29, y = 10, zone = "Stranglethorn Vale" },
+
+      [11] = { str = "Kill Stranglethorn Tigers for around #COORDS[29,10]# for  Tiger Mastery pt.2 and the Panthers around #COORDS[28,12]# for  Panther Mastery pt.2.", x = 29, y = 10, zone = "Stranglethorn Vale" },
 			[12] = { str = "Kill Stranglethorn Raptors for #COORDS[26,15]#  Raptor Mastery pt.1", x = 26, y = 15, zone = "Stranglethorn Vale" },
 			[13] = { str = "Go back to Nessingway’s at #COORDS[35,10]# and turn in  Tiger Mastery pt.2 ,  Panther Mastery pt.2 , and  Raptor Mastery pt.1 . Accept  Tiger Mastery pt.3 ,  Panther Mastery pt.3  and  Raptor Mastery pt.2 ", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[14] = { str = "Run to Booty Bay and get the FP." },
@@ -110,12 +80,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------32-33 Thousand Needles (Shimmering Flats)
-	--[305] = {
 	[3233] = {
 		title = "32-33 Thousand Needles (Shimmering Flats)",
-		--n = "32-33 Thousand Needles (Shimmering Flats)",
-		--pID = 304, nID = 306,
-		--itemCount = 19,
 		items = {
 			[1] = { str = "32-33 Thousand Needles (Shimmering Flats)" },
 			[2] = { str = "Now Get the FP on the west side of this zone at #COORDS[8,18]#, it’s just inside Feralas. This will save a lot of time later on.", x = 8, y = 18, zone = "Thousand Needles" },
@@ -127,7 +93,8 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Now the car parts for  Rocket Car Parts  are scattered all over here, so grab them as you quest. The Buzzards for  Load Lightening  are all over as well so kill one if you see it." },
 			[9] = { str = "Start off by going south and killing gazers and crystalhide at #COORDS[76,87]# for  A Bump in the Road ", x = 76, y = 87, zone = "Thousand Needles" },
 			[10] = { str = "Kill scorpions at #COORDS[71,74]# and north of here for  Salt Flat Venom ", x = 71, y = 74, zone = "Thousand Needles" },
-			[11] = { str = "Kill Basilisks around #COORDS[73,59]# for  A Bump in the Road", x = 73, y = 59, zone = "Thousand Needles" },
+
+      [11] = { str = "Kill Basilisks around #COORDS[73,59]# for  A Bump in the Road", x = 73, y = 59, zone = "Thousand Needles" },
 			[12] = { str = "Kill Turtles at #COORDS[82,54]# for  Hardened Shells", x = 82, y = 54, zone = "Thousand Needles" },
 			[13] = { str = "Stop at #COORDS[86,66]# and do  Load Lightening", x = 86, y = 66, zone = "Thousand Needles" },
 			[14] = { str = "Run back to #COORDS[77,77]# turn in  Rocket Car Parts", x = 77, y = 77, zone = "Thousand Needles" },
@@ -140,12 +107,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------33-33 Stonetalon Mountains
-	--[306] = {
 	[3333] = {
 		title = "33-33 Stonetalon Mountains",
-		--n = "33-33 Stonetalon Mountains",
-		--pID = 305, nID = 307,
-		--itemCount = 2,
 		items = {
 			[1] = { str = "33-33 Stonetalon Mountains" },
 			[2] = { str = "Accept  Reclaiming the Charred Vale  in front of the moonwell then go do it in the Charred Vale at #COORDS[32,66]# while going towards Desolace ", x = 32, y = 66, zone = "Stonetalon Mountains" },
@@ -153,12 +116,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------33-35 Desolace
-	--[307] = {
 	[3335] = {
 		title = "33-35 Desolace",
-		--n = "33-35 Desolace",
-		--pID = 306, nID = 308,
-		--itemCount = 38,
 		items = {
 			[1] = { str = "33-35 Desolace" },
 			[2] = { str = "Make Nijel’s Point your home then fly back to Stonetalon and hand in  Reclaiming the Charred Vale  SKIP the next part." },
@@ -170,7 +129,8 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Run west to #COORDS[56,17]#  Vahlarriel's Search pt.1  accept  Vahlarriel’s Search pt.2", x = 56, y = 17, zone = "Desolace" },
 			[9] = { str = "Run east to Sargeron around #COORDS[75,20]# and kill the demons for  Reagents for Reclaimers Inc pt.1", x = 75, y = 20, zone = "Desolace" },
 			[10] = { str = "Run back to Nijel’s, hand in  Vahlarriel’s Search pt.2  accept  Vahlarriel’s Search pt.3" },
-			[11] = { str = "Run up a bit more, turn in  Reagents for Reclaimers Inc pt.1  accept  Reagents for Reclaimers Inc pt.2" },
+
+      [11] = { str = "Run up a bit more, turn in  Reagents for Reclaimers Inc pt.1  accept  Reagents for Reclaimers Inc pt.2" },
 			[12] = { str = "Now start grinding on the scorps and other stuff for  Reagents for Reclaimers Inc pt.2  as you head to #COORDS[62,38]# and accept  Bone Collector  since the scorps are a low drop rate just kill them as you’re running around", x = 62, y = 38, zone = "Desolace" },
 			[13] = { str = "Run east until you’re at kolkar village around #COORDS[72,45]#. Kill them for  Centaur Bounty  If you’re not 34 when done with this, grind until you are", x = 72, y = 45, zone = "Desolace" },
 			[14] = { str = "Grind down to #COORDS[60,61]# and accept  Kodo Roundup  This is a unique quest where you tame a kodo at the GY then bring it back until you have 5.", x = 60, y = 61, zone = "Desolace" },
@@ -180,7 +140,8 @@ Table_003_Alliance_30to40 = {
 			[18] = { str = "Grab  Sceptre of Light  at #COORDS[38,27]# near the big tower", x = 38, y = 27, zone = "Desolace" },
 			[19] = { str = "Go south on the beach to #COORDS[36,30]# and finish  The Karnitol Shipwreck pt.1  accept  The Karnitol Shipwreck pt.2  then accept  Claim Rackmore's Treasure!  from Rackmore’s log. If your quest log is full drop centaur bounty.", x = 36, y = 30, zone = "Desolace" },
 			[20] = { str = "Kill Drysnaps in the waters right here for the silver key of  Claim Rackmore's Treasure!  and The Slitherblades just North of here for the golden key." },
-			[21] = { str = "Run up to Thunder Axe Fortress at #COORDS[56,29]# and go in the main building in the center and turn in  Vahlarriel’s Search pt.3  at #COORDS[54,26]# accept  Search for Tyranis", x = 54, y = 26, zone = "Desolace" },
+
+      [21] = { str = "Run up to Thunder Axe Fortress at #COORDS[56,29]# and go in the main building in the center and turn in  Vahlarriel’s Search pt.3  at #COORDS[54,26]# accept  Search for Tyranis", x = 54, y = 26, zone = "Desolace" },
 			[22] = { str = "Run out and right, kill a seer up in a tower for  Sceptre of Light" },
 			[23] = { str = "Go to the building west of the entrance at #COORDS[53,29]# kill Tyranis Malem for  Search for Tyranis  then turn it back in inside the main building. Clear the way in the main building to the right because an escort is next.", x = 53, y = 29, zone = "Desolace" },
 			[24] = { str = "Accept the escort quest  Return to Vahlarriel  DON’T attack anything unless it hits or or she’ll ignore it and keep walking. The reason it seems is melee just follow her, only the mages can hit her to start combat." },
@@ -190,7 +151,8 @@ Table_003_Alliance_30to40 = {
 			[28] = { str = "Go to the back of the island and clear all around the serpent statue at #COORDS[28,7]#. You’re gonna do  Book of the Ancients  This quest bugs if you do not click the gem in your inventory and then on the statue. Don’t just click on the statue. He’s 38 but super easy.", x = 28, y = 7, zone = "Desolace" },
 			[29] = { str = "Swim back to #COORDS[38,27]# and turn in  Book of the Ancients", x = 38, y = 27, zone = "Desolace" },
 			[30] = { str = "Hearth to Nijel’s" },
-			[31] = { str = "Go south of the Inn and turn in  Reagents for Reclaimers Inc pt.2  SKIP pt.3 for now, and  The Karnitol Shipwreck pt.2  SKIP the rest." },
+
+      [31] = { str = "Go south of the Inn and turn in  Reagents for Reclaimers Inc pt.2  SKIP pt.3 for now, and  The Karnitol Shipwreck pt.2  SKIP the rest." },
 			[32] = { str = "Go south a bit more, turn in  Centaur Bounty " },
 			[33] = { str = "Finally turn in  Return to Vahlarriel" },
 			[34] = { str = "You should be within 2 bars to 35 now. I grind down on the Centaurs at Gelkis Village at #COORDS[37,80]# until 35", x = 37, y = 80, zone = "Desolace" },
@@ -202,12 +164,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------35-36 Stranglethorn Vale
-	--[308] = {
 	[3536] = {
 		title = "35-36 Stranglethorn Vale",
-		--n = "35-36 Stranglethorn Vale",
-		--pID = 307, nID = 309,
-		--itemCount = 38,
 		items = {
 			[1] = { str = "35-36 Stranglethorn Vale" },
 			[2] = { str = "Hand in  Goblin Sponsorship pt.2  as you get off the boat, accept  Goblin Sponsorship pt.3" },
@@ -219,7 +177,8 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Run west to the Venture Co. Base Camp at #COORDS[43,18]# and Kill the goblins here for  Hostile Takeover  while you climb the Operations Tower behind the base for  Goblin Sponsorship pt.4  You’re going to climb it and kill Foreman Cozzle for his key.", x = 43, y = 18, zone = "Stranglethorn Vale" },
 			[9] = { str = "If you still don’t have all the crystals kill the goblins until you do, then enter the tiny shack next to the base at #COORDS[43,20]# and open the chest to get the blueprints for  Goblin Sponsorship pt.4", x = 43, y = 20, zone = "Stranglethorn Vale" },
 			[10] = { str = "Kill Lashtail Raptors around #COORDS[37,22]# for  Raptor Mastery pt.2", x = 37, y = 22, zone = "Stranglethorn Vale" },
-			[11] = { str = "Kill Elter Tigers around #COORDS[33,18]# for  Tiger Mastery pt.3 ", x = 33, y = 18, zone = "Stranglethorn Vale" },
+
+      [11] = { str = "Kill Elter Tigers around #COORDS[33,18]# for  Tiger Mastery pt.3 ", x = 33, y = 18, zone = "Stranglethorn Vale" },
 			[12] = { str = "Run towards Nessingways and kill the crocs in the river around it for  Supply and Demand" },
 			[13] = { str = "Go to Nessingways and turn in  Tiger Mastery pt.3 ,  Panther Mastery pt.3 ,  Raptor Mastery pt.2 , and  Hemet Nesingwary , Accept  Tiger Mastery pt.4   Panther Mastery pt.4  and   Raptor Mastery pt.3 " },
 			[14] = { str = "Run back south to the top of the hill at #COORDS[32,17]# and kill Sin’Dall for  Tiger Mastery pt.4  then turn it back in at Nessingways", x = 32, y = 17, zone = "Stranglethorn Vale" },
@@ -229,7 +188,8 @@ Table_003_Alliance_30to40 = {
 			[18] = { str = "Go to the Inn looking building at #COORDS[43,9]# touch the book on the 2nd floor and hand in  Bookie Herod  accept  The Hidden Key ", x = 43, y = 9, zone = "Stranglethorn Vale" },
 			[19] = { str = "Go in the cave at #COORDS[45,7]# and kill the mobs in here for  Special Forces  and make your way to the chest for  Bookie Herod , it’s down the first fork, only 1 level down then in the boxes. Accept  The Spy Revealed!  (Easy from here)", x = 45, y = 7, zone = "Stranglethorn Vale" },
 			[20] = { str = "Now grind back out since you should be close to 36. Once your out go back to the rebel camp." },
-			[21] = { str = "Hand in  Special Forces  SKIP the next part" },
+
+      [21] = { str = "Hand in  Special Forces  SKIP the next part" },
 			[22] = { str = "Hand in  The Spy Revealed!  accept  Patrol Schedules  turn around and hand that in and accept  Report to Doren  then turn around again and hand that back in (told you it was easy)" },
 			[23] = { str = "You should definitely be 36 by now. We’ll get skills soon" },
 			[24] = { str = "Go south toward the GY, then go west north of the river and kill basalisks for  Singing Blue Shards  if you don’t get them all now don’t worry there is more south." },
@@ -239,7 +199,8 @@ Table_003_Alliance_30to40 = {
 			[28] = { str = "Hearth to BB" },
 			[29] = { str = "Turn in  Singing Blue Shards  SKIP the next for now" },
 			[30] = { str = "Go upstairs turn in  Investigate the Camp ,  Bloodscalp Ears" },
-			[31] = { str = "Go just outside, turn in  The Stone of the Tides  and  Goblin Sponsorship pt.4  Accept  Water Elementals  and  Goblin Sponsorship pt.5 " },
+
+      [31] = { str = "Go just outside, turn in  The Stone of the Tides  and  Goblin Sponsorship pt.4  Accept  Water Elementals  and  Goblin Sponsorship pt.5 " },
 			[32] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in  Supply and Demand  (it’s down the ramp from the FP) accept  Some assembly required " },
 			[33] = { str = "I’m half way to 37 at this point" },
 			[34] = { str = "Fly to IF get new skills then fly to Menethil Harbor, make it your home, and boat to Theramore" },
@@ -251,12 +212,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------36-37 Alterac Mountains
- 	--[309] = {
  	[3637] = {
 		title = "36-37 Alterac Mountains",
-		--n = "36-37 Alterac Mountains",
-		--pID = 308, nID = 310,
-		--itemCount = 10,
 		items = {
 			[1] = { str = "36-37 Alterac Mountains" },
 			[2] = { str = "Go to the Town Hall and turn in  Further Mysteries  accept  Dark Council  and  Noble Deaths" },
@@ -272,12 +229,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------37-38 Arathi Highlands
-	--[310] = {
 	[3738] = {
 	    title = "37-38 Arathi Highlands",
-	    --n = "37-38 Arathi Highlands",
-	    --pID = 309, nID = 311,
-	    --itemCount = 28,
 	    items = {
 			[1] = { str = "37-38 Arathi Highlands" },
 			[2] = { str = "Accept  Worth Its Weight In Gold" },
@@ -289,7 +242,8 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Kill the trolls all around the lake at #COORDS[67,69]# for  Worth Its Weight In Gold  you can get tusks and medicine bags off the guys here, to get the dagger you have to kill Shadow Hunters in the cave at #COORDS[68,74]#", x = 68, y = 74, zone = "Arathi Highlands" },
 			[9] = { str = "Go to the circle of outer binding at #COORDS[52,50]# and grab the thundering key from the rock.", x = 52, y = 50, zone = "Arathi Highlands" },
 			[10] = { str = "Go to refuge point and hand in  Worth Its Weight In Gold  this opens up  Wand Over Fist  from another NPC" },
-			[11] = { str = "Go do  Wand Over Fist  by killing Coldrage in the cave at #COORDS[53,77]# (follow the left path) run back to Refuge hand it in, SKIP the rest", x = 53, y = 77, zone = "Arathi Highlands" },
+
+      [11] = { str = "Go do  Wand Over Fist  by killing Coldrage in the cave at #COORDS[53,77]# (follow the left path) run back to Refuge hand it in, SKIP the rest", x = 53, y = 77, zone = "Arathi Highlands" },
 			[12] = { str = "Go to the circle of west binding at #COORDS[25,30]# and grab the burning key from the rock.", x = 25, y = 30, zone = "Arathi Highlands" },
 			[13] = { str = "I found the courier at this point on the road (varies since he travels)" },
 			[14] = { str = "Go to the circle of inner binding at #COORDS[36,57]# and turn in  Stones of Binding  on the rock, SKIP the rest.", x = 36, y = 57, zone = "Arathi Highlands" },
@@ -299,7 +253,8 @@ Table_003_Alliance_30to40 = {
 			[18] = { str = "Go by the fire accept  Drowned Sorrows  and  Sunken Treasure pt.1 " },
 			[19] = { str = "Do  Sunken Treasure pt.1  by escorting him right behind you in the cave. Turn it in, accept  Sunken Treasure pt.2" },
 			[20] = { str = "Go down south near the sunken ships, around #COORDS[24,84]# and do  Sunken Treasure pt.2  (use goggles to find them easy),  Drowned Sorrows  (nagas), and  Deep Sea Salvage  (2 on each ship)", x = 24, y = 84, zone = "Arathi Highlands" },
-			[21] = { str = "Turn in  Deep Sea Salvage  on the dock" },
+
+      [21] = { str = "Turn in  Deep Sea Salvage  on the dock" },
 			[22] = { str = "Turn in  Drowned Sorrows  next to the fire, then   Sunken Treasure pt.2  accept  Sunken Treasure pt.3" },
 			[23] = { str = "Hand that in on the dock accept  Sunken Treasure pt.4" },
 			[24] = { str = "Run back towards Go’Shek Farm, if you haven’t found the courier yet abandon quest and hearth to SS. If so go to #COORDS[60,53]# and hand in  Hints of a New Plague? Pt.2  accept  Hints of a New Plague? Pt.3  then turn it right back in accept  Hints of a New Plague? Pt.4", x = 60, y = 53, zone = "Arathi Highlands" },
@@ -311,12 +266,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------38-38 Dustwallow Marsh
-	--[311] = {
 	[3838] = {
 		title = "38-38 Dustwallow Marsh",
-		--n = "38-38 Dustwallow Marsh",
-		--pID = 310, nID = 312,
-		--itemCount = 30,
 		items = {
 			[1] = { str = "38-38 Dustwallow Marsh" },
 			[2] = { str = "Run up near the Inn, accept “They Call Him Smiling Jim”" },
@@ -328,7 +279,8 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Touch the mound of dirt beside the house, accept “The Orc Report”" },
 			[9] = { str = "Run over to Darkmist Cavern at #COORDS[32,23]# and kill spiders inside and outside for “Jarl Needs eyes” They drop 1-2 every kill", x = 32, y = 23, zone = "Dustwallow Marsh" },
 			[10] = { str = "Stop at #COORDS[35,38]# and grab “Hungry!”", x = 35, y = 38, zone = "Dustwallow Marsh" },
-			[11] = { str = "Go to #COORDS[29,47]#, the shady rest inn, and grab these 3 quests, touch the hoofrints just out front “Suspicious Hoofprints” the badge on the board laying on the floorboards (it’s a tiny badge) “Lieutenant Paval Reethe pt.1” and the shield over the fireplace “The Black Shield pt.1” ", x = 29, y = 47, zone = "Dustwallow Marsh" },
+
+      [11] = { str = "Go to #COORDS[29,47]#, the shady rest inn, and grab these 3 quests, touch the hoofrints just out front “Suspicious Hoofprints” the badge on the board laying on the floorboards (it’s a tiny badge) “Lieutenant Paval Reethe pt.1” and the shield over the fireplace “The Black Shield pt.1” ", x = 29, y = 47, zone = "Dustwallow Marsh" },
 			[12] = { str = "Run over to #COORDS[54,56]# and open the shipping crate for “Razzeric's Tweaking”", x = 54, y = 56, zone = "Dustwallow Marsh" },
 			[13] = { str = "Hearth to Theramore" },
 			[14] = { str = "Turn in “Mudrock Soup and Bugs” in front of you, accept “… and bugs” " },
@@ -338,7 +290,8 @@ Table_003_Alliance_30to40 = {
 			[18] = { str = "Turn in “Suspicious Hoofprints” accept " },
 			[19] = { str = "Turn around and hand in “Lieutenant Paval Reethe pt.2” accept “Daelin's Men” then turn around hand it in accept “The Deserters pt.1”" },
 			[20] = { str = "Go to the blacksmith house, turn in “The Black Shield pt.2” accept “The Black Shield pt.3” go turn it in back up in the castle" },
-			[21] = { str = " Run out to #COORDS[55,26]# and turn in “Jarl Needs eyes” SKIP the next", x = 55, y = 26, zone = "Dustwallow Marsh" },
+
+      [21] = { str = " Run out to #COORDS[55,26]# and turn in “Jarl Needs eyes” SKIP the next", x = 55, y = 26, zone = "Dustwallow Marsh" },
 			[22] = { str = "Go just NE of here and kill murlocs for “Hungry!”" },
 			[23] = { str = "Stop at #COORDS[46,17]# and clear some raptors until you’re 50% or more into 39, then accept “Stinky's Escape” just follow him, and kill what attacks him. Really easy.", x = 46, y = 17, zone = "Dustwallow Marsh" },
 			[24] = { str = "Stop at #COORDS[35,38]# turn in “Hungry!”", x = 35, y = 38, zone = "Dustwallow Marsh" },
@@ -352,12 +305,8 @@ Table_003_Alliance_30to40 = {
 	},
 
 -----------38-40 Stranglethorn Vale
-	--[312] = {
 	[3840] = {
 		title = "38-40 Stranglethorn Vale",
-		--n = "38-40 Stranglethorn Vale",
-		--pID = 311, nID = 401,
-		--itemCount = 38,
 		items = {
 			[1] = { str = "38-40 Stranglethorn Vale" },
 			[2] = { str = "Run towards the Inn, accept “The Bloodsail Buccaneers pt.1” halfway" },
@@ -369,7 +318,8 @@ Table_003_Alliance_30to40 = {
 			[8] = { str = "Kill Snapjaw Crocolisks from the stream at #COORDS[38,30]# to the lake at #COORDS[41,19]# for “Some assembly required”", x = 38, y = 30, zone = "Stranglethorn Vale" },
 			[9] = { str = "Go to the Island at #COORDS[20,23]# and kill elementals for “Water Elementals” You should be close to 39 by now, either grind on the elementals or raptors and basalisks around #COORDS[33,39]#", x = 20, y = 23, zone = "Stranglethorn Vale" },
 			[10] = { str = "Once you’re 39, grind your way east to the road then to #COORDS[41,41]# and kill the goblins for “Venture Company Mining”", x = 41, y = 41, zone = "Stranglethorn Vale" },
-			[11] = { str = "Run up to the camps around #COORDS[42,37]# and do “Skullsplitter Tusks”", x = 42, y = 37, zone = "Stranglethorn Vale" },
+
+      [11] = { str = "Run up to the camps around #COORDS[42,37]# and do “Skullsplitter Tusks”", x = 42, y = 37, zone = "Stranglethorn Vale" },
 			[12] = { str = "Now you’re gonna have to find Bhag'thera for “Panther Mastery pt.4” she is anywhere between just north of Mosh’ogg at #COORDS[49,25]# to just north of the ZG entrance at #COORDS[48,17]# she’s elite. Easy way to do it is lay immolation trap and run her into it, once pet gets half health fear it and keep attacking it", x = 48, y = 25, zone = "Stranglethorn Vale" },
 			[13] = { str = "Hearth back to BB" },
 			[14] = { str = " Turn in “Venture Company Mining”" },
@@ -379,7 +329,8 @@ Table_003_Alliance_30to40 = {
 			[18] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in “Some assembly required” accept “Excelsior”" },
 			[19] = { str = "Go out of BB and turn left to the camp of pirates at #COORDS[27,69]# and touch the letter on the barrel, turn in “The Bloodsail Buccaneers pt.1” accept “The Bloodsail Buccaneers pt.2”", x = 27, y = 69, zone = "Stranglethorn Vale" },
 			[20] = { str = "Go kill gorillas around #COORDS[32,65]# just NE of BB for “Scaring Shaky”", x = 32, y = 65, zone = "Stranglethorn Vale" },
-			[21] = { str = "Run back to BB" },
+
+      [21] = { str = "Run back to BB" },
 			[22] = { str = "Turn right after the tunnel, turn in “Scaring Shaky” accept “Return to MacKinley”" },
 			[23] = { str = "Follow the lower dock towards the Inn, turn in “The Bloodsail Buccaneers pt.2” acept “The Bloodsail Buccaneers pt.3”" },
 			[24] = { str = "Go In the house across from the half ship, turn in “Return to MacKinley” accept “Voodoo Dues”" },
@@ -389,7 +340,8 @@ Table_003_Alliance_30to40 = {
 			[28] = { str = "Go up near Grom’Gol, search the shore there for the 38 elite croc for “Excelsior” stay away from the base or the guards will get you" },
 			[29] = { str = "Run up to Nessingways at #COORDS[35,10]# and turn in “Raptor Mastery pt.3” and “Panther Mastery pt.4”  accept “Raptor Mastery pt.4”", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[30] = { str = "Accept “The Green Hills of Stranglethorn” then turn it in" },
-			[31] = { str = "You should be at lest 25% or less to 40 now go grind on basalisks and raptors around #COORDS[33,39]# until you’re 40.", x = 33, y = 39, zone = "Stranglethorn Vale" },
+
+      [31] = { str = "You should be at lest 25% or less to 40 now go grind on basalisks and raptors around #COORDS[33,39]# until you’re 40.", x = 33, y = 39, zone = "Stranglethorn Vale" },
 			[32] = { str = "Hearth to BB" },
 			[33] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in “Excelsior”" },
 			[34] = { str = "Now fly to IF and accept Ironband Wants You from Prospector Stormpike at 74 11, and either to Darnassus to get your new skills and your mount, or get skills in IF and prepare for a few badlands quests by buying a frost oil and a gyrochronatom (don’t by a gyro if you can’t find a frost oil) Then a healing potion and lesser invisibility potion. Again don’t get either of the potions if you can’t get a frost oil or gyro.", x = 74, y = 11, zone = "Iron Forge" },
