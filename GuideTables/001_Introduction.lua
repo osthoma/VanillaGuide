@@ -18,7 +18,7 @@ Table_001_Introduction = {
 			[11] = { str = "#DOQUESTGo do a quest.#" },
 			[12] = { str = "#TURNINTurn in a quest.#" },
 			[13] = { str = "#NPCGeneral mob/item.#" },
-			[14] = { str = "." },
+			[14] = { str = "#COORDSCoordinates [XX,XX]#." },
 			[15] = { str = "." },
 			[16] = { str = "." },
 			[17] = { str = "#ACCEPTBINDABLE KEYS:# There are bindable keys for the \"Prev\" and \"Next\" Steps and Guides. You can find them in the key bindings menu" },
