@@ -1,7 +1,7 @@
 --[[--------------------------------------------------
 003_Horde_50to60.lua
 Authors: mrmr
-Version: #COORDS[1,04]#.2
+Version: 1.04.2
 ------------------------------------------------------
 Description: Guide Serie - 003 From Lvl 50 to Lvl 60
     1.04.1
