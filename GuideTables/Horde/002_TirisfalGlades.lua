@@ -65,7 +65,7 @@ Table_002_TirisfalGlades = {
 			[4] = { str = "Kill Devlin Agamand #C_[47,42]#, Kill Nissa Agamand #C_[49,36]# then kill Gregor and Thurman #C_[46,32]# making sure to loot all their remains.", x = 47, y = 42, zone = "Tirisfal Glades" },
 			[5] = { str = "Kill Cracked Skull Soldiers until they drop a letter, then use it to start #Q_'A Letter Undelivered'# #C_[48,42]#.", x = 48, y = 42, zone = "Tirisfal Glades" },
 			[6] = { str = "Go back to Brill and turn in #Q_'A Letter Undelivered'# and accept #Q_'Speak with Sevren'#." },
-			[7] = { str = "Go to around #C_[62,52]# and turn in all these #Q_'The Haunted Mills'#, 'Deaths in the Family'#, #Q_'The Mills Overrun'# and #Q_'Speak with Sevren'#.", x = 62, y = 52, zone = "Tirisfal Glades" },
+			[7] = { str = "Go to around #C_[62,52]# and turn in all these #Q_'The Haunted Mills'#, #Q_'Deaths in the Family'#, #Q_'The Mills Overrun'# and #Q_'Speak with Sevren'#.", x = 62, y = 52, zone = "Tirisfal Glades" },
 			[8] = { str = "Run to the Undercity." },
 			[9] = { str = "Go to the Mage Quarter and speak with Bethor Iceshard and turn in #Q_'The Prodical Lich'# #C_[84,17]# then accept #Q_'The Lich's Identity'#.", x = 84, y = 17, zone = "Undercity" },
 			[10] = { str = "You can grab any professions you want while here also such as Mining or Herbalism to make you some gold at early levels." },
