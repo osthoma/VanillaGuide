@@ -4,11 +4,11 @@ Authors: mrmr
 Version: #COORDS[1,04]#.2
 ------------------------------------------------------
 Description: Guide Serie - 003 From Lvl 50 to Lvl 60
-    #COORDS[1,04]#.1
+    1.04.1
         -- First Release
             Horde's Guide
             from level 50 to lever 60
-    #COORDS[1,04]#.2
+    1.04.2
     	-- no changes in here for this revision
 ------------------------------------------------------
 Connection:
