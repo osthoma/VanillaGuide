@@ -17,7 +17,7 @@ Table_003_Horde_50to60 = {
 			[11] = { str = "Go turn in #TURNIN\"Rise of the Silithid\"# ... accept #ACCEPT\"March of the Silithid\"# at #COORDS[56,46]#", x = 56, y = 46, zone = "Azshara" },
 			[12] = { str = "Turn in #TURNIN\"Delivery to Jes'rimon\"# at #COORDS[55,34]# ... accept #ACCEPT\"Jes'rimon's Payment to Jediga\"# and #ACCEPT\"Bone-Bladed Weapons\"# ", x = 55, y = 34, zone = "Azshara" },
 			[13] = { str = "Then turn in #TURNIN\"Ripple Delivery\"# at #COORDS[59,36]# (If you did the Hinterlands section)", x = 59, y = 36, zone = "Azshara" },
-			[14] = { str = "Then I go get new #HUNTERhunter# spells/abilities ... #HUNTERaccept# #ACCEPT\"The Hunter's Charm\"# #HUNTER(if you're a Hunter).#" },
+			[14] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities. ... #HUNTERaccept# #ACCEPT\"The Hunter's Charm\"# #HUNTER(if you're a Hunter).#" },
 			[15] = { str = "Then go to The Undercity, head to the Apothecarium Quarter..." },
 			[16] = { str = "Turn in #TURNIN\"Delivery to Andron Gant\"# ... accept #ACCEPT\"Andron's Payment to Jediga\"# " },
 			[17] = { str = "Then turn in #TURNIN\"Seeping Corruption\"# and #TURNIN\"Return to Apothecary Zinge\"# ... accept #ACCEPT\"Vivian Lagrave\"# while you are there." },
@@ -140,7 +140,7 @@ Table_003_Horde_50to60 = {
 			[41] = { str = "Go to Elder Rise." },
 			[42] = { str = "Accept #ACCEPT\"Un'goro Soil\"# .. then turn it in ... accept #ACCEPT\"Morrowgrain Research\"# .. then turn that in..." },
 			[43] = { str = "...but SKIP the next part (the part that says bring 10 Morrowgrain)" },
-			[44] = { str = "Go get new spells/abilities." },
+			[44] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[45] = { str = "Hearth to XRs." },
 			[46] = { str = "Then fly to Ratchet.." },
 			[47] = { str = "Turn in #TURNIN\"Volcanic Activity\"# and #TURNIN\"Marvon's Workshop\"# - I SKIP \"#NPCZapper Fuel\"# " },
@@ -460,7 +460,7 @@ Table_003_Horde_50to60 = {
 
 			[31] = { str = "I then stock up on #NPCEnriched Manna Biscuits# (about 600? :D)" },
 			[32] = { str = "then go get on the zeppelin to go to Orgrimmar. (while waiting, make heavy runecloth bandages)" },
-			[33] = { str = "Once in Orgrimmar i get new spells/abilites." },
+			[33] = { str = "Once in Orgrimmar talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[34] = { str = "bank 2/3rd of my manna biscuits." },
 			[35] = { str = "then fly to Winterspring..." },
 		}

@@ -25,7 +25,7 @@ Table_002_DunMorogh = {
 			[19] = { str = "Run up into Anvilmar at #COORDS[28,69]# and turn in “A Refugee's Quandary”.", x = 28, y = 69, zone = "Dun Morogh" },
 			[20] = { str = "Go further back and turn in “Scalding Mornbrew Delivery” accept “Bring Back the Mug”." },
 
-			[21] = { str = "Get training before you leave." },
+			[21] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[22] = { str = "Run right to #COORDS[25,75]#, everything is yellow so nothing will attack you, and turn in “Bring Back the Mug”.", x = 25, y = 75, zone = "Dun Morogh" },
 			[23] = { str = "Head toward the tunnel and turn in “Senir's Observations pt.1” at #COORDS[33,71]# and accept “Senir's Observations pt.2”.", x = 33, y = 71, zone = "Dun Morogh" },
 			[24] = { str = "You should be about 500 XP from level 6 now." },
@@ -43,7 +43,7 @@ Table_002_DunMorogh = {
 			[4] = { str = "Up ahead on the right, in front of the Inn, accept “Beer Basted Boar Ribs”" },
 			[5] = { str = "Go in the Inn and turn in “Supplies to Tannok”" },
 			[6] = { str = "Go to the Innkeeper, make it your home and purchase the rhapsody malt for “Beer Basted Boar Ribs”" },
-			[7] = { str = "Get new skills" },
+			[7] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[8] = { str = "Go across the road from the Inn and accept “Tools For Steelgrill” " },
 			[9] = { str = "Go NE to #COORDS[49,48]# and accept “Stocking Jetsteam” and “The Grizzled Den”", x = 49, y = 48, zone = "Dun Morogh" },
 			[10] = { str = "Go to the left house and turn in “Tools For Steelgrill”" },
@@ -68,7 +68,7 @@ Table_002_DunMorogh = {
 			[27] = { str = "Die so you end up in Kharanos" },
 			[28] = { str = "Next to the GY accept “Frostmane Hold”" },
 			[29] = { str = "Go into the Inn and buy a thunder ale off the Innkeeper and down in the basement, give the ale to Jarven Thunderbrew. When he leaves touch the barrel to turn in “Bitter Rivals” accept “Return to Marleth”. " },
-			[30] = { str = "Get new skills" },
+			[30] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 
 			[31] = { str = "Go west to brewnall village again at #COORDS[30,45]# and turn in “The Perfect Stout” and “A Favor For Evershine” accept “Return to Bellowfiz” and “Shimmer Stout”. ", x = 30, y = 45, zone = "Dun Morogh" },
 			[32] = { str = "Next to him turn in “Return to Marleth” you should be past half way to 9 now" },

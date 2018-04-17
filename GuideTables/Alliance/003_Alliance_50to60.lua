@@ -147,7 +147,7 @@ Table_003_Alliance_50to60 = {
 			[51] = { str = "In the back of the cave turn in The Northern Pylon The Eastern Pylon The Western Pylon accept Making Sense of It then turn it back in. She then tells you about buffs from the pylons." },
 			[52] = { str = "Run to #COORDS[29,22]# and follow the path into Slithus to #COORDS[50,34]# grab the FP and fly to gadget.", x = 29, y = 22, zone = "Un’Goro Crater" },
 			[53] = { str = "Go to the NW part of town, turn in Bungle in the Jungle SKIP the next part then hand in Super Sticky between the 2 entrances" },
-			[54] = { str = "Hearth to Darnassus and get new skills" },
+			[54] = { str = "Hearth to Darnassus and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[55] = { str = "You should have at least 50+ soils easy now." },
 			[56] = { str = "Go to #COORDS[31,8]# and turn in Un'Goro Soil", x = 31, y = 8, zone = "Darnassus" },
 			[57] = { str = "Now go up to the top of the tower and accept Morrowgrain Research pt.1 then go downstairs and turn it in, accept Morrowgrain Research pt.2" },
@@ -365,7 +365,7 @@ Table_003_Alliance_50to60 = {
 			[24] = { str = "You should be about 10k from 56, go grind until 5k on the orcs at #COORDS[49,55]#", x = 49, y = 55, zone = "Burning Steps" },
 			[25] = { str = "Hearth to IF" },
 			[26] = { str = "Go to the thrown room at #COORDS[38,55]# and turn in The Smoldering Ruins of Thaurissan pt.2", x = 38, y = 55, zone = "Ironforge" },
-			[27] = { str = "You should now be 56, get new skills" },
+			[27] = { str = "You should now be 56, talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[28] = { str = "Fly to Menethil and boat to Theramore" },
 			[29] = { str = "Fly to Gadget" },
 		}
@@ -519,7 +519,7 @@ Table_003_Alliance_50to60 = {
 			[17] = { str = "In front of the house turn in The Eastern Plagues accept The Blightcaller Cometh" },
 			[18] = { str = "If you’re within 6600 XP to level then Hearth to IF and fly to SW, if not then grind until you’re within range." },
 			[19] = { str = "Go to #COORDS[78,18]# in the keep and turn in The Blightcaller Cometh now I SKIP the next part but it’s a good quest to do at 60", x = 78, y = 18, zone = "Eastern Plaguelands" },
-			[18] = { str = "Go get new skills" },
+			[18] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[19] = { str = "Fly back to WPL" },
 		}
 	},

@@ -14,7 +14,7 @@ Table_002_Durotar = {
 			[9] = { str = "Make sure #DOQUEST\"Cutting Teeth\"# is complete." },
 			[10] = { str = "Go turn in #TURNIN\"Sarkoth\"# pt.2 and #TURNIN\"Cutting Teeth\"# at #COORDS[42,68]# ... Accept #ACCEPT\"Etched Tablet\"# and #ACCEPT\"Sting of the Scorpid\"# ", x = 42, y = 68, zone = "Durotar" },
 
-			[11] = { str = "Turn in #ACCEPT\"Etched Tablet\"# (around at #COORDS[43,69]#) and get new spells/abilities for your class.", x = 43, y = 69, zone = "Durotar" },
+			[11] = { str = "Turn in #ACCEPT\"Etched Tablet\"# (around at #COORDS[43,69]#) and talk to your #NPCClass Trainer# to learn new spells and abilities.", x = 43, y = 69, zone = "Durotar" },
 			[12] = { str = "Then accept and do the following: #DOQUEST\"Sting of the Scorpid\"# #DOQUEST\"Vile Familiars\"# #DOQUEST\"Galgar's Cactus Apple Surprise\"# and #DOQUEST\"Lazy Peons\"# (all these are done north and north-east of Valley of Trials)" },
 			[13] = { str = "Turn all those quests in, then accept #ACCEPT\"Burning Blade Medallion\"# and #ACCEPT\"Thazz'ril's Pick\"# " },
 			[14] = { str = "Go do: #DOQUEST\"Burning Blade Medallion\"# and #DOQUEST\"Thazz'ril's Pick\"# (these are done in the cave at #COORDS[44,56]#)", x = 44, y = 56, zone = "Durotar" },
@@ -34,7 +34,7 @@ Table_002_Durotar = {
 			[4] = { str = "Go turn in #TURNIN\"Report to Sen'jin Village\"# (at Sen'jen Village, at #COORDS[55,74]#)", x = 55, y = 74, zone = "Durotar" },
 			[5] = { str = "Then collect all the quests in Sen'jin Village. (which include: #ACCEPT\"A solvent Spirit\"# #ACCEPT\"Practical Prey\"# #ACCEPT\"Minshina's Skull\"# #ACCEPT\"Report to Orgnil\"# and #ACCEPT\"Zalazane\"# )" },
 			[6] = { str = "Do NOT do \"#NPCA solvent Spirit\"# at the water around Sen'jin Village. Make sure the quest is accepted though." },
-			[7] = { str = "Then run up to Razor Hill at #COORDS[52,44]#, grinding mobs along the way, and make sure you get to level 6 before you get up there for new spells.", x = 52, y = 44, zone = "Durotar" },
+			[7] = { str = "Then run up to Razor Hill at #COORDS[52,44]#, grinding mobs along the way, and make sure you get to level 6 before you get up there. Talk to your #NPCClass Trainer# to learn new spells and abilities.", x = 52, y = 44, zone = "Durotar" },
 			[8] = { str = "Turn in #TURNIN\"Report to Orgnil\"# and collect all the quests at Razor Hill (#ACCEPT\"Dark Storms\"# #ACCEPT\"Vanquish the Betrayers\"# , #ACCEPT\"Encroachment\"# #ACCEPT\"Break a Few Eggs\"# " },
 			[9] = { str = "Go up to the watch tower north-west of Razor Hill, at #COORDS[49,40]# and accept #ACCEPT\"Carry Your Weight\"# ", x = 49, y = 40, zone = "Durotar" },
 			[10] = { str = "Go in the Inn at #COORDS[51,41]# and turn in #TURNIN\"A Peon's Burden\"# . And also make Razor Hill your home.", x = 51, y = 41, zone = "Durotar" },
@@ -45,7 +45,7 @@ Table_002_Durotar = {
 			[14] = { str = "Go turn in #TURNIN\"Vanquish the Betrayers\"# #TURNIN\"The Admiral's Orders\"# and #TURNIN\"Carry Your Weight\"# at Razor Hill at #COORDS[52,44]#, and accept #ACCEPT\"From The Wreckage....\"# #ACCEPT\"The Admiral's Orders\"# (part2).", x = 52, y = 44, zone = "Durotar" },
 			[15] = { str = "Go do #DOQUEST\"A solvent Spirit\"# and #DOQUEST\"From The Wreckage....\"# Do these two quests at the water east of Tiragarde Keep (around at #COORDS[62,50]#).", x = 62, y = 50, zone = "Durotar" },
 			[16] = { str = "Then do the first half of #DOQUEST\"Encroachment\"# at #COORDS[49,49]#.", x = 49, y = 49, zone = "Durotar" },
-			[17] = { str = "Then if you're not at least 3 bars away from lvl 8, grind till you are, go turn in #TURNIN\"From The Wreckage....\"# at Razor Hill at #COORDS[52,44]# and get new spells/abilities.", x = 52, y = 44, zone = "Durotar" },
+			[17] = { str = "Then if you're not at least 3 bars away from lvl 8, grind till you are, go turn in #TURNIN\"From The Wreckage....\"# at Razor Hill at #COORDS[52,44]# and talk to your #NPCClass Trainer# to learn new spells and abilities.", x = 52, y = 44, zone = "Durotar" },
 			[18] = { str = "Run way down south and do #DOQUEST\"Thwarting Kolkar Aggression\"# at #COORDS[48,79]# ", x = 48, y = 79, zone = "Durotar" },
 			[19] = { str = "Once that is done turn it in at #COORDS[54,75]#.", x = 54, y = 75, zone = "Durotar" },
 			[20] = { str = "Turn in #TURNIN\"A solvent Spirit\"# at Sen'jin at #COORDS[55,74]#", x = 55, y = 74, zone = "Durotar" },
@@ -73,7 +73,7 @@ Table_002_Durotar = {
 			[5] = { str = "Then turn it in, accept #ACCEPT\"Securing the Lines\"# at #COORDS[46,22]#", x = 46, y = 22, zone = "Durotar" },
 			[6] = { str = "Grind mobs to lvl 10." },
 			[7] = { str = "Go down to razor hill at #COORDS[52,44]#, turn in #TURNIN\"Encroachment\"# ", x = 52, y = 44, zone = "Durotar" },
-			[8] = { str = "Get new spells/abilities." },
+			[8] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[9] = { str = "Do your level 10 class quests. #HUNTERI do this as a hunter: do all three pet quests \"#Taming the Beast\":#" },
 			[10] = { str = "#HUNTER09) Dire molted bore (south of razor hill)#" },
 
@@ -110,7 +110,7 @@ Table_002_Durotar = {
 			[39] = { str = "Hearth to Razor Hill." },
 			[40] = { str = "Build up first aid." },
 
-			[41] = { str = "Get new spells/abilities." },
+			[41] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[42] = { str = "Accept #ACCEPT\"Conscript of the Horde\"# (at #COORDS[50,43]# in Razor Hill)", x = 51, y = 44, zone = "Durotar" },
 			[43] = { str = "Run west into the Barrens...at #COORDS[35,42]#", x = 35, y = 42, zone = "Durotar" },
 		}

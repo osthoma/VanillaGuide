@@ -139,7 +139,7 @@ Table_003_Horde_20to30 = {
 			[15] = { str = "Turn in #TURNIN\"Enraged Thunder Lizards\"# and #TURNIN\"Washte Pawne\"# ... accept #ACCEPT\"Cry of the Thunderhawk\"# " },
 			[16] = { str = "Turn in #TURNIN\"A New Ore Sample\"# " },
 			[17] = { str = "Go do #DOQUEST\"Cry of the Thunderhawk\"# then turn it in ... I SKIP \"#NPCMahren Skyseer\"# " },
-			[18] = { str = "Fly to Thunder Bluff to get new spells/abilities." },
+			[18] = { str = "Fly to Thunder Bluff and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[19] = { str = "Turn in #TURNIN\"Melor Sends Word\"# (#COORDS[61,80]# on the Hunter Rise)... accept #ACCEPT\"Steelsnap\"# ", x = 61, y = 80, zone = "Thunder Bluff" },
 			[20] = { str = "Accept #ACCEPT\"The sacred Flame\"# #COORDS[55,51]#", x = 55, y = 51, zone = "Thunder Bluff" },
 
@@ -209,7 +209,7 @@ Table_003_Horde_20to30 = {
 			[9] = { str = "#DOQUEST\"Steelsnap\"# (Steelsnap patrols around #COORDS[16,25]#) ", x = 16, y = 25, zone = "Thousand Needles" },
 			[10] = { str = "Hearth to Thunder Bluff." },
 
-			[11] = { str = "Get new spells/abilities." },
+			[11] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[12] = { str = "Turn in #TURNIN\"Steelsnap\"# (on Hunter Rise) ... accept #ACCEPT\"Frostmaw\"# " },
 			[13] = { str = "Turn in #TURNIN\"Sacred Fire\"# (on Elder Rise) ... accept #ACCEPT\"Arikara\"# " },
 			[14] = { str = "Fly back to 1K Needles." },
@@ -231,7 +231,7 @@ Table_003_Horde_20to30 = {
 			[29] = { str = "Fly to Orgrimmar" },
 			[30] = { str = "Make Orgrimmar your home." },
 
-			[31] = { str = "Get new spells/abilities." },
+			[31] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[32] = { str = "Go to Undercity (UC). You need to get on the zeppelin just right outside of Orgrimmar." },
 			[33] = { str = "Run to Tarren Mill in Hillsbrad Foothills.. (You can just bypass the UC for now if you like and just follow the path south out of Tirisfal Glades and into Silverpine Forest)" },
 		}
@@ -252,7 +252,7 @@ Table_003_Horde_20to30 = {
 			[9] = { str = "I keep grinding away at Yetis until I hit 30. (OPTIONAL: you could go do RFK instead of the grinding)" },
 			[10] = { str = "also, the \"#NPCHelcular's Rod\"# should have dropped before hitting 30, if not keep grinding away till it does." },
 
-			[11] = { str = "As soon as i hit 30, I hearth to Orgrimmar to get new spells/abilities." },
+			[11] = { str = "As soon as you hit 30, hearth to Orgrimmar and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[12] = { str = "Then go back to Hillsbrad." },
 			[13] = { str = "Turn #TURNIN\"Helcular's Revenge\"# in, accept the next part to it." },
 			[14] = { str = "go back to the Yeti cave..." },

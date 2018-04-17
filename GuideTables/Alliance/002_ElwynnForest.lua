@@ -16,7 +16,7 @@ Table_002_ElwynnForest = {
 
 			[11] = { str = "Go West to #COORDS[54,40]# and go south killing the defias until you finish Brotherhood of Thieves you should have dinged 4 by the time you’re done, if not just kill until you are", x = 54, y = 40, zone = "Elwynn Forest" },
 			[12] = { str = "Run back to the abbey at #COORDS[48,42]# and turn in Brotherhood of Thieves accept Milly Osworth and Bounty on Garrick Padfoot", x = 48, y = 42, zone = "Elwynn Forest" },
-			[13] = { str = "Go inside the house and turn in Investigate Echo Ridge accept Skirmish at Echo Ridge then get new skills" },
+			[13] = { str = "Go inside the house and turn in Investigate Echo Ridge accept Skirmish at Echo Ridge. Then talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[14] = { str = "Go north of the house at #COORDS[50,39]# next to the barn, turn in Milly Osworth accept Milly's Harvest", x = 50, y = 39, zone = "Elwynn Forest" },
 			[15] = { str = "Go back east and grab the grapes in the garden at #COORDS[54,48]# for Milly's Harvest then NE to #COORDS[57,48]# you’ll see a shack with padfoot and a thug. Kill him for Bounty on Garrick Padfoot", x = 57, y = 48, zone = "Elwynn Forest" },
 			[16] = { str = "Go back to #COORDS[50,39]# and turn in Milly's Harvest accept Grape Manifest", x = 50, y = 39, zone = "Elwynn Forest" },
@@ -32,7 +32,7 @@ Table_002_ElwynnForest = {
 			[25] = { str = "Just to your left accept Kobold Candles" },
 			[26] = { str = "Near the bar turn in Rest and Relaxation and make Goldshire your home" },
 			[27] = { str = "Exit the Inn and go straight out, turn in Report to Goldshire accept The Fargodeep Mine" },
-			[28] = { str = "Get your new skills in town here." },
+			[28] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[29] = { str = "Go near the carts at #COORDS[42,67]# and accept Gold Dust Exchange", x = 42, y = 67, zone = "Elwynn Forest" },
 			[30] = { str = "Go south to the Fargodeep Mine at #COORDS[39,82]# and kill the kobold until you complete all 3 quests The Fargodeep Mine, Gold Dust Exchange, and Kobold Candles Make sure you go in the lower entrance so The Fargodeep Mine is easier", x = 39, y = 82, zone = "Elwynn Forest" },
 

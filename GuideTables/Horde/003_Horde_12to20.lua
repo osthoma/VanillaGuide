@@ -71,7 +71,7 @@ Table_003_Horde_12to20 = {
 			[10] = { str = "Then do #DOQUEST\"Apothecary Zamah\"# Which has you run all the way to Thunder Bluff (TB) (in Mulgore at #COORDS[39,27]#).", x = 39, y = 27, zone = "Mulgore" },
 
 			[11] = { str = "Once at TB, go to #NPCweapon master# #COORDS[40,62]#, #HUNTERget Guns and Staff skills. (I do this as a Hunter),# get what weapon skills you need for your class)" },
-			[12] = { str = "Get new spells/abilities." },
+			[12] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[13] = { str = "Turn in #TURNIN\"Apothecary Zamah\"# the cave below the spirit rise at #COORDS[29,29]#.", x = 29, y = 29, zone = "The Barrens" },
 			[14] = { str = "Go to first aid guy at spirit rise to build up first aid." },
 			[15] = { str = "Go up to the tower in middle of town to get FP, but DON'T fly back to XRs." },
@@ -122,7 +122,7 @@ Table_003_Horde_12to20 = {
 			[15] = { str = "Keep an eye out for the mobs named #NPCLakota'mani# (a big grey kodo around #COORDS[45,53]#) and #NPCOwatanka#. They drops #NPCHoof of Lakota'mani# which starts #DOQUEST\"Lakota'mani\"# and #NPCOwatanka's Tailspike# which starts #DOQUEST\"Owatanka\"#. Turn these in at CT when you get the chance." },
 			[16] = { str = "Once you are at least 5 bars away from 20, run to XRs..." },
 			[17] = { str = "Turn in #TURNIN\"Stolen Silver\"# #TURNIN\"Consumed by Hatred\"# #TURNIN\"Altered Beings\"# and #TURNIN\"The Angry Scytheclaws\"# ...accept all new quests. SKIP \"#NPCMura Runetotem\"# . You should be lvl 20 now." },
-			[18] = { str = "Fly to Orgrimmar, get new spells/abilities." },
+			[18] = { str = "Fly to Orgrimmar and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[19] = { str = "Grab #ACCEPT\"The Ashenvale Hunt\"# quest" },
 			[20] = { str = "Hearth back to XRs." },
 

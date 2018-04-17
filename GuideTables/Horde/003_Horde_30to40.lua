@@ -184,7 +184,7 @@ Table_003_Horde_30to40 = {
 			[3] = { str = "Then do the following:" },
 			[4] = { str = "Fly to Grom'gol..." },
 			[5] = { str = "Grab ALL quests in grom'gol: #ACCEPT\"The Defense of Grom'gol\"# #ACCEPT\"Mok'thardin's Enchantment\"# #ACCEPT\"Bloodscalp Insight\"# #ACCEPT\"Hunt for Yenniku\"# #ACCEPT\"Trollbane\"# #ACCEPT\"Bloody Bone Necklaces\"# #ACCEPT\"The Vile Reef\"# " },
-			[6] = { str = "#HUNTER05) Get new hunter spells/abilities.#" },
+			[6] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[7] = { str = "#VIDEOIMPORTANT:# Make sure you save any Green Hills of Stranglethorn pages you find and mail them to your alt for storage, you will need them for a later #DOQUESTquest#. You will need one of each of the following pages: 1, 4, 6, 8, 10, 11, 14, 16, 18, 20, 21, 24, 25, 26, and 27. Once your alt collects all the pages, mail them back to your main. Now go complete these quests:" },
 			[8] = { str = "#DOQUEST\"Singing Blue Shards\"# #COORDS[25,19]#", x = 25, y = 19, zone = "Stranglethorn Vale" },
 			[9] = { str = "#DOQUEST\"Tiger Mastery\"# (#NPCElder Stranglethorn Tigers#) #COORDS[31,19]#", x = 31, y = 19, zone = "Stranglethorn Vale" },
@@ -210,7 +210,7 @@ Table_003_Horde_30to40 = {
 			[27] = { str = "Hearth to BB, turn in #TURNIN\"Singing Blue Shards\"# #TURNIN\"Hostile Takeover\"# #TURNIN\"Bloodscalp Ears\"# #TURNIN\"Investigate the Camp\"# " },
 			[28] = { str = "Turn in #TURNIN\"Goblin Sponsorship\"# part4 ... accept #ACCEPT\"Goblin Sponsorship\"# part5." },
 			[29] = { str = "Fly to Grom'gol, turn in all quests: #TURNIN\"The Defense of Grom'gol\"# #TURNIN\"Mok'thardin's Enchantment\"# #TURNIN\"Headhunting\"# #TURNIN\"Bloody Bone Necklaces\"# and #TURNIN\"The Vile Reef\"# " },
-			[30] = { str = "Should be level 36 now, if not, grind to it. Accept #Accept\"Trollbane\"#. #HUNTERThen get new hunter spells/abilities.#" },
+			[30] = { str = "Should be level 36 now, if not, grind to it. Accept #Accept\"Trollbane\"#. Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 
 			[31] = { str = "Get on the zeppelin to go to the Undercity." },
 			[32] = { str = "Once in the UC, turn in 60 Silk Cloth for #TURNIN\"A Donation of Silk\"# quest at #COORDS[71,28]#.", x = 71, y = 28, zone = "Undercity" },
@@ -291,7 +291,7 @@ Table_003_Horde_30to40 = {
 			[9] = { str = "Hearth to XRs" },
 			[10] = { str = "Turn in #TURNIN\"Parts of the Swarm\"# ... accept #ACCEPT\"Parts of the Swarm\"# part2" },
 
-			[11] = { str = "Get new spells/abilities." },
+			[11] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[12] = { str = "Fly to Dustwallow Marsh..." },
 		}
 	},
@@ -364,7 +364,7 @@ Table_003_Horde_30to40 = {
 			[26] = { str = "Turn in #TURNIN\"Mok'thardin's Enchantment\"# part3 ... accept #ACCEPT\"Mok'thardin's Enchantment\"# part4" },
 			[27] = { str = "You should be level 40 for sure now. If not grind the rest of the way to 40 on raptors/cold eye basilisks." },
 			[28] = { str = "OPTIONAL: Scarlet Monastery instance instead of the grinding." },
-			[29] = { str = "#HUNTER28) I get new hunter spells/abilities at grom'gol, also make sure you get the lvl 40 arrows/bullets.#" },
+			[29] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[30] = { str = "Then get on the zeppelin to go to the UC." },
 
 			[31] = { str = "Fly to Hammerfall and stop at the inn to get the #NPCFrost Oil#, the #NPCGyrochronatom#, the #NPCHealing Potion#, the #NPCLesser Invisibility Potion# and the #NPCPatterned Bronze Bracers# items for some free XP in Badlands." },

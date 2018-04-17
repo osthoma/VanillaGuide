@@ -4,7 +4,7 @@ Table_003_Alliance_20to30 = {
  		title = "20-21 Darkshore",
  		items = {
 			[1] = { str = "20-21 Darkshore" },
-			[2] = { str = "First thing, fly to Darnassus and get your new skills. Then fly back." },
+			[2] = { str = "First thing, talk to your #NPCClass Trainer# in Darnassus to learn new spells and abilities. Then fly back." },
 			[3] = { str = "Turn in Onu at #COORDS[43,76]# accept The Master's Glaive.", x = 43, y = 76, zone = "Darkshore" },
 			[4] = { str = "Go to #COORDS[39,85]# it should say you found Master’s Glaive(complete) now use the phial of scrying. Click it turn in The Master's Glaive accept The Twilight Camp", x = 39, y = 85, zone = "Darkshore" },
 			[5] = { str = "Click the Book at #COORDS[38,86]# turn in The Twilight Camp accept Return to Onu.", x = 38, y = 86, zone = "Darkshore" },
@@ -100,7 +100,7 @@ Table_003_Alliance_20to30 = {
 			[17] = { str = "If you’re not 24 yet or 1750 xp to 24, grind to 1750 until you level." },
 			[18] = { str = "Hearth to Auberdine." },
 			[19] = { str = "Turn in Escape Through Force at the house before exiting town. Accept Trek to Ashenvale" },
-			[20] = { str = "Fly to Darnassus and get new skills then Fly to Astranaar." },
+			[20] = { str = "Talk to your #NPCClass Trainer# in Darnassus to learn new spells and abilities. Then Fly to Astranaar." },
  		}
 	},
 
@@ -187,7 +187,7 @@ Table_003_Alliance_20to30 = {
 			[49] = { str = "Next down to the docks, hand in Return the Statuette" },
 			[50] = { str = "You should be 27 now. " },
 
-			[51] = { str = "Fly to IF, get new skills, hand in An Old Colleague at #COORDS[71,51]# SKIP the next part", x = 71, y = 51, zone = "Ironforge" },
+			[51] = { str = "Fly to IF and talk to your #NPCClass Trainer# to learn new spells and abilities. Hand in An Old Colleague at #COORDS[71,51]# SKIP the next part", x = 71, y = 51, zone = "Ironforge" },
 			[52] = { str = "Fly to SW, hand in A Scroll From Mauren at #COORDS[43,80]# SKIP the next part", x = 43, y = 80, zone = "Stormwind City" },
 			[53] = { str = "Fly to Lakeshire" },
  		}
@@ -299,7 +299,7 @@ Table_003_Alliance_20to30 = {
 			[14] = { str = "Go to #COORDS[53,46]# turn in Raene’s Cleansing pt.5 accept Raene's Cleansing pt.5 Go turn it in at the shrine inside the tree at #COORDS[56,49]# accept Raene’s Cleansing pt.6 Turn it back in at the moonwell at #COORDS[53,46]# accept Raene’s Cleansing pt.7 die so you end up near town", x = 53, y = 46, zone = "Ashenvale" },
 			[15] = { str = "Hand in Raene’s Cleansing pt.7 at the Inn, SKIP the rest but keep the rod, you can use it forever to transform for fun =P" },
 			[16] = { str = "Go to #COORDS[26,38]# turn in The Tower of Althalaxx pt.6 SKIP the rest", x = 26, y = 38, zone = "Ashenvale" },
-			[17] = { str = "Fly to Darnassus and get your level 30 talents" },
+			[17] = { str = "Fly to Darnassus and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[18] = { str = "Fly to Auberdine then get on the boat to Menethil Harbor" },
  		}
 	},

@@ -96,7 +96,7 @@ Table_003_Alliance_40to50 = {
 			[12] = { str = "Go just south of the Inn, turn in “Reagents For Reclaimers Inc pt.3” accept “Reagents For Reclaimers Inc pt.4”" },
 			[13] = { str = "Fly to Theramore, Boat to Menethil and Fly to IF" },
 			[14] = { str = "Turn in “Reagents For Reclaimers Inc pt.4” at #COORDS[67,17]#", x = 67, y = 17, zone = "Ironforge" },
-			[15] = { str = "Get new skills" },
+			[15] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[16] = { str = "Fly to Booty Bay" },
 		}
 	},
@@ -229,7 +229,7 @@ Table_003_Alliance_40to50 = {
 			[37] = { str = "Fly to Rut'theran Village (Darnassus)" },
 			[38] = { str = "Follow the dock and go in the house, turn in “Handle With Care” accept “Favored of Elune?”" },
 			[39] = { str = "Go upstairs, turn in “In Search of Knowledge” then go to the back of the house on the 2nd floor, open the green book and accept “Feralas: A History” turn it back in to her, accept “The Borrower”" },
-			[40] = { str = "Get new skills" },
+			[40] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 
 			[41] = { str = "Go to the temple of the moon at #COORDS[39,86]# and up to the 2nd floor, turn in “Rise of the Silithid” and “Doling Justice pt.2", x = 39, y = 86, zone = "Feralas" },
 			[42] = { str = "Buy 2 Elixir of Fortitude for a later part of this quest" },
@@ -246,8 +246,8 @@ Table_003_Alliance_40to50 = {
 			[3] = { str = "I don’t list all the quests for Uldaman because there is a good handful and you don’t have to do them all to fully level, and again it is optional. This is much faster than grinding would be. I really hate to do instances when trying for the best time but alliance has less quests than the horde do and I did mention there will be about 10-15% of grinding on your way to 60. If you did do all instances though you would be really slowed down. This isn’t going to put a break in your time with a good group, preferrably guild groups of 45+" },
 			[4] = { str = "You can stop at about 75% to 46 but again I suggest you level. It’s not as bad as it seems." },
 			[5] = { str = "A great map of Uldaman and where the parts of most of the quests pieces can be done at is listed here on worldofwar.net" },
-			[6] = { str = "Once you’re all set, fly to SW and turn in In Search of The Temple at #COORDS[64,20]# and accept “In Search of The Hinterlands” get new skills then fly to Southshore.", x = 64, y = 20, zone = "Stormwind" },
-			[7] = { str = " Run up to the path at #COORDS[84,33]# behind Durnholde Keep (you’ll see 2 griffins) into The Hinterlands", x = 84, y = 33, zone = "Tarren Mill" },
+			[6] = { str = "Once you’re all set, fly to SW and turn in In Search of The Temple at #COORDS[64,20]# and accept “In Search of The Hinterlands”. Talk to your #NPCClass Trainer# to learn new spells and abilities. Then fly to Southshore.", x = 64, y = 20, zone = "Stormwind" },
+			[7] = { str = "Run up to the path at #COORDS[84,33]# behind Durnholde Keep (you’ll see 2 griffins) into The Hinterlands", x = 84, y = 33, zone = "Tarren Mill" },
 		}
 	},
 
@@ -363,7 +363,7 @@ Table_003_Alliance_40to50 = {
 			[34] = { str = "Run up to the Shimmering Flats to #COORDS[78,74]# and turn in An Orphan Looking For A Home accept A Short Incubation and since you already have this, turn it back in and accept The Newest Member of the Family now you have 1 hour.", x = 78, y = 74, zone = "Thousand Needles" },
 			[35] = { str = "Fly to Theramore and get any mageweave you have out and build up first aid as much as you can." },
 			[36] = { str = "Boat to Menethil and fly to IF" },
-			[37] = { str = "Make IF your home and get new skills" },
+			[37] = { str = "Make IF your home and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[38] = { str = "Go to #COORDS[77,11]# and turn in Return to Ironforge accept A Future Task and Passing the Burden", x = 77, y = 11, zone = "Ironforge" },
 			[39] = { str = "Turn around to #COORDS[70,18]# and turn in A Future Task", x = 70, y = 18, zone = "Ironforge" },
 			[40] = { str = "Go to #COORDS[31,4]# and turn in Passing the Burden accept Arcane Runes and An Easy Pickup", x = 31, y = 4, zone = "Ironforge" },
@@ -455,7 +455,7 @@ Table_003_Alliance_40to50 = {
 			[23] = { str = "If you do ZF you only really need to complete at least 2-3 of the following quests Troll Temper Divino-matic Rod Gahz'rilla The Prophecy of Mosh'Aru I highly suggest getting Divino-matic Rod and Gahz'rilla because you get an awesome ring and a mount speed inscrease trinket which I’ve used since the start of WoW and you will use them on up to 60 and then some." },
 			[24] = { str = "Now you should be about 1-2 bars into 50 if you went to ZF. From here on out there is a lot more fresh content, as you seen 45-50 is a pain in the ass. We still have a lot of untouched areas to XP in now." },
 			[25] = { str = "Hearth to BB and turn in Report Back to Fizzlebub" },
-			[26] = { str = "Fly to IF to get new skills and accept the quest “The Hunter's Charm”" },
+			[26] = { str = "Fly to IF and talk to your #NPCClass Trainer# to learn new spells and abilities. Accept the quest “The Hunter's Charm”" },
 			[27] = { str = "Make sure you get at least 15 silk cloths out of the mailbox or AH alt" },
 			[28] = { str = "Make IF your home and accept “Assisting Arch Druid Staghelm”" },
 			[29] = { str = "Fly to Thelsamar" },

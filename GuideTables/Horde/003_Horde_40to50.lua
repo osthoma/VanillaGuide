@@ -64,7 +64,7 @@ Table_003_Horde_40to50 = {
 			[21] = { str = "go do #DOQUEST\"Continued Threat\"# then turn it in." },
 			[22] = { str = "Hearth to Stonard." },
 			[23] = { str = "Turn in #TURNIN\"Fresh Meat\"# and #TURNIN\"Pool of Tears\"# ... accept #ACCEPT\"The Atal'ai Exile\"# " },
-			[24] = { str = "Should be about lvl 42 now, if not grind to it. #HUNTERGet new hunter spells/abilities.#" },
+			[24] = { str = "Should be about lvl 42 now, if not grind to it. Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[25] = { str = "Fly to Grom'gol..." },
 		}
 	},
@@ -223,7 +223,7 @@ Table_003_Horde_40to50 = {
 			[29] = { str = "Accept #ACCEPT\"Ripple Recovery\"# (from Dran Droffers) #COORDS[59,36]#", x = 59, y = 36, zone = "Orgrimmar" },
 			[30] = { str = "Then turn in #TURNIN\"Ripple Recovery\"# (the guy right next to Dran) ... accept #ACCEPT\"Ripple Recovery\"# again." },
 
-			[31] = { str = "Turn in #TURNIN\"Parts of the Swarm\"# and #TURNIN\"A Grim Discovery\"# at #NPCBelgrom Rockmaul#... accept #ACCEPT\"Betrayed\"# #COORDS[75,34]#. Also get new spells/abilities while you are in Orgrimmar.", x = 75, y = 34, zone = "Orgrimmar" },
+			[31] = { str = "Turn in #TURNIN\"Parts of the Swarm\"# and #TURNIN\"A Grim Discovery\"# at #NPCBelgrom Rockmaul#... accept #ACCEPT\"Betrayed\"# #COORDS[75,34]#. Talk to your #NPCClass Trainer# to learn new spells and abilities.", x = 75, y = 34, zone = "Orgrimmar" },
 			[32] = { str = "Go turn in #TURNIN\"A Strange Request\"# ... Accept #ACCEPT\"Retrun to Witch Doctor Uzer'i\"# (cleft of shadow, #COORDS[49,50]#)", x = 49, y = 50, zone = "Orgrimmar" },
 			[33] = { str = "Go turn in #ACCEPT\"Report to Zor\"# ... accept/complete #DOQUEST\"Service to the Horde\"# (valley of wisdom, #COORDS[38,38]#)", x = 38, y = 38, zone = "Orgrimmar" },
 			[34] = { str = "Go turn in #TURNIN\"The Gordunni Orb\"# (valley of spirits, #COORDS[39,86]#)", x = 39, y = 86, zone = "Orgrimmar" },
@@ -240,7 +240,7 @@ Table_003_Horde_40to50 = {
 			[44] = { str = "turn #TURNIN\"Natural Materials\"# in ... accept #ACCEPT\"The Sunken Temple\"# " },
 			[45] = { str = "fly to Thunder Bluff" },
 			[46] = { str = "turn in #TURNIN\"Deadmire\"# " },
-			[47] = { str = "get new spells/abilites." },
+			[47] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[48] = { str = "Fly to XRs, then to Splintertree Post (Ashenvale)" },
 			[49] = { str = "Then go east into Azshara..." },
 		}
@@ -385,7 +385,7 @@ Table_003_Horde_40to50 = {
 			[5] = { str = "Accept #ACCEPT\"Cortello's Riddle\"# part2" },
 			[6] = { str = "Go back to Stonard." },
 			[7] = { str = "Go turn in #TURNIN\"The Disgraced One\"# (and #TURNIN\"Return to Fel'Zerul\"# if you did Hinterlands)... accept #ACCEPT\"The Missing Orders\"# " },
-			[8] = { str = "#HUNTER07) Get new hunter spells/abilities#" },
+			[8] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[9] = { str = "Go turn in #TURNIN\"The Missing Orders\"# (in the inn) ... accept #ACCEPT\"The Swamp Talker\"# " },
 			[10] = { str = "Go do #DOQUEST\"The Swamp Talker\"# (in the cave at #COORDS[65,78]#)", x = 65, y = 78, zone = "Searing Gorge" },
 

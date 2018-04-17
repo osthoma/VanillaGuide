@@ -23,7 +23,7 @@ Table_002_Teldrassil = {
 			[17] = { str = "Do Crown of the Earth pt.1 at #COORDS[59,32]#", x = 59, y = 32, zone = "Teldrassil" },
 			[18] = { str = "Turn in Iverron's Antidote pt.2 at #COORDS[54,32]#", x = 54, y = 32, zone = "Teldrassil" },
 			[19] = { str = "Turn in Crown of the Earth pt.1 at #COORDS[59,39]# Accept Crown of the Earth pt.2 ", x = 59, y = 39, zone = "Teldrassil" },
-			[20] = { str = "If you’re not level 6 yet, you should be close. Level and get skills. Head towards Dolanaar" },
+			[20] = { str = "If you’re not level 6 yet, you should be close. Level up and talk to your #NPCClass Trainer# to learn new spells and abilities.. Head towards Dolanaar" },
 		}
 	},
 
@@ -53,7 +53,7 @@ Table_002_Teldrassil = {
 			[19] = { str = "Turn in Gnarlpine Corruption accept The Relics of Wakening." },
 			[20] = { str = "Turn in The Emerald Dreamcatcher accept Ferocitas the Dream Eater" },
 
-			[21] = { str = "You should be 8 by now. Get new skills." },
+			[21] = { str = "You should be 8 by now. Talk to your #NPCClass Trainer# to learn new spells and abilities.." },
 			[22] = { str = "Finish Seek Redemption! Then go North of Starbreeze." },
 			[23] = { str = "Do Ferocitas the Dream Eater mobs around #COORDS[68,53]#", x = 68, y = 53, zone = "Teldrassil" },
 			[24] = { str = "Die on purpose so you end up at Dolanaar" },
@@ -91,7 +91,7 @@ Table_002_Teldrassil = {
 			[53] = { str = "Go kill Oakenscowl at #COORDS[53,74]#. Turn it in at #COORDS[60,68]#.", x = 53, y = 74, zone = "Teldrassil" },
 			[54] = { str = "Run to Darnassus, if you’re not within 1100xp to 12 yet grind on harpies North of the Darnassus entrance." },
 			[55] = { str = "Turn in Crown of the Earth pt.6 #COORDS[34,8]# in Darnassus", x = 34, y = 8, zone = "Darnassus" },
-			[56] = { str = "Get skills and run through gate at #COORDS[30,41]#", x = 30, y = 41, zone = "Darnassus" },
+			[56] = { str = "Talk to your #NPCClass Trainer# to learn new spells and abilities and run through gate at #COORDS[30,41]#", x = 30, y = 41, zone = "Darnassus" },
 			[57] = { str = "Run straight ahead to #COORDS[56,92]#, hand in Nessa Shadowsong accept The Bounty of Teldrassil go hand it in to the hippograph guy at #COORDS[58,93]# to get a free ride and start Flight to Auberdine.", x = 56, y = 92, zone = "Teldrassil" },
  		}
 	},

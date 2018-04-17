@@ -9,7 +9,7 @@ Table_002_TirisfalGlades = {
 			[4] = { str = "Accept #ACCEPT\"The Mindless Ones\"# and if you are a Warlock accept #ACCEPT\"Piercing the Veil\"#." },
 			[5] = { str = "Exit the building and to your left down the hill complete #DOQUEST\"The Mindless Ones\"# and #DOQUEST\"Piercing the Veil\"# then run back and turn them in." },
 			[6] = { str = "Accept #ACCEPT\"Rattling the Rattlecages\"#, #ACCEPT\"Tainted Scroll\", and #ACCEPT\"The Damned\"#" },
-			[7] = { str = "Turn in #TURNIN\"Tainted Scroll\"# at your class trainer then get new spells/skills (If you have no money merchant your items across the road)." },
+			[7] = { str = "Turn in #TURNIN\"Tainted Scroll\"# and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[8] = { str = "Complete #DOQUEST\"The Damned\"# along with #DOQUEST\"Rattling the Rattlecages\"# these are found out around the village, once done turn them in and accept #ACCEPT\"Marla's Last Wish\"#." },
 			[9] = { str = "Go outside the church, accept #ACCEPT\"Night Web's Hollow\"# and #ACCEPT\"Scavenging Deathknell\"#." },
 			[10] = { str = "Complete #DOQUEST\"Scavenging Deathknell\"# which are found around and inside buildings in the village then run down to (36, 62) and kill Samuel Fipps for #DOQUEST\"Marla's Last Wish\"#.", x = 36, y = 62, zone = "Tirisfal Glades" },
@@ -18,7 +18,7 @@ Table_002_TirisfalGlades = {
 			[12] = { str = "Run back into the town and turn in all the quests which are #TURNIN\"Night Web's Hollow\"#, #TURNIN\"Scavenging Deathknell\"# and #TURNIN\"Marla's Last Wish\"#. If you are a Priest accept #HUNTER\"In Favor of Darkness\"# which requires level 5 and will be done once you reach Brill." },
 			[13] = { str = "Accept #DOQUEST\"The Scarlet Crusade\"# outside the church and go do it at #COORDS[35,68]# then run back and turn it in.", x = 35, y = 68, zone = "Tirisfal Glades" },
 			[14] = { str = "Accept #ACCEPT\"The Red Messenger\"# and go and do it at #COORDS[36,68]# killing Meven Korgal then run back and turn it in.", x = 36, y = 68, zone = "Tirisfal Glades" },
-			[15] = { str = "Accept #ACCEPT\"Vital Intelligence\"# then get new spells/skills if you are level 6, if not grind until level 6 and do this." },
+			[15] = { str = "Accept #ACCEPT\"Vital Intelligence\"# and talk to your #NPCClass Trainer# to learn new spells and abilities." },
 			[16] = { str = "Run to the north east of Death Knell and accept #ACCEPT\"A Rogue's Deal\"# then leave the starting area." },
 		}
 	},
