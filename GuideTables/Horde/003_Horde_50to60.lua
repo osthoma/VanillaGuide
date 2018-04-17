@@ -49,7 +49,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "make XRs your home." },
 			[14] = { str = "Fly to Ratchet." },
 			[15] = { str = "pick up the '#N_Stone Circle#' at Liv Rizzlefix shop. also accept #Q_'Volcanic Activity'# while your there." },
-			[16] = { str = "get on the boat to go to BB." },
+			[16] = { str = "get on the boat to go to #A_Booty Bay#." },
 			[17] = { str = "Fly to Stonard (swamp of sorrows)." },
 			[18] = { str = "go into Blasted Lands." },
 		}
@@ -99,7 +99,7 @@ Table_003_Horde_50to60 = {
 			[4] = { str = "Then go start doing: #Q_'Super Sticky'# (up north in the middle) until this item drops #N_A Mangled Journal#." },
 			[5] = { str = "Then go into Marshal's Refuge at #C_[43,10]#, accept ALL quests there: #Q_'Chasing A-Me 01'# #Q_'Shizzle's Flyer'# #Q_'Lost!'# #Q_'Beware of Pterrordax'# #Q_'Roll the Bones'# #Q_'Alien Ecology'# #Q_'Expedition Salvation'# #Q_'Larion and Muigin'#.", x = 43, y = 10, zone = "Un'Goro Crater" },
 			[6] = { str = "Turn in #Q_'Williden's Journal'#." },
-			[7] = { str = "Get FP there, then go do the Ungoro Grind :)." },
+			[7] = { str = "Get flight path there, then go do the Ungoro Grind :)." },
 			[8] = { str = "NOTE: don't worry about the ungoro dirt mounds, you'll find enough soil from mob drops. Also I don't worry about the Bloodpetal Sprouts, as they are not turned in for any XP." },
 			[9] = { str = "While questing, find 7 crystals of each color (red, blue, green, and yellow for the #Q_'Crystals of Power'# quest)." },
 			[10] = { str = "#Q_'Super Sticky'#." },
@@ -144,7 +144,7 @@ Table_003_Horde_50to60 = {
 			[45] = { str = "Hearth to XRs." },
 			[46] = { str = "Then fly to Ratchet." },
 			[47] = { str = "Turn in #Q_'Volcanic Activity'# and #Q_'Marvon's Workshop'# - I SKIP '#N_Zapper Fuel'#." },
-			[48] = { str = "Get on the boat to go to BB." },
+			[48] = { str = "Get on the boat to go to #A_Booty Bay#." },
 			[49] = { str = "Turn in #Q_'Whiskey Slim's Lost Grog'#." },
 			[50] = { str = "Also turn in #Q_'Rescue OOX-17/TN!'# (if you did it)." },
 
@@ -226,7 +226,7 @@ Table_003_Horde_50to60 = {
 			[6] = { str = "Then go complete #Q_'Forces of Jaedenar'# at #C_[38,60]#.", x = 38, y = 60, zone = "Felwood" },
 			[7] = { str = "Then go to BloodVenom Post. at #C_[34,52]#.", x = 34, y = 52, zone = "Felwood" },
 			[8] = { str = "Accept: #Q_'A Husband's Last Battle'# and #Q_'Wild Guardians'#." },
-			[9] = { str = "Get FP there." },
+			[9] = { str = "Get flight path there." },
 			[10] = { str = "Then go do in the following order:" },
 
 			[11] = { str = "#Q_'Verifying the Corruption'# (Elite) at #C_[41,41]#.", x = 41, y = 41, zone = "Felwood" },
@@ -395,7 +395,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "Then go to Light's Hope Chapel at #C_[81,60]#.", x = 81, y = 60, zone = "Eastern Plaguelands" },
 			[14] = { str = "Accept: #Q_'Zaeldarr the Outcast'# and #Q_'The Restless Souls'#." },
 			[15] = { str = "Turn in #Q_'Duke Nicholas Zverenhoff'# and #Q_'Uncle Carlin'#. accept #Q_'Defenders of Darrowshire'#." },
-			[16] = { str = "Get FP there. Then go do:" },
+			[16] = { str = "Get flight path there. Then go do:" },
 			[17] = { str = "#Q_'To Kill With Purpose'#." },
 			[18] = { str = "#Q_'Defenders of Darrowshire'#." },
 			[19] = { str = "#Q_'Hameya's Plea'# at #C_[72,14]# (??? TBC Quest?).", x = 72, y = 14, zone = "Eastern Plaguelands" },
@@ -438,7 +438,7 @@ Table_003_Horde_50to60 = {
 
 			[11] = { str = "Do #Q_'The Wildlife Suffers Too'# part2, then turn it in. accept #Q_'Glyphed Oaken Branch'#." },
 			[12] = { str = "Go turn in #Q_'Auntie Marlene'# (in the house at #C_[49,78]#).accept #Q_'A Strange Historian'#.", x = 49, y = 78, zone = "Western Plaguelands" },
-			[13] = { str = "Go get the ring for #Q_'A Strange Historian'# (the ring is out in the graveyard)." },
+			[13] = { str = "Go get the ring for #Q_'A Strange Historian'# (the ring is out in the Graveyard)." },
 			[14] = { str = "Go into Andorhal." },
 			[15] = { str = "Do #Q_'All Along the Watchtowers'# while working your way to the inn at #C_[39,66]#.", x = 39, y = 66, zone = "Western Plaguelands" },
 			[16] = { str = "Turn in #Q_'A Strange Historian'# (at #N_Chromie# up stairs in the inn at #C_[39,68]#). accept #Q_'The Annals of Darrowshire'# and #Q_'A Matter of Time'#.", x = 39, y = 68, zone = "Western Plaguelands" },

@@ -15,7 +15,7 @@ Table_003_Horde_20to30 = {
 			[10] = { str = "Run to Sun Rock Retreat at 46.59.", x = 46, y = 59, zone = "Stonetalon Mountains" },
 
 			[11] = { str = "Turn in #Q_'Arachnophobia'# and #Q_'Kaya's Alive'# if you did the escort quest." },
-			[12] = { str = "Get FP there." },
+			[12] = { str = "Get flight path there." },
 			[13] = { str = "Run up the little #VIDEOpathway# and accept #Q_'Boulderslide Ravine'# and #Q_'Trouble in the Deeps'# at #C_[47,64]#.", x = 47, y = 64, zone = "Stonetalon Mountains" },
 			[14] = { str = "Then go do #Q_'Boulderslide Ravine'# at #C_[61,92]#.", x = 61, y = 92, zone = "Stonetalon Mountains" },
 			[15] = { str = "Then turn in #Q_'Blood Feeders'# #C_[71,95]#.", x = 71, y = 95, zone = "Stonetalon Mountains" },
@@ -32,9 +32,9 @@ Table_003_Horde_20to30 = {
 			[1] = { str = "21-21 Ashenvale" },
 			[2] = { str = "Run to Splintertree Post at #C_[73,65]#.", x = 73, y = 65, zone = "Ashenvale" },
 			[3] = { str = "Turn in #Q_'The Ashenvale Hunt'#. Then accept and turn in #Q_'The Ashenvale Hunt'# again." },
-			[4] = { str = "Get FP in Splintertree Post." },
+			[4] = { str = "Get flight path in Splintertree Post." },
 			[5] = { str = "Run all the way to Zoram Strand at #C_[13,31]#, grind mobs along the way.", x = 13, y = 31, zone = "Ashenvale" },
-			[6] = { str = "Get FP there. #C_[12,33]#. Turn in #Q_'Trouble in the Deeps'#. i SKIP '#N_The Essence of Aku'Mai'#.", x = 12, y = 33, zone = "Ashenvale" },
+			[6] = { str = "Get flight path there. #C_[12,33]#. Turn in #Q_'Trouble in the Deeps'#. i SKIP '#N_The Essence of Aku'Mai'#.", x = 12, y = 33, zone = "Ashenvale" },
 			[7] = { str = "Do the following quests:" },
 			[8] = { str = "Accept and do #Q_'Naga at the Zoram Strand'# then turn it in." },
 			[9] = { str = "Hearth back to XRs, if hearth stone is still on a cooldown, fly there." },
@@ -124,7 +124,7 @@ Table_003_Horde_20to30 = {
 			[1] = { str = "25-26 Thousand Needles" },
 			[2] = { str = "Turn in #Q_'Message to Freewind Post'# accept #Q_'Pacify the Centaur'#." },
 			[3] = { str = "Accept #Q_'Wanted - Arnak Grimtotem'# #Q_'Alien Egg'# and #Q_'Wind Rider'#." },
-			[4] = { str = "Get FP there." },
+			[4] = { str = "Get flight path there." },
 			[5] = { str = "Go do (in the following order):" },
 			[6] = { str = "#Q_'Pacify the Centaur'# (mobs are just north)." },
 			[7] = { str = "#Q_'Test of Faith'# (the cave at #C_[52,43]#).", x = 52, y = 43, zone = "Thousand Needles" },
@@ -189,7 +189,7 @@ Table_003_Horde_20to30 = {
 			[5] = { str = "Turn #Q_'Bloodfury Bloodline'# in." },
 			[6] = { str = "Fly to Thunder Bluff." },
 			[7] = { str = "Make Thunder Bluff your home." },
-			[8] = { str = "Turn in #Q_'The sacred Flame'# (#C_[54,51]# in TB). accept #Q_'The sacred Flame'# part2.", x = 54, y = 51, zone = "Thunder Bluff" },
+			[8] = { str = "Turn in #Q_'The sacred Flame'# (#C_[54,51]# in #A_Thunder Bluff#). accept #Q_'The sacred Flame'# part2.", x = 54, y = 51, zone = "Thunder Bluff" },
 			[9] = { str = "Fly to Thousand Needles." },
 		}
 	},
@@ -232,8 +232,8 @@ Table_003_Horde_20to30 = {
 			[30] = { str = "Make Orgrimmar your home." },
 
 			[31] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[32] = { str = "Go to Undercity (UC). You need to get on the zeppelin just right outside of Orgrimmar." },
-			[33] = { str = "Run to Tarren Mill in Hillsbrad Foothills. (You can just bypass the UC for now if you like and just follow the path south out of Tirisfal Glades and into Silverpine Forest)." },
+			[32] = { str = "Go to #A_Undercity#. You need to get on the zeppelin just right outside of Orgrimmar." },
+			[33] = { str = "Run to Tarren Mill in Hillsbrad Foothills. (You can just bypass the #A_Undercity# for now if you like and just follow the path south out of Tirisfal Glades and into Silverpine Forest)." },
 		}
 	},
 

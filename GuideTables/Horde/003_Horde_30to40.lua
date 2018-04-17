@@ -27,7 +27,7 @@ Table_003_Horde_30to40 = {
 			[5] = { str = "Accept #Q_'Hammerfall'#." },
 			[6] = { str = "Turn in #Q_'Hammerfall'#. accept #Q_'Raising Spirits'#." },
 			[7] = { str = "Turn in #Q_'The Hammer May Fall'#." },
-			[8] = { str = "Get FP there." },
+			[8] = { str = "Get flight path there." },
 			[9] = { str = "Then do #Q_'Raising Spirits'# (just to the left of Hammerfall all around #C_[64,37]#). Then turn it in. accept #Q_'Raising Spirits'# part2.", x = 64, y = 37, zone = "Arathi Highlands" },
 			[10] = { str = "Turn in #Q_'Raising Spirits'# part2. accept #Q_'Raising Spirits'# part3." },
 
@@ -38,7 +38,7 @@ Table_003_Horde_30to40 = {
 			[15] = { str = "then run west from the XRs to the guy in the hut. accept #Q_'The Kolkar of Desolace'#." },
 			[16] = { str = "run back to XRs, make XRs your home." },
 			[17] = { str = "fly to Ratchet." },
-			[18] = { str = "get on the boat at Ratchet to go to BB." },
+			[18] = { str = "get on the boat at Ratchet to go to #A_Booty Bay#." },
 		}
 	},
 
@@ -47,7 +47,7 @@ Table_003_Horde_30to40 = {
 		title = "30-31 Stranglethorn Vale",
 		items = {
 			[1] = { str = "30-31 Stranglethorn Vale" },
-			[2] = { str = "Get the FP at BB and run up to Grom'Gol (get the FP there too)." },
+			[2] = { str = "Get the flight path at #A_Booty Bay# and run up to Grom'Gol (get the flight path there too)." },
 			[3] = { str = "Go up north #C_[35,10]# and start doing the STV hunt quests:", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[4] = { str = "#Q_'Welcome to the Jungle'# (just accept this and turn in in right there)." },
 			[5] = { str = "#Q_'Tiger Mastery'# (#N_Young Stranglethorn Tigers#) #C_[33,10]#.", x = 33, y = 10, zone = "Stranglethorn Vale" },
@@ -87,7 +87,7 @@ Table_003_Horde_30to40 = {
 			[14] = { str = "#Q_'Martek the Exiled'#." },
 			[15] = { str = "SKIP #Q_'Encrusted Tail Fins'# (Elite)." },
 			[16] = { str = "You may or may not be level 32 right now, if not that's okay." },
-			[17] = { str = "Go south into Tanaris to get FP in Gadgetzan at #C_[51,25]#.", x = 51, y = 25, zone = "Tanaris" },
+			[17] = { str = "Go south into Tanaris to get flight path in Gadgetzan at #C_[51,25]#.", x = 51, y = 25, zone = "Tanaris" },
 			[18] = { str = "Hearth to XRs." },
 			[19] = { str = "Fly to Orgrimmar." },
 			[20] = { str = "Turn in #Q_'The Swarm Grows'# at #C_[75,34]#. accept #Q_'The Swarm Grows'# part2.", x = 75, y = 34, zone = "Orgrimmar" },
@@ -171,7 +171,7 @@ Table_003_Horde_30to40 = {
 			[60] = { str = "Stop at the troll vendor, buy the 3 first aid books." },
 
 			[61] = { str = "Fly to Ratchet to turn in #Q_'Goblin Sponsorship'# & #Q_'Wharfmaster Dizzywig'#. accept #Q_'Goblin Sponsorship'# Part2 and #Q_'Parts for Kravel'#." },
-			[62] = { str = "Get on the boat to go to BB (Booty Bay). (while waiting for the boat, build up first aid)." },
+			[62] = { str = "Get on the boat to go to #A_Booty Bay#. (while waiting for the boat, build up first aid)." },
 		}
 	},
 
@@ -180,7 +180,7 @@ Table_003_Horde_30to40 = {
 		title = "34-35 Stranglethorn Vale",
 		items = {
 			[1] = { str = "34-35 Stranglethorn Vale" },
-			[2] = { str = "Turn in #Q_'Goblin Sponsorship'# Part2. accept #Q_'Goblin Sponsorship'# Part3. Make BB your home! Accept #Q_'Singing Blue Shards'# #Q_'Bloodscalp Ears'# #Q_'Hostile Takeover'# and #Q_'Investigate the Camp'#. Turn in #Q_'Goblin Sponsorship'# Part3 at Baron Revilgaz. accept #Q_'Goblin Sponsorship'# Part4." },
+			[2] = { str = "Turn in #Q_'Goblin Sponsorship'# Part2. accept #Q_'Goblin Sponsorship'# Part3. Make #A_Booty Bay# your home! Accept #Q_'Singing Blue Shards'# #Q_'Bloodscalp Ears'# #Q_'Hostile Takeover'# and #Q_'Investigate the Camp'#. Turn in #Q_'Goblin Sponsorship'# Part3 at Baron Revilgaz. accept #Q_'Goblin Sponsorship'# Part4." },
 			[3] = { str = "Then do the following:" },
 			[4] = { str = "Fly to Grom'gol." },
 			[5] = { str = "Grab ALL quests in grom'gol: #Q_'The Defense of Grom'gol'# #Q_'Mok'thardin's Enchantment'# #Q_'Bloodscalp Insight'# #Q_'Hunt for Yenniku'# #Q_'Trollbane'# #Q_'Bloody Bone Necklaces'# #Q_'The Vile Reef'#." },
@@ -207,13 +207,13 @@ Table_003_Horde_30to40 = {
 			[24] = { str = "#Q_'Panther Mastery'# along with #Q_'Mok'thardin's Enchantment'# (kill #N_shadowmaw panthers#) #C_[48,21]#.", x = 48, y = 21, zone = "Stranglethorn Vale" },
 			[25] = { str = "#Q_'The Defense of Grom'gol'# part2 #C_[36,30]#, once that's done.", x = 36, y = 30, zone = "Stranglethorn Vale" },
 			[26] = { str = "Head up north and turn in #Q_'Panther Mastery'#.accept #Q_'Panther Mastery'# (#N_Bhag'thera#) but don't do it now." },
-			[27] = { str = "Hearth to BB, turn in #Q_'Singing Blue Shards'# #Q_'Hostile Takeover'# #Q_'Bloodscalp Ears'# #Q_'Investigate the Camp'#." },
+			[27] = { str = "Hearth to #A_Booty Bay#, turn in #Q_'Singing Blue Shards'# #Q_'Hostile Takeover'# #Q_'Bloodscalp Ears'# #Q_'Investigate the Camp'#." },
 			[28] = { str = "Turn in #Q_'Goblin Sponsorship'# part4. accept #Q_'Goblin Sponsorship'# part5." },
 			[29] = { str = "Fly to Grom'gol, turn in all quests: #Q_'The Defense of Grom'gol'# #Q_'Mok'thardin's Enchantment'# #Q_'Headhunting'# #Q_'Bloody Bone Necklaces'# and #Q_'The Vile Reef'#." },
 			[30] = { str = "Should be level 36 now, if not, grind to it. Accept #Q_'Trollbane'#. Talk to your #N_Class Trainer# to learn new spells and abilities." },
 
 			[31] = { str = "Get on the zeppelin to go to the Undercity." },
-			[32] = { str = "Once in the UC, turn in 60 Silk Cloth for #Q_'A Donation of Silk'# quest at #C_[71,28]#.", x = 71, y = 28, zone = "Undercity" },
+			[32] = { str = "Once in the #A_Undercity#, turn in 60 Silk Cloth for #Q_'A Donation of Silk'# quest at #C_[71,28]#.", x = 71, y = 28, zone = "Undercity" },
 			[33] = { str = "Accept #Q_'To Steal From Thieves'# #C_[63,49]#.", x = 63, y = 49, zone = "Undercity" },
 			[34] = { str = "Then fly to Hammerfall." },
 		}
@@ -265,8 +265,8 @@ Table_003_Horde_30to40 = {
 			[5] = { str = "then go do them in Alterac Mountains (at Dalaran)." },
 			[6] = { str = "once they are both completed, die on purpose, so u end up at TM." },
 			[7] = { str = "Turn them in." },
-			[8] = { str = "Then fly to the UC." },
-			[9] = { str = "Once at UC, turn in #Q_'To Steal From Thieves'# and buy 3x'#N_Soothing Spices'." },
+			[8] = { str = "Then fly to the #A_Undercity#." },
+			[9] = { str = "Once at #A_Undercity#, turn in #Q_'To Steal From Thieves'# and buy 3x'#N_Soothing Spices'." },
 			[10] = { str = "Get on zeppelin to go to orgrimmar." },
 
 			[11] = { str = "Once in Orgrimmar, turn in #Q_'Alliance Relations'# at #N_Keldran#. at #C_[21,53]#.", x = 21, y = 53, zone = "Orgrimmar" },
@@ -325,7 +325,7 @@ Table_003_Horde_30to40 = {
 			[21] = { str = "turn in #Q_'The Severed Head'#. accept #Q_'The Troll Witchdoctor'#." },
 			[22] = { str = "Hearth to XRs." },
 			[23] = { str = "fly to Ratchet, turn in #Q_'Stinky's Escape'# while your there." },
-			[24] = { str = "get on the boat to go to BB." },
+			[24] = { str = "get on the boat to go to #A_Booty Bay#." },
 
 		}
 	},
@@ -336,7 +336,7 @@ Table_003_Horde_30to40 = {
 		items = {
 			[1] = { str = "38-40 Stranglethorn Vale" },
 			[2] = { str = "Accept #Q_'The Bloodsail Buccaneers'#, #Q_'Venture Company Mining'# and #Q_'Scaring Shaky'#." },
-			[3] = { str = "Make BB your home, then go up the steps and turn in #Q_'The Rumormonger'#." },
+			[3] = { str = "Make #A_Booty Bay# your home, then go up the steps and turn in #Q_'The Rumormonger'#." },
 			[4] = { str = "Fly to Grom'gol." },
 			[5] = { str = "Accept #Q_'Mok'thardin's Enchantment'#." },
 			[6] = { str = "Turn in #Q_'The Troll Witchdoctor'#. right click the cauldron. accept #Q_'Marg Speaks'#." },
@@ -349,12 +349,12 @@ Table_003_Horde_30to40 = {
 			[12] = { str = "Then do #Q_'Panther Mastery'# (#N_Bhag'thera#) (he has 3 different spawn points, either at #C_[48,20]#, #C_[49,23]#, or #C_[47,26]#).", x = 48, y = 20, zone = "Stranglethorn Vale" },
 			[13] = { str = "Then turn in #Q_'Panther Mastery'# (#N_Bhag'thera#) and #Q_'Raptor Mastery'# (#N_Jungle Stalkers#) at Nesingwary's Expedition #C_[35,10]#.", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[14] = { str = "Accept #Q_'Raptor Mastery'# (#N_Tethis#) but don't do it now." },
-			[15] = { str = "Hearth to BB." },
+			[15] = { str = "Hearth to #A_Booty Bay#." },
 			[16] = { str = "turn in #Q_'Venture Company Mining'#." },
 			[17] = { str = "Then go do:" },
-			[18] = { str = "#Q_'The Bloodsail Buccaneers'# (just slightly north-west of BB at #C_[27,69]#, there's a little note on a barrel, click on it, accept new quest).", x = 27, y = 69, zone = "Stranglethorn Vale" },
+			[18] = { str = "#Q_'The Bloodsail Buccaneers'# (just slightly north-west of #A_Booty Bay# at #C_[27,69]#, there's a little note on a barrel, click on it, accept new quest).", x = 27, y = 69, zone = "Stranglethorn Vale" },
 			[19] = { str = "#Q_'Scaring Shaky'# along with #Q_'Mok'thardin's Enchantment'# part3 #C_[32,66]#.", x = 32, y = 66, zone = "Stranglethorn Vale" },
-			[20] = { str = "Once that's done run back into BB." },
+			[20] = { str = "Once that's done run back into #A_Booty Bay#." },
 
 			[21] = { str = "Turn in #Q_'Scaring Shaky'#. accept #Q_'Return to MacKinley'#." },
 			[22] = { str = "Turn in #Q_'The Bloodsail Buccaneers'#. accept #Q_'The Bloodsail Buccaneers'#." },
@@ -365,7 +365,7 @@ Table_003_Horde_30to40 = {
 			[27] = { str = "You should be level 40 for sure now. If not grind the rest of the way to 40 on raptors/cold eye basilisks." },
 			[28] = { str = "OPTIONAL: Scarlet Monastery instance instead of the grinding." },
 			[29] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[30] = { str = "Then get on the zeppelin to go to the UC." },
+			[30] = { str = "Then get on the zeppelin to go to the #A_Undercity#." },
 
 			[31] = { str = "Fly to Hammerfall and stop at the inn to get the #N_Frost Oil#, the #N_Gyrochronatom#, the #N_Healing Potion#, the #N_Lesser Invisibility Potion# and the #N_Patterned Bronze Bracers# items for some free XP in Badlands." },
 			[32] = { str = "Run all the way to the Badlands." },

@@ -92,7 +92,7 @@ Table_003_Alliance_12to20 = {
 			[35] = { str = "Turn in Fruit of the Sea under the dock." },
 			[36] = { str = "Turn in The Blackwood Corrupted in the merchant house." },
 			[37] = { str = "Turn in Tharnariun's Hope at the last house." },
-			[38] = { str = "Get on boat to Menethil Harbor. Follow attached run to IF." },
+			[38] = { str = "Get on boat to Menethil Harbor. Follow attached run to #A_Ironforge#." },
 		}
 	},
 
@@ -125,12 +125,12 @@ Table_003_Alliance_12to20 = {
 			[21] = { str = "Run back to the house at #C_[83,62]# turn in Crocolisk Hunting and Vyrin's Revenge pt.1 accept Wyrin’s Revenge pt.2.", x = 83, y = 62, zone = "Loch Modan" },
 			[22] = { str = "Turn in Wyrin’s Revenge pt.2 behind you." },
 			[23] = { str = "Go to #C_[63,47]# Turn in Bingles' Missing Supplies.", x = 63, y = 47, zone = "Loch Modan" },
-			[24] = { str = "If you don't have IF flight path, run down to #C_[22,70]# and follow the path North into Dun Morogh.", x = 22, y = 70, zone = "Loch Modan" },
+			[24] = { str = "If you don't have #A_Ironforge# flight path, run down to #C_[22,70]# and follow the path North into Dun Morogh.", x = 22, y = 70, zone = "Loch Modan" },
 			[25] = { str = "Run along the road to IronForge at #C_[53,35]#.", x = 53, y = 35, zone = "Dun Morogh" },
-			[26] = { str = "Get IF weapon training at #C_[61,89]# Get Flight Path at #C_[55,38]# inside then turn in Report to Ironforge at #C_[74,12]# skip Powder to Ironband.", x = 74, y = 12, zone = "Ironforge" },
+			[26] = { str = "Get #A_Ironforge# weapon training at #C_[61,89]# Get Flight Path at #C_[55,38]# inside then turn in Report to Ironforge at #C_[74,12]# skip Powder to Ironband.", x = 74, y = 12, zone = "Ironforge" },
 			[27] = { str = "If you don't have #A_Stormwind# flight path, get on the tram at #C_[76,51]#.", x = 76, y = 51, zone = "Ironforge" },
 			[28] = { str = "Turn in Stormpike's Order at #C_[58,16]# in #A_Stormwind#.", x = 58, y = 16, zone = "Stormwind City" },
-			[29] = { str = "Get #A_Stormwind# weapons training at #C_[57,57]# and FP at #C_[66,62]#.", x = 66, y = 62, zone = "Stormwind City" },
+			[29] = { str = "Get #A_Stormwind# weapons training at #C_[57,57]# and flight path at #C_[66,62]#.", x = 66, y = 62, zone = "Stormwind City" },
 			[30] = { str = "Run towards #C_[91,73]# in Elwynn Forest and enter Redridge Mountains.", x = 91, y = 73, zone = "Elwynn Forest" },
 		}
 	},
@@ -161,7 +161,7 @@ Table_003_Alliance_12to20 = {
 			[19] = { str = "Kill gnolls for Assessing the Threat at #C_[31,82]#.", x = 31, y = 82, zone = "Redridge Mountains" },
 			[20] = { str = "Kill condors for Redridge Goulash around #C_[57,73]#.", x = 57, y = 73, zone = "Redridge Mountains" },
 
-			[21] = { str = "Turn in Assessing the Threat near the FP." },
+			[21] = { str = "Turn in Assessing the Threat near the flight path." },
 			[22] = { str = "Accept Murloc Poachers (requires lvl 20) in front of the shed." },
 			[23] = { str = "Stop at the house just west of Lakeshire, turn in Visit the Herbalist accept Delivering Daffodils." },
 			[24] = { str = "Go to the next house, turn in Redridge Goulash." },

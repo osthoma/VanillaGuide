@@ -28,7 +28,7 @@ Table_003_Alliance_20to30 = {
 			[6] = { str = "Go back to Maestra’s Post at #C_[26,38]# and turn in The Tower of Althalaxx pt.4 Accept The Tower of Althalaxx pt.5.", x = 26, y = 36, zone = "Ashenvale" },
 			[7] = { str = "Turn in Bathran's Hair accept Orendil's Cure." },
 			[8] = { str = "Go to #C_[22,51]# turn in Therylune's Escape.", x = 22, y = 51, zone = "Ashenvale" },
-			[9] = { str = "Run into Astranaar at #C_[33,48]# and get FP.", x = 33, y = 48, zone = "Ashenvale" },
+			[9] = { str = "Run into Astranaar at #C_[33,48]# and get flight path.", x = 33, y = 48, zone = "Ashenvale" },
 			[10] = { str = "Accept The Zoram Strand right as you enter town." },
 
 			[11] = { str = "Accept On Guard in Stonetalon pt.1 on the house to the right." },
@@ -72,7 +72,7 @@ Table_003_Alliance_20to30 = {
 			[7] = { str = "Then go to #C_[59,66]# and turn in A Gnome’s Respite accept An Old Colleague and A Scroll From Mauren We’ll do these later.", x = 59, y = 66, zone = "Stonetalon Mountains" },
 			[8] = { str = "Stop at Mirkfallon Lake at #C_[48,40]# and kill Pridewings for Pridewings of Stonetalon South and East of it.", x = 48, y = 40, zone = "Stonetalon Mountains" },
 			[9] = { str = "Run to #C_[37,8]# turn in Journey to Stonetalon Peak SKIP Reclaiming The Charred Vale for now.", x = 37, y = 8, zone = "Stonetalon Mountains" },
-			[10] = { str = "Grab FP at #C_[36,7]# and Fly to Auberdine.", x = 36, y = 7, zone = "Stonetalon Mountains" },
+			[10] = { str = "Grab flight path at #C_[36,7]# and Fly to Auberdine.", x = 36, y = 7, zone = "Stonetalon Mountains" },
  		}
 	},
 
@@ -172,7 +172,7 @@ Table_003_Alliance_20to30 = {
 			[35] = { str = "On the west side of town hand in Daily Delivery and Young Crocolisk Skins accept Apprentice's Duties." },
 			[36] = { str = "Go on the dock and turn in Claws From the Deep accept Reclaiming Goods." },
 			[37] = { str = "On the bridge hand in In Search of the Excavation Team pt.2." },
-			[38] = { str = "You should definitely be 26 by this point and near ½ way to 27. You can either wait till you fly through IF to get talents or do it now." },
+			[38] = { str = "You should definitely be 26 by this point and near ½ way to 27. You can either wait till you fly through #A_Ironforge# to get talents or do it now." },
 			[39] = { str = "Touch the damaged crate at #C_[13,41]# turn in Reclaiming Goods accept The Search Continues.", x = 13, y = 41, zone = "Wetlands" },
 			[40] = { str = "Go just north to the next camp Touch the sealed barrel at #C_[13,38]# turn in The Search Continues accept Search More Hovels.", x = 13, y = 38, zone = "Wetlands" },
 
@@ -187,7 +187,7 @@ Table_003_Alliance_20to30 = {
 			[49] = { str = "Next down to the docks, hand in Return the Statuette." },
 			[50] = { str = "You should be 27 now." },
 
-			[51] = { str = "Fly to IF and talk to your #N_Class Trainer# to learn new spells and abilities. Hand in An Old Colleague at #C_[71,51]# SKIP the next part.", x = 71, y = 51, zone = "Ironforge" },
+			[51] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Hand in An Old Colleague at #C_[71,51]# SKIP the next part.", x = 71, y = 51, zone = "Ironforge" },
 			[52] = { str = "Fly to #A_Stormwind#, hand in A Scroll From Mauren at #C_[43,80]# SKIP the next part.", x = 43, y = 80, zone = "Stormwind City" },
 			[53] = { str = "Fly to Lakeshire." },
  		}
@@ -198,7 +198,7 @@ Table_003_Alliance_20to30 = {
  		title = "27-28 Lakeshire",
  		items = {
 			[1] = { str = "27-28 Lakeshire" },
-			[2] = { str = "Accept Blackrock Bounty right in front of FP near bridge." },
+			[2] = { str = "Accept Blackrock Bounty right in front of flight path near bridge." },
 			[3] = { str = "Accept Blackrock Menace just over bridge on right." },
 			[4] = { str = "Go in the town hall, accept Solomon's Law." },
 			[5] = { str = "Accept Wanted: Lieutenant Fangore Outside the Inn on the wall." },
@@ -209,7 +209,7 @@ Table_003_Alliance_20to30 = {
 			[10] = { str = "You should have your axes and champions killed by the time you get to the escort. If not you can kill them on your way out." },
 
 			[11] = { str = "Get the escort quest Missing In Action at #C_[28,12]# in the cave and escort him out. He’s a 25 elite so he won’t die easy. Once you’re out of the camp he starts running back to Lakeshire, turn the quest in right where you stop as well as Blackrock Menace SKIP Tharil'Zun.", x = 28, y = 12, zone = "Redridge Mountains" },
-			[12] = { str = "Run over the Bridge near the FP turn in, Blackrock Bounty." },
+			[12] = { str = "Run over the Bridge near the flight path turn in, Blackrock Bounty." },
 			[13] = { str = "Kill the Gnolls all around #C_[74,42]# for Solomon's Law and Keep an eye out for Wanted: Lieutenant Fangore he is at #C_[80,40]# Make sure you clear the mobs around him or they come running in.", x = 74, y = 42, zone = "Redridge Mountains" },
 			[14] = { str = "Once you got those both done, grind on these shadowhide until youre about 4k or 2 bars from 28." },
 			[15] = { str = "Hearth to Lakeshire." },
@@ -225,8 +225,8 @@ Table_003_Alliance_20to30 = {
  		items = {
 			[1] = { str = "28-29 Duskwood" },
 			[2] = { str = "Note on Duskwood, it has a few long, pointless chains that you only do a few parts of, then SKIP the rest." },
-			[3] = { str = "Follow the road until you get to Darkshire and get FP at #C_[72,44]#.", x = 72, y = 44, zone = "Duskwood" },
-			[4] = { str = "Go to the house just south of FP at #C_[79,47]# accept Look to the Stars pt.1 Buy a bronze tube from the gnome engineer just south of here at #C_[78,48]# and hand it back in, accept Look to the Stars pt.2.", x = 79, y = 47, zone = "Duskwood" },
+			[3] = { str = "Follow the road until you get to Darkshire and get flight path at #C_[72,44]#.", x = 72, y = 44, zone = "Duskwood" },
+			[4] = { str = "Go to the house just south of flight path at #C_[79,47]# accept Look to the Stars pt.1 Buy a bronze tube from the gnome engineer just south of here at #C_[78,48]# and hand it back in, accept Look to the Stars pt.2.", x = 79, y = 47, zone = "Duskwood" },
 			[5] = { str = "Go towards town and the first big house on the left outside accept Worgen in the Woods pt.1." },
 			[6] = { str = "Go in the house and accept Raven Hill The Hermit and Deliveries to Sven." },
 			[7] = { str = "Exit the house and go straight to the house across the street and accept The Legend of Stalvan pt.1 and The Totem of Infliction." },
@@ -246,13 +246,13 @@ Table_003_Alliance_20to30 = {
 			[20] = { str = "Just outside the Inn, hand in The Night Watch pt.1 accept The Night Watch pt.2." },
 
 			[21] = { str = "Go east from here and hand in Worgen in the Woods pt.3 accept Worgen in the Woods pt.4 go in the house and turn that in." },
-			[22] = { str = "Go just south of the FP to #C_[79,47]# turn in Look to the Stars pt.3 accept Look to the Stars pt.4.", x = 79, y = 47, zone = "Duskwood" },
+			[22] = { str = "Go just south of the flight path to #C_[79,47]# turn in Look to the Stars pt.3 accept Look to the Stars pt.4.", x = 79, y = 47, zone = "Duskwood" },
 			[23] = { str = "You should be over half way to 29, more near ¾ the way." },
 			[24] = { str = "Stop at the ogre mound cave at #C_[33,75]# and kill Zzarc' Vul for Look to the Stars pt.4 Stay left inside the cave.", x = 33, y = 75, zone = "Duskwood" },
 			[25] = { str = "Stop at the front of Raven Hill at #C_[18,56]# and turn in Raven Hill SKIP the rest since they’re grey.", x = 18, y = 56, zone = "Duskwood" },
 			[26] = { str = "Run north into the cemetery and kill skeletons for The Night Watch pt.2 and spiders in here for The Totem of Infliction." },
 			[27] = { str = "Kill ghouls in the northern part of the cemetery at #C_[22,38]# to get ghoul fangs for The Totem of Infliction.", x = 22, y = 38, zone = "Duskwood" },
-			[28] = { str = "Kill black widow’s east of the graveyard for the last part of The Totem of Infliction." },
+			[28] = { str = "Kill black widow’s east of the #A_Graveyard# for the last part of The Totem of Infliction." },
 			[29] = { str = "Go to the shack NE of Raven Hill at #C_[28,31]# and turn in The Hermit accept Supplies From Darkshire.", x = 28, y = 31, zone = "Duskwood" },
 			[30] = { str = "Go to #C_[17,29]# at the grave and get The Weathered Grave.", x = 17, y = 29, zone = "Duskwood" },
 
@@ -322,7 +322,7 @@ Table_003_Alliance_20to30 = {
 			[11] = { str = "Go half way across the bridge to #C_[51,8]# and go in the door that leads down, look for the dead dwarf body, hand in The Thandol Span pt.1 accept The Thandol Span pt.2 turn that back in at the camp at #C_[49,18]# accept The Thandol Span pt.3.", x = 51, y = 8, zone = "Wetlands" },
 			[12] = { str = "Go back over the bridge, just to the right is a tinier bridge. Cross it and destroy the explosives cart for The Thandol Span pt.3 at #C_[48,88]# accept Plea to the Alliance.", x = 48, y = 88, zone = "Wetlands" },
 			[13] = { str = "Run into Arathi Highlands to Refuge Point at #C_[45,47]# and hand in Plea to the Alliance.", x = 45, y = 47, zone = "Arathi Highlands" },
-			[14] = { str = "Grab the FP." },
+			[14] = { str = "Grab the flight path." },
 			[15] = { str = "You should be half way to 31 or more by now." },
 			[16] = { str = "Run towards Hillsbrad Foothills." },
 			[17] = { str = "Stop at #C_[27,49]# and run south into Stormgarde Keep, at the first intersection go right and hug the wall around over the bridge, buy all 3 first aid books at #C_[26,58]#.", x = 27, y = 49, zone = "Arathi Highlands" },
