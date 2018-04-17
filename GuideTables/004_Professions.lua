@@ -8,12 +8,12 @@ Table_004_Professions = {
 		title = "1-300 Alchemy",
 		items = {
 			[1] = { str = "#NPC1-300 Alchemy#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO60#x #TURNINPeacebloom# #VIDEO60#x #TURNINSilverleaf# #VIDEO75#x #TURNINEmpty Vial#" ..
-				"#VIDEO80#x #TURNINBriarthorn# #VIDEO30#x #TURNINBruiseweed# #VIDEO65#x #TURNINLeaded Vial#" ..
-				"#VIDEO15#x #TURNINMageroyal# #VIDEO40#x #TURNINStranglekelp# #VIDEO30#x #TURNINLiferoot# #VIDEO30#x #TURNINKingsblood#" ..
-				"#VIDEO45#x #TURNINGoldthorn# #VIDEO5#x #TURNINSteelbloom# #VIDEO70#x #TURNINSungrass#" ..
-				"#VIDEO15#x #TURNINKhadgars Whisker# #VIDEO90#x #TURNINCrystal Vial# #VIDEO20#x #TURNINArthas Tears#" ..
-				"#VIDEO40#x #TURNINBlindweed# #VIDEO40#x #TURNINGolden Sansam# #VIDEO40#x #TURNINMountain Silversage#" },
+			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO60#x #ITEMPeacebloom# #VIDEO60#x #ITEMSilverleaf# #VIDEO75#x #ITEMEmpty Vial#" ..
+				"#VIDEO80#x #ITEMBriarthorn# #VIDEO30#x #ITEMBruiseweed# #VIDEO65#x #ITEMLeaded Vial#" ..
+				"#VIDEO15#x #ITEMMageroyal# #VIDEO40#x #ITEMStranglekelp# #VIDEO30#x #ITEMLiferoot# #VIDEO30#x #ITEMKingsblood#" ..
+				"#VIDEO45#x #ITEMGoldthorn# #VIDEO5#x #ITEMSteelbloom# #VIDEO70#x #ITEMSungrass#" ..
+				"#VIDEO15#x #ITEMKhadgars Whisker# #VIDEO90#x #ITEMCrystal Vial# #VIDEO20#x #ITEMArthas Tears#" ..
+				"#VIDEO40#x #ITEMBlindweed# #VIDEO40#x #ITEMGolden Sansam# #VIDEO40#x #ITEMMountain Silversage#" },
 			[3] = { str = "#VIDEO[1-60]# 60x Minor Healing Potions (1x Peacebloom, 1x Silverleaf, 1x Empty Vial)" },
 			[4] = { str = "#VIDEO[60-110]# 50x Lesser Healing Potions (1x Minor Healing Potion, 1x Briarthorn)" },
 			[5] = { str = "#VIDEO[110-140]# 30x Healing Potion (1x Bruiseweed, 1x Briarthorn, 1x Leaded Vial)" },
@@ -34,12 +34,12 @@ Table_004_Professions = {
 		title = "1-300 Blacksmithing",
 		items = {
 			[1] = { str = "#NPC1-300 Blacksmithing#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO90#x #TURNINRough Stone# #VIDEO380#x #TURNINCopper Bar# #VIDEO20#x #TURNINCoarse Stone# " ..
-				"#VIDEO5#x #TURNINSilver Bar# #VIDEO120#x #TURNINBronze Bar# #VIDEO150#x #TURNINHeavy Stone# " ..
-				"#VIDEO5#x #TURNINGold Bar# #VIDEO200#x #TURNINIron Bar# #VIDEO30#x #TURNINGreen Dye# " ..
-				"#VIDEO380#x #TURNINSteel Bar# #VIDEO80#x #TURNINSolid Stone# #VIDEO230#x #TURNINMithril Bar# " ..
-				"#VIDEO20#x #TURNINDense Stone# #VIDEO430#x #TURNINThorium Bar# #VIDEO10#x #TURNINCore of Earth# " ..
-				"#VIDEO90#x #TURNINMageweave Cloth# #VIDEO60#x #TURNINRugged Leather#" },
+			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO90#x #ITEMRough Stone# #VIDEO380#x #ITEMCopper Bar# #VIDEO20#x #ITEMCoarse Stone# " ..
+				"#VIDEO5#x #ITEMSilver Bar# #VIDEO120#x #ITEMBronze Bar# #VIDEO150#x #ITEMHeavy Stone# " ..
+				"#VIDEO5#x #ITEMGold Bar# #VIDEO200#x #ITEMIron Bar# #VIDEO30#x #ITEMGreen Dye# " ..
+				"#VIDEO380#x #ITEMSteel Bar# #VIDEO80#x #ITEMSolid Stone# #VIDEO230#x #ITEMMithril Bar# " ..
+				"#VIDEO20#x #ITEMDense Stone# #VIDEO430#x #ITEMThorium Bar# #VIDEO10#x #ITEMCore of Earth# " ..
+				"#VIDEO90#x #ITEMMageweave Cloth# #VIDEO60#x #ITEMRugged Leather#" },
 			[3] = { str = "#VIDEO[1-25]# 50x Rough Sharpening Stones (1x Rough Stone)" },
 			[4] = { str = "#VIDEO[25-45]# 20x Rough Grinding Stones (2x Rough Stone)" },
 			[5] = { str = "#VIDEO[45-75]# 30x Copper Chain Belt (6x Copper Bar)" },
@@ -168,15 +168,15 @@ Table_004_Professions = {
 		items = {
 			[1] = { str = "#NPC1-300 Enchanting#" },
 			[2] = { str = "#DOQUESTAprx. Mats Required#: " ..
-			"#VIDEO150#x #TURNINStrange Dust# #VIDEO90#x #TURNINSoul Dust# #VIDEO170#x #TURNINVision Dust# " ..
-			"#VIDEO300#x #TURNINDream Dust# #VIDEO90#x #TURNINIllusion Dust# #VIDEO15#x #TURNINSimple Wood# " ..
-			"#VIDEO15#x #TURNINLesser Magic Essence# #VIDEO25#x #TURNINGreater Magic Essence# #VIDEO15#x #TURNINLesser Astral Essence# " ..
-			"#VIDEO2#x #TURNINGreater Astral Essence# #VIDEO25#x #TURNINLesser Mystic Essence# #VIDEO2#x #TURNINGreater Mystic Essence# " ..
-			"#VIDEO15#x #TURNINLesser Nether Essence# #VIDEO10#x #TURNINGreater Nether Essence# #VIDEO40#x #TURNINPurple Lotus# " ..
-			"#VIDEO20#x #TURNINCrystal Vial# #VIDEO4x# #TURNINGreater Eternal Essence# #VIDEO2#x #TURNINLarge Brilliant Shard# " ..
-			"#VIDEO1#x #TURNINShadowgem# #VIDEO1x# #TURNINIridescent Pearl# #VIDEO1#x #TURNINBlack Pearl# " ..
-			"#VIDEO1#x #TURNINGolden Pearl# #VIDEO1x# #TURNINCopper Rod# #VIDEO1#x #TURNINSilver Rod# " ..
-			"#VIDEO1#x #TURNINGolden Rod# #VIDEO1#x #TURNINTruesilver Rod# #VIDEO1#x #TURNINArcanite Rod#" },
+			"#VIDEO150#x #ITEMStrange Dust# #VIDEO90#x #ITEMSoul Dust# #VIDEO170#x #ITEMVision Dust# " ..
+			"#VIDEO300#x #ITEMDream Dust# #VIDEO90#x #ITEMIllusion Dust# #VIDEO15#x #ITEMSimple Wood# " ..
+			"#VIDEO15#x #ITEMLesser Magic Essence# #VIDEO25#x #ITEMGreater Magic Essence# #VIDEO15#x #ITEMLesser Astral Essence# " ..
+			"#VIDEO2#x #ITEMGreater Astral Essence# #VIDEO25#x #ITEMLesser Mystic Essence# #VIDEO2#x #ITEMGreater Mystic Essence# " ..
+			"#VIDEO15#x #ITEMLesser Nether Essence# #VIDEO10#x #ITEMGreater Nether Essence# #VIDEO40#x #ITEMPurple Lotus# " ..
+			"#VIDEO20#x #ITEMCrystal Vial# #VIDEO4x# #ITEMGreater Eternal Essence# #VIDEO2#x #ITEMLarge Brilliant Shard# " ..
+			"#VIDEO1#x #ITEMShadowgem# #VIDEO1x# #ITEMIridescent Pearl# #VIDEO1#x #ITEMBlack Pearl# " ..
+			"#VIDEO1#x #ITEMGolden Pearl# #VIDEO1x# #ITEMCopper Rod# #VIDEO1#x #ITEMSilver Rod# " ..
+			"#VIDEO1#x #ITEMGolden Rod# #VIDEO1#x #ITEMTruesilver Rod# #VIDEO1#x #ITEMArcanite Rod#" },
 			[3] = { str = "#VIDEO[1-2]# 1x Runed Copper Rod (1x Copper Rod, 1x Strange Dust, 1x Lesser Magic Essence)" },
 			[4] = { str = "#VIDEO[2-75]# 74x Enchant Bracer - Minor Health (1x Strange Dust)" },
 			[5] = { str = "#VIDEO[75-85]# 10x Enchant Bracer - Minor Deflection (1x Lesser Magic Essence, 1x Strange Dust)" },
@@ -212,12 +212,12 @@ Table_004_Professions = {
 		items = {
 			[1] = { str = "#NPC1-300 Engineering#" },
 			[2] = { str = "#DOQUESTAprx. Mats Required#: " ..
-			"#VIDEO90#x #TURNINRough Stone# #VIDEO80#x #TURNINCoarse Stone# #VIDEO75#x #TURNINHeavy Stone# " ..
-			"#VIDEO90#x #TURNINSolid Stone# #VIDEO50#x #TURNINDense Stone# #VIDEO10#x #TURNINWooden Stock# " ..
-			"#VIDEO29#x #TURNINWeak Flux# #VIDEO50#x #TURNINHeavy Leather# #VIDEO10#x #TURNINWool Cloth# " ..
-			"#VIDEO10#x #TURNINMageweave Cloth# #VIDEO33#x #TURNINRune Cloth# #VIDEO51#x #TURNINCopper Bars# " ..
-			"#VIDEO10#x #TURNINSilver Bars# #VIDEO55#x #TURNINBronze Bars# #VIDEO19#x #TURNINIron Bars# " ..
-			"#VIDEO4#x #TURNINSteel Bars# #VIDEO126#x #TURNINMithril Bars# #VIDEO129#x #TURNINThorium Bars#" },
+			"#VIDEO90#x #ITEMRough Stone# #VIDEO80#x #ITEMCoarse Stone# #VIDEO75#x #ITEMHeavy Stone# " ..
+			"#VIDEO90#x #ITEMSolid Stone# #VIDEO50#x #ITEMDense Stone# #VIDEO10#x #ITEMWooden Stock# " ..
+			"#VIDEO29#x #ITEMWeak Flux# #VIDEO50#x #ITEMHeavy Leather# #VIDEO10#x #ITEMWool Cloth# " ..
+			"#VIDEO10#x #ITEMMageweave Cloth# #VIDEO33#x #ITEMRune Cloth# #VIDEO51#x #ITEMCopper Bars# " ..
+			"#VIDEO10#x #ITEMSilver Bars# #VIDEO55#x #ITEMBronze Bars# #VIDEO19#x #ITEMIron Bars# " ..
+			"#VIDEO4#x #ITEMSteel Bars# #VIDEO126#x #ITEMMithril Bars# #VIDEO129#x #ITEMThorium Bars#" },
 			[3] = { str = "#VIDEO[1-40]# 40x Rough Blasting Powder (1x Rough Stone)" },
 			[4] = { str = "#VIDEO[40-50]# 10x Handful of Copper Bolt (1x Copper Bar)" },
 			[5] = { str = "#VIDEO[50-51]# 1x Arclight Spanner (6x Copper Bar)" },
@@ -251,9 +251,9 @@ Table_004_Professions = {
 		items = {
 			[1] = { str = "#NPC1-300 Leatherworking#" },
 			[2] = { str = "#VIDEO[1-205]# #DOQUESTAprx. Mats Required#: " ..
-			"#VIDEO275#x #TURNINLight Leather# #VIDEO20#x #TURNINLight Hide# #VIDEO25#x #TURNINMedium Hide# " ..
-			"#VIDEO420#x #TURNINHeavy Leather# #VIDEO10#x #TURNINHeavy Hide# #VIDEO30#x #TURNINBolt of Silk Cloth# " ..
-			"#VIDEO10#x #TURNINIron Buckles#" },
+			"#VIDEO275#x #ITEMLight Leather# #VIDEO20#x #ITEMLight Hide# #VIDEO25#x #ITEMMedium Hide# " ..
+			"#VIDEO420#x #ITEMHeavy Leather# #VIDEO10#x #ITEMHeavy Hide# #VIDEO30#x #ITEMBolt of Silk Cloth# " ..
+			"#VIDEO10#x #ITEMIron Buckles#" },
 			[3] = { str = "#VIDEO[1-35]# 35x Light Armor Kit (Total: 35x Light Leather)" },
 			[4] = { str = "#VIDEO[35-55]# 20x Cured Light Hide (Total: 20x Light Hide)" },
 			[5] = { str = "#VIDEO[55-85]# 30x Embossed Leather Gloves (Total: 90x Light Leather)" },
@@ -268,9 +268,9 @@ Table_004_Professions = {
 			[14] = { str = "#VIDEO[190-195]# 5x Dusky Bracers (Total: 80x Heavy Leather)" },
 			[15] = { str = "#VIDEO[195-205]# 10x Dusky Belt (Total: 100x Heavy Leather, 20x Bolt of Silk Cloth, 10x Iron Buckle)" },
 			[16] = { str = "#VIDEO[205-250]# #DOQUESTAprx. Mats Required#:                                            " ..
-				"#ACCEPTElemental Leatherworking#: #VIDEO405-455#x #TURNINThick Leather#                                            " ..
-				"#ACCEPTDragonscale Leatherworking:# #VIDEO441-483#x #TURNINThick Leather# #VIDEO40#x #TURNINScorpid Scale# #VIDEO10#x #TURNINWorn Dragonscale#                                            " ..
-				"#ACCEPTTribal Leatherworking#: #VIDEO427-449#x #TURNINThick Leather# #VIDEO112#x #TURNINurtle Scale# #VIDEO11#x #TURNINWildvine# #VIDEO2#x #TURNINCured Thick Hide#" },
+				"#ACCEPTElemental Leatherworking#: #VIDEO405-455#x #ITEMThick Leather#                                            " ..
+				"#ACCEPTDragonscale Leatherworking:# #VIDEO441-483#x #ITEMThick Leather# #VIDEO40#x #ITEMScorpid Scale# #VIDEO10#x #ITEMWorn Dragonscale#                                            " ..
+				"#ACCEPTTribal Leatherworking#: #VIDEO427-449#x #ITEMThick Leather# #VIDEO112#x #ITEMurtle Scale# #VIDEO11#x #ITEMWildvine# #VIDEO2#x #ITEMCured Thick Hide#" },
 			[17] = { str = "#ACCEPTElemental Leatherworking# #VIDEO[205-230]# 25x Nightscape Headband/Tunic (Total: 125-175x Thick Leather)." },
 			[18] = { str = "#ACCEPTElemental Leatherworking# #VIDEO[230-250]# 20x Nightscape Pants (Total: 280x Thick Leather)" },
 			[19] = { str = "#ACCEPTDragonscale Leatherworking# #VIDEO[205-226]# 21x Nightscape Headband/Tunic (Total: 105-147x Thick Leather)." },
@@ -286,7 +286,7 @@ Table_004_Professions = {
 			[29] = { str = "#ACCEPTTribal Leatherworking# #VIDEO[229-230]# 1x Wild Leather Helmet (Total: 10x Thick Leather, 2x Wildvine)." },
 			[30] = { str = "#ACCEPTTribal Leatherworking# #VIDEO[230-232]# 2x Turtle Scale Helm (Total: 28x Thick Leather, 48x Turtle Scale)." },
 			[31] = { str = "#ACCEPTTribal Leatherworking# #VIDEO[232-250]# 18x Nightscape Pants (Total: 252x Thick Leather)" },
-			[32] = { str = "#VIDEO[250-300]# #DOQUESTAprx. Mats Required#: #VIDEO160#x #TURNINThick Leather# #VIDEO470#x #TURNINRugged Leather#" },
+			[32] = { str = "#VIDEO[250-300]# #DOQUESTAprx. Mats Required#: #VIDEO160#x #ITEMThick Leather# #VIDEO470#x #ITEMRugged Leather#" },
 			[33] = { str = "#VIDEO[250-260]# 10x Nightscape Boots (Total: 160x Thick Leather)" },
 			[34] = { str = "#VIDEO[260-270]# 10x Wicked Leather Gauntlets (Total: 80x Rugged Leather)" },
 			[35] = { str = "#VIDEO[270-285]# 15x Wicked Leather Bracers (Total: 180x Rugged Leather)" },
@@ -299,11 +299,11 @@ Table_004_Professions = {
 		title = "1-300 Tailoring",
 		items = {
 			[1] = { str = "#NPC1-300 Tailoring#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO160#x #TURNINLinen Cloth# #VIDEO200#x #TURNINWool Cloth# #VIDEO760#x #TURNINSilk Cloth# " ..
-			"#VIDEO520#x #TURNINMageweave Cloth# #VIDEO900#x #TURNINRunecloth# #VIDEO120#x #TURNINRugged Leather# " ..
-			"#VIDEO75#x #TURNINCoarse Thread# #VIDEO135#x #TURNINFine Thread# #VIDEO5#x #TURNINGray Dye# " ..
-			"#VIDEO30#x #TURNINBlue Dye# #VIDEO10#x #TURNINBleach# #VIDEO60#x #TURNINRed Dye# " ..
-			"#VIDEO45#x #TURNINSilken Thread# #VIDEO60#x #TURNINHeavy Silken Thread# #VIDEO40#x #TURNINRune Thread#" },
+			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO160#x #ITEMLinen Cloth# #VIDEO200#x #ITEMWool Cloth# #VIDEO760#x #ITEMSilk Cloth# " ..
+			"#VIDEO520#x #ITEMMageweave Cloth# #VIDEO900#x #ITEMRunecloth# #VIDEO120#x #ITEMRugged Leather# " ..
+			"#VIDEO75#x #ITEMCoarse Thread# #VIDEO135#x #ITEMFine Thread# #VIDEO5#x #ITEMGray Dye# " ..
+			"#VIDEO30#x #ITEMBlue Dye# #VIDEO10#x #ITEMBleach# #VIDEO60#x #ITEMRed Dye# " ..
+			"#VIDEO45#x #ITEMSilken Thread# #VIDEO60#x #ITEMHeavy Silken Thread# #VIDEO40#x #ITEMRune Thread#" },
 			[3] = { str = "#VIDEO[1-50]# 80x Bolt of Linen Cloth (2x Linen Cloth)" },
 			[4] = { str = "#VIDEO[50-70]# 20x Linen Bag (3x Bolt of Linen Cloth, 3x Coarse Thread)" },
 			[5] = { str = "#VIDEO[70-75]# 5x Reinforced Linen Cape (2x Bolt of Linen Cloth, 3x Coarse Thread)" },

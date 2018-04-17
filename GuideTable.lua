@@ -30,11 +30,11 @@ function objGuideTable:new(oSettings)
 					if v2 then
 						local opentext = {
 							[1] = {
-								["find"] = "#ACCEPT",
+								["find"] = "#QUEST",
 								["replace"] = "|c0000ffff"
 							},
 							[2] = {
-								["find"] = "#DOQUEST",
+								["find"] = "#ITEM",
 								["replace"] = "|c000079d2"
 							},
 							[3] = {
