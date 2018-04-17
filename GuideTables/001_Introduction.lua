@@ -21,7 +21,7 @@ Table_001_Introduction = {
 			[14] = { str = "#COORDSCoordinates [XX,XX]#." },
 			[15] = { str = "." },
 			[16] = { str = "." },
-			[17] = { str = "#ACCEPTBINDABLE KEYS:# There are bindable keys for the \"Prev\" and \"Next\" Steps and Guides. You can find them in the key bindings menu" },
+			[17] = { str = "#ACCEPTBINDABLE KEYS:# There are bindable keys for the 'Prev' and 'Next' Steps and Guides. You can find them in the key bindings menu" },
 			[18] = { str = "." },
 		}
 	},
