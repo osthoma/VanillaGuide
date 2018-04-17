@@ -1,14 +1,14 @@
 --[[--------------------------------------------------
 002_Durotar.lua
 Authors: mrmr
-Version: at #COORDS[1,04]#.2
+Version: at 1.04.2
 ------------------------------------------------------
 Description: Guide Serie - 001 Introduction
-    at #COORDS[1,04]#.1
+    at 1.04.1
         -- First Release
             Orcs&Trolls Durotar's Guide
             from level 1 to lever 12
-    at #COORDS[1,04]#.2
+    at 1.04.2
     	-- no changes in here for this revision
 ------------------------------------------------------
 Connection:
