@@ -63,7 +63,7 @@ Table_002_Durotar = {
 			[8] = { str = "Turn in #TURNIN\"Report to Orgnil\"# and collect all the quests at Razor Hill (#ACCEPT\"Dark Storms\"# #ACCEPT\"Vanquish the Betrayers\"# , #ACCEPT\"Encroachment\"# #ACCEPT\"Break a Few Eggs\"# " },
 			[9] = { str = "Go up to the watch tower north-west of Razor Hill, at #COORDS[49,40]# and accept #ACCEPT\"Carry Your Weight\"# ", x = 49, y = 40, zone = "Durotar" },
 			[10] = { str = "Go in the Inn at #COORDS[51,41]# and turn in #TURNIN\"A Peon's Burden\"# .  And also make Razor Hill your home.", x = 51, y = 41, zone = "Durotar" },
-			[11] = { str = "Get first aid. at #COORDS[54,41]#", x = 51, y = 41, zone = "Durotar" },
+			[11] = { str = "Get first aid at #COORDS[54,41]#", x = 51, y = 41, zone = "Durotar" },
 			[12] = { str = "Then go do this: #DOQUEST\"Vanquish the Betrayers\"# along with #DOQUEST\"Carry Your Weight\"#   (these are done at Tiragarde Keep, at #COORDS[57,55]#)", x = 57, y = 55, zone = "Durotar" },
 			[13] = { str = "After killing Benedict (he is up in the building at #COORDS[59,58]#) and get his key, go up the steps open the chest and grab the note that starts:  #ACCEPT\"The Admiral's Orders\"# accept the quest.", x = 59, y = 58, zone = "Durotar" },
 			[14] = { str = "Go turn in #TURNIN\"Vanquish the Betrayers\"# #TURNIN\"The Admiral's Orders\"# and #TURNIN\"Carry Your Weight\"# at Razor Hill at #COORDS[52,44]#, and accept #ACCEPT\"From The Wreckage....\"# #ACCEPT\"The Admiral's Orders\"# (part2).", x = 52, y = 44, zone = "Durotar" },
