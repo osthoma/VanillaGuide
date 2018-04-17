@@ -56,7 +56,7 @@ Table_003_Horde_20to30 = {
 			[9] = { str = "#Q_'Betrayal from Within'# and #Q_'Weapons of Choice'# #C_[43,79]#.", x = 43, y = 79, zone = "The Barrens" },
 			[10] = { str = "Accept #Q_'Gann's Reclamation'# from #N_Gann Stonespire#. Then go do it at #C_[46,86]#. Then turn it in, accept #Q_'Revenge of Gann'#.", x = 46, y = 86, zone = "The Barrens" },
 
-			[11] = { str = "Hearth back to Camp Taurajo, turn in #Q_'Weapons of Choice'# and #Q_'Betrayal from Within'#. accept #Q_'Betrayal from Within'# part2." },
+			[11] = { str = "Hearth back to #A_Camp Taurajo#, turn in #Q_'Weapons of Choice'# and #Q_'Betrayal from Within'#. accept #Q_'Betrayal from Within'# part2." },
 			[12] = { str = "Fly to XR." },
 			[13] = { str = "Turn in #Q_'Betrayal from Within'# part2 and #Q_'Egg Hunt'#." },
 			[14] = { str = "Do #Q_'Ishamuhale'# at #C_[60,32]#.", x = 60, y = 32, zone = "The Barrens" },
@@ -135,7 +135,7 @@ Table_003_Horde_20to30 = {
 			[11] = { str = "Go up to Freewind Post #C_[45,50]#.", x = 45, y = 50, zone = "Thousand Needles" },
 			[12] = { str = "Turn in #Q_'Pacify the Centaur'#. accept #Q_'Grimtotem Spying'#." },
 			[13] = { str = "Turn in #Q_'Alien Egg'#. accept #Q_'Serpent Wild'#." },
-			[14] = { str = "Hearth to Camp Taurajo." },
+			[14] = { str = "Hearth to #A_Camp Taurajo#." },
 			[15] = { str = "Turn in #Q_'Enraged Thunder Lizards'# and #Q_'Washte Pawne'#. accept #Q_'Cry of the Thunderhawk'#." },
 			[16] = { str = "Turn in #Q_'A New Ore Sample'#." },
 			[17] = { str = "Go do #Q_'Cry of the Thunderhawk'# then turn it in. I SKIP '#N_Mahren Skyseer'#." },
