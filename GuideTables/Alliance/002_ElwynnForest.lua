@@ -94,7 +94,7 @@ Table_002_ElwynnForest = {
 			[7] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[56,52]# and turn in #Q_'A Swift Message'# accept #Q_'Continue to Stormwind'#.", x = 56, y = 52, zone = "Westfall" },
 			[8] = { str = "Fly to #A_Stormwind# unless you did hogger, then use your #I_[Hearthstone]# to return to #A_Goldshire# (#A_Elwynn Forest#) and turn it in outside the Inn then train." },
 			[9] = { str = "In #A_Stormwind# go to #C_[56,64]# and turn in #Q_'Shipment to Stormwind'#.", x = 56, y = 64, zone = "Stormwind" },
-			[10] = { str = "Train new weapons at #C_[57,57]#.", x = 57, y = 57, zone = "Stormwind" },
+			[10] = { str = "Talk to the #N_Weapon Master# in #A_Stormwind# to learn additional weapon skills. at #C_[57,57]#.", x = 57, y = 57, zone = "Stormwind" },
 
 			[11] = { str = "Go to #C_[74,47]# and turn in #Q_'Continue to Stormwind'# accept #Q_'Dungar Longdrink'#.", x = 74, y = 47, zone = "Stormwind" },
 			[12] = { str = "Go to #C_[51,12]# and turn in #Q_'Elmore's Task'#. Accept #Q_'Stormpike's Delivery'# this will be done on the way to the #A_Wetlands#.", x = 51, y = 12, zone = "Stormwind" },
@@ -119,7 +119,7 @@ Table_002_ElwynnForest = {
 			[30] = { str = "Look for the wandering NPC #N_Mountaineer Kadrell# and accept #Q_'Rat Catching'#." },
 
 			[31] = { str = "Kill troggs from #C_[27,53]# and north for #Q_'In Defense of the King's Lands'# and #Q_'The Trogg Threat'#.", x = 27, y = 53, zone = "Loch Modan" },
-			[32] = { str = "Kill mobs from #C_[26,43]# and north for #Q_'Rat Catching'#, then turn it in at #A_Thelsamar#.", x = 26, y = 43, zone = "Loch Modan" },
+			[32] = { str = "Kill mobs from #C_[26,43]# and north for #Q_'Rat Catching'#, then turn it in at #A_Thelsamar# (#A_Loch Modan#)", x = 26, y = 43, zone = "Loch Modan" },
 			[33] = { str = "Go back to #C_[22,73]# and turn them both in.", x = 22, y = 73, zone = "Loch Modan" },
 			[34] = { str = "Go north to the tower at #C_[24,18]# and turn in #Q_'Stormpike's Delivery'#.", x = 24, y = 18, zone = "Loch Modan" },
 			[35] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor#, then boat to #A_Auberdine# from here." },

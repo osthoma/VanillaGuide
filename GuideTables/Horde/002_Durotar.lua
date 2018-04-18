@@ -75,10 +75,10 @@ Table_002_Durotar = {
 			[7] = { str = "Go down to #A_Razor Hill# (#A_Durotar#) at #C_[52,44]#, turn in #Q_'Encroachment'#.", x = 52, y = 44, zone = "Durotar" },
 			[8] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[9] = { str = "Do your level 10 class quests. #HUNTERI do this as a hunter: do all three pet quests '#Taming the Beast':#." },
-			[10] = { str = "#HUNTER09) Dire molted bore (south of razor hill)#." },
+			[10] = { str = "#HUNTER09) Dire molted bore (south of #A_Razor Hill#)#." },
 
-			[11] = { str = "#HUNTER10) Surf crawler (north east of razor hill at #C_[58,30]#), DON'T go down to Senjen Village, it's too far away. Then use your #I_[Hearthstone]# if you can, if not run back.#.", x = 58, y = 30, zone = "Durotar" },
-			[12] = { str = "#HUNTER11) Armored scorpid (north west of razor hill)#." },
+			[11] = { str = "#HUNTER10) Surf crawler (north east of #A_Razor Hill# (#A_Durotar#) at #C_[58,30]#), DON'T go down to Senjen Village, it's too far away. Then use your #I_[Hearthstone]# if you can, if not run back.#.", x = 58, y = 30, zone = "Durotar" },
+			[12] = { str = "#HUNTER11) Armored scorpid (north west of #A_Razor Hill# (#A_Durotar#))#." },
 			[13] = { str = "#HUNTER12) After completing all those, accept '#Training the Beast'#." },
 			[14] = { str = "#HUNTER13) Go way up north-east, at #C_[57,16]# and tame an Encrusted Surf Crawler for your first real pet#.", x = 57, y = 16, zone = "Durotar" },
 			[15] = { str = "Then go way west (grinding mobs along the way) and accept #Q_'Need for a Cure'# at #C_[41,18]#.", x = 41, y = 18, zone = "Durotar" },
@@ -112,7 +112,7 @@ Table_002_Durotar = {
 
 			[41] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[42] = { str = "Accept #Q_'Conscript of the Horde'# (at #C_[50,43]# in #A_Razor Hill# (#A_Durotar#)).", x = 51, y = 44, zone = "Durotar" },
-			[43] = { str = "Run west into the Barrens.at #C_[35,42]#.", x = 35, y = 42, zone = "Durotar" },
+			[43] = { str = "Run west into #A_The Barrens# at #C_[35,42]#.", x = 35, y = 42, zone = "Durotar" },
 		}
 	},
 }

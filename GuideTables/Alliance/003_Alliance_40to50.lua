@@ -32,7 +32,7 @@ Table_003_Alliance_40to50 = {
 			[25] = { str = "Go to #C_[53,43]# and turn in #Q_'Scrounging'#.", x = 53, y = 43, zone = "Badlands" },
 			[26] = { str = "Go to #C_[61,54]# and turn in #Q_'Tremors of the Earth'# SKIP the next part.", x = 61, y = 54, zone = "Badlands" },
 			[27] = { str = "Now you should be 41, if you’re not go east into the ravine and kill the whelps until you level. I usually go here and grind for at least 30 min whether or not im 41 and try to get the heart for #Q_'Fiery Blaze Enchantment'# If you don’t find it in 30 min just abandon it." },
-			[28] = { str = "Use your #I_[Hearthstone]# to return to #A_Thelsamar#." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to #A_Thelsamar# (#A_Loch Modan#)." },
 			[29] = { str = "Go in the house behind the Inn and turn in #Q_'Badlands Reagent Run'# accept the Uldaman part." },
 			[30] = { str = "Run to #C_[65,65]# turn in #Q_'Murdaloc'# accept the Uldaman part I’m almost 25% into 41 now.", x = 65, y = 65, zone = "Loch Modan" },
 
@@ -458,7 +458,7 @@ Table_003_Alliance_40to50 = {
 			[26] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Accept the quest #Q_'The Hunter's Charm'#." },
 			[27] = { str = "Make sure you get at least 15 silk cloths out of the mailbox or AH alt." },
 			[28] = { str = "Make #A_Ironforge# your home and accept #Q_'Assisting Arch Druid Staghelm'#." },
-			[29] = { str = "Fly to #A_Thelsamar#." },
+			[29] = { str = "Fly to #A_Thelsamar# (#A_Loch Modan#)." },
 			[30] = { str = "Run down into the #A_Badlands# all the way west to #C_[1,62]# and enter the Searing Gorge.", x = 1, y = 62, zone = "Badlands" },
 		}
 	},

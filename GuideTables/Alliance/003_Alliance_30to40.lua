@@ -345,7 +345,7 @@ Table_003_Alliance_30to40 = {
 			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
 			[33] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in #Q_'Excelsior'#." },
 			[34] = { str = "Now fly to #A_Ironforge# and accept #Q_'Ironband Wants You'# from Prospector Stormpike at 74 11, and either to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities and your mount, or get skills in #A_Ironforge# and prepare for a few badlands quests by buying a frost oil and a gyrochronatom (don’t by a gyro if you can’t find a frost oil) Then a healing potion and lesser invisibility potion. Again don’t get either of the potions if you can’t get a frost oil or gyro.", x = 74, y = 11, zone = "Iron Forge" },
-			[35] = { str = "Fly to Loch Modan Stable your pet and make #A_Thelsamar# your home." },
+			[35] = { str = "Fly to Loch Modan Stable your pet and make #A_Thelsamar# (#A_Loch Modan#) your home." },
 			[36] = { str = "Go in the house behind the Inn, accept #Q_'Badlands Reagent Run'#." },
 			[37] = { str = "Run to #C_[65,65]# and accept #Q_'Find Agmond'#.", x = 65, y = 65, zone = "Loch Modan" },
 			[38] = { str = "Run down into #A_Badlands# at #C_[46,76]#.", x = 46, y = 76, zone = "Loch Modan" },

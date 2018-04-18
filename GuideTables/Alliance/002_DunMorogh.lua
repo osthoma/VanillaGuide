@@ -111,7 +111,7 @@ Table_002_DunMorogh = {
 			[66] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[33,50]#.", x = 33, y = 50, zone = "Loch Modan" },
 			[67] = { str = "Look for the wandering #N_Mountaineer Kadrell#, turn in #Q_'Stout to Kadrell'# and accept #Q_'Rat Catching'#." },
 			[68] = { str = "Kill troggs from #C_[27,53]# and north for #Q_'In Defense of the King's Lands'# and #Q_'The Trogg Threat'#.", x = 27, y = 53, zone = "Loch Modan" },
-			[69] = { str = "Kill mobs from #C_[26,43]# and north for #Q_'Rat Catching'#, then turn it in at #A_Thelsamar# at #N_Mountaineer Kadrell#, accept #Q_'Mountaineer Stormpike's Task'#.", x = 26, y = 43, zone = "Loch Modan" },
+			[69] = { str = "Kill mobs from #C_[26,43]# and north for #Q_'Rat Catching'#, then turn it in at #A_Thelsamar# (#A_Loch Modan#) at #N_Mountaineer Kadrell#, accept #Q_'Mountaineer Stormpike's Task'#.", x = 26, y = 43, zone = "Loch Modan" },
 			[70] = { str = "Go back to #C_[22,73]# and turn in #Q_'In Defense of the King's Lands'# and #Q_'The Trogg Threat'#.", x = 22, y = 73, zone = "Loch Modan" },
 
 			[71] = { str = "Go north to the tower at #C_[24,18]# and turn in #Q_'Stormpike's Delivery'# and #Q_'Mountaineer Stormpike's Task'#.", x = 24, y = 18, zone = "Loch Modan" },

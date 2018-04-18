@@ -70,7 +70,7 @@ Table_003_Horde_12to20 = {
 			[9] = { str = "Go down to #A_Camp Taurajo# (CT) accept #Q_'Tribes at War'# (gnoll in the cage at #C_[44,59]#). Unlock the flight path by talking to the #N_Flight Master#.", x = 44, y = 59, zone = "The Barrens" },
 			[10] = { str = "Then do #Q_'Apothecary Zamah'# Which has you run all the way to #A_Thunder Bluff# (in Mulgore at #C_[39,27]#).", x = 39, y = 27, zone = "Mulgore" },
 
-			[11] = { str = "Once at #A_Thunder Bluff#, go to #N_weapon master# #C_[40,62]#, #HUNTERget Guns and Staff skills. (I do this as a Hunter),# get what weapon skills you need for your class)." },
+			[11] = { str = "Talk to the #N_Weapon Master# in #A_Thunder Bluff# to learn additional weapon skills at #C_[40,62]#, #HUNTERget Guns and Staff skills. (I do this as a Hunter),# get what weapon skills you need for your class)." },
 			[12] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[13] = { str = "Turn in #Q_'Apothecary Zamah'# the cave below the spirit rise at #C_[29,29]#.", x = 29, y = 29, zone = "The Barrens" },
 			[14] = { str = "Go to first aid guy at spirit rise to build up first aid." },

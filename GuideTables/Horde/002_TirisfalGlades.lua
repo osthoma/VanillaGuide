@@ -82,7 +82,7 @@ Table_002_TirisfalGlades = {
 			[20] = { str = "At the little island just behind at #C_[66,44]# use the candle to summon Lillith Nefara, kill her then go back and turn the quest in then accept #Q_'The Prodigal Lich Returns'#.", x = 66, y = 44, zone = "Tirisfal Glades" },
 
 			[21] = { str = "Go back to #A_Brill# and turn in #Q_'At War with the Scarlet Crusade'# then run to the #A_Undercity# and at the Mage Quarter #C_[84,17]# turn in #Q_'The Prodigal Lich Returns'#.", x = 84, y = 17, zone = "Undercity" },
-			[22] = { str = "Get your training for level 12, and train weapons if you need to." },
+			[22] = { str = "Get your training for level 12. Talk to the #N_Weapon Master# in #A_Undercity# to learn additional weapon skills." },
 			[23] = { str = "Get on the zeppelin to go to #A_Orgrimmar#." },
 			[24] = { str = "Unlock the flight path by talking to the #N_Flight Master# in #A_Orgrimmar#." },
 			[25] = { str = "Go south to #A_Razor Hill# (#A_Durotar#) and accept #Q_'Conscript of the Horde'#." },
