@@ -75,8 +75,8 @@ Table_003_Alliance_50to60 = {
 			[64] = { str = "Go over to #C_[54,55]# to the wrecked ship and grab the overdue package for 'Ledger From Tanaris'.", x = 54, y = 55, zone = "Duskwallow Marsh" },
 			[65] = { str = "Go to the cave at #C_[31,66]# and touch the scroll in the back of the cave which turns in 'Cortello's Riddle'(2) accept 'Cortello's Riddle'(3).", x = 31, y = 66, zone = "Duskwallow Marsh" },
 			[66] = { str = "Aggro all the raptors and die so you end up at Theramore." },
-			[67] = { str = "Fly to #A_Gadgetzan#." },
-			[68] = { str = "Just as you enter #A_Gadgetzan#, turn in 'Ledger From Tanaris'." },
+			[67] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
+			[68] = { str = "Just as you enter #A_Gadgetzan# (#A_Tanaris#), turn in 'Ledger From Tanaris'." },
 			[69] = { str = "Get your level 52 set gloves out of bank or mail for later." },
 			[70] = { str = "Between the 2 North gates accept 'Super Sticky'." },
 
@@ -145,7 +145,7 @@ Table_003_Alliance_50to60 = {
 			[50] = { str = "Turn in #Q_'Expedition Salvation'#." },
 
 			[51] = { str = "In the back of the cave turn in 'The Northern Pylon' 'The Eastern Pylon' 'The Western Pylon. Accept 'Making Sense of It' then turn it back in. She then tells you about buffs from the pylons." },
-			[52] = { str = "Run to #C_[29,22]# and follow the path into #A_Silithus# to #C_[50,34]# grab the flight path and fly to #A_Gadgetzan#.", x = 29, y = 22, zone = "Un’Goro Crater" },
+			[52] = { str = "Run to #C_[29,22]# and follow the path into #A_Silithus# to #C_[50,34]# grab the flight path and fly to #A_Gadgetzan# (#A_Tanaris#).", x = 29, y = 22, zone = "Un’Goro Crater" },
 			[53] = { str = "Go to the NW part of town, turn in Bungle in the Jungle SKIP the next part then hand in Super Sticky between the 2 entrances." },
 			[54] = { str = "Use your #I_[Hearthstone]# to return to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[55] = { str = "You should have at least 50+ soils easy now." },
@@ -153,7 +153,7 @@ Table_003_Alliance_50to60 = {
 			[57] = { str = "Now go up to the top of the tower and accept Morrowgrain Research then go downstairs and turn it in, accept Morrowgrain Research(2)." },
 			[58] = { str = "Now you might want to get extra seed packets depending on how many soils you have. You can use the pouch every 10 minutes and you won’t always get a morrowgrain. All you need is 10 anyway." },
 			[59] = { str = "Run through to Rut’theran Village and go in the house to the right and accept Moontouched Wildkin it’s a winterspring feather quest." },
-			[60] = { str = "Fly to #A_Astranaar#, then ride all the way east on the road to #C_[91,46]# which goes into Azshara, it’s far.", x = 91, y = 46, zone = "Ashenvale" },
+			[60] = { str = "Fly to #A_Astranaar#, then ride all the way east on the road to #C_[91,46]# which goes into #A_Azshara#, it’s far.", x = 91, y = 46, zone = "Ashenvale" },
 		}
 	},
 
@@ -233,7 +233,7 @@ Table_003_Alliance_50to60 = {
 			[49] = { str = "Go to #C_[75,23]# and turn in A Little Slime Goes A Long Way accept A Little Slime Goes A Long Way(2).", x = 75, y = 23, zone = "Ironforge" },
 			[50] = { str = "Go to #C_[31,4]# and turn in Return to Tymor see it was worth the run.", x = 31, y = 4, zone = "Ironforge" },
 
-			[51] = { str = "Fly to #A_Menethil Harbor# then boat to Theramore and fly to #A_Gadgetzan#." },
+			[51] = { str = "Fly to #A_Menethil Harbor# then boat to Theramore and fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
 
@@ -367,7 +367,7 @@ Table_003_Alliance_50to60 = {
 			[26] = { str = "Go to the thrown room at #C_[38,55]# and turn in The Smoldering Ruins of Thaurissan(2).", x = 38, y = 55, zone = "Ironforge" },
 			[27] = { str = "You should now be 56, talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[28] = { str = "Fly to #A_Menethil Harbor# and boat to Theramore." },
-			[29] = { str = "Fly to #A_Gadgetzan#." },
+			[29] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
 
@@ -377,9 +377,9 @@ Table_003_Alliance_50to60 = {
 		items = {
 			[1] = { str = "56-56 Tanaris" },
 			[2] = { str = "Go to the NW side of town and scare sprinkle for Are We There, Yeti?(3)." },
-			[3] = { str = "Make #A_Gadgetzan# your home." },
+			[3] = { str = "Make #A_Gadgetzan# (#A_Tanaris#) your home." },
 			[4] = { str = "To the south of lost rigger cove at #C_[70,49]# is a bunch of stones in a circle, Loot the stuff from the blue backpack and use the book to summon Aquementas He’s a level 54 water elemental pansy.", x = 70, y = 49, zone = "Tanaris" },
-			[5] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# or die if it’s not up yet." },
+			[5] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#) or die if it’s not up yet." },
 			[6] = { str = "Fly to Un’goro." },
 			[7] = { str = "Find Quixxil and scare him for Are We There, Yeti?(3)." },
 			[8] = { str = "Go to the back of the cave and turn in Aquementas accept Linken's Adventure and turn it in just outside the cave by the big tree SKIP the next part." },

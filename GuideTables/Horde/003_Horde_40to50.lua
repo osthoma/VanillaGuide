@@ -106,7 +106,7 @@ Table_003_Horde_40to50 = {
 		items = {
 			[1] = { str = "43-43 Desolace" },
 			[2] = { str = "OPTIONAL: This whole section can be skipped if you are 4-5 blocks or more into lvl 43, it would not hurt to skip this section and go straight to Dustwallow Marsh." },
-			[3] = { str = "Make Shadowprey Village your home." },
+			[3] = { str = "Make #A_Shadowprey Village# (#A_Desolace#) your home." },
 			[4] = { str = "Accept #Q_'Portals of the Legion'#." },
 			[5] = { str = "Go turn in #Q_'Ongeku'# at #C_[36,79]#. SKIP #N_'Khan Jehn'#.", x = 36, y = 79, zone = "Desolace" },
 			[6] = { str = "While your in Desolace, keep an eye out for an Elite Giant for the quest #N_'Nothing But the Truth'#." },
@@ -116,7 +116,7 @@ Table_003_Horde_40to50 = {
 			[10] = { str = "#Q_'The Corrupter'# (Elite) (Slay #N_Lord Azrethoc# and #N_Jugkar Grim'rod#)." },
 
 			[11] = { str = "Turn in #Q_'The Corrupter'# (Elite) at #C_[53,54]#.", x = 53, y = 54, zone = "Desolace" },
-			[12] = { str = "Then Use your #I_[Hearthstone]# to return to Shadowprey Village." },
+			[12] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Shadowprey Village# (#A_Desolace#)." },
 			[13] = { str = "Turn in #Q_'Portals of the Legion'#." },
 			[14] = { str = "Fly to #A_Thunder Bluff#, then to Dustwallow Marsh." },
 		}
@@ -147,18 +147,18 @@ Table_003_Horde_40to50 = {
 		title = "43-44 Tanaris",
 		items = {
 			[1] = { str = "43-44 Tanaris" },
-			[2] = { str = "Go into Gadgetzan." },
+			[2] = { str = "Go into #A_Gadgetzan# (#A_Tanaris#)." },
 			[3] = { str = "Accept: #Q_'WANTED: Caliph Scorpidsting'# and #Q_'WANTED: Andre Firebeard'#  (Wanted Poster)." },
 			[4] = { str = "Turn in #Q_'Tran'Rek'#." },
 			[5] = { str = "Accept: #Q_'Gadgetzan Water Survey'# #Q_'Wastewander Justice'# and #Q_'Water Pouch Bounty'#." },
-			[6] = { str = "Make Gadgetzan your home." },
+			[6] = { str = "Make #A_Gadgetzan# (#A_Tanaris#) your home." },
 			[7] = { str = "Go to the Shimmering Flats (in Thousand Needles at #C_[78,77]#) and turn in #Q_'Rumors for Kravel'# #Q_'News for Fizzle'# and #Q_'Razzeric's Tweaking'#. accept #Q_'Safety First'#.", x = 53, y = 76, zone = "Tanaris" },
 			[8] = { str = "Accept #Q_'Keeping Pace'#." },
 			[9] = { str = "Turn #Q_'Keeping Pace'# in at Zamek, then go pick up Rizzle's Plans at #C_[77,77]#. accept #Q_'Rizzle's Schematics'#." },
 			[10] = { str = "Accept #Q_'Back to Booty Bay'# (at Kravel Koalbeard)." },
 
 			[11] = { str = "Go turn in #Q_'Rizzle's Schematics'# at Pozzik." },
-			[12] = { str = "Use your #I_[Hearthstone]# to return to back to Gadgetzan." },
+			[12] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Gadgetzan# (#A_Tanaris#)." },
 			[13] = { str = "Turn in #Q_'Safety First'#. i SKIP the next part to this quest." },
 			[14] = { str = "Then grind your way east to Steamwheedle Port. #C_[67,23]#.", x = 67, y = 23, zone = "Tanaris" },
 			[15] = { str = "Accept: #Q_'Pirate Hats Ahoy!'# #Q_'Screecher Spirits'# and #Q_'Southsea Shakedown'#." },
@@ -172,14 +172,14 @@ Table_003_Horde_40to50 = {
 			[22] = { str = "#Q_'Stoley's Shipment'#." },
 			[23] = { str = "#Q_'Ship Schedules'# (find this in one of the #N_Pirate's footlocker# at Lost Rigger Cove. If the item cannot be found, just skip it)." },
 			[24] = { str = "#Q_'WANTED: Andre Firebeard'#." },
-			[25] = { str = "Once they're all done, Use your #I_[Hearthstone]# to return to Gadgetzan." },
+			[25] = { str = "Once they're all done, Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#)." },
 			[26] = { str = "Turn in #Q_'Water Pouch Bounty'# #Q_'Wastewander Justice'#. accept #Q_'More Wastewander Justice'#." },
 			[27] = { str = "Go do #Q_'Gadgetzan Water Survey'# (grinding mobs along the way, coords are at #C_[38,29]#), then go back and turn it in.", x = 38, y = 29, zone = "Tanaris" },
 			[28] = { str = "Go to Steamwheedle Port." },
 			[29] = { str = "Turn in ALL quests there. accept #Q_'Deliver to MacKinley'#." },
 			[30] = { str = "Then go do: #Q_'More Wastewander Justice'# along with #Q_'WANTED: Caliph Scorpidsting'# #C_[59,37]#.", x = 59, y = 37, zone = "Tanaris" },
 
-			[31] = { str = "Then Use your #I_[Hearthstone]# to return to Gadgetzan. Make sure you save (put in your bank) all the Wastewander Water Pouches you have, because you will need them for a later quest." },
+			[31] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#). Make sure you save (put in your bank) all the Wastewander Water Pouches you have, because you will need them for a later quest." },
 			[32] = { str = "Turn in #Q_'More Wastewander Justice'# and #Q_'WANTED: Caliph Scorpidsting'#." },
 			[33] = { str = "Fly to Freewind Post." },
 			[34] = { str = "Run west into Feralas." },
@@ -242,7 +242,7 @@ Table_003_Horde_40to50 = {
 			[46] = { str = "Turn in #Q_'Deadmire'#." },
 			[47] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[48] = { str = "Fly to #A_Crossroads# (#A_The Barrens#), then to #A_Splintertree Post# (Ashenvale)." },
-			[49] = { str = "Then go east into Azshara." },
+			[49] = { str = "Then go east into #A_Azshara#." },
 		}
 	},
 
@@ -362,7 +362,7 @@ Table_003_Horde_40to50 = {
 			[14] = { str = "#Q_'The Key to Freedom'# starts from an item drop #N_Grimsite Outhouse Key#, turn in at the outhouse (south-east, #C_[65,62]#).", x = 65, y = 62, zone = "Searing Gorge" },
 			[15] = { str = "Turn in #Q_'Forging the Shaft'#. accept #Q_'The Flame's Casing'#." },
 			[16] = { str = "Do #Q_'The Flame's Casing'# (around #C_[24,36]#). Just keep killing the mobs there until the item drops.", x = 24, y = 36, zone = "Searing Gorge" },
-			[17] = { str = "Then turn in #Q_'The Flame's Casing'#. accept and do #Q_'The Torch of Retribution'#, then turn it in. accept and do #Q_'The Torch of Retribution'# Part2 (just pick up the torch on the ground." },
+			[17] = { str = "Then turn in #Q_'The Flame's Casing'#. accept and do #Q_'The Torch of Retribution'#, then turn it in. accept and do #Q_'The Torch of Retribution'#(2) (just pick up the torch on the ground." },
 			[18] = { str = "Accept #Q_'Squire Maltrake'#, then turn it in. accept #Q_'Set Them Ablaze!'#." },
 			[19] = { str = "Do #Q_'Set Them Ablaze!'# (north=#C_[33,54]#, south=#C_[44,61]#, east=#C_[50,54]#, west=#C_[35,60]#). Once that is done, go back and turn it in.", x = 33, y = 54, zone = "Searing Gorge" },
 			[20] = { str = "Click on the little chest on the ground at #C_[38,38]# and accept #Q_'Trinkets.'#, then click on the chest again to turn it in.", x = 38, y = 38, zone = "Searing Gorge" },
@@ -449,8 +449,8 @@ Table_003_Horde_40to50 = {
 		title = "49-50 Tanaris",
 		items = {
 			[1] = { str = "49-50 Tanaris" },
-			[2] = { str = "Go to the Egg-O-Matic machine in Gadgetzan, and turn in the #N_Hippogryph Egg# for #Q_'The Super Egg-O-Matic'# quest." },
-			[3] = { str = "Make Gadgetzan your home." },
+			[2] = { str = "Go to the Egg-O-Matic machine in #A_Gadgetzan# (#A_Tanaris#), and turn in the #N_Hippogryph Egg# for #Q_'The Super Egg-O-Matic'# quest." },
+			[3] = { str = "Make #A_Gadgetzan# (#A_Tanaris#) your home." },
 			[4] = { str = "Accept: #Q_'The Thirsty Goblin'# #Q_'Noxious Lair Investigation'# #Q_'Super Sticky'# #Q_'Thistleshrub Valley'# and #Q_'The Dunemaul Compound'#." },
 			[5] = { str = "Go turn in #Q_'The Sunken Temple'# at #C_[52,45]#. accept #Q_'The Stone Circle'# and #Q_'Gahz'ridian'#.", x = 52, y = 45, zone = "Tanaris" },
 			[6] = { str = "Go do in the following order:" },
@@ -460,7 +460,7 @@ Table_003_Horde_40to50 = {
 			[10] = { str = "#Q_'Tooga's Quest'# (escort turtle quest starts in the Thistleshrub Valley, lead Tooga to Torta at #C_[66,25]#).", x = 66, y = 25, zone = "Tanaris" },
 
 			[11] = { str = "Then turn in #Q_'Tooga's Quest'# along with #Q_'Screecher Spirits'#." },
-			[12] = { str = "Run to Gadgetzan." },
+			[12] = { str = "Run to #A_Gadgetzan# (#A_Tanaris#)." },
 			[13] = { str = "Turn in #Q_'The Thirsty Goblin'#. accept #Q_'In Good Taste'# turn it in. accept #Q_'Sprinkle's Secret Ingredient'#." },
 			[14] = { str = "Turn in #Q_'Thistleshrub Valley'#  #Q_'The Dunemaul Compound'# and #Q_'Noxious Lair Investigation'#." },
 			[15] = { str = "Accept #Q_'The Scrimshank Redemption'#." },
@@ -472,7 +472,7 @@ Table_003_Horde_40to50 = {
 
 			[21] = { str = "Then do the Chicken escort #Q_'Rescue OOX-17/TN!'#." },
 			[22] = { str = "Once all those quests are finished." },
-			[23] = { str = "Use your #I_[Hearthstone]# to return to Gadgetzan." },
+			[23] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#)." },
 			[24] = { str = "Turn in #Q_'Tanaris Fiels Sampling'#. accept #Q_'Return to Apothecary Zinge'#." },
 			[25] = { str = "Turn in #Q_'The Scrimshank Redemption'#. accept #Q_'Insect Part Analysis'#." },
 			[26] = { str = "Turn in #Q_'Insect Part Analysis'#. accept #Q_'Insect Part Analysis'# again." },
@@ -481,7 +481,7 @@ Table_003_Horde_40to50 = {
 			[29] = { str = "Make #A_Orgrimmar# your home." },
 			[30] = { str = "Get the Box of Empty Vials out of your Bank." },
 
-			[31] = { str = "Fly to Azshara." },
+			[31] = { str = "Fly to #A_Azshara#." },
 		}
 	},
 }

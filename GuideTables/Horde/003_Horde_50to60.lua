@@ -42,7 +42,7 @@ Table_003_Horde_50to60 = {
 			[7] = { str = "Then go turn in #Q_'Snapjaws, Mon!'# #Q_'Gammerita, Mon!'# and #Q_'Lard Lost His Lunch'#." },
 			[8] = { str = "Then go do #Q_'Sprinkle's Secret Ingredient'# at #C_[41,60]#.", x = 41, y = 60, zone = "The Hinterlands" },
 			[9] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Orgrimmar#." },
-			[10] = { str = "Fly to Azshara." },
+			[10] = { str = "Fly to #A_Azshara#." },
 
 			[11] = { str = "Turn in all 4 delivery quests." },
 			[12] = { str = "Fly to #A_Crossroads# (#A_The Barrens#)." },
@@ -175,7 +175,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
 			[14] = { str = "Then fly to #A_Orgrimmar# and make it your home." },
 			[15] = { str = "Go turn in #Q_'Bone-Bladed Weapons'# at #C_[55,34]#.", x = 55, y = 34, zone = "Orgrimmar" },
-			[16] = { str = "Fly Azshara." },
+			[16] = { str = "Fly #A_Azshara#." },
 		}
 	},
 
@@ -199,7 +199,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "#Q_'Kim'jael's 'Missing' Equipment'#." },
 			[14] = { str = "#Q_'Wavethrashing'#." },
 			[15] = { str = "Once both are done, Use your #I_[Hearthstone]# to return to #A_Orgrimmar#." },
-			[16] = { str = "Then Fly to Azshara." },
+			[16] = { str = "Then Fly to #A_Azshara#." },
 			[17] = { str = "Turn in #Q_'Betrayed'#. accept #Q_'Betrayed'#." },
 			[18] = { str = "Turn in #Q_'Wavethrashing'#. i SKIP #N_'The Green Drake'#." },
 			[19] = { str = "Turn in #Q_'Kim'jael's 'Missing' Equipment'#." },
