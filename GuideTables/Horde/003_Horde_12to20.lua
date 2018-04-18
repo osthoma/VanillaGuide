@@ -51,7 +51,7 @@ Table_003_Horde_12to20 = {
 			[4] = { str = "Then do: #Q_'Kill Grundig Darkcloud'# (he is at #C_[73,86]#).", x = 73, y = 86, zone = "Stonetalon Mountains" },
 			[5] = { str = "NOTE: I usually skip the escort quest there (#Q_'Protect Kaya'# #C_[73,85]# in the hut), This quest can be a little tough, kill the Sorcerer first that pops out during the one battle you have to fight. If it's too hard for you, you can skip it.", x = 73, y = 85, zone = "Stonetalon Mountains" },
 			[6] = { str = "Turn in #Q_'Kill Grundig Darkcloud'# and #Q_'Protect Kaya'# if you did it (at #C_[35,28]# in the Barrens). Accept #Q_'Kaya's Alive'#.", x = 35, y = 28, zone = "The Barrens" },
-			[7] = { str = "Then go back to the Barrens." },
+			[7] = { str = "Then go back to #A_The Barrens#." },
 		}
 	},
 
@@ -67,7 +67,7 @@ Table_003_Horde_12to20 = {
 			[6] = { str = "Turn in ALL quests, grab ALL new ones." },
 			[7] = { str = "Then do #Q_'Apothecary Zamah'# Which has you run all the way to #A_Thunder Bluff# at the spirt rise cave. Do these along the way:" },
 			[8] = { str = "Grind your way down south (to #C_[49,50]#) and do #Q_'Lost in Battle'# (Manrik's Wife) She's laying dead by the hut, west of the bridge.", x = 49, y = 50, zone = "The Barrens" },
-			[9] = { str = "Go down to #A_Camp Taurajo# (CT) accept #Q_'Tribes at War'# (gnoll in the cage at #C_[44,59]#). Unlock the flight path by talking to the #N_Flight Master#.", x = 44, y = 59, zone = "The Barrens" },
+			[9] = { str = "Go down to #A_Camp Taurajo# (#A_The Barrens#) accept #Q_'Tribes at War'# (gnoll in the cage at #C_[44,59]#). Unlock the flight path by talking to the #N_Flight Master#.", x = 44, y = 59, zone = "The Barrens" },
 			[10] = { str = "Then do #Q_'Apothecary Zamah'# Which has you run all the way to #A_Thunder Bluff# (in Mulgore at #C_[39,27]#).", x = 39, y = 27, zone = "Mulgore" },
 
 			[11] = { str = "Talk to the #N_Weapon Master# in #A_Thunder Bluff# to learn additional weapon skills at #C_[40,62]#, #HUNTERget Guns and Staff skills. (I do this as a Hunter),# get what weapon skills you need for your class)." },
@@ -110,7 +110,7 @@ Table_003_Horde_12to20 = {
 			[4] = { str = "#Q_'Raptor Horns'# along with #Q_'Stolen Silver'# at #C_[57,54]#.", x = 57, y = 54, zone = "The Barrens" },
 			[5] = { str = "#Q_'The Angry Scytheclaws'# #C_[51,46]#.", x = 51, y = 46, zone = "The Barrens" },
 			[6] = { str = "#Q_'Tribes at War'# along with #Q_'Consumed by Hatred'# at #C_[51,54]#.", x = 51, y = 54, zone = "The Barrens" },
-			[7] = { str = "Then grind your way to #A_Camp Taurajo# #C_[45,58]#.", x = 45, y = 58, zone = "The Barrens" },
+			[7] = { str = "Then grind your way to #A_Camp Taurajo# (#A_The Barrens#) #C_[45,58]#.", x = 45, y = 58, zone = "The Barrens" },
 			[8] = { str = "Accept #Q_'Weapons of Choice'#." },
 			[9] = { str = "Go to gnoll in the cage." },
 			[10] = { str = "Turn in #Q_'Tribes at War'#. Accept #Q_'Blood Shards of Agamaggan'# and #Q_'Betrayal from Within'#." },

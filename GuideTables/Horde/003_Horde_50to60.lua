@@ -25,7 +25,7 @@ Table_003_Horde_50to60 = {
 			[19] = { str = ". Then complete #Q_'Seeping Corruption'# for the final time." },
 			[20] = { str = "Then accept #Q_'A Sample of Slime.'# and #Q_'. and a Batch of Ooze'#." },
 
-			[21] = { str = "Then fly to Raventusj Village." },
+			[21] = { str = "Then fly to #A_Raventusk Village#." },
 		}
 	},
 
@@ -51,7 +51,7 @@ Table_003_Horde_50to60 = {
 			[15] = { str = "Pick up the '#N_Stone Circle# at Liv Rizzlefix shop. also accept #Q_'Volcanic Activity'# while your there." },
 			[16] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn#)." },
 			[17] = { str = "Fly to #A_Stonard# (#A_Swamp of Sorrows#)." },
-			[18] = { str = "Go into Blasted Lands." },
+			[18] = { str = "Go into #A_Blasted Lands#." },
 		}
 	},
 
@@ -148,7 +148,7 @@ Table_003_Horde_50to60 = {
 			[49] = { str = "Turn in #Q_'Whiskey Slim's Lost Grog'#." },
 			[50] = { str = "Also turn in #Q_'Rescue OOX-17/TN!'# (if you did it)." },
 
-			[51] = { str = "Fly to Kargath  #A_Badlands#)." },
+			[51] = { str = "Fly to #A_Kargath# (#A_Badlands#)." },
 			[52] = { str = "Turn in #Q_'Vivian Lagrave'#." },
 			[53] = { str = "Accept: #Q_'Dreadmaul Rock'# and #Q_'The Rise of the Machines'#." },
 			[54] = { str = "Then fly to #A_Burning Steppes#." },
@@ -167,7 +167,7 @@ Table_003_Horde_50to60 = {
 			[6] = { str = "#Q_'The Rise of the Machines'#." },
 			[7] = { str = "#Q_'Tablet of the Seven'# (it's at #C_[54,40]#).", x = 54, y = 40, zone = "Burning Steppes" },
 			[8] = { str = "Go turn in #Q_'Tablet of the Seven'# and #Q_'Broodling Essence'#. Accept #Q_'Felnok Steelspring'#." },
-			[9] = { str = "Then fly to Kargath  #A_Badlands#)." },
+			[9] = { str = "Then fly to #A_Kargath# (#A_Badlands#)." },
 			[10] = { str = "Turn in #Q_'Krom'Grul'#." },
 
 			[11] = { str = "Turn in #Q_'The Rise of the Machines'#. Accept #Q_'The Rise of the Machines'#(2)." },
@@ -175,7 +175,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
 			[14] = { str = "Then fly to #A_Orgrimmar#. Talk to the #N_Innkeeper# to make #A_Orgrimmar# your home." },
 			[15] = { str = "Go turn in #Q_'Bone-Bladed Weapons'# at #C_[55,34]#.", x = 55, y = 34, zone = "Orgrimmar" },
-			[16] = { str = "Fly #A_Azshara#." },
+			[16] = { str = "Fly to #A_Azshara#." },
 		}
 	},
 
@@ -209,8 +209,8 @@ Table_003_Horde_50to60 = {
 			[22] = { str = "OPTIONAL: Instead of the grinding you could go do BRD instance instead." },
 			[23] = { str = "Once i hit 54 (or a few bars past it), i then Use your #I_[Hearthstone]# to return to #A_Orgrimmar#." },
 			[24] = { str = "I then go turn in #Q_'Bone-Bladed Weapons'# and #Q_'Betrayed'#." },
-			[25] = { str = "Then fly to #A_Splintertree Post# (Ashenvale)." },
-			[26] = { str = "Then go into Felwood." },
+			[25] = { str = "Then fly to #A_Splintertree Post# (#A_Ashenvale#)." },
+			[26] = { str = "Then go into #A_Felwood#." },
 		}
 	},
 
@@ -232,7 +232,7 @@ Table_003_Horde_50to60 = {
 			[11] = { str = "#Q_'Verifying the Corruption'# (Elite) at #C_[41,41]#.", x = 41, y = 41, zone = "Felwood" },
 			[12] = { str = "#Q_'Cleansing Felwood'# at #C_[54,16]#.", x = 54, y = 16, zone = "Felwood" },
 			[13] = { str = "Go accept #Q_'Deadwood of the North'# at #C_[64,8]# but DON'T do it now.", x = 64, y = 8, zone = "Felwood" },
-			[14] = { str = "Grind your way through the cave to go to Winterspring." },
+			[14] = { str = "Grind your way through the cave to go to #A_Winterspring#." },
 		}
 	},
 
@@ -245,32 +245,32 @@ Table_003_Horde_50to60 = {
 			[3] = { str = "Go to Donova Snowden at #C_[31,45]#.", x = 31, y = 45, zone = "Winterspring" },
 			[4] = { str = "Turn in #Q_'The New Springs'# and #Q_'It's a Secret to Everybody'# and accept #Q_'Strange Sources'#." },
 			[5] = { str = "NOTE: I SKIP '#N_The Videre Elixir'# and the rest of that chain." },
-			[6] = { str = "Go to Everlook. at #C_[61,38]#.", x = 61, y = 38, zone = "Winterspring" },
+			[6] = { str = "Go to #A_Everlook# (#A_Winterspring#). at #C_[61,38]#.", x = 61, y = 38, zone = "Winterspring" },
 			[7] = { str = "Accept: #Q_'Are We There, Yeti?'# #Q_'The Everlook Report'# #Q_'Duke Nicholas Zverenhoff'# #Q_'Sister Pamela'# #Q_'Trouble in Winterspring'#and #Q_'Ursius of the Shardtooth'#." },
 			[8] = { str = "Turn in #Q_'Felnok Steelspring'#. Accept #Q_'Chillwind Horns'#." },
 			[9] = { str = "Talk to the #N_Innkeeper# to make #A_Everlook# your home." },
-			[10] = { str = "Go do #Q_'Ursius of the Shardtooth'# (just keep grinding mobs on the hill north of everlook till #N_Ursius# shows up)." },
+			[10] = { str = "Go do #Q_'Ursius of the Shardtooth'# (just keep grinding mobs on the hill north of #A_Everlook# (#A_Winterspring#) till #N_Ursius# shows up)." },
 
 			[11] = { str = "Then turn in #Q_'Ursius of the Shardtooth'#. Accept #Q_'Brumeran of the Chillwind'#." },
 			[12] = { str = "Go do #Q_'Brumeran of the Chillwind'# (he patrols around #C_[60,60]#, see map for complete patrol path).", x = 60, y = 60, zone = "Winterspring" },
 			[13] = { str = "Then go Discover Darkwhisper Gorge at #C_[59,73]# for the quest #Q_'Strange Sources'#.", x = 59, y = 73, zone = "Winterspring" },
-			[14] = { str = "Then Use your #I_[Hearthstone]# to return to back to Everlook." },
+			[14] = { str = "Then Use your #I_[Hearthstone]# to return to back to #A_Everlook# (#A_Winterspring#)." },
 			[15] = { str = "Turn in #Q_'Brumeran of the Chillwind'#. SKIP '#N_Shy-Rotam'#." },
 			[16] = { str = "Then go do the following quests (steps 17-20, in any order) to the west and some to the north. When you're at west remember to turn-in #Q_'Trouble in Winterspring'# and accept #Q_'Threat of the Winterfall'#:" },
 			[17] = { str = "#Q_'Are We There, Yeti?'#." },
 			[18] = { str = "#Q_'Threat of the Winterfall'# you should find #N_Empty Firewater Flask# which starts #Q_'Winterfall Firewater'# while doing this quest. When the #N_'Winterfall Ritual Totem'# item drops, save it and put it in your bank you will need it later." },
-			[19] = { str = "#Q_'Wild Guardians'# (the Ragged Owls are west of Everlook, and the Raging Owls are just north of Everlook)." },
+			[19] = { str = "#Q_'Wild Guardians'# (the Ragged Owls are west of #A_Everlook# (#A_Winterspring#), and the Raging Owls are just north of #A_Everlook# (#A_Winterspring#))." },
 			[20] = { str = "#Q_'Chillwind Horns'# (you can find a larger concentration of chimaera around #C_[66,29]#).", x = 66, y = 29, zone = "Winterspring" },
 
 			[21] = { str = "Once #Q_'Threat of the Winterfall'# and #Q_'Winterfall Firewater'# is completed go turn them in along with #Q_'Strange Sources'# at #C_[31,45]#. Accept #Q_'Falling to Corruption'#.", x = 31, y = 45, zone = "Winterspring" },
-			[22] = { str = "Once the rest of those quests are complete, go back to Everlook and turn in #Q_'Are We There, Yeti?'#.accept #Q_'Are We There, Yeti?'#(2). Turn in #Q_'Chillwind Horns'#. i SKIP '#N_Return to Tinkee'#." },
+			[22] = { str = "Once the rest of those quests are complete, go back to #A_Everlook# (#A_Winterspring#) and turn in #Q_'Are We There, Yeti?'#.accept #Q_'Are We There, Yeti?'#(2). Turn in #Q_'Chillwind Horns'#. i SKIP '#N_Return to Tinkee'#." },
 			[23] = { str = "Then go do:" },
 			[24] = { str = "#Q_'Winterfall Activity'# at #C_[67,37]#.", x = 67, y = 37, zone = "Winterspring" },
 			[25] = { str = "#Q_'Are We There, Yeti?'# (find 2 Pristine Yeti Horns) at #C_[66,43]#.", x = 66, y = 43, zone = "Winterspring" },
-			[26] = { str = "Then Use your #I_[Hearthstone]# to return to Everlook and accept #Q_'A Strange One '#." },
+			[26] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Everlook# (#A_Winterspring#) and accept #Q_'A Strange One '#." },
 			[27] = { str = "Go turn in #Q_'Are We There, Yeti?'#. Accept #Q_'Are We There, Yeti?'#(3)." },
 			[28] = { str = "Go scare Legacki with the mechanical yeti for the quest #Q_'Are We There, Yeti?'#(3)." },
-			[29] = { str = "Then fly to Felwood." },
+			[29] = { str = "Then fly to #A_Felwood#." },
 		}
 	},
 
@@ -301,7 +301,7 @@ Table_003_Horde_50to60 = {
 			[20] = { str = "Turn in #Q_'Winterfall Activity'# and #Q_'Speak to Salfa'#." },
 
 			[21] = { str = "Then go turn in #Q_'Mystery Goo'# (at #C_[31,45]# in Winterspring). SKIP '#N_Toxic Horrors'#.", x = 31, y = 45, zone = "Winterspring" },
-			[22] = { str = "Then Use your #I_[Hearthstone]# to return to Everlook." },
+			[22] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Everlook# (#A_Winterspring#)." },
 			[23] = { str = "Fly to #A_Orgrimmar#. Talk to the #N_Innkeeper# to make #A_Orgrimmar# your home." },
 			[24] = { str = "If you happen to see #N_Warcaller Gorlach#, accept #Q_'A Call To Arms: The Plaguelands!'#." },
 			[25] = { str = "Fly to #A_Thunder Bluff#, then directly to Camp Mojache, Ferelas." },
@@ -340,7 +340,7 @@ Table_003_Horde_50to60 = {
 
 			[21] = { str = "Go accept #Q_'A Call To Arms: The Plaguelands!'#." },
 			[22] = { str = "Talk to the #N_Innkeeper# to make #A_Undercity# your home." },
-			[23] = { str = "Go to the Bulwark. (which is a small village east of Tirisfal Glades)." },
+			[23] = { str = "Go to #A_The Bulwark#. (which is a small village east of Tirisfal Glades)." },
 		}
 	},
 
@@ -354,7 +354,7 @@ Table_003_Horde_50to60 = {
 			[4] = { str = "Turn in #Q_'The Everlook Report'#." },
 			[5] = { str = "Accept and complete #Q_'Argent Dawn Commission'#." },
 			[6] = { str = "Accept #Q_'A Plague Upon Thee'#." },
-			[7] = { str = "Go into the Western Plaguelands (Felstone field at #C_[37,56]#) and.", x = 37, y = 56, zone = "Western Plaguelands" },
+			[7] = { str = "Go into the #A_Western Plaguelands# (Felstone field at #C_[37,56]#) and.", x = 37, y = 56, zone = "Western Plaguelands" },
 			[8] = { str = "Accept #Q_'Better Late Than Never'# (the lady in the house)." },
 			[9] = { str = "Then go to the barn next door, and." },
 			[10] = { str = "Complete #Q_'Better Late Than Never'#. click on the chest again to accept #Q_'Better Late Than Never'# again." },
@@ -371,7 +371,7 @@ Table_003_Horde_50to60 = {
 			[20] = { str = "Just keep going back and forth completing each one." },
 
 			[21] = { str = "Then go accept and complete #Q_'Mission Accomplished!'#." },
-			[22] = { str = "Then head into Eastern Plaguelands." },
+			[22] = { str = "Then head into #A_Eastern Plaguelands#." },
 		}
 	},
 
@@ -417,7 +417,7 @@ Table_003_Horde_50to60 = {
 			[33] = { str = "Use your #I_[Hearthstone]# to return to Under City." },
 			[34] = { str = "Turn in #Q_'Better Late Than Never'#. Accept #Q_'The Jeremiah Blues'#." },
 			[35] = { str = "Turn in #Q_'The Jeremiah Blues'# (just right underneath the bank). Accept #Q_'Good Luck Charm'#." },
-			[36] = { str = "Go back to the Bulwark." },
+			[36] = { str = "Go back to #A_The Bulwark#." },
 		}
 	},
 
@@ -462,7 +462,7 @@ Table_003_Horde_50to60 = {
 			[32] = { str = "Then go get on the zeppelin to go to #A_Orgrimmar#. (while waiting, make heavy runecloth bandages)." },
 			[33] = { str = "Once in #A_Orgrimmar# talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[34] = { str = "Bank 2/3rd of my manna biscuits." },
-			[35] = { str = "Then fly to Winterspring." },
+			[35] = { str = "Then fly to #A_Winterspring#." },
 		}
 	},
 
@@ -477,28 +477,28 @@ Table_003_Horde_50to60 = {
 			[5] = { str = "Accept: #Q_'Luck Be With You'# (Elite) and #Q_'Ursius of the Shardtooth'# (Elite)." },
 			[6] = { str = "Then go tame a Winterspring Screecher (for Claw Rank8) (head south to do this)." },
 			[7] = { str = "Then use that pet to do #Q_'Luck Be With You'# (just use your pet to distract the giants while picking up the Frostmaul Shards)." },
-			[8] = { str = "Then Use your #I_[Hearthstone]# to return to Everlook." },
-			[9] = { str = "Go do #Q_'Ursius of the Shardtooth'# (Elite) (just keep grinding mobs on the hill north of everlook till Ursius shows up)." },
+			[8] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Everlook# (#A_Winterspring#)." },
+			[9] = { str = "Go do #Q_'Ursius of the Shardtooth'# (Elite) (just keep grinding mobs on the hill north of #A_Everlook# (#A_Winterspring#) till Ursius shows up)." },
 			[10] = { str = "Go turn in #Q_'Luck Be With You'# (if it's done yet) and #Q_'Ursius of the Shardtooth'#. Accept #Q_'Brumeran of the Chillwind'# (Elite)." },
 
 			[11] = { str = "Then go south and do:" },
 			[12] = { str = "#Q_'Brumeran of the Chillwind'# (Elite)." },
 			[13] = { str = "#Q_'Luck Be With You'# (Elite) (if you still need to finish it up)." },
 			[14] = { str = "#Q_'Wild Guardians'#(2) (i grind away at owls at the Owl Wing Thicket for a few hours, before leaving here)." },
-			[15] = { str = "Then when im a few bars away from 59, i go back up to Everlook (DONT hearth)." },
+			[15] = { str = "Then when im a few bars away from 59, i go back up to #A_Everlook# (#A_Winterspring#) (DONT hearth)." },
 			[16] = { str = "Turn in #Q_'Luck Be With You'# and #Q_'Brumeran of the Chillwind'#. i SKIP #N_'Shy-Rotam'# (Elite)." },
 			[17] = { str = "Fly to Bloodvenom Post (Felwood)." },
 			[18] = { str = "Turn in #Q_'Wild Guardians'#(2). Accept #Q_'Wild Guardians'#(3)." },
-			[19] = { str = "Then Use your #I_[Hearthstone]# to return to back to Everlook." },
+			[19] = { str = "Then Use your #I_[Hearthstone]# to return to back to #A_Everlook# (#A_Winterspring#)." },
 			[20] = { str = "Then go down to the Owl Wing Thicket and do #Q_'Wild Guardians'#(3)." },
 
 			[21] = { str = "I keep grinding away at Owls till im about 59 and a half, then." },
-			[22] = { str = "I die on purpose, so i end up at Everlook (don’t hearth)." },
+			[22] = { str = "I die on purpose, so i end up at #A_Everlook# (#A_Winterspring#) (don’t hearth)." },
 			[23] = { str = "Then Fly to Bloodvenom Post (Felwood)." },
 			[24] = { str = "Turn in #Q_'Wild Guardians'#(3) and #Q_'Guarding Secrets'#. Accept #Q_'Guarding Secrets'#(2)." },
 			[25] = { str = "I then fly to #A_Crossroads# (#A_The Barrens#), then to Thunderbluff, go to Elder Rise." },
 			[26] = { str = "Turn in #Q_'Guarding Secrets'#(2) and #Q_'Glyphed Oaken Branch'# (both at Nara Wildmane)." },
-			[27] = { str = "Use your #I_[Hearthstone]# to return to back to Everlook." },
+			[27] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Everlook# (#A_Winterspring#)." },
 			[28] = { str = "At this point im usually about 3/4 way to 60." },
 			[29] = { str = "I then go back down to the Owl Wing Thicket and Grind to 60. (See End Game Credits)." },
 			[30] = { str = "." },

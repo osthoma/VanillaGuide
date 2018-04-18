@@ -272,7 +272,7 @@ Table_003_Horde_30to40 = {
 			[11] = { str = "Once in #A_Orgrimmar#, turn in #Q_'Alliance Relations'# at #N_Keldran#. At #C_[21,53]#.", x = 21, y = 53, zone = "Orgrimmar" },
 			[12] = { str = "Then fly to #A_Crossroads# (#A_The Barrens#)." },
 			[13] = { str = "Talk to the #N_Innkeeper# to make #A_Crossroads# (#A_The Barrens#) your home." },
-			[14] = { str = "Fly to Freewind Post (#A_Thousand Needles#)." },
+			[14] = { str = "Fly to #A_Freewind Post# (#A_Thousand Needles#)." },
 		}
 	},
 
@@ -292,7 +292,7 @@ Table_003_Horde_30to40 = {
 			[10] = { str = "Turn in #Q_'Parts of the Swarm'#. Accept #Q_'Parts of the Swarm'#(2)." },
 
 			[11] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[12] = { str = "Fly to Dustwallow Marsh." },
+			[12] = { str = "Fly to #A_Dustwallow Marsh#." },
 		}
 	},
 

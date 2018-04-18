@@ -30,9 +30,9 @@ Table_003_Horde_20to30 = {
 		title = "21-21 Ashenvale",
 		items = {
 			[1] = { str = "21-21 Ashenvale" },
-			[2] = { str = "Run to #A_Splintertree Post# at #C_[73,65]#.", x = 73, y = 65, zone = "Ashenvale" },
+			[2] = { str = "Run to #A_Splintertree Post# (#A_Ashenvale#) at #C_[73,65]#.", x = 73, y = 65, zone = "Ashenvale" },
 			[3] = { str = "Turn in #Q_'The Ashenvale Hunt'#. Then accept and turn in #Q_'The Ashenvale Hunt'# again." },
-			[4] = { str = "Unlock the flight path by talking to the #N_Flight Master# in #A_Splintertree Post#." },
+			[4] = { str = "Unlock the flight path by talking to the #N_Flight Master# in #A_Splintertree Post# (#A_Ashenvale#)." },
 			[5] = { str = "Run all the way to Zoram Strand at #C_[13,31]#, grind mobs along the way.", x = 13, y = 31, zone = "Ashenvale" },
 			[6] = { str = "Unlock the flight path by talking to the #N_Flight Master#. #C_[12,33]#. Turn in #Q_'Trouble in the Deeps'#. i SKIP '#N_The Essence of Aku'Mai'#.", x = 12, y = 33, zone = "Ashenvale" },
 			[7] = { str = "Do the following quests:" },
@@ -46,9 +46,9 @@ Table_003_Horde_20to30 = {
 		title = "22-23 Southern Barrens",
 		items = {
 			[1] = { str = "22-23 Southern Barrens" },
-			[2] = { str = "Fly to #A_Camp Taurajo#." },
+			[2] = { str = "Fly to #A_Camp Taurajo# (#A_The Barrens#)." },
 			[3] = { str = "Turn in #Q_'Jorn Skyseer'#. Accept #Q_'Ishamuhale'# and #Q_'Melor Sends Word'#." },
-			[4] = { str = "Talk to the #N_Innkeeper# to make #A_Camp Taurajo# your home." },
+			[4] = { str = "Talk to the #N_Innkeeper# to make #A_Camp Taurajo# (#A_The Barrens#) your home." },
 			[5] = { str = "I give bloodshards to the gnoll in the cage to get increased agility/spirit." },
 			[6] = { str = "Run south and keep an eye out for the mob named #N_Owatanka# (around #C_[45,62]#), he drops 'Owatanka's Tailspike' which starts #Q_'Owatanka'#.", x = 45, y = 62, zone = "The Barrens" },
 			[7] = { str = "#Q_'Egg Hunt'# #C_[44,71]#.", x = 44, y = 71, zone = "The Barrens" },
@@ -56,7 +56,7 @@ Table_003_Horde_20to30 = {
 			[9] = { str = "#Q_'Betrayal from Within'# and #Q_'Weapons of Choice'# #C_[43,79]#.", x = 43, y = 79, zone = "The Barrens" },
 			[10] = { str = "Accept #Q_'Gann's Reclamation'# from #N_Gann Stonespire#. Then go do it at #C_[46,86]#. Then turn it in, accept #Q_'Revenge of Gann'#.", x = 46, y = 86, zone = "The Barrens" },
 
-			[11] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Camp Taurajo#, turn in #Q_'Weapons of Choice'# and #Q_'Betrayal from Within'#. Accept #Q_'Betrayal from Within'#(2)." },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Camp Taurajo# (#A_The Barrens#) , turn in #Q_'Weapons of Choice'# and #Q_'Betrayal from Within'#. Accept #Q_'Betrayal from Within'#(2)." },
 			[12] = { str = "Fly to #A_Crossroads# (#A_The Barrens#)." },
 			[13] = { str = "Turn in #Q_'Betrayal from Within'#(2) and #Q_'Egg Hunt'#." },
 			[14] = { str = "Do #Q_'Ishamuhale'# at #C_[60,32]#.", x = 60, y = 32, zone = "The Barrens" },
@@ -93,7 +93,7 @@ Table_003_Horde_20to30 = {
 			[20] = { str = "Once they are all done, make sure you are at least 5 bars away from level 25, so you may have to grind a little." },
 
 			[21] = { str = "Then go turn them all in, and accept #Q_'Calling in the Reserves'#." },
-			[22] = { str = "Then fly to #A_Camp Taurajo#." },
+			[22] = { str = "Then fly to #A_Camp Taurajo# (#A_The Barrens#)." },
 		}
 	},
 
@@ -103,7 +103,7 @@ Table_003_Horde_20to30 = {
 		items = {
 			[1] = { str = "25-25 Southern Barrens" },
 			[2] = { str = "Turn in #Q_'Ishamuhale'#. Accept #Q_'Enraged Thunder Lizards'#." },
-			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Camp Taurajo# your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Camp Taurajo# (#A_The Barrens#) your home." },
 			[4] = { str = "Accept #Q_'A New Ore Sample'# (need to be lvl 25 to get this)." },
 			[5] = { str = "Go down and do:" },
 			[6] = { str = "#Q_'Enraged Thunder Lizards'#." },
@@ -113,7 +113,7 @@ Table_003_Horde_20to30 = {
 			[10] = { str = "Head south down the path to the Great Lift (at #C_[44,91]# in the barrens) and turn in #Q_'Calling in the Reserves'#.", x = 44, y = 91, zone = "The Barrens" },
 
 			[11] = { str = "Accept #Q_'Message to Freewind Post'#." },
-			[12] = { str = "Run to #A_Freewind Post#. (#C_[45,50]# in #A_Thousand Needles#).", x = 45, y = 50, zone = "Thousand Needles" },
+			[12] = { str = "Run to #A_Freewind Post# (#A_Thousand Needles#) at #C_[45,50]#." x = 45, y = 50, zone = "Thousand Needles" },
 		}
 	},
 
@@ -135,7 +135,7 @@ Table_003_Horde_20to30 = {
 			[11] = { str = "Go up to #A_Freewind Post# #C_[45,50]#.", x = 45, y = 50, zone = "Thousand Needles" },
 			[12] = { str = "Turn in #Q_'Pacify the Centaur'#. Accept #Q_'Grimtotem Spying'#." },
 			[13] = { str = "Turn in #Q_'Alien Egg'#. Accept #Q_'Serpent Wild'#." },
-			[14] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Taurajo#." },
+			[14] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Taurajo# (#A_The Barrens#)." },
 			[15] = { str = "Turn in #Q_'Enraged Thunder Lizards'# and #Q_'Washte Pawne'#. Accept #Q_'Cry of the Thunderhawk'#." },
 			[16] = { str = "Turn in #Q_'A New Ore Sample'#." },
 			[17] = { str = "Go do #Q_'Cry of the Thunderhawk'# then turn it in. I SKIP '#N_Mahren Skyseer'#." },
@@ -156,7 +156,7 @@ Table_003_Horde_20to30 = {
 			[3] = { str = "Do the following order:" },
 			[4] = { str = "Accept all the quests, which include: #Q_'Stonetalon Standstill'# #Q_'Satyr Horns'# #Q_'Ashenvale Outrunners'# (accept this at #C_[71,68]#). Make sure #Q_'The Ashenvale Hunt'# is turned in at #N_Senani Thunderheart# (you can accept this quest right at the NPC itself). Note: I SKIP '#N_Warsong Supplies'# and '#N_The Lost Pages'#.", x = 71, y = 68, zone = "Ashenvale" },
 			[5] = { str = "Kill the first of the three mobs related to the Ashenvale hunt:" },
-			[6] = { str = "#Q_'Sharptalon's Claw'# (Kill #N_Sharptalon# (patrols around #C_[74,70]#), then he drops the item that starts this quest) (hint: easy way to kill it (he's lvl 31 mob), is to bring his health to a 3rd left, then drag him into the guards at #A_Splintertree Post#, they will finish em).", x = 74, y = 70, zone = "Ashenvale" },
+			[6] = { str = "#Q_'Sharptalon's Claw'# (Kill #N_Sharptalon# (patrols around #C_[74,70]#), then he drops the item that starts this quest) (hint: easy way to kill it (he's lvl 31 mob), is to bring his health to a 3rd left, then drag him into the guards at #A_Splintertree Post# (#A_Ashenvale#), they will finish em).", x = 74, y = 70, zone = "Ashenvale" },
 			[7] = { str = "Do: #Q_'Ashenvale Outrunners'# (around #C_[71,72]#)#HUNTER (use track hidden, to find them better). # Once the quest is completed, turn it in when you get the chance.", x = 71, y = 72, zone = "Ashenvale" },
 			[8] = { str = "Then go slightly west and do #Q_'Torek's Assault'# (starts at #C_[68,75]#).", x = 68, y = 75, zone = "Ashenvale" },
 			[9] = { str = "Then go do #Q_'Stonetalon Standstill'# (the lake at #C_[53,70]#) *find and kill #N_Tideress# he drops an item which starts: #Q_'The Befouled Element'#.", x = 53, y = 70, zone = "Ashenvale" },
@@ -164,16 +164,16 @@ Table_003_Horde_20to30 = {
 
 			[11] = { str = "Kill #N_Shadumbra# (around #C_[56,54]#) #Q_'Shadumbra's Head'# (Ashenvale hunt).", x = 56, y = 54, zone = "Ashenvale" },
 			[12] = { str = "#Q_'The sacred Flame'# (first find a phial killing the dryads at #C_[61,52]#, then fill it at the moonwell at #C_[60,72]#).", x = 60, y = 72, zone = "Ashenvale" },
-			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Splintertree Post# to turn in #Q_'Stonetalon Standstill'# #Q_'The Befouled Element'# (accept #Q_'Je'neu of the Earthen Ring'# ) #Q_'Torek's Assault'# and all three of the 'Ashenvale Hunt' quests, then accept and complete #Q_'The Hunt Completed'#." },
+			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Splintertree Post# (#A_Ashenvale#) to turn in #Q_'Stonetalon Standstill'# #Q_'The Befouled Element'# (accept #Q_'Je'neu of the Earthen Ring'# ) #Q_'Torek's Assault'# and all three of the 'Ashenvale Hunt' quests, then accept and complete #Q_'The Hunt Completed'#." },
 			[14] = { str = "Fly to Zoram Strand, and turn in #Q_'Je'neu of the Earthen Ring'#." },
 			[15] = { str = "Accept and do #Q_'Vorsha the Lasher'#. Once done go back and turn it in." },
 			[16] = { str = "Accept and do: #Q_'Between a Rock and a Thistlefur'# #C_[34,37]# and #Q_'Troll Charm'# (the cave is at #C_[38,30]#). #VIDEONOTE:# While you are in the cave, there is an escort quest (a white bear-formed druid in a cage) called #Q_'Freedom to Ruul'#, try to do this quest, you may have to fight 3-5 mobs at once several times, if you fail then it can be skipped.", x = 34, y = 37, zone = "Ashenvale" },
-			[17] = { str = "Once they are both completed, go turn in #Q_'Between a Rock and a Thistlefur'# and #Q_'Troll Charm'# (back at the Zoram Strand), then Use your #I_[Hearthstone]# to return to back to #A_Splintertree Post#. Turn in #Q_'Freedom to Ruul'# (if you did it)." },
+			[17] = { str = "Once they are both completed, go turn in #Q_'Between a Rock and a Thistlefur'# and #Q_'Troll Charm'# (back at the Zoram Strand), then Use your #I_[Hearthstone]# to return to back to #A_Splintertree Post# (#A_Ashenvale#). Turn in #Q_'Freedom to Ruul'# (if you did it)." },
 			[18] = { str = "If im not level 27 i'll grind till I am." },
 			[19] = { str = "Go do #Q_'Ordanus'# #C_[61,52]# (#VIDEOfight your way to him, just kill the guy, grab his head and jump out of there!#).", x = 61, y = 52, zone = "Ashenvale" },
 			[20] = { str = "Go do: #Q_'Satyr Horns'# (done at the Night Run, #C_[67,53]#) (entrance to the area is around #C_[64,42]#).", x = 67, y = 53, zone = "Ashenvale" },
 
-			[21] = { str = "Run back to #A_Splintertree Post# (don't hearth). Turn in #Q_'Satyr Horns'#." },
+			[21] = { str = "Run back to #A_Splintertree Post# (#A_Ashenvale#) (don't hearth). Turn in #Q_'Satyr Horns'#." },
 			[22] = { str = "Fly to #A_Stonetalon Mountains#." },
 		}
 	},

@@ -118,7 +118,7 @@ Table_003_Horde_40to50 = {
 			[11] = { str = "Turn in #Q_'The Corrupter'# (Elite) at #C_[53,54]#.", x = 53, y = 54, zone = "Desolace" },
 			[12] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Shadowprey Village# (#A_Desolace#)." },
 			[13] = { str = "Turn in #Q_'Portals of the Legion'#." },
-			[14] = { str = "Fly to #A_Thunder Bluff#, then to Dustwallow Marsh." },
+			[14] = { str = "Fly to #A_Thunder Bluff#, then to #A_Dustwallow Marsh#." },
 		}
 	},
 
@@ -138,7 +138,7 @@ Table_003_Horde_40to50 = {
 			[10] = { str = "Run back and forth until #Q_'The Brood of Onyxia'# is done, but don't actually do the final quest yet (this will be done later at #N_level 48#, so you can abandon it for now)." },
 
 			[11] = { str = "Turn in #Q_'Marg Speaks'#. Accept #Q_'Report to Zor'#." },
-			[12] = { str = "Fly to Tanaris." },
+			[12] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
 
@@ -181,8 +181,8 @@ Table_003_Horde_40to50 = {
 
 			[31] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#). Make sure you save (put in your bank) all the Wastewander Water Pouches you have, because you will need them for a later quest." },
 			[32] = { str = "Turn in #Q_'More Wastewander Justice'# and #Q_'WANTED: Caliph Scorpidsting'#." },
-			[33] = { str = "Fly to Freewind Post." },
-			[34] = { str = "Run west into Feralas." },
+			[33] = { str = "Fly to #A_Freewind Post#." },
+			[34] = { str = "Run west into #A_Feralas#." },
 		}
 	},
 
@@ -241,7 +241,7 @@ Table_003_Horde_40to50 = {
 			[45] = { str = "Fly to #A_Thunder Bluff#." },
 			[46] = { str = "Turn in #Q_'Deadmire'#." },
 			[47] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[48] = { str = "Fly to #A_Crossroads# (#A_The Barrens#), then to #A_Splintertree Post# (Ashenvale)." },
+			[48] = { str = "Fly to #A_Crossroads# (#A_The Barrens#), then to #A_Splintertree Post# (#A_Ashenvale#)." },
 			[49] = { str = "Then go east into #A_Azshara#." },
 		}
 	},
@@ -335,9 +335,9 @@ Table_003_Horde_40to50 = {
 			[13] = { str = "Then go do #Q_'The Bloodsail Buccaneers'#(5) (kill the three pirates in the three ships).while doing it, find #Q_'Cortello's Riddle'# (it's usually a little scroll downstairs in the middle ship)." },
 			[14] = { str = "Then Use your #I_[Hearthstone]# to return to back to #A_Booty Bay# (#A_Stranglethorn#), if hearth stone still is on a cooldown, die on purpose." },
 			[15] = { str = "Turn in #Q_'The Captain's Chest'# and #Q_'The Bloodsail Buccaneers'#(5)." },
-			[16] = { str = "Fly to Kargath  #A_Badlands#)." },
+			[16] = { str = "Fly to #A_Kargath# (#A_Badlands#)." },
 			[17] = { str = "I get a stack of Silk Cloth out of the mailbox for the quest #Q_'Caught'#, then." },
-			[18] = { str = "Go into Searing Gorge." },
+			[18] = { str = "Go into #A_Searing Gorge#." },
 		}
 	},
 
@@ -406,7 +406,7 @@ Table_003_Horde_40to50 = {
 			[24] = { str = "Do #Q_'Challenge Overlord Mok'Morokk'# Then turn it in. (??? TBC Quest)." },
 			[25] = { str = "Then fly to #A_Tanaris#." },
 			[26] = { str = "Turn in #Q_'Ledger from Tanaris'# and #Q_'Into the Field'#. Accept and complete #Q_'Slake that Thirst'#." },
-			[27] = { str = "Then fly to Ferelas." },
+			[27] = { str = "Then fly to #A_Ferelas#." },
 		}
 	},
 
@@ -434,7 +434,7 @@ Table_003_Horde_40to50 = {
 			[17] = { str = "#Q_'Dark Heart'# (Elite)." },
 			[18] = { str = "#Q_'Mountain Giant Muisek'# (Elite) along with #Q_'Zapped Giants'#." },
 			[19] = { str = "Once those quests are completed and #Q_'Zapped Giants'# is turned in." },
-			[20] = { str = ".Use your #I_[Hearthstone]# to return to Camp Mojache." },
+			[20] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Mojache# (#A_Feralas#)." },
 
 			[21] = { str = "Abandon bear, get cat back out." },
 			[22] = { str = "Turn in #Q_'Mountain Giant Muisek'# (Elite). Accept #Q_'Weapons of Spirit'#. then turn it in complete it." },
