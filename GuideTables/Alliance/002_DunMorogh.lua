@@ -115,7 +115,7 @@ Table_002_DunMorogh = {
 			[70] = { str = "Go back to #C_[22,73]# and turn in #Q_'In Defense of the King's Lands'# and #Q_'The Trogg Threat'#.", x = 22, y = 73, zone = "Loch Modan" },
 
 			[71] = { str = "Go north to the tower at #C_[24,18]# and turn in #Q_'Stormpike's Delivery'# and #Q_'Mountaineer Stormpike's Task'#.", x = 24, y = 18, zone = "Loch Modan" },
-			[72] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor# (#A_The Wetlands#), then boat to #A_Auberdine# from here." },
+			[72] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor# (#A_The Wetlands#), then boat to #A_Auberdine# (#A_Darkshore#) from here." },
 		}
 	},
 }
