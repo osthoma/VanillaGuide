@@ -151,7 +151,7 @@ Table_003_Horde_50to60 = {
 			[51] = { str = "Fly to Kargath (Badlands)." },
 			[52] = { str = "Turn in #Q_'Vivian Lagrave'#." },
 			[53] = { str = "Accept: #Q_'Dreadmaul Rock'# and #Q_'The Rise of the Machines'#." },
-			[54] = { str = "Then fly to Burning Steppes." },
+			[54] = { str = "Then fly to #A_Burning Steppes#." },
 		}
 	},
 

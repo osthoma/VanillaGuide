@@ -369,7 +369,7 @@ Table_003_Horde_40to50 = {
 
 			[21] = { str = "Make sure you keep the #N_Black Dragonflight Molt# in your inventory as you will need it for a later #N_quest#." },
 			[22] = { str = "Once all that's done, turn all Searing Gorge quests in. make sure you have all 20 solid crystal leg shafts." },
-			[23] = { str = "Head south into Burning Steppes (You have to go through Black Rock Mountains)." },
+			[23] = { str = "Head south into #A_Burning Steppes# (You have to go through Black Rock Mountains)." },
 			[24] = { str = "I discover some areas, then get flight path there at #C_[65,25]#, and fly directly to Stonard (swamp of sorrows).", x = 65, y = 25, zone = "Searing Gorge" },
 		}
 	},

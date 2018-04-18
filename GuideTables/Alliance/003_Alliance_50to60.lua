@@ -61,7 +61,7 @@ Table_003_Alliance_50to60 = {
 			[51] = { str = "Now equip the staff and run to each of the 4 towers at N:#C_[33,53]# W:#C_[36,60]# S:#C_[44,61]# E:#C_[50,54]# and either kill the guys downstairs, and run up and light the brazier." },
 			[52] = { str = "When you get them all, look for a safe spot to jump down and go in the caves at #C_[41,54]# again and through the jail bar door at #C_[37,44]# and run to the room with the golem at #C_[41,25]# and touch the candle covered stone and turn in Release Them SKIP the next part unless you wanna do it with a group, it’s very tough you have to fight that golem and a dwarf both elites.", x = 41, y = 54, zone = "Searing Gorge" },
 			[53] = { str = "Die on purpose so you end up at #A_Thorium Point# and go down to #C_[29,38]# and turn in 'Set Them Ablaze!' watch the cutscene as he turns into a dragon.", x = 29, y = 38, zone = "Searing Gorge" },
-			[54] = { str = "Open the chest on the ground accept 'Trinkets'. then open it again and complete it. Open it and keep the Black Dragonflight Molt for later In the Burning Steppes." },
+			[54] = { str = "Open the chest on the ground accept 'Trinkets'. then open it again and complete it. Open it and keep the Black Dragonflight Molt for later In the #A_Burning Steppes#." },
 			[55] = { str = "Fly to the Blasted Lands and run up into the Swamp of Sorrows." },
 			[56] = { str = "Go to #C_[81,91]# and look for a named murloc Jarquia for 'Ledger From Tanaris'.", x = 81, y = 91, zone = "Swamp of Sorrows" },
 			[57] = { str = "Once you kill him Use your #I_[Hearthstone]# to return to #A_Ironforge# then either get a portal to #A_Darnassus# or fly to #A_Menethil Harbor# then boat to #A_Auberdine# (#A_Darkshore#) and fly to #A_Darnassus#." },
@@ -329,7 +329,7 @@ Table_003_Alliance_50to60 = {
 			[31] = { str = "Go to #C_[38,55]# in the throne room and accept The Smoldering Ruins of Thaurissan then click on her and listen to the story and turn it back in, accept The Smoldering Ruins of Thaurissan(2).", x = 38, y = 55, zone = "Ironforge" },
 			[32] = { str = "In front of the flight path accept Taking Back Silithus." },
 			[33] = { str = "Fly to Lakeshire." },
-			[34] = { str = "Run north to #C_[46,6]# and enter the Burning Steppes.", x = 46, y = 6, zone = "Redridge Mountains" },
+			[34] = { str = "Run north to #C_[46,6]# and enter the #A_Burning Steppes#.", x = 46, y = 6, zone = "Redridge Mountains" },
 		}
 	},
 
@@ -360,7 +360,7 @@ Table_003_Alliance_50to60 = {
 			[20] = { str = "Go to #C_[78,18]# into the #A_Stormwind# keep and turn in The True Masters(2) accept The True Masters(3) then talk to the lady and then turn it back in and accept The True Masters(4).", x = 78, y = 18, zone = "Stormwind City" },
 
 			[21] = { str = "Fly back to Lakeshire and go to the townhall at #C_[29,44]# and turn in The True Masters(4) accept The True Masters(5).", x = 29, y = 44, zone = "Redridge Mountains" },
-			[22] = { str = "Fly to the Burning Steppes and turn in The True Masters(5) when you land and accept The True Masters(6)." },
+			[22] = { str = "Fly to the #A_Burning Steppes# and turn in The True Masters(5) when you land and accept The True Masters(6)." },
 			[23] = { str = "Run up to #C_[64,23]# and listen to ragged john then run back to #C_[84,68]# and turn in The True Masters(6) I SKIP the next part, do it later if you’re worried about speed leveling. That was an easy 30k xp for doing nothing and your ony key chain is started.", x = 64, y = 23, zone = "Burning Steps" },
 			[24] = { str = "You should be about 10k from 56, go grind until 5k on the orcs at #C_[49,55]#.", x = 49, y = 55, zone = "Burning Steps" },
 			[25] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge#." },
