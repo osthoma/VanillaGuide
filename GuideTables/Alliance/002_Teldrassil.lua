@@ -6,7 +6,7 @@ Table_002_Teldrassil = {
 			[1] = { str = "1-6 Teldrassil" },
 			[2] = { str = "Accept #Q_'The Balance of Nature'# at #C_[58,44]# and go do it by killing mobs at #C_[57,45]# and #C_[61,43]#. Turn it in at #C_[58,44]#.", x = 58, y = 44, zone = "Teldrassil" },
 			[3] = { str = "Accept #Q_'The Balance of Nature'#(2) and Etched Sigil at #C_[58,44]#. #Q_'The Woodland Protector'# at #C_[59,42]# and #Q_'A Good Friend'# at #C_[60,41]#.", x = 59, y = 42, zone = "Teldrassil" },
-			[4] = { str = "Hand in #Q_'The Woodland Protector'#  at #C_[57,45]# and accept #Q_'The Woodland Protector'#(2) Mobs are at #C_[56,46]#. Turn it in at #C_[57,45]#.", x = 56, y = 46, zone = "Teldrassil" },
+			[4] = { str = "Hand in #Q_'The Woodland Protector'# at #C_[57,45]# and accept #Q_'The Woodland Protector'#(2) Mobs are at #C_[56,46]#. Turn it in at #C_[57,45]#.", x = 56, y = 46, zone = "Teldrassil" },
 			[5] = { str = "Accept #Q_'Webwood Venom'# at #C_[57,41]#.", x = 57, y = 41, zone = "Teldrassil" },
 			[6] = { str = "Run up the ramp to the top of the tree, turn in Etched Sigil at #C_[58,40]# (hunter trainer) and get beast tracking.", x = 58, y = 40, zone = "Teldrassil" },
 			[7] = { str = "Jump down and go do the following #Q_'The Balance of Nature'#(2) mobs are all around #C_[60,35]#.", x = 60, y = 35, zone = "Teldrassil" },
