@@ -85,9 +85,9 @@ Table_002_TirisfalGlades = {
 			[22] = { str = "Get your training for level 12, and train weapons if you need to." },
 			[23] = { str = "Get on the zeppelin to go to #A_Orgrimmar#." },
 			[24] = { str = "Get the #A_Orgrimmar# flight path." },
-			[25] = { str = "Go south to #A_Razor Hill# and accept #Q_'Conscript of the Horde'#." },
+			[25] = { str = "Go south to #A_Razor Hill# (#A_Durotar#) and accept #Q_'Conscript of the Horde'#." },
 			[26] = { str = "Head west to the Barrens and turn in #Q_'Crossroads Conscription'# Accept it again." },
-			[27] = { str = "Run to the #A_Crossroads# and turn in #Q_'#Crossroads Conscription'#." },
+			[27] = { str = "Run to the #A_Crossroads# (#A_The Barrens#) and turn in #Q_'#Crossroads Conscription'#." },
 			[28] = { str = "Now you can continue with the Barrens 12-15 section which is in the FULL 1-60 guide." },
 		}
 	},

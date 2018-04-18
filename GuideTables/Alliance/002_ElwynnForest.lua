@@ -27,10 +27,10 @@ Table_002_ElwynnForest = {
 
 			[21] = { str = "Go to the top of the tower through the spiral staircase, turn in #Q_'Grape Manifest'#." },
 			[22] = { str = "Go to #C_[45,47]# and accept #Q_'Rest and Relaxation'#.", x = 45, y = 47, zone = "Elwynn Forest" },
-			[23] = { str = "If you’re not 6 you should be close, just grind on a few mobs while you head towards the house near #A_Goldshire# at #C_[46,62]# and pick up skinning if you want it.", x = 46, y = 42, zone = "Elwynn Forest" },
-			[24] = { str = "Reach #A_Goldshire# and enter the Inn at #C_[42,65]#.", x = 42, y = 65, zone = "Elwynn Forest" },
+			[23] = { str = "If you’re not 6 you should be close, just grind on a few mobs while you head towards the house near #A_Goldshire# (#A_Elwynn Forest#) at #C_[46,62]# and pick up skinning if you want it.", x = 46, y = 42, zone = "Elwynn Forest" },
+			[24] = { str = "Reach #A_Goldshire# (#A_Elwynn Forest#) and enter the Inn at #C_[42,65]#.", x = 42, y = 65, zone = "Elwynn Forest" },
 			[25] = { str = "Just to your left accept #Q_'Kobold Candles'#." },
-			[26] = { str = "Near the bar turn in #Q_'Rest and Relaxation'# and make #A_Goldshire# your home." },
+			[26] = { str = "Near the bar turn in #Q_'Rest and Relaxation'# and make #A_Goldshire# (#A_Elwynn Forest#) your home." },
 			[27] = { str = "Exit the Inn and go straight out, turn in #Q_'Report to Goldshire'#. Accept #Q_'The Fargodeep Mine'#." },
 			[28] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[29] = { str = "Go near the carts at #C_[42,67]# and accept #Q_'Gold Dust Exchange'#.", x = 42, y = 67, zone = "Elwynn Forest" },
@@ -44,7 +44,7 @@ Table_002_ElwynnForest = {
 			[36] = { str = "Go back to #C_[34,84]# and turn in #Q_'Speak with Gramma'# in the house, accept #Q_'Note to William'#.", x = 34, y = 84, zone = "Elwynn Forest" },
 			[37] = { str = "Run back east to #C_[43,85]# and turn in #Q_'Back to Billy'# accept #Q_'Goldtooth'#.", x = 43, y = 85, zone = "Elwynn Forest" },
 			[38] = { str = "Go in the bottom entrance of the fargodeep mine at #C_[39,82]# and to about #C_[41,78]# inside and kill goldtooth for #Q_'Goldtooth'# You should ding 7 sometime in the cave or before you came in.", x = 41, y = 78, zone = "Elwynn Forest" },
-			[39] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Goldshire#." },
+			[39] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Goldshire# (#A_Elwynn Forest#)." },
 			[40] = { str = "In the Inn turn in #Q_'Kobold Candles'# accept #Q_'Shipment to Stormwind'# also turn in #Q_'Note to William'# accept #Q_'Collecting Kelp'#." },
 
 			[41] = { str = "Straight outside the Inn, turn in The Fargodeep Mine accept #Q_'The Jasperlode Mine'#." },
@@ -66,7 +66,7 @@ Table_002_ElwynnForest = {
 			[56] = { str = "You might find #I_[Furlbrow's Deed]# on the defias while you’re killing defias just hold it for now." },
 			[57] = { str = "Go to #C_[79,68]# and turn in #Q_'Red Linen Goods'# it should make you lvl 9 or bring you really close.", x = 79, y = 68, zone = "Elwynn Forest" },
 			[58] = { str = "Stop at the bridge again at #C_[73,72]# and accept #Q_'Report to Gryan Stoutmantle'# must be 9 to accept.", x = 73, y = 72, zone = "Elwynn Forest" },
-			[59] = { str = "Use your #I_[Hearthstone]# to return to #A_Goldshire#." },
+			[59] = { str = "Use your #I_[Hearthstone]# to return to #A_Goldshire# (#A_Elwynn Forest#)." },
 			[60] = { str = "By the front door turn in #Q_'Collecting Kelp'# accept #Q_'The Escape'#." },
 
 			[61] = { str = "Just outside the Inn turn in #Q_'The Jasperlode Mine'# and #Q_'Deliver Thomas' Report'# SKIP #Q_'Cloth and Leather Armor'#. Accept #Q_'Westbrook Garrison Needs Help!'#." },
@@ -92,7 +92,7 @@ Table_002_ElwynnForest = {
 			[5] = { str = "Go to #C_[56,47]# and turn in #Q_'Report to Gryan Stoutmantle'#.", x = 56, y = 47, zone = "Westfall" },
 			[6] = { str = "Go in the tower and accept #Q_'A Swift Message'#." },
 			[7] = { str = "Get the flight path at #C_[56,52]# and turn in #Q_'A Swift Message'# accept #Q_'Continue to Stormwind'#.", x = 56, y = 52, zone = "Westfall" },
-			[8] = { str = "Fly to #A_Stormwind# unless you did hogger, then use your #I_[Hearthstone]# to return to #A_Goldshire# and turn it in outside the Inn then train." },
+			[8] = { str = "Fly to #A_Stormwind# unless you did hogger, then use your #I_[Hearthstone]# to return to #A_Goldshire# (#A_Elwynn Forest#) and turn it in outside the Inn then train." },
 			[9] = { str = "In #A_Stormwind# go to #C_[56,64]# and turn in #Q_'Shipment to Stormwind'#.", x = 56, y = 64, zone = "Stormwind" },
 			[10] = { str = "Train new weapons at #C_[57,57]#.", x = 57, y = 57, zone = "Stormwind" },
 

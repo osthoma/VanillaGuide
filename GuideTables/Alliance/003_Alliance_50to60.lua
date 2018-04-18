@@ -64,7 +64,7 @@ Table_003_Alliance_50to60 = {
 			[54] = { str = "Open the chest on the ground accept 'Trinkets'. then open it again and complete it. Open it and keep the Black Dragonflight Molt for later In the Burning Steppes." },
 			[55] = { str = "Fly to the Blasted Lands and run up into the Swamp of Sorrows." },
 			[56] = { str = "Go to #C_[81,91]# and look for a named murloc Jarquia for 'Ledger From Tanaris'.", x = 81, y = 91, zone = "Swamp of Sorrows" },
-			[57] = { str = "Once you kill him Use your #I_[Hearthstone]# to return to #A_Ironforge# then either get a portal to #A_Darnassus# or fly to #A_Menethil Harbor# then boat to #A_Auberdine# and fly to #A_Darnassus#." },
+			[57] = { str = "Once you kill him Use your #I_[Hearthstone]# to return to #A_Ironforge# then either get a portal to #A_Darnassus# or fly to #A_Menethil Harbor# then boat to #A_Auberdine# (#A_Darkshore#) and fly to #A_Darnassus#." },
 			[58] = { str = "Go to the top of the temple of the moon at #C_[38,80]# and turn in 'Prayer to Elune'(2).", x = 38, y = 80, zone = "darnassus" },
 			[59] = { str = "Go to the next section up here and turn in 'Rise of the Silithid. Accept 'March of the Silithid'." },
 			[60] = { str = "Go to #C_[34,9]# at the top of the tower and turn in 'Assisting Arch Druid Staghelm. Accept 'Un'Goro Soil'.", x = 34, y = 9, zone = "darnassus" },
@@ -323,7 +323,7 @@ Table_003_Alliance_50to60 = {
 			[26] = { str = "In Rut’theran Village turn in Moontouched Wildkin #C_[55,92]# accept Find Ranshalla.", x = 55, y = 92, zone = "Darnassus" },
 			[27] = { str = "Go into #A_Darnassus# up to #C_[34,8]# in the big tower and turn in The New Frontier accept The New Frontier(2) go down 1 floor and turn that in, accept Rabine Saturna.", x = 34, y = 8, zone = "Darnassus" },
 			[28] = { str = "Fly to Moonglade to #C_[51,45]# and turn in Rabine Saturna accept Wasteland.", x = 51, y = 45, zone = "Moonglade" },
-			[29] = { str = "Fly to #A_Auberdine#, boat to #A_Menethil Harbor# and fly to #A_Ironforge#, make it your home. Make sure you have your black dragonflight molt." },
+			[29] = { str = "Fly to #A_Auberdine# (#A_Darkshore#), boat to #A_Menethil Harbor# and fly to #A_Ironforge#, make it your home. Make sure you have your black dragonflight molt." },
 			[30] = { str = "Go to #C_[75,23]# and turn in A Little Slime Goes A Long Way(2).", x = 75, y = 23, zone = "Ironforge" },
 
 			[31] = { str = "Go to #C_[38,55]# in the throne room and accept The Smoldering Ruins of Thaurissan then click on her and listen to the story and turn it back in, accept The Smoldering Ruins of Thaurissan(2).", x = 38, y = 55, zone = "Ironforge" },
@@ -432,7 +432,7 @@ Table_003_Alliance_50to60 = {
 			[36] = { str = "Go to #C_[44,35]# and turn in Umber, Archivist accept Uncovering Past Secrets.", x = 44, y = 35, zone = "Moonglade" },
 			[37] = { str = "Run over to #C_[51,44]# and turn in Uncovering Past Secrets.", x = 44, y = 35, zone = "Moonglade" },
 			[38] = { str = "You should now be 80-85% into leveling." },
-			[39] = { str = "Fly to #A_Auberdine# and boat to #A_Menethil Harbor# then fly to #A_Ironforge#." },
+			[39] = { str = "Fly to #A_Auberdine# (#A_Darkshore#) and boat to #A_Menethil Harbor# then fly to #A_Ironforge#." },
 			[40] = { str = "Make #A_Ironforge# your home, then find the wandering commander dwarf and accept A Call To Arms: The Plaguelands!" },
 
 			[41] = { str = "Fly to Southshore." },
@@ -587,7 +587,7 @@ Table_003_Alliance_50to60 = {
 			[14] = { str = "Once you’re 8k-8.5k from leveling, fly to Hinterlands and run all the way NE to the waterfall at #C_[80,46]# and jump off. Under the water loot the chest and finish 'Cortello’s Riddle(3)' I bet you thought I forgot about it.", x = 80, y = 46, zone = "The Hinterlands" },
 			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge#." },
 			[16] = { str = "Go to the throne room at #C_[43,52]# and accept #Q_'An Earnest Proposition'# (pick your class from the list) You have to have your classes tier 0 bracers in order to do this quest. You can buy it on AH.", x = 43, y = 52, zone = "Ironforge" },
-			[17] = { str = "Fly to #A_Menethil Harbor# and boat to #A_Auberdine#, fly to #A_Darnassus#." },
+			[17] = { str = "Fly to #A_Menethil Harbor# and boat to #A_Auberdine# (#A_Darkshore#), fly to #A_Darnassus#." },
 			[18] = { str = "Go to #C_[35,8]# on the 2nd floor and turn in #Q_'Glyphed Oaken Branch'#.", x = 35, y = 8, zone = "Darnassus" },
 			[19] = { str = "You should be 59, fly to Winterspring." },
 		}
