@@ -28,7 +28,7 @@ Table_003_Horde_40to50 = {
 			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#) and check if you have #Q_'Dream Dust in the Swamp'# in your questlog. If not, go accept it from Krazek at #C_[27,77]#.", x = 27, y = 77, zone = "Stranglethorn Vale" },
 			[22] = { str = "Fly to #A_Grom'Gol# (#A_Stranglethorn#)." },
 			[23] = { str = "Go turn in all the #N_The Green Hills of Stranglethorn Chapters/Quests# at Nesingwary's Expedition #C_[35,10]# if you have all the pages for it, if not you have another chance to turn this in again later. You can also look in the AH for your missing pages.", x = 35, y = 10, zone = "Badlands" },
-			[24] = { str = "Then run all the way to Swamp of Sorrows, stopping along the way to accept this quest: #Q_'Nothing But the Truth'# (in Duskwood at #C_[87,35]#).", x = 87, y = 35, zone = "Duskwood" },
+			[24] = { str = "Then run all the way to Swamp of Sorrows, stopping along the way to accept this quest: #Q_'Nothing But the Truth'# (in #A_Duskwood# at #C_[87,35]#).", x = 87, y = 35, zone = "Duskwood" },
 			[25] = { str = "Then turn in #Q_'Nothing But the Truth'# (the guy right next to him)." },
 			[26] = { str = "#Q_'Nothing But the Truth'# again." },
 			[27] = { str = "Then run into Swamp of Sorrows." },
@@ -210,7 +210,7 @@ Table_003_Horde_40to50 = {
 			[17] = { str = "#Q_'Stinglasher'# along with #Q_'Zukk'ash Infestation'# #C_[74,62]#.", x = 74, y = 62, zone = "Feralas" },
 			[18] = { str = "#Q_'Screecher Spirits'# #C_[55,56]#.", x = 55, y = 56, zone = "Feralas" },
 			[19] = { str = "#Q_'The Ogres of Feralas'#(2) #C_[59,68]#.", x = 59, y = 68, zone = "Feralas" },
-			[20] = { str = "#VIDEONOTE:# While in this area, make sure you pick up a #N_Hippogryph Egg# down south-west (around #C_[55,76]#), this will be turned in at Tanaris for a later #N_quest#.", x = 53, y = 76, zone = "Feralas" },
+			[20] = { str = "#VIDEONOTE:# While in this area, make sure you pick up a #N_Hippogryph Egg# down south-west (around #C_[55,76]#), this will be turned in at #A_Tanaris# for a later #N_quest#.", x = 53, y = 76, zone = "Feralas" },
 
 			[21] = { str = "#Q_'Dark Ceremony'# #C_[59,68]#.", x = 59, y = 68, zone = "Feralas" },
 			[22] = { str = "#Q_'The Mark of Quality'# #C_[53,55]#.", x = 53, y = 55, zone = "Feralas" },
@@ -404,7 +404,7 @@ Table_003_Horde_40to50 = {
 			[22] = { str = "Then die on purpose, so you end up back at Brackenwall Village." },
 			[23] = { str = "Turn in #Q_'The Brood of Onyxia'#. Accept #Q_'Challenge Overlord Mok'Morokk'# (??? TBC Quest)." },
 			[24] = { str = "Do #Q_'Challenge Overlord Mok'Morokk'# Then turn it in. (??? TBC Quest)." },
-			[25] = { str = "Then fly to Tanaris." },
+			[25] = { str = "Then fly to #A_Tanaris#." },
 			[26] = { str = "Turn in #Q_'Ledger from Tanaris'# and #Q_'Into the Field'#. Accept and complete #Q_'Slake that Thirst'#." },
 			[27] = { str = "Then fly to Ferelas." },
 		}
@@ -440,7 +440,7 @@ Table_003_Horde_40to50 = {
 			[22] = { str = "Turn in #Q_'Mountain Giant Muisek'# (Elite). Accept #Q_'Weapons of Spirit'#. then turn it in complete it." },
 			[23] = { str = "Turn in #Q_'Improved Quality'#, #Q_'Perfect Yeti Hide'#, #Q_'Vengeance on the Northspring'# and #Q_'Dark Heart'#." },
 			[24] = { str = "Accept #Q_'The Strength of Corruption'#." },
-			[25] = { str = "Fly to Tanaris." },
+			[25] = { str = "Fly to #A_Tanaris#." },
 		}
 	},
 

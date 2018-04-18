@@ -28,13 +28,13 @@ Table_003_Alliance_20to30 = {
 			[6] = { str = "Go back to Maestra’s Post at #C_[26,38]# and turn in #Q_'The Tower of Althalaxx'#(4) Accept #Q_'The Tower of Althalaxx'#(5).", x = 26, y = 36, zone = "Ashenvale" },
 			[7] = { str = "Turn in #Q_'Bathran's Hair'# accept #Q_'Orendil's Cure'#." },
 			[8] = { str = "Go to #C_[22,51]# turn in #Q_'Therylune's Escape'#.", x = 22, y = 51, zone = "Ashenvale" },
-			[9] = { str = "Run into #A_Astranaar# at #C_[33,48]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 33, y = 48, zone = "Ashenvale" },
+			[9] = { str = "Run into #A_Astranaar# (#A_Ashenvale#) at #C_[33,48]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 33, y = 48, zone = "Ashenvale" },
 			[10] = { str = "Accept #Q_'The Zoram Strand'# right as you enter town." },
 
 			[11] = { str = "Accept #Q_'On Guard in Stonetalon'# on the house to the right." },
 			[12] = { str = "Cross the road near the gazebo accept #Q_'Journey to Stonetalon Peak'#." },
 			[13] = { str = "In the Inn accept #Q_'Raene's Cleansing'# and #Q_'Culling the Threat'#." },
-			[14] = { str = "Make #A_Astranaar# your home." },
+			[14] = { str = "Make #A_Astranaar# (#A_Ashenvale#) your home." },
 			[15] = { str = "Turn in #Q_'Orendil's Cure'# at the last house accept #Q_'Elune's Tear'#." },
 			[16] = { str = "Go to #Q_'The Zoram Strand'#. Stop at #C_[14,31]# accept #Q_'The Ancient Statuette'#.", x = 14, y = 31, zone = "Ashenvale" },
 			[17] = { str = "Do #Q_'The Zoram Strand'# Naga all around here." },
@@ -44,17 +44,17 @@ Table_003_Alliance_20to30 = {
 
 			[21] = { str = "Turn in #Q_'Ruuzel'# at #C_[14,31]#.", x = 14, y = 31, zone = "Ashenvale" },
 			[22] = { str = "Turn in #Q_'Raene's Cleansing'# at #C_[20,42]# accept #Q_'Raene’s Cleansing'#(2) Kill murlocs for the gem.", x = 20, y = 42, zone = "Ashenvale" },
-			[23] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar#." },
+			[23] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar# (#A_Ashenvale#)." },
 			[24] = { str = "Turn in #Q_'The Zoram Strand'# right as you enter town accept #Q_'Pridewings of Stonetalon'#." },
 			[25] = { str = "Go to the Inn Turn in #Q_'Raene’s Cleansing'#(2) accept #Q_'Raene’s Cleansing'#(3) and #Q_'An Aggressive Defense'#." },
 			[26] = { str = "Grind to #C_[46,46]# and grab #Q_'Elune's Tear'#.", x = 46, y = 46, zone = "Ashenvale" },
 			[27] = { str = "Go to #C_[49,56]# then grind north to #C_[53,46]# turn in #Q_'Raene’s Cleansing'#(3) accept #Q_'Raene’s Cleansing'#(4).", x = 49, y = 56, zone = "Ashenvale" },
 			[28] = { str = "You should already be 22. Go to #C_[55,61]# and do #Q_'An Aggressive Defense'#.", x = 55, y = 61, zone = "Ashenvale" },
-			[29] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar#." },
+			[29] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar# (#A_Ashenvale#)." },
 			[30] = { str = "Turn in #Q_'An Aggressive Defense'#." },
 
 			[31] = { str = "Go to the east exit house, turn in #Q_'Elune's Tear'#. Accept #Q_'The Ruins of Stardust'#." },
-			[32] = { str = "Exit #A_Astranaar# out the east exit follow the south path till you are at #C_[33,66]# and grab stardust covered bushes for #Q_'The Ruins of Stardust'#.", x = 33, y = 66, zone = "Ashenvale" },
+			[32] = { str = "Exit #A_Astranaar# (#A_Ashenvale#) out the east exit follow the south path till you are at #C_[33,66]# and grab stardust covered bushes for #Q_'The Ruins of Stardust'#.", x = 33, y = 66, zone = "Ashenvale" },
 			[33] = { str = "Grind east to Talondeep path at #C_[42,71]#.", x = 42, y = 71, zone = "Ashenvale" },
  		}
 	},
@@ -100,7 +100,7 @@ Table_003_Alliance_20to30 = {
 			[17] = { str = "If you’re not 24 yet or 1750 xp to 24, grind to 1750 until you level." },
 			[18] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# (#A_Darkshore#)." },
 			[19] = { str = "Turn in #Q_'Escape Through Force'# at the house before exiting town. Accept #Q_'Trek to Ashenvale'#." },
-			[20] = { str = "Talk to your #N_Class Trainer# in #A_Darnassus# to learn new spells and abilities. Then Fly to #A_Astranaar#." },
+			[20] = { str = "Talk to your #N_Class Trainer# in #A_Darnassus# to learn new spells and abilities. Then Fly to #A_Astranaar# (#A_Ashenvale#)." },
  		}
 	},
 
@@ -117,7 +117,7 @@ Table_003_Alliance_20to30 = {
 			[7] = { str = "I then grind furbolg’s until I’m half way to 25." },
 			[8] = { str = "Then run to Maestra’s Post at #C_[26,38]# turn in #Q_'The Tower of Althalaxx'#(5) accept #Q_'The Tower of Althalaxx'#(6).", x = 26, y = 38, zone = "Ashenvale" },
 			[9] = { str = "Accept #Q_'Supplies to Auberdine'# (escort) may seem out of the way, you run into a fight of 4, and 2 fights of 3. You only go to the darkshore border and it completes. Easy 2900 xp, not far out of the way. Turn it back in at #C_[26,38]#.", x = 26, y = 38, zone = "Ashenvale" },
-			[10] = { str = "Run to #A_Astranaar#." },
+			[10] = { str = "Run to #A_Astranaar# (#A_Ashenvale#)." },
 
 			[11] = { str = "Turn in #Q_'Culling the Threat'# at the inn." },
 			[12] = { str = "Run down to Silverwing Refuge at #C_[49,67]# and accept #Q_'Elemental Bracers'# do it in the lake here.", x = 49, y = 67, zone = "Ashenvale" },
@@ -189,7 +189,7 @@ Table_003_Alliance_20to30 = {
 
 			[51] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Hand in #Q_'An Old Colleague'# at #C_[71,51]# SKIP the next part.", x = 71, y = 51, zone = "Ironforge" },
 			[52] = { str = "Fly to #A_Stormwind#, hand in #Q_'A Scroll From Mauren'# at #C_[43,80]# SKIP the next part.", x = 43, y = 80, zone = "Stormwind City" },
-			[53] = { str = "Fly to Lakeshire." },
+			[53] = { str = "Fly to #A_Lakeshire# (#A_Redridge Mountains#)." },
  		}
 	},
 
@@ -202,20 +202,20 @@ Table_003_Alliance_20to30 = {
 			[3] = { str = "Accept #Q_'Blackrock Menace'# just over bridge on right." },
 			[4] = { str = "Go in the town hall, accept #Q_'Solomon's Law'#." },
 			[5] = { str = "Accept #Q_'Wanted: Lieutenant Fangore'# Outside the Inn on the wall." },
-			[6] = { str = "Make Lakeshire your home." },
+			[6] = { str = "Make #A_Lakeshire# (#A_Redridge Mountains#) your home." },
 			[7] = { str = "Just west of town at the house past the inn, accept #Q_'An Unwelcome Guest'# now go do it just west of this house at #C_[16,49]# (Bellygrub) kill him then hand it back in.", x = 16, y = 49, zone = "Redridge Mountains" },
 			[8] = { str = "Go to Render’s Camp at #C_[44,19]# and kill the orcs here for #Q_'Blackrock Menace'# while you head NW to #C_[34,7]# for #Q_'Blackrock Bounty'#.", x = 44, y = 19, zone = "Redridge Mountains" },
 			[9] = { str = "Once at the cave kill for the axes and champions Go left when you go in towards the down area with water, there is an escort quest here." },
 			[10] = { str = "You should have your axes and champions killed by the time you get to the escort. If not you can kill them on your way out." },
 
-			[11] = { str = "Get the escort quest #Q_'Missing In Action'# at #C_[28,12]# in the cave and escort him out. He’s a 25 elite so he won’t die easy. Once you’re out of the camp he starts running back to Lakeshire, turn the quest in right where you stop as well as #Q_'Blackrock Menace'# SKIP Tharil'Zun.", x = 28, y = 12, zone = "Redridge Mountains" },
+			[11] = { str = "Get the escort quest #Q_'Missing In Action'# at #C_[28,12]# in the cave and escort him out. He’s a 25 elite so he won’t die easy. Once you’re out of the camp he starts running back to #A_Lakeshire# (#A_Redridge Mountains#), turn the quest in right where you stop as well as #Q_'Blackrock Menace'# SKIP Tharil'Zun.", x = 28, y = 12, zone = "Redridge Mountains" },
 			[12] = { str = "Run over the Bridge near the flight path turn in, #Q_'Blackrock Bounty'#." },
 			[13] = { str = "Kill the Gnolls all around #C_[74,42]# for #Q_'Solomon's Law'# and Keep an eye out for #Q_'Wanted: Lieutenant Fangore'# he is at #C_[80,40]# Make sure you clear the mobs around him or they come running in.", x = 74, y = 42, zone = "Redridge Mountains" },
 			[14] = { str = "Once you got those both done, grind on these shadowhide until youre about 4k or 2 bars from 28." },
-			[15] = { str = "Use your #I_[Hearthstone]# to return to Lakeshire." },
+			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Lakeshire# (#A_Redridge Mountains#)." },
 			[16] = { str = "Go in the town hall and turn in both #Q_'Solomon's Law'# and #Q_'Wanted: Lieutenant Fangore'#." },
 			[17] = { str = "You should have hit 28 after that." },
-			[18] = { str = "Run down to the SW corner of Redredge Mountains, and take the path that forks south into Duskwood." },
+			[18] = { str = "Run down to the SW corner of #A_Redridge Mountains#, and take the path that forks south into #A_Duskwood#." },
  		}
 	},
 
@@ -224,8 +224,8 @@ Table_003_Alliance_20to30 = {
  		title = "28-29 Duskwood",
  		items = {
 			[1] = { str = "28-29 Duskwood" },
-			[2] = { str = "Note on Duskwood, it has a few long, pointless chains that you only do a few parts of, then SKIP the rest." },
-			[3] = { str = "Follow the road until you get to Darkshire. Unlock the flight path by talking to the #N_Flight Master# at #C_[72,44]#.", x = 72, y = 44, zone = "Duskwood" },
+			[2] = { str = "Note on #A_Duskwood#, it has a few long, pointless chains that you only do a few parts of, then SKIP the rest." },
+			[3] = { str = "Follow the road until you get to #A_Darkshire# (#A_Duskwood#). Unlock the flight path by talking to the #N_Flight Master# at #C_[72,44]#.", x = 72, y = 44, zone = "Duskwood" },
 			[4] = { str = "Go to the house just south of flight path at #C_[79,47]# accept #Q_'Look to the Stars'# Buy a bronze tube from the gnome engineer just south of here at #C_[78,48]# and hand it back in, accept #Q_'Look to the Stars'#(2).", x = 79, y = 47, zone = "Duskwood" },
 			[5] = { str = "Go towards town and the first big house on the left outside accept #Q_'Worgen in the Woods'#." },
 			[6] = { str = "Go in the house and accept #Q_'Raven Hill'# #Q_'The Hermit'# and #Q_'Deliveries to Sven'#." },
@@ -234,7 +234,7 @@ Table_003_Alliance_20to30 = {
 			[9] = { str = "Exit and go to the right, accept #Q_'The Night Watch'#." },
 			[10] = { str = "Turn in #Q_'The Legend of Stalvan'# SKIP the rest." },
 
-			[11] = { str = "Start off doing #Q_'Worgen in the Woods'# to the east of Duskwood around #C_[64,46]# by killing Nightbane Shadow Weaver.", x = 64, y = 46, zone = "Duskwood" },
+			[11] = { str = "Start off doing #Q_'Worgen in the Woods'# to the east of #A_Duskwood# around #C_[64,46]# by killing Nightbane Shadow Weaver.", x = 64, y = 46, zone = "Duskwood" },
 			[12] = { str = "Turn in #Q_'Worgen in the Woods'# back in the center of town, accept #Q_'Worgen in the Woods'#(2)." },
 			[13] = { str = "Go back to around #C_[64,46]# and kill Nightbane Dark Runners now for #Q_'Worgen in the Woods'#(2) There are a lot in the camps.", x = 64, y = 46, zone = "Duskwood" },
 			[14] = { str = "Go turn in #Q_'Worgen in the Woods'#(2) in the center of town again and accept #Q_'Worgen in the Woods'#(3)." },
@@ -242,7 +242,7 @@ Table_003_Alliance_20to30 = {
 			[16] = { str = "Do #Q_'The Night Watch'# and the skeleton finger part of #Q_'The Totem of Infliction'# at Tranquil Garden Cemetary around #C_[79,70]#.", x = 79, y = 70, zone = "Duskwood" },
 			[17] = { str = "Get Mary’s Looking Glass for #Q_'Look to the Stars'#(3) inside the chapel here from the insane ghoul." },
 			[18] = { str = "Kill the mobs around #C_[73,73]# inside and out of the cave for #Q_'Worgen in the Woods'#(3).", x = 73, y = 73, zone = "Duskwood" },
-			[19] = { str = "Use your #I_[Hearthstone]# to return to Darkshire." },
+			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Darkshire# (#A_Duskwood#)." },
 			[20] = { str = "Just outside the Inn, hand in #Q_'The Night Watch'# accept #Q_'The Night Watch'#(2)." },
 
 			[21] = { str = "Go east from here and hand in #Q_'Worgen in the Woods'#(3) accept #Q_'Worgen in the Woods'#(4) go in the house and turn that in." },
@@ -257,18 +257,18 @@ Table_003_Alliance_20to30 = {
 			[30] = { str = "Go to #C_[17,29]# at the grave and get #Q_'The Weathered Grave'#.", x = 17, y = 29, zone = "Duskwood" },
 
 			[31] = { str = "Run to #C_[7,34]# and turn in #Q_'Deliveries to Sven'# accept #Q_'Sven's Revenge'#.", x = 7, y = 34, zone = "Duskwood" },
-			[32] = { str = "Use your #I_[Hearthstone]# to return to Darkshire." },
+			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Darkshire# (#A_Duskwood#)." },
 			[33] = { str = "Right in front of the inn, turn in #Q_'The Night Watch'#(2) accept #Q_'The Night Watch'#(3)." },
 			[34] = { str = "Go in town hall, turn in #Q_'The Weathered Grave'# accept #Q_'Morgan Ladimore'# Turn it in just out front of the town hall SKIP #Q_'Mor'Ladim'#." },
 			[35] = { str = "Go in the house east of the Inn, turn in #Q_'The Totem of Infliction'# and #Q_'Supplies From Darkshire'#. Accept #Q_'Ghost Hair Thread'#." },
 			[36] = { str = "Go in the last house to the east, turn in #Q_'Look to the Stars'#(4)." },
 			[37] = { str = "Go to Blind Mary in the house at #C_[81,59]# turn in #Q_'Ghost Hair Thread'#. Accept #Q_'Return the Comb'# Go turn it in at the house east of the Inn, accept #Q_'Deliver the Thread'#.", x = 81, y = 59, zone = "Duskwood" },
-			[38] = { str = "Go to #C_[49,77]# (you can sneak around everything to here by going towards STV and then to this location) and turn in #Q_'Sven's Revenge'# accept Sven’s Camp.", x = 49, y = 77, zone = "Duskwood" },
+			[38] = { str = "Go to #C_[49,77]# (you can sneak around everything to here by going towards #A_Stranglethorn# and then to this location) and turn in #Q_'Sven's Revenge'# accept Sven’s Camp.", x = 49, y = 77, zone = "Duskwood" },
 			[39] = { str = "Run up to the shack NE of Raven Hill and hand in #Q_'Deliver the Thread'#. Accept #Q_'Zombie Juice'#." },
 			[40] = { str = "Go to the underground at #C_[23,35]# kill plagued spreaders just around here and down inside for #Q_'The Night Watch'#(3) you probably won’t get them all in 1 pass.", x = 23, y = 35, zone = "Duskwood" },
 
 			[41] = { str = "Grind your way back out then over to Sven at #C_[7,34]# hand in #Q_'Sven's Revenge'#. Accept #Q_'The Shadowy Figure'#.", x = 7, y = 34, zone = "Duskwood" },
-			[42] = { str = "Use your #I_[Hearthstone]# to return to Darkshire." },
+			[42] = { str = "Use your #I_[Hearthstone]# to return to #A_Darkshire# (#A_Duskwood#)." },
 			[43] = { str = "Turn in #Q_'Zombie Juice'# right in front of you, SKIP the rest." },
 			[44] = { str = "Turn in #Q_'The Night Watch'#(3) right outside the Inn." },
 			[45] = { str = "Turn in #Q_'The Shadowy Figure'# at the house east of the Inn. Accept #Q_'The Shadowy Search Continues'#." },
@@ -283,7 +283,7 @@ Table_003_Alliance_20to30 = {
  		title = "29-30 Ashenvale",
  		items = {
 			[1] = { str = "29-30 Ashenvale" },
-			[2] = { str = "Make #A_Astranaar# your home." },
+			[2] = { str = "Make #A_Astranaar# (#A_Ashenvale#) your home." },
 			[3] = { str = "Stop at #C_[66,56]# and touch the crystal for the first part of #Q_'The Tower of Althalaxx'#(6).", x = 66, y = 56, zone = "Ashenvale" },
 			[4] = { str = "Kill Withered Ancients for the Wooden Key for #Q_'Raene’s Cleansing'#(4) around #C_[55,35]# then use the key on the chest at #C_[54,35]#.", x = 55, y = 35, zone = "Ashenvale" },
 			[5] = { str = "Run to #C_[53,46]# turn in #Q_'Raene’s Cleansing'#(4) accept #Q_'Raene’s Cleansing'#(5).", x = 53, y = 46, zone = "Ashenvale" },
@@ -294,7 +294,7 @@ Table_003_Alliance_20to30 = {
 			[10] = { str = "Go to #C_[75,71]# and do #Q_'Forsaken Diseases'# the bottle is on the table.", x = 75, y = 71, zone = "Ashenvale" },
 
 			[11] = { str = "Hand in #Q_'Forsaken Diseases'# at #C_[85,44]# SKIP the next part.", x = 85, y = 44, zone = "Ashenvale" },
-			[12] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar#." },
+			[12] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar# (#A_Ashenvale#)." },
 			[13] = { str = "Turn in #Q_'Fallen Sky Lake'# at the last house on the east side of town." },
 			[14] = { str = "Go to #C_[53,46]# turn in #Q_'Raene’s Cleansing'#(5) accept #Q_'Raene's Cleansing'#(5) Go turn it in at the shrine inside the tree at #C_[56,49]# accept #Q_'Raene’s Cleansing'#(6) Turn it back in at the moonwell at #C_[53,46]# accept #Q_'Raene’s Cleansing'#(7) die so you end up near town.", x = 53, y = 46, zone = "Ashenvale" },
 			[15] = { str = "Hand in #Q_'Raene’s Cleansing'#(7) at the Inn, SKIP the rest but keep the rod, you can use it forever to transform for fun =P." },
@@ -321,12 +321,12 @@ Table_003_Alliance_20to30 = {
 
 			[11] = { str = "Go half way across the bridge to #C_[51,8]# and go in the door that leads down, look for the dead dwarf body, hand in #Q_'The Thandol Span'# accept #Q_'The Thandol Span'#(2) turn that back in at the camp at #C_[49,18]# accept #Q_'The Thandol Span'#(3).", x = 51, y = 8, zone = "Wetlands" },
 			[12] = { str = "Go back over the bridge, just to the right is a tinier bridge. Cross it and destroy the explosives cart for #Q_'The Thandol Span'#(3) at #C_[48,88]# accept #Q_'Plea to the Alliance'#.", x = 48, y = 88, zone = "Wetlands" },
-			[13] = { str = "Run into Arathi Highlands to Refuge Point at #C_[45,47]# and hand in #Q_'Plea to the Alliance'#.", x = 45, y = 47, zone = "Arathi Highlands" },
+			[13] = { str = "Run into Arathi Highlands to #A_Refuge Point# (#A_Arathi Highlands#) at #C_[45,47]# and hand in #Q_'Plea to the Alliance'#.", x = 45, y = 47, zone = "Arathi Highlands" },
 			[14] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[15] = { str = "You should be half way to 31 or more by now." },
-			[16] = { str = "Run towards Hillsbrad Foothills." },
+			[16] = { str = "Run towards #A_Hillsbrad Foothills#." },
 			[17] = { str = "Stop at #C_[27,49]# and run south into Stormgarde Keep, at the first intersection go right and hug the wall around over the bridge, buy all 3 first aid books at #C_[26,58]#.", x = 27, y = 49, zone = "Arathi Highlands" },
-			[18] = { str = "Continue heading to Hillsbrad." },
+			[18] = { str = "Continue heading to #A_Hillsbrad Foothills#" },
  		}
 	},
 }

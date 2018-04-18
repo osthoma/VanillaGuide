@@ -79,12 +79,12 @@ Table_003_Horde_50to60 = {
 			[17] = { str = "Turn in all quests." },
 			[18] = { str = "I turn in #Q_'The Decisive Striker'# in last for Ground Scorpok Assay (+50 to agility)." },
 			[19] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
-			[20] = { str = "Fly to Tanaris (GET A MITHRIL CASING for a later quest in Un'Goro!!!)." },
+			[20] = { str = "Fly to #A_Tanaris# (GET A MITHRIL CASING for a later quest in Un'Goro!!!)." },
 
 			[21] = { str = "Turn in #Q_'Sprinkle's Secret Ingredient'#. Accept #Q_'Delivery for Marin'#." },
 			[22] = { str = "Turn in #Q_'March of the Silithid'#. Accept #Q_'Bungle in the Jungle'#." },
 			[23] = { str = "Turn in #Q_'Delivery for Marin'#.accept #Q_'Noggenfogger Elixir'# then turn it in." },
-			[24] = { str = "Go turn in #Q_'The Stone Circle'# (at #C_[52,46]# in Tanaris).", x = 52, y = 46, zone = "Tanaris" },
+			[24] = { str = "Go turn in #Q_'The Stone Circle'# (at #C_[52,46]# in #A_Tanaris#).", x = 52, y = 46, zone = "Tanaris" },
 			[25] = { str = "Then go into #A_Un'Goro Crater#." },
 		}
 	},
@@ -133,7 +133,7 @@ Table_003_Horde_50to60 = {
 			[35] = { str = "#Q_'The Western Pylon'# at #C_[23,58]#.", x = 23, y = 58, zone = "Un'Goro Crater" },
 			[36] = { str = "Go back to #A_Marshal's Refuge# killing oozes along the way." },
 			[37] = { str = "Turn in quests. make sure you complete #Q_'Making Sense of It'# (just talk to the gnome in the cave)." },
-			[38] = { str = "Fly to Tanaris." },
+			[38] = { str = "Fly to #A_Tanaris#." },
 			[39] = { str = "Turn in #Q_'Super Sticky'# and #Q_'Bungle in the Jungle'#. I SKIP '#N_Pawn Captures Queen'#." },
 			[40] = { str = "Then fly to #A_Thunder Bluff#." },
 
@@ -306,7 +306,7 @@ Table_003_Horde_50to60 = {
 			[24] = { str = "If you happen to see #N_Warcaller Gorlach#, accept #Q_'A Call To Arms: The Plaguelands!'#." },
 			[25] = { str = "Fly to #A_Thunder Bluff#, then directly to Camp Mojache, Ferelas." },
 			[26] = { str = "Turn in #Q_'The Strength of Corruption'#." },
-			[27] = { str = "Then fly to Tanaris." },
+			[27] = { str = "Then fly to #A_Tanaris#." },
 			[28] = { str = "Go scare #N_Sprinkle# with the mechanical yeti for the quest #Q_'Are We There, Yeti?'#(3)." },
 			[29] = { str = "Then fly to #A_Silithus#." },
 		}

@@ -148,7 +148,7 @@ Table_003_Alliance_12to20 = {
 			[7] = { str = "Accept #Q_'Hilary's Necklace'# on the dock." },
 			[8] = { str = "Accept #Q_'Selling Fish'# near the shed out front." },
 			[9] = { str = "Go in the Inn and accept #Q_'A Free Lunch'#, SKIP Dry Times." },
-			[10] = { str = "Go west of Lakeshire and accept #Q_'Redridge Goulash'#." },
+			[10] = { str = "Go west of #A_Lakeshire# (#A_Redridge Mountains#) and accept #Q_'Redridge Goulash'#." },
 
 			[11] = { str = "Get Great Goretusk Snouts just west of the houses (watch out for bellygrub we’ll get him later) for #Q_'Redridge Goulash'#." },
 			[12] = { str = "Then head toward #C_[41,54]# to do #Q_'The Lost Tools'# and do #Q_'Selling Fish'# by killing murlocs, keep an eye out for a glinting mud pile underwater for #Q_'Hilary's Necklace'# Save at least 8 murloc fins for a later quest.", x = 41, y = 54, zone = "Redridge Mountains" },
@@ -163,11 +163,11 @@ Table_003_Alliance_12to20 = {
 
 			[21] = { str = "Turn in #Q_'Assessing the Threat'# near the flight path." },
 			[22] = { str = "Accept #Q_'Murloc Poachers'# (requires lvl 20) in front of the shed." },
-			[23] = { str = "Stop at the house just west of Lakeshire, turn in #Q_'Visit the Herbalist'# accept #Q_'Delivering Daffodils'#." },
+			[23] = { str = "Stop at the house just west of #A_Lakeshire# (#A_Redridge Mountains#), turn in #Q_'Visit the Herbalist'# accept #Q_'Delivering Daffodils'#." },
 			[24] = { str = "Go to the next house, turn in #Q_'Redridge Goulash'#." },
 			[25] = { str = "Go in the Inn and turn in #Q_'Delivering Daffodils'#." },
 			[26] = { str = "Kill Murlocs east of the bridge for #Q_'Murloc Poachers'#." },
-			[27] = { str = "Kill Gnolls north of Lakeshire for #Q_'The Everstill Bridge'#." },
+			[27] = { str = "Kill Gnolls north of #A_Lakeshire# (#A_Redridge Mountains#) for #Q_'The Everstill Bridge'#." },
 			[28] = { str = "Turn in #Q_'The Everstill Bridge'# next to the Bridge." },
 			[29] = { str = "Turn in #Q_'Murloc Poachers'# in front of the shed." },
 			[30] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine#. You should definitely be 20 by this point and at least half way to 21." },

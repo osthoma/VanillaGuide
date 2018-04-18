@@ -36,8 +36,8 @@ Table_003_Alliance_40to50 = {
 			[29] = { str = "Go in the house behind the Inn and turn in #Q_'Badlands Reagent Run'# accept the Uldaman part." },
 			[30] = { str = "Run to #C_[65,65]# turn in #Q_'Murdaloc'# accept the Uldaman part I’m almost 25% into 41 now.", x = 65, y = 65, zone = "Loch Modan" },
 
-			[31] = { str = "Fly to Duskwood, make it your home. Fly to #A_Stormwind# Go to #C_[64,20]# and accept In Search of The Temple.", x = 64, y = 20, zone = "Stormwind" },
-			[32] = { str = "Fly back to Duskwood, Run into Swamp of Sorrows." },
+			[31] = { str = "Fly to #A_Duskwood#, make it your home. Fly to #A_Stormwind# Go to #C_[64,20]# and accept In Search of The Temple.", x = 64, y = 20, zone = "Stormwind" },
+			[32] = { str = "Fly back to #A_Duskwood#, Run into Swamp of Sorrows." },
 		}
 	},
 
@@ -59,7 +59,7 @@ Table_003_Alliance_40to50 = {
 			[11] = { str = "Grind down to #C_[48,39]# to the busted up looking tent and open the chest to complete 'Galen’s Escape'.", x = 48, y = 39, zone = "Swamp of Sorrows" },
 			[12] = { str = "Go back to #C_[26,31]# and turn in #Q_'Draenethyst Crystals'#.", x = 26, y = 31, zone = "Swamp of Sorrows" },
 			[13] = { str = "Go to #C_[26,59]# and turn in #Q_'The Lost Caravan'# accept #Q_'Driftwood'#.", x = 26, y = 59, zone = "Swamp of Sorrows" },
-			[14] = { str = "Run through the swamp and go south into the Blasted Lands at #C_[36,59]# and over to Nethergarde Keep at #C_[54,78]#. Unlock the flight path by talking to the #N_Flight Master# and fly to Darkshire.", x = 54, y = 78, zone = "Blasted Lands" },
+			[14] = { str = "Run through the swamp and go south into the Blasted Lands at #C_[36,59]# and over to Nethergarde Keep at #C_[54,78]#. Unlock the flight path by talking to the #N_Flight Master# and fly to #A_Darkshire# (#A_Duskwood#).", x = 54, y = 78, zone = "Blasted Lands" },
 			[15] = { str = "Stable your cat and get the badlands cat back out." },
 			[16] = { str = "Grab #Q_'Supplies for Nethergarde'# on your way back NE." },
 			[17] = { str = "Fly back to Nethergarde, turn in #Q_'Supplies for Nethergarde'# easy xp." },
@@ -67,12 +67,12 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Run up to the lake around the Sunken Temple at #C_[70,54]# and you should get a complete message for In Search of The Temple.", x = 70, y = 54, zone = "Swamp of Sorrows" },
 			[20] = { str = "Go up to about #C_[76,6]# and start killing silt and monstrous crawlers and work your way south for '… and bugs' until it’s done. Also look for wood planks on the ground for #Q_'Driftwood'#.", x = 76, y = 6, zone = "Swamp of Sorrows" },
 
-			[21] = { str = "Use your #I_[Hearthstone]# to return to Darkshire and get your cat back out." },
+			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Darkshire# (#A_Duskwood#) and get your cat back out." },
 			[22] = { str = "Fly to Nethergarde and run back up into the swamp." },
 			[23] = { str = "Go to #C_[26,59]# and turn in #Q_'Driftwood'# accept #Q_'Deliver the Shipment'#.", x = 26, y = 59, zone = "Swamp of Sorrows" },
 			[24] = { str = "Run down into the Blasted Lands and turn in #Q_'Deliver the Shipment'# at #C_[66,21]#.", x = 66, y = 21, zone = "Blasted Lands" },
 			[25] = { str = "Fly to #A_Booty Bay# and turn in #Q_'Dream Dust In the Swamp'# atop the Inn and accept #Q_'Rumors for Kravel'#." },
-			[26] = { str = "Get on the ship to Rachet and fly to Theramore and turn in '… and bugs' at the Inn." },
+			[26] = { str = "Get on the ship to #A_Ratchet# (#A_The Barrens#) and fly to Theramore and turn in '… and bugs' at the Inn." },
 			[27] = { str = "Fly to Desolace." },
 		}
 	},
@@ -134,8 +134,8 @@ Table_003_Alliance_40to50 = {
 			[25] = { str = "Turn in 'Zanzil's Secret'." },
 			[26] = { str = "Go down by the Bank, turn in 'Akiris By the Bundle. Accept 'Akiris By the Bundle'(2)." },
 			[27] = { str = "Go to the house in front of the half boat, turn in #Q_'Voodoo Dues'# accept 'Cracking Maury's Foot'." },
-			[28] = { str = "Get on the boat to Rachet then fly to Theramore." },
-			[29] = { str = "Turn in 'Akiris By the Bundle'(2) in front of you, fly to Gadget." },
+			[28] = { str = "Get on the boat to #A_Ratchet# (#A_The Barrens#) then fly to Theramore." },
+			[29] = { str = "Turn in 'Akiris By the Bundle'(2) in front of you, fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
 
@@ -145,14 +145,14 @@ Table_003_Alliance_40to50 = {
 		items = {
 			[1] = { str = "43-43 Tanaris" },
 			[2] = { str = "Accept #Q_'Wastewander Justice'# and #Q_'Water Pouch Bounty'#." },
-			[3] = { str = "Make Gadget your home." },
+			[3] = { str = "Make #A_Gadgetzan# (#A_Tanaris#) your home." },
 			[4] = { str = "Go in front of the cage and grab the 2 quests off the sign 'WANTED: Caliph Scorpidsting' and 'WANTED: Andre Firebeard'." },
 			[5] = { str = "Turn in 'Tran'Rek' SKIP the next part." },
 			[6] = { str = "On the left side of town on the hill accept #Q_'Gadgetzan Water Survey'#." },
 			[7] = { str = "Go to The Shimmering Flats to #C_[77,77]# and turn in #Q_'Rumors for Kravel'# accept #Q_'Back to Booty Bay'#.", x = 77, y = 77, zone = "Thousand Needles" },
 			[8] = { str = "Just beside him turn in #Q_'News for Fizzle'#." },
 			[9] = { str = "Go to #C_[80,75]# and accept #Q_'Keeping Pace'# do it by talking with zamek just south of here, has a blue ? on his head. Don’t follow him, run to rizzles house at #C_[77,77]# and when he leaves grab the unguarded plans which turns in #Q_'Keeping Pace'# accept 'Rizzle's Schematics' turn it in at #C_[80,75]#.", x = 80, y = 75, zone = "Thousand Needles" },
-			[10] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
+			[10] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#)." },
 
 			[11] = { str = "Run out to Steamwheedle Port at #C_[59,80]#.", x = 59, y = 80, zone = "Tanaris" },
 			[12] = { str = "Turn in Stoley's Debt at the southern most house, accept 'Stoley’s Shipment' and 'Southsea Shakedown'." },
@@ -163,18 +163,18 @@ Table_003_Alliance_40to50 = {
 			[17] = { str = "1You may get some drops of Pirate's Footlocker which can hold Ship Schedule and the upper middle and lower map fragments which starts 'Cuergo’s Gold' and 'Ship Schedules' only do them if you find them. If I don’t find them all I skip them or sell what I have." },
 			[18] = { str = "Kill Andre Firebeard at #C_[73,47]# for 'WANTED: Andre Firebeard'.", x = 73, y = 47, zone = "Tanaris" },
 			[19] = { str = "Go to the only 2 story house out here at #C_[72,46]# and get the stolen wine for 'Stoley’s Shipment'. It’s on the 2nd floor.", x = 72, y = 46, zone = "Tanaris" },
-			[20] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
+			[20] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#)." },
 
 			[21] = { str = "Turn in #Q_'Wastewander Justice'# accept #Q_'More Wastewander Justice'#." },
 			[22] = { str = "Turn in 'WANTED: Caliph Scorpidsting' and 'Water Pouch Bounty'." },
 			[23] = { str = "You should be close to half way TNL." },
 			[24] = { str = "Go west to #C_[39,29]# and do #Q_'Gadgetzan Water Survey'# Run once you get the sample a 47 and 48 attack you.", x = 32, y = 29, zone = "Tanaris" },
-			[25] = { str = "Run back to Gadget and hand in #Q_'Gadgetzan Water Survey'# accept #Q_'Noxious Lair Investigation'#." },
+			[25] = { str = "Run back to #A_Gadgetzan# (#A_Tanaris#) and hand in #Q_'Gadgetzan Water Survey'# accept #Q_'Noxious Lair Investigation'#." },
 			[26] = { str = "Go do #Q_'More Wastewander Justice'# around #C_[60,35]# by killing the mobs.", x = 60, y = 35, zone = "Tanaris" },
 			[27] = { str = "Go back up to Steamweedle Port at #C_[59,80]# to the southern house and turn in 'Stoley’s Shipment. Accept 'Deliver to MacKinley'.", x = 59, y = 80, zone = "Tanaris" },
 			[28] = { str = "Turn in 'WANTED: Andre Firebeard' and 'Southsea Shakedown'." },
 			[29] = { str = "Go to the northern house, turn in 'Pirate Hats Ahoy!'." },
-			[30] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
+			[30] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#)." },
 
 			[31] = { str = "Turn in #Q_'More Wastewander Justice'#." },
 			[32] = { str = "Accept #Q_'Handle With Care'# near the north side of town." },
@@ -233,7 +233,7 @@ Table_003_Alliance_40to50 = {
 
 			[41] = { str = "Go to the temple of the moon at #C_[39,86]# and up to the 2nd floor, turn in #Q_'Rise of the Silithid'# and 'Doling Justice(2).", x = 39, y = 86, zone = "Feralas" },
 			[42] = { str = "Buy 2 Elixir of Fortitude for a later part of this quest." },
-			[43] = { str = "Use your #I_[Hearthstone]# to return to Feathermoon and fly to Gadgetzan and turn in #Q_'The Borrower'# accept #Q_'The Super Snapper FX'#." },
+			[43] = { str = "Use your #I_[Hearthstone]# to return to Feathermoon and fly to #A_Gadgetzan# (#A_Tanaris#) and turn in #Q_'The Borrower'# accept #Q_'The Super Snapper FX'#." },
 		}
 	},
 
@@ -246,7 +246,7 @@ Table_003_Alliance_40to50 = {
 			[3] = { str = "I don’t list all the quests for Uldaman because there is a good handful and you don’t have to do them all to fully level, and again it is optional. This is much faster than grinding would be. I really hate to do instances when trying for the best time but alliance has less quests than the horde do and I did mention there will be about 10-15% of grinding on your way to 60. If you did do all instances though you would be really slowed down. This isn’t going to put a break in your time with a good group, preferrably guild groups of 45+." },
 			[4] = { str = "You can stop at about 75% to 46 but again I suggest you level. It’s not as bad as it seems." },
 			[5] = { str = "A great map of Uldaman and where the parts of most of the quests pieces can be done at is listed here on worldofwar.net." },
-			[6] = { str = "Once you’re all set, fly to #A_Stormwind# and turn in In Search of The Temple at #C_[64,20]# and accept #Q_'In Search of The Hinterlands'#. Talk to your #N_Class Trainer# to learn new spells and abilities. Then fly to Southshore.", x = 64, y = 20, zone = "Stormwind" },
+			[6] = { str = "Once you’re all set, fly to #A_Stormwind# and turn in In Search of The Temple at #C_[64,20]# and accept #Q_'In Search of The Hinterlands'#. Talk to your #N_Class Trainer# to learn new spells and abilities. Then fly to #A_Southshore# (#A_Hillsbrad Foothills#).", x = 64, y = 20, zone = "Stormwind" },
 			[7] = { str = "Run up to the path at #C_[84,33]# behind Durnholde Keep (you’ll see 2 griffins) into The Hinterlands.", x = 84, y = 33, zone = "Tarren Mill" },
 		}
 	},
@@ -316,7 +316,7 @@ Table_003_Alliance_40to50 = {
 			[20] = { str = "Go across to the 2 story house, turn in The Morrow Stone." },
 
 			[21] = { str = "You should be close to 70% into 47." },
-			[22] = { str = "Fly to Gadgetzan." },
+			[22] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
 
@@ -325,8 +325,8 @@ Table_003_Alliance_40to50 = {
 		title = "47-48 Tanaris",
 		items = {
 			[1] = { str = "47-48 Tanaris" },
-			[2] = { str = "Just inside Gadget to the right, accept #Q_'The Thirsty Goblin'#." },
-			[3] = { str = "Make Gadget your home." },
+			[2] = { str = "Just inside #A_Gadgetzan# (#A_Tanaris#) to the right, accept #Q_'The Thirsty Goblin'#." },
+			[3] = { str = "Make #A_Gadgetzan# (#A_Tanaris#) your home." },
 			[4] = { str = "Go behind the Inn, accept #Q_'The Dunemaul Compound'#." },
 			[5] = { str = "Near the north entrance, accept Thistleshrub Valley." },
 			[6] = { str = "Go south to the skeleton in the ground at #C_[49,36]# and #C_[44,39]# and #C_[47,45]# kill Rocs for 'Rhapsody's Kalimdor Kocktail' If it’s busy just do it later.", x = 49, y = 36, zone = "Tanaris" },
@@ -346,7 +346,7 @@ Table_003_Alliance_40to50 = {
 			[19] = { str = "Accept Yuka Screwspigot." },
 			[20] = { str = "Turn in Screecher Spirits at #C_[66,22]# SKIP the ZF part.", x = 66, y = 22, zone = "Tanaris" },
 
-			[21] = { str = "Use your #I_[Hearthstone]# to return to Gadget." },
+			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#)." },
 			[22] = { str = "Go near the entrance and accept The Thirsty Goblin back and turn it in accept In Good Taste." },
 			[23] = { str = "Go behind the Inn near the fire, turn in The Dunemaul Compound." },
 			[24] = { str = "Go near the north entrance, hand in Thistleshrub Valley." },
@@ -355,7 +355,7 @@ Table_003_Alliance_40to50 = {
 			[27] = { str = "Go on the hill behind the building, accept The Schrimshank Redemption." },
 			[28] = { str = "Run down to #C_[52,45]# and turn in Gahz'Ridian.", x = 52, y = 45, zone = "Tanaris" },
 			[29] = { str = "Run down to the entrance at #C_[55,70]# take the spiral down to the entrance that is north. first fork go right. After the circular room at the next fork go right. You will enter a big square room. Go right to #C_[55,71]# and grab the survey gear for The Schrimshank Redemption.", x = 55, y = 70, zone = "Tanaris" },
-			[30] = { str = "Die on purpose so you end up at Gadget." },
+			[30] = { str = "Die on purpose so you end up at #A_Gadgetzan# (#A_Tanaris#)." },
 
 			[31] = { str = "Go to the hill on the west side of town, turn in The Schrimshank Redemption accept Insect Part Analysis." },
 			[32] = { str = "Go to the house on the NW part of town, turn in Insect Part Analysis accept Insect Part Analysis(2)." },
@@ -397,7 +397,7 @@ Table_003_Alliance_40to50 = {
 			[3] = { str = "Turn in Back To Booty Bay and Whiskey Slim's Lost Grog." },
 			[4] = { str = "Enter the house next to the upside down, half ship, turn in Deliver to MacKinley." },
 			[5] = { str = "Under that boat outside, accept Stranglethorn Fever." },
-			[6] = { str = "Go up the ramp and first house past the bridge, turn in all of the robot chicken escorts you’ve gotten. I didn’t get the Tanaris one while writing this guide so I missed out on the quest to get 7100 extra exp." },
+			[6] = { str = "Go up the ramp and first house past the bridge, turn in all of the robot chicken escorts you’ve gotten. I didn’t get the #A_Tanaris# one while writing this guide so I missed out on the quest to get 7100 extra exp." },
 			[7] = { str = "Near the boat, accept The Captain's Chest." },
 			[8] = { str = "Go kill gorillas around #C_[34,63]# for Stranglethorn Fever then go up into the cave at #C_[35,60]# turn it in. the guy in the cave asks for 10 gorilla fangs, then he summons 3 waves of gorillas. Mokk is in the 3rd wave. They’re all around level 42-44 it starts with 3, then 5 then I think 6 or 7. It can get tough. Just kill Mokk first in case you die.", x = 35, y = 60, zone = "Stranglethorn Vale" },
 			[9] = { str = "Go up to #C_[38,34]# and kill King Bangalash for Big Game Hunter he spawns level 33 minions. You can kill him before a few come out. Not like they’re a problem.", x = 38, y = 34, zone = "Stranglethorn Vale" },
@@ -417,7 +417,7 @@ Table_003_Alliance_40to50 = {
 			[21] = { str = "Go up top of the Inn, turn in 'The Bloodsail Buccaneers'(5)." },
 			[22] = { str = "Fly to #A_Stormwind# and go to #C_[64,20]# turn in 'Rhapsody's Tale' SKIP the rest.", x = 64, y = 20, zone = "Stormwind" },
 			[23] = { str = "From here on, either look at the AH when you go by one, or use your AH char to search for your Beaststalker Bracers. I got mine for 8g also look for a mithril casing for later in Un’Goro." },
-			[24] = { str = "Fly to Duskwood." },
+			[24] = { str = "Fly to #A_Duskwood#." },
 			[25] = { str = "Run east through Deadwind to the Swamp of Sorrows." },
 			[26] = { str = "Follow the road until it forks and the left fork has a bridge at #C_[22,48]# and under it is A Soggy Scroll which turns in 'Cortello's Riddle. Accept 'Cortello's Riddle'(2).", x = 22, y = 48, zone = "Swamp of Sorrow" },
 			[27] = { str = "Run down to the Blasted Lands" },
@@ -441,10 +441,10 @@ Table_003_Alliance_40to50 = {
 
 			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay#." },
 			[12] = { str = "Accept Zanzil's Mixture and A Fool's Stout." },
-			[13] = { str = "Get on the boat to Rachet." },
+			[13] = { str = "Get on the boat to #A_Ratchet# (#A_The Barrens#)." },
 			[14] = { str = "Accept 'Volcanic Activity at the first hut off the dock." },
 			[15] = { str = "Just outside this hut is a green chest, open it for 'The Stone Circle." },
-			[16] = { str = "Fly to Tanaris." },
+			[16] = { str = "Fly to #A_Tanaris#." },
 			[17] = { str = "Go near the NW entrance, turn in Sprinkle's Secret Ingredient accept Delivery For Marin." },
 			[18] = { str = "Go back near the South entrance and turn in Delivery For Marin accept Noggenfogger Elixir then turn it back in. Now you get 5 elixirs and can buy them. These have some useful effects but are more fun than useful." },
 			[19] = { str = "Run in the Shimmering Flats to #C_[77,77]# and turn in Zanzil's Mixture and A Fool's Stout accept Get the Goblins Drunk go to #C_[79,76]# and turn it in.", x = 77, y = 77, zone = "Thousand Needles" },

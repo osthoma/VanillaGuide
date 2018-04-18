@@ -153,7 +153,7 @@ Table_003_Alliance_50to60 = {
 			[57] = { str = "Now go up to the top of the tower and accept Morrowgrain Research then go downstairs and turn it in, accept Morrowgrain Research(2)." },
 			[58] = { str = "Now you might want to get extra seed packets depending on how many soils you have. You can use the pouch every 10 minutes and you won’t always get a morrowgrain. All you need is 10 anyway." },
 			[59] = { str = "Run through to Rut’theran Village and go in the house to the right and accept Moontouched Wildkin it’s a winterspring feather quest." },
-			[60] = { str = "Fly to #A_Astranaar#, then ride all the way east on the road to #C_[91,46]# which goes into #A_Azshara#, it’s far.", x = 91, y = 46, zone = "Ashenvale" },
+			[60] = { str = "Fly to #A_Astranaar# (#A_Ashenvale#), then ride all the way east on the road to #C_[91,46]# which goes into #A_Azshara#, it’s far.", x = 91, y = 46, zone = "Ashenvale" },
 		}
 	},
 
@@ -207,7 +207,7 @@ Table_003_Alliance_50to60 = {
 			[25] = { str = "Run south to #C_[31,45]# and turn in The New Springs accept Strange Sources also turn in It's A Secret to Everybody(3) accept The Videre Elixir and Threat of the Winterfall.", x = 31, y = 45, zone = "Winterspring" },
 			[26] = { str = "Run back throug the cave and go west at the fork into Moonglade." },
 			[27] = { str = "Go to #C_[48,67]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 48, y = 67, zone = "Moodglade" },
-			[28] = { str = "You should be a hair from leveling now. You can kill something or just wait. Use your #I_[Hearthstone]# to return to #A_Astranaar# and fly to Feralas." },
+			[28] = { str = "You should be a hair from leveling now. You can kill something or just wait. Use your #I_[Hearthstone]# to return to #A_Astranaar# (#A_Ashenvale#) and fly to Feralas." },
 			[29] = { str = "Go in the Inn, accept Jonespyre's Request." },
 			[30] = { str = "Go up to the top of the tower, turn it in, accept The Mystery of Morrowgrain turn it back in unless you’re still making the stuff. If you don’t have enough no big deal during this guide I didn’t have enough." },
 
@@ -215,7 +215,7 @@ Table_003_Alliance_50to60 = {
 			[32] = { str = "At #C_[45,16]# you can be put up to the top of the colossal tower and parachute down. Just make sure you unmount, I forgot about that and smashed a crater in the ground.", x = 45, y = 16, zone = "Feralas" },
 			[33] = { str = "Go up to #C_[44,10]# and place the bait on the ground then go loot an everroot.", x = 44, y = 10, zone = "Felalas" },
 			[34] = { str = "Go back south to #C_[45,25]# to get your 3 videre elixir.", x = 45, y = 25, zone = "Felalas" },
-			[35] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar#." },
+			[35] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar# (#A_Ashenvale#)." },
 			[36] = { str = "Run back up into Felwood to #C_[54,86]# and turn in Cleansing Felwood.", x = 54, y = 86, zone = "Felwood" },
 			[37] = { str = "Now she allows you to get stuff for some neat potions that are on different cooldowns than potions are." },
 			[38] = { str = "Go up to #C_[51,81]# and in the house turn in Further Corruption and Flute of Xavaric accept Felbound Ancients.", x = 51, y = 81, zone = "Felwood" },
@@ -225,7 +225,7 @@ Table_003_Alliance_50to60 = {
 			[41] = { str = "Go through the cave to Winterfall and just outside the cave accept Winterfall Activity." },
 			[42] = { str = "Go to #C_[31,45]# and turn in The Videre Elixir accept Meet at the Grave.", x = 31, y = 45, zone = "Winterspring" },
 			[43] = { str = "Go to #C_[62,36]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 62, y = 36, zone = "Winterspring" },
-			[44] = { str = "Fly to Rachet." },
+			[44] = { str = "Fly to #A_Ratchet# (#A_The Barrens#)." },
 			[45] = { str = "Run west of the dock and turn in Volcanic Activity." },
 			[46] = { str = "Run down to #C_[65,43]# and turn in Seeking Spiritual Aid accept Cleansed Water Returns to Felwood.", x = 65, y = 43, zone = "The Barrens" },
 			[47] = { str = "Fly to Theramore and boat to #A_Menethil Harbor# then fly to #A_Ironforge#." },
@@ -259,7 +259,7 @@ Table_003_Alliance_50to60 = {
 			[15] = { str = "Run down and let the tar monsters kill you so you’re closer to the SE." },
 			[16] = { str = "Run down to #C_[71,75]# and turn in The Mighty U'cha.", x = 71, y = 75, zone = "Un’Goro" },
 			[17] = { str = "You should be over half way to 55 now." },
-			[18] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Astranaar# and fly to #A_Darnassus#." },
+			[18] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Astranaar# (#A_Ashenvale#) and fly to #A_Darnassus#." },
 			[19] = { str = "Go in the Temple of the Moon at #C_[39,84]# and fill the vial for Felbound Ancients.", x = 39, y = 84, zone = "Darnassus" },
 			[20] = { str = "Run into Felwood." },
 		}
@@ -285,7 +285,7 @@ Table_003_Alliance_50to60 = {
 			[13] = { str = "Turn in Dousing the Flames of Protection SKIP the next part for now." },
 			[14] = { str = "In the house turn in Silver Heart accept Aquementas." },
 			[15] = { str = "If you have skinning I’m sure you have at least 5 tainted hides, go down to #C_[54,86]# and turn them in for Salve via Skinning.", x = 54, y = 86, zone = "Felwood" },
-			[16] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar# and fly to Winterspring." },
+			[16] = { str = "Use your #I_[Hearthstone]# to return to #A_Astranaar# (#A_Ashenvale#) and fly to Winterspring." },
 		}
 	},
 
@@ -328,7 +328,7 @@ Table_003_Alliance_50to60 = {
 
 			[31] = { str = "Go to #C_[38,55]# in the throne room and accept The Smoldering Ruins of Thaurissan then click on her and listen to the story and turn it back in, accept The Smoldering Ruins of Thaurissan(2).", x = 38, y = 55, zone = "Ironforge" },
 			[32] = { str = "In front of the flight path accept Taking Back Silithus." },
-			[33] = { str = "Fly to Lakeshire." },
+			[33] = { str = "Fly to #A_Lakeshire# (#A_Redridge Mountains#)." },
 			[34] = { str = "Run north to #C_[46,6]# and enter the #A_Burning Steppes#.", x = 46, y = 6, zone = "Redridge Mountains" },
 		}
 	},
@@ -355,11 +355,11 @@ Table_003_Alliance_50to60 = {
 			[15] = { str = "Ride back to #C_[84,68]# and next to the griffin turn in FIFTY! YEP! and Gor'tesh the Brute Lord accept Ogre Head On A Stick = Party.", x = 84, y = 68, zone = "Burning Steps" },
 			[16] = { str = "In front of the broken house, turn in Dragonkin Menace accept The True Masters." },
 			[17] = { str = "Run up to the top of the mountin at #C_[80,45]# and click the soft dirt pile for Ogre Head On A Stick = Party then run back to #C_[84,68]# and turn it in.", x = 80, y = 45, zone = "Burning Steps" },
-			[18] = { str = "Fly to Lakeshire and run to the town hall at #C_[29,44]# and turn in The True Masters accept The True Masters(2).", x = 29, y = 44, zone = "Redridge Mountains" },
+			[18] = { str = "Fly to #A_Lakeshire# (#A_Redridge Mountains#) and run to the town hall at #C_[29,44]# and turn in The True Masters accept The True Masters(2).", x = 29, y = 44, zone = "Redridge Mountains" },
 			[19] = { str = "Fly to #A_Stormwind#." },
 			[20] = { str = "Go to #C_[78,18]# into the #A_Stormwind# keep and turn in The True Masters(2) accept The True Masters(3) then talk to the lady and then turn it back in and accept The True Masters(4).", x = 78, y = 18, zone = "Stormwind City" },
 
-			[21] = { str = "Fly back to Lakeshire and go to the townhall at #C_[29,44]# and turn in The True Masters(4) accept The True Masters(5).", x = 29, y = 44, zone = "Redridge Mountains" },
+			[21] = { str = "Fly back to #A_Lakeshire# (#A_Redridge Mountains#) and go to the townhall at #C_[29,44]# and turn in The True Masters(4) accept The True Masters(5).", x = 29, y = 44, zone = "Redridge Mountains" },
 			[22] = { str = "Fly to the #A_Burning Steppes# and turn in The True Masters(5) when you land and accept The True Masters(6)." },
 			[23] = { str = "Run up to #C_[64,23]# and listen to ragged john then run back to #C_[84,68]# and turn in The True Masters(6) I SKIP the next part, do it later if you’re worried about speed leveling. That was an easy 30k xp for doing nothing and your ony key chain is started.", x = 64, y = 23, zone = "Burning Steps" },
 			[24] = { str = "You should be about 10k from 56, go grind until 5k on the orcs at #C_[49,55]#.", x = 49, y = 55, zone = "Burning Steps" },
@@ -435,7 +435,7 @@ Table_003_Alliance_50to60 = {
 			[39] = { str = "Fly to #A_Auberdine# (#A_Darkshore#) and boat to #A_Menethil Harbor# then fly to #A_Ironforge#." },
 			[40] = { str = "Make #A_Ironforge# your home, then find the wandering commander dwarf and accept A Call To Arms: The Plaguelands!" },
 
-			[41] = { str = "Fly to Southshore." },
+			[41] = { str = "Fly to #A_Southshore# (#A_Hillsbrad Foothills#)." },
 			[42] = { str = "Run north into Alterac Mountains and over NE to #C_[80,34]# and run into Western Plaguelands (WPL).", x = 80, y = 34, zone = "Alterac Mountains" },
 		}
 	},

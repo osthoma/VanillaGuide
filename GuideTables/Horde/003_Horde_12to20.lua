@@ -87,7 +87,7 @@ Table_003_Horde_12to20 = {
 			[24] = { str = "Then grind your way south to #A_Ratchet# (#A_The Barrens#) #C_[63,37]#.", x = 63, y = 37, zone = "The Barrens" },
 			[25] = { str = "Turn in #Q_'Stolen Booty'#  #Q_'Samophlange'# #Q_'The Escape'#. Accept #Q_'Ziz Fizziks'# and SKIP '#N_Wenikee Boltbucket'#." },
 			[26] = { str = "Turn in #Q_'Miner's Fortune'#." },
-			[27] = { str = "Then go west of ratchet and do #Q_'The Stagnant Oasis'# and #Q_'Verog the Dervish'# at #C_[54,43]#.", x = 54, y = 43, zone = "The Barrens" },
+			[27] = { str = "Then go west of #A_Ratchet# (#A_The Barrens#) and do #Q_'The Stagnant Oasis'# and #Q_'Verog the Dervish'# at #C_[54,43]#.", x = 54, y = 43, zone = "The Barrens" },
 			[28] = { str = "Then run to #A_Crossroads# (#A_The Barrens#) #C_[52,30]#.", x = 52, y = 30, zone = "The Barrens" },
 			[29] = { str = "Turn in #Q_'Prowlers of the Barrens'# #Q_'Harpy Lieutenants'# and #Q_'The Stagnant Oasis'#. Accept #Q_'Altered Beings'# #Q_'Echeyakee'# #Q_'Serena Bloodfeather'# #Q_'Report to Kadrak'# and #Q_'Egg Hunt'#." },
 			[30] = { str = "Go west of #A_Crossroads# (#A_The Barrens#) #C_[45,28]#, to turn in: #Q_'Centaur Bracers'# and #Q_'Verog the Dervish'#. I SKIP '#N_Hezrul Bloodmark'#.", x = 45, y = 28, zone = "The Barrens" },
