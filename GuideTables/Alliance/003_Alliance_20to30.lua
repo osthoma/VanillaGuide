@@ -72,7 +72,7 @@ Table_003_Alliance_20to30 = {
 			[7] = { str = "Then go to #C_[59,66]# and turn in A Gnome’s Respite accept An Old Colleague and A Scroll From Mauren We’ll do these later.", x = 59, y = 66, zone = "Stonetalon Mountains" },
 			[8] = { str = "Stop at Mirkfallon Lake at #C_[48,40]# and kill Pridewings for Pridewings of Stonetalon South and East of it.", x = 48, y = 40, zone = "Stonetalon Mountains" },
 			[9] = { str = "Run to #C_[37,8]# turn in Journey to Stonetalon Peak SKIP Reclaiming The Charred Vale for now.", x = 37, y = 8, zone = "Stonetalon Mountains" },
-			[10] = { str = "Grab flight path at #C_[36,7]# and Fly to Auberdine.", x = 36, y = 7, zone = "Stonetalon Mountains" },
+			[10] = { str = "Grab flight path at #C_[36,7]# and Fly to #A_Auberdine#.", x = 36, y = 7, zone = "Stonetalon Mountains" },
  		}
 	},
 
@@ -82,23 +82,23 @@ Table_003_Alliance_20to30 = {
  		items = {
 			[1] = { str = "23-24 Darkshore" },
 			[2] = { str = "Turn in Beached Sea Turtle on the dock." },
-			[3] = { str = "Make Auberdine your home." },
+			[3] = { str = "Make #A_Auberdine# your home." },
 			[4] = { str = "Turn in The Absent Minded Prospector (2) just outside the merchant house accept The Absent Minded Prospector (3)." },
 			[5] = { str = "Go in the last house accept A Lost Master." },
 			[6] = { str = "Fly to #A_Darnassus# and turn in The Absent Minded Prospector (3) outside the Temple of the Moon at #C_[31,84]# accept The Absent Minded Prospector (4) Get talents if you need them.", x = 31, y = 84, zone = "Darnassus" },
-			[7] = { str = "Fly back to Auberdine." },
+			[7] = { str = "Fly back to #A_Auberdine#." },
 			[8] = { str = "Go to around #C_[58,21]# for Mathystra Relics The relics are all over.", x = 58, y = 21, zone = "Darkshore" },
 			[9] = { str = "Stop at #C_[56,13]# accept Gyromast's Retrieval Kill raging reef crawlers around here and Murlocs north near the ship at #C_[55,12]#.", x = 56, y = 13, zone = "Darkshore" },
 			[10] = { str = "Run north of Ruins of Mathystra killing sire’s and matriach’s for A Lost Master Also kill Foreststriders for Gyromast's Retrieval." },
 
 			[11] = { str = "Turn in Gyromast's Retrieval at #C_[56,13]# accept Gyromast's Revenge.", x = 56, y = 13, zone = "Darkshore" },
 			[12] = { str = "Turn the key on The First Mate at #C_[55,18]# somewhere in the middle he’s gonna attack you. You have to kill him. Then turn it in at #C_[56,13]#.", x = 55, y = 18, zone = "Darkshore" },
-			[13] = { str = "Run back to Auberdine." },
+			[13] = { str = "Run back to #A_Auberdine#." },
 			[14] = { str = "Turn in A Lost Master at the first house in town. Accept A Lost Master (2)." },
 			[15] = { str = "Run down to #C_[43,76]# turn in Mathystra Relics.", x = 43, y = 76, zone = "Darkshore" },
 			[16] = { str = "Run down to #C_[41,81]# and do /wave at Grimclaw He’ll point southwest at the cave. Go to it at #C_[45,85]# and turn in A Lost Master (2) accept Escape Through Force Run him back to Grimclaw at #C_[41,81]#.", x = 41, y = 81, zone = "Darkshore" },
 			[17] = { str = "If you’re not 24 yet or 1750 xp to 24, grind to 1750 until you level." },
-			[18] = { str = "Use your #I_[Hearthstone]# to return to Auberdine." },
+			[18] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine#." },
 			[19] = { str = "Turn in Escape Through Force at the house before exiting town. Accept Trek to Ashenvale." },
 			[20] = { str = "Talk to your #N_Class Trainer# in #A_Darnassus# to learn new spells and abilities. Then Fly to #A_Astranaar#." },
  		}
@@ -116,15 +116,15 @@ Table_003_Alliance_20to30 = {
 			[6] = { str = "Grind a path up to between #C_[35,33]# and #C_[36,36]# (he patrols) and kill Dal Bloodclaw for Culling the Threat.", x = 35, y = 33, zone = "Ashenvale" },
 			[7] = { str = "I then grind furbolg’s until I’m half way to 25." },
 			[8] = { str = "Then run to Maestra’s Post at #C_[26,38]# turn in The Tower of Althalaxx (5) accept The Tower of Althalaxx (6).", x = 26, y = 38, zone = "Ashenvale" },
-			[9] = { str = "Accept Supplies to Auberdine (escort) may seem out of the way, you run into a fight of 4, and 2 fights of 3. You only go to the darkshore border and it completes. Easy 2900 xp, not far out of the way. Turn it back in at #C_[26,38]#.", x = 26, y = 38, zone = "Ashenvale" },
+			[9] = { str = "Accept Supplies to #A_Auberdine# (escort) may seem out of the way, you run into a fight of 4, and 2 fights of 3. You only go to the darkshore border and it completes. Easy 2900 xp, not far out of the way. Turn it back in at #C_[26,38]#.", x = 26, y = 38, zone = "Ashenvale" },
 			[10] = { str = "Run to #A_Astranaar#." },
 
 			[11] = { str = "Turn in Culling the Threat at the inn." },
 			[12] = { str = "Run down to Silverwing Refuge at #C_[49,67]# and accept Elemental Bracers do it in the lake here.", x = 49, y = 67, zone = "Ashenvale" },
 			[13] = { str = "Once you have all 5 inact bracers, use the scroll on them and then hand it back in at #C_[49,67]# SKIP Mage Summoner.", x = 49, y = 67, zone = "Ashenvale" },
 			[14] = { str = "I’m usually about 1 bar from 25 so I grind to 25 on the elementals." },
-			[15] = { str = "Use your #I_[Hearthstone]# to return to Auberdine." },
-			[16] = { str = "Get on the boat to Menethil Harbor." },
+			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine#." },
+			[16] = { str = "Get on the boat to #A_Menethil Harbor#." },
  		}
 	},
 
@@ -139,7 +139,7 @@ Table_003_Alliance_20to30 = {
 			[5] = { str = "Go to the top floor of the castle, turn it in and accept 	War Banners." },
 			[6] = { str = "On the east side of town accept Digging Through the Ooze." },
 			[6] = { str = "In front of the Inn accept The Third Fleet and The Greenwarden." },
-			[8] = { str = "Make Menethil Harbor your home." },
+			[8] = { str = "Make #A_Menethil Harbor# your home." },
 			[9] = { str = "Go upstairs in the inn, turn in The Absent Minded Prospector (4) accept The Absent Minded Prospector (5)." },
 			[10] = { str = "Buy a Flagon of Mead from the bartender for The Third Fleet and give it to the guy outside the inn. Accept The Cursed Crew." },
 
@@ -166,7 +166,7 @@ Table_003_Alliance_20to30 = {
 			[30] = { str = "Do Fire Taboo by killing any mosshides but the ones you just killed, The flints are easily dropped by the ones around #C_[44,33]# there is a few.", x = 44, y = 33, zone = "Wetlands" },
 
 			[31] = { str = "Turn in Fire Taboo at #C_[56,40]# accept Blisters on the Land Now this is one of those quests you just do as you go. Fen Creepers are stealthed elementals that lurk in the water. If you see one, kill it.", x = 56, y = 40, zone = "Wetlands" },
-			[32] = { str = "Use your #I_[Hearthstone]# to return to Menethil Harbor." },
+			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor#." },
 			[33] = { str = "Turn in The Absent Minded Prospector (5) 2nd floor of the Inn." },
 			[34] = { str = "Go inside the castle upstairs, turn in War Banners accept Nek'Rosh's Gambit." },
 			[35] = { str = "On the west side of town hand in Daily Delivery and Young Crocolisk Skins accept Apprentice's Duties." },
@@ -180,7 +180,7 @@ Table_003_Alliance_20to30 = {
 			[42] = { str = "Stop at the sunken ships around #C_[14,28]# #C_[14,25]# and kill the unded on either ship for The Cursed Crew Try to stay on top of the ships. Kill Snellig in the broken part of the first ship in the rear near the shore for the box.", x = 14, y = 28, zone = "Wetlands" },
 			[43] = { str = "From here north you should be able to find Giant crocolisks for Apprentice's Duties as well as the fen dwellers (track hidden) in the waters all over this area while you head toward Ironbeard’s Tomb at #C_[44,25]# for Digging Through the Ooze Kill oozes for the bag.", x = 44, y = 25, zone = "Wetlands" },
 			[44] = { str = "Now once all your fen creepers are dead head back to the greenwarden at #C_[56,40]# and hand in Blisters on the Land.", x = 56, y = 40, zone = "Wetlands" },
-			[45] = { str = "Use your #I_[Hearthstone]# to return to Menethil Harbor." },
+			[45] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor#." },
 			[46] = { str = "Just outside hand in The Cursed Crew accept Lifting the Curse." },
 			[47] = { str = "Go north a little bit and hand in Digging Through the Ooze." },
 			[48] = { str = "Go to the west side of town, turn in Apprentice's Duties." },
@@ -274,7 +274,7 @@ Table_003_Alliance_20to30 = {
 			[45] = { str = "Turn in The Shadowy Figure at the house east of the Inn accept The Shadowy Search Continues." },
 			[46] = { str = "Turn it in at the town hall, accept Inquire at the Inn SKIP the rest." },
 			[47] = { str = "If you happened to find An Old History Book (drops off all mobs in Duskwood) start the quest An Old History Book and Fly to #A_Stormwind# and turn it in at #C_[74,7]# and accept Southshore.", x = 74, y = 7, zone = "Duskwood" },
-			[48] = { str = "Fly to Menethil Harbor and get on the boat to Auberdine, Fly to Ashenvale." },
+			[48] = { str = "Fly to #A_Menethil Harbor# and get on the boat to #A_Auberdine#, Fly to Ashenvale." },
  		}
 	},
 
@@ -300,7 +300,7 @@ Table_003_Alliance_20to30 = {
 			[15] = { str = "Hand in Raene’s Cleansing (7) at the Inn, SKIP the rest but keep the rod, you can use it forever to transform for fun =P." },
 			[16] = { str = "Go to #C_[26,38]# turn in The Tower of Althalaxx (6) SKIP the rest.", x = 26, y = 38, zone = "Ashenvale" },
 			[17] = { str = "Fly to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[18] = { str = "Fly to Auberdine then get on the boat to Menethil Harbor." },
+			[18] = { str = "Fly to #A_Auberdine# then get on the boat to #A_Menethil Harbor#." },
  		}
 	},
 
@@ -309,11 +309,11 @@ Table_003_Alliance_20to30 = {
  		title = "30-30 Wetlands",
  		items = {
 			[1] = { str = "30-30 Wetlands" },
-			[2] = { str = "Make Menethil Harbor your home." },
+			[2] = { str = "Make #A_Menethil Harbor# your home." },
 			[3] = { str = "Go to #C_[14,25]# and kill Captain Halyndor for his key on top of the ship, the chest is in the bottom of the ship. Send your pet in to grab all the aggro, then send it out to attack a murloc so it trains them all out. Touch the chest and turn in Lifting the Curse accept The Eye of Paleth.", x = 14, y = 25, zone = "Wetlands" },
 			[4] = { str = "Touch the catapult at #C_[47,47]#, hand in Nek'Rosh's Gambit accept Defeat Nek’Rosh.", x = 47, y = 47, zone = "Wetlands" },
 			[5] = { str = "Go to #C_[53,55]# and clear the left side, walk up and around the back, to do Defeat Nek’Rosh clear anything he might aggro, die doing so if you must. He’s kinda weak. Pretty easy for a 32 elite.", x = 53, y = 55, zone = "Wetlands" },
-			[6] = { str = "Use your #I_[Hearthstone]# to return to Menethil Harbor." },
+			[6] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor#." },
 			[7] = { str = "Turn in The Eye of Paleth right in front of you, accept Cleansing the Eye." },
 			[8] = { str = "Go up top of the castle, hand in Defeat Nek’Rosh." },
 			[9] = { str = "Accept Fall of Dun Modr just outside the inn." },

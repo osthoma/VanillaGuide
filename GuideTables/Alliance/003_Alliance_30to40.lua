@@ -102,7 +102,7 @@ Table_003_Alliance_30to40 = {
 			[16] = { str = "Run east to #C_[80,75]# turn in Load Lightening accept Goblin Sponsorship .", x = 80, y = 75, zone = "Thousand Needles" },
 			[17] = { str = "Go to #C_[81,77]# and turn in A Bump in the Road.", x = 81, y = 77, zone = "Thousand Needles" },
 			[18] = { str = "Run south into Tanaris and Grab the flight path at Gadgetzan." },
-			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to Menethil Harbor, get on the boat to Theramore, Get flight path and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
+			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Menethil Harbor#, get on the boat to Theramore, Get flight path and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
 		}
 	},
 
@@ -203,11 +203,11 @@ Table_003_Alliance_30to40 = {
 			[31] = { str = "Go just outside, turn in The Stone of the Tides and Goblin Sponsorship (4) Accept Water Elementals and Goblin Sponsorship (5)." },
 			[32] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in Supply and Demand (it’s down the ramp from the flight path) accept Some assembly required." },
 			[33] = { str = "I’m half way to 37 at this point." },
-			[34] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Then fly to Menethil Harbor, make it your home, and boat to Theramore." },
+			[34] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Then fly to #A_Menethil Harbor#, make it your home, and boat to Theramore." },
 			[35] = { str = "If you’re first aid is at 225 go do Triage then fly to Gadgetzan." },
 			[36] = { str = "Run out to Shimmering Flats at #C_[77,77]# and turn in Parts for Kravel accept Delivery to the Gnomes then turn around and hand it in.", x = 77, y = 77, zone = "Stranglethorn Vale" },
 			[37] = { str = "Go a little East and hand in Goblin Sponsorship (5) accept The Eighteenth Pilot then hand it in 2 feet away, accept Razzeric's Tweaking." },
-			[38] = { str = "Grab The Rumormonger at #C_[77,77]# then Use your #I_[Hearthstone]# to return to Menethil Harbor.", x = 77, y = 77, zone = "Stranglethorn Vale" },
+			[38] = { str = "Grab The Rumormonger at #C_[77,77]# then Use your #I_[Hearthstone]# to return to #A_Menethil Harbor#.", x = 77, y = 77, zone = "Stranglethorn Vale" },
 		}
 	},
 
@@ -261,7 +261,7 @@ Table_003_Alliance_30to40 = {
 			[25] = { str = "Escort her when done turn it back in and accept 'Hints of a New Plague? Pt.5' Grind until youre 3500 to 38." },
 			[26] = { str = "Use your #I_[Hearthstone]# to return to Southshore." },
 			[27] = { str = "Turn in 'Hints of a New Plague? Pt.5' just outside the Inn." },
-			[28] = { str = "Fly to #A_Stormwind# and talk to your #N_Class Trainer# to learn new spells and abilities. Get the quest Morgan Stern from Angus Stern at 41 89, then fly to Menethil and boat to Theramore.", x = 41, y = 89, zone = "Stormwind" },
+			[28] = { str = "Fly to #A_Stormwind# and talk to your #N_Class Trainer# to learn new spells and abilities. Get the quest Morgan Stern from Angus Stern at 41 89, then fly to #A_Menethil Harbor# and boat to Theramore.", x = 41, y = 89, zone = "Stormwind" },
 		}
 	},
 
@@ -345,7 +345,7 @@ Table_003_Alliance_30to40 = {
 			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay#." },
 			[33] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in #Q_'Excelsior'#." },
 			[34] = { str = "Now fly to #A_Ironforge# and accept Ironband Wants You from Prospector Stormpike at 74 11, and either to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities and your mount, or get skills in #A_Ironforge# and prepare for a few badlands quests by buying a frost oil and a gyrochronatom (don’t by a gyro if you can’t find a frost oil) Then a healing potion and lesser invisibility potion. Again don’t get either of the potions if you can’t get a frost oil or gyro.", x = 74, y = 11, zone = "Iron Forge" },
-			[35] = { str = "Fly to Loch Modan Stable your pet and make Thelsamar your home." },
+			[35] = { str = "Fly to Loch Modan Stable your pet and make #A_Thelsamar# your home." },
 			[36] = { str = "Go in the house behind the Inn, accept 'Badlands Reagent Run." },
 			[37] = { str = "Run to #C_[65,65]# and accept #Q_'Find Agmond'#.", x = 65, y = 65, zone = "Loch Modan" },
 			[38] = { str = "Run down into Badlands at #C_[46,76]#.", x = 46, y = 76, zone = "Loch Modan" },
