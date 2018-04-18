@@ -22,8 +22,8 @@ Table_003_Horde_12to20 = {
 			[16] = { str = "Turn in #Q_'Wharfmaster Dizzywig'# (goblin on the docks) accept #Q_'Miner's Fortune'#." },
 			[17] = { str = "Then go do #Q_'Southsea Freebooters'# along with #Q_'WANTED: Baron Longshore'# (along the shore just south of #A_Ratchet#)." },
 			[18] = { str = "Once those are done, turn them in at #C_[63,36]#, accept new ones, then go do:", x = 63, y = 36, zone = "The Barrens" },
-			[19] = { str = "#Q_'The Missing Shipment'# (just turn this in at the goblin at the docks) accept #Q_'The Missing Shipment'# (2)." },
-			[20] = { str = "Run back, to Gazlowe #C_[63,36]#, turn in #Q_'The Missing Shipment'# (2) accept #Q_'Stolen Booty'#.", x = 63, y = 36, zone = "The Barrens" },
+			[19] = { str = "#Q_'The Missing Shipment'# (just turn this in at the goblin at the docks) accept #Q_'The Missing Shipment'#(2)." },
+			[20] = { str = "Run back, to Gazlowe #C_[63,36]#, turn in #Q_'The Missing Shipment'#(2) accept #Q_'Stolen Booty'#.", x = 63, y = 36, zone = "The Barrens" },
 
 			[21] = { str = "Then go do #Q_'Stolen Booty'# (south of #A_Ratchet# again) (Telescopic Lens=64.49, and Shipment of Boots=#C_[63,50]#).", x = 63, y = 50, zone = "The Barrens" },
 			[22] = { str = "Once #Q_'Stolen Booty'#  is completed Use your #I_[Hearthstone]# to return to #A_Crossroads#. (don't turn it in yet)." },

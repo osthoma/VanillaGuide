@@ -14,7 +14,7 @@ Table_002_Mulgore = {
 			[9] = { str = "Run to #C_[53,81]# and kill Battleboar until you have 8 Flank and 8 Snout.", x = 53, y = 81, zone = "Mulgore" },
 			[10] = { str = "Run to the cave at #C_[58,85]# kill the Quilboar for 12 Belts as you make your way to the tent at #C_[64,77]# and kill Sharptusk making sure to loot him for #Q_'Break Sharptusk!'# then run to the little cave at #C_[63,82]# and on the inside is a Dirt-stained Map. Use it to start #Q_'Attack on Camp Narache'#.", x = 58, y = 85, zone = "Mulgore" },
 
-			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Narache# go to Chief Hawkwind #C_[44,77]# and turn in #Q_'The Battleboars'#, #Q_'Attack on Camp Narache'# and #Q_'Rite of Strength'# then accept #Q_'Rites of the Earthmother'# (2).", x = 44, y = 77, zone = "Mulgore" },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Narache# go to Chief Hawkwind #C_[44,77]# and turn in #Q_'The Battleboars'#, #Q_'Attack on Camp Narache'# and #Q_'Rite of Strength'# then accept #Q_'Rites of the Earthmother'#(2).", x = 44, y = 77, zone = "Mulgore" },
 			[12] = { str = "Talk to Brave Windfeather and turn in #Q_'Break Sharptusk!'#." },
 			[13] = { str = "Go to #C_[38,81]# and speak to Antur Fallow and accept #Q_'A Task Unfinished'# then continue following the road to #A_Bloodhoof Village#.", x = 38, y = 81, zone = "Mulgore" },
 			[14] = { str = "Talk to Innkeeper Kauth and turn in #Q_'A Task Unfinished'# and make #A_Bloodhoof Village# your home." },
@@ -28,7 +28,7 @@ Table_002_Mulgore = {
 		items = {
 			[1] = { str = "6-10 Mulgore" },
 			[2] = { str = "Talk to Baine Bloodhoof and turn in #Q_'Rites of the Earthmother'#. Accept #Q_'Sharing the Land'#, #Q_'Rite of Vision'# and #Q_'Dwarven Digging'#." },
-			[3] = { str = "Accept #Q_'Poison Water'# from Mull Thunderhorn #C_[48,60]#. Talk to Zarlman Two-Moons #C_[47,57]# turn in #Q_'Rite of Vision'# and accept (2).", x = 48, y = 60, zone = "Mulgore" },
+			[3] = { str = "Accept #Q_'Poison Water'# from Mull Thunderhorn #C_[48,60]#. Talk to Zarlman Two-Moons #C_[47,57]# turn in #Q_'Rite of Vision'# and accept(2).", x = 48, y = 60, zone = "Mulgore" },
 			[4] = { str = "Talk to Ruul Eagletalon #C_[47,62]#. Accept #Q_'Dangers of the Windfury'# then talk to Harken Windtotem #C_[48,59]# and accept #Q_'Swoop Hunting'#. Talk to Maur Raincaller #C_[47,57]#. Accept #Q_'Mazzranache'#.", x = 47, y = 62, zone = "Mulgore" },
 			[5] = { str = "Go southeast to #C_[51,66]# and kill Trophy Swops for 8 Quills, Prairie Wolfs for 6 Paws, Plainstriders for 4 Talons and underneath trees loot 2 Ambercorns and 2 Well Stones near the well #C_[53,64]#.", x = 51, y = 66, zone = "Mulgore" },
 			[6] = { str = "Go to #C_[52,70]# and kill the Palemane for #Q_'Sharing the Land'#.", x = 52, y = 70, zone = "Mulgore" },
