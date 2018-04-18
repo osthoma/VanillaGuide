@@ -22,8 +22,8 @@ Table_003_Horde_12to20 = {
 			[16] = { str = "Turn in #Q_'Wharfmaster Dizzywig'# (goblin on the docks) accept #Q_'Miner's Fortune'#." },
 			[17] = { str = "Then go do #Q_'Southsea Freebooters'# along with #Q_'WANTED: Baron Longshore'# (along the shore just south of #A_Ratchet#)." },
 			[18] = { str = "Once those are done, turn them in at #C_[63,36]#, accept new ones, then go do:", x = 63, y = 36, zone = "The Barrens" },
-			[19] = { str = "#Q_'The Missing Shipment'# (just turn this in at the goblin at the docks) accept #Q_'The Missing Shipment'# part2." },
-			[20] = { str = "Run back, to Gazlowe #C_[63,36]#, turn in #Q_'The Missing Shipment'# part2 accept #Q_'Stolen Booty'#.", x = 63, y = 36, zone = "The Barrens" },
+			[19] = { str = "#Q_'The Missing Shipment'# (just turn this in at the goblin at the docks) accept #Q_'The Missing Shipment'# (2)." },
+			[20] = { str = "Run back, to Gazlowe #C_[63,36]#, turn in #Q_'The Missing Shipment'# (2) accept #Q_'Stolen Booty'#.", x = 63, y = 36, zone = "The Barrens" },
 
 			[21] = { str = "Then go do #Q_'Stolen Booty'# (south of #A_Ratchet# again) (Telescopic Lens=64.49, and Shipment of Boots=#C_[63,50]#).", x = 63, y = 50, zone = "The Barrens" },
 			[22] = { str = "Once #Q_'Stolen Booty'#  is completed Use your #I_[Hearthstone]# to return to #A_Crossroads#. (don't turn it in yet)." },
@@ -61,7 +61,7 @@ Table_003_Horde_12to20 = {
 		items = {
 			[1] = { str = "16-20 Barrens Part 1" },
 			[2] = { str = "Grind your way back to the guy in the hut at #C_[45,28]#.", x = 45, y = 28, zone = "The Barrens" },
-			[3] = { str = "Turn in #Q_'Kolkar Leaders'# accept #Q_'Verog the Dervish'#. Also turn in #Q_'Centaur Bracers'# if it is done, if not don't worry." },
+			[3] = { str = "Turn in #Q_'Kolkar Leaders'#. Accept #Q_'Verog the Dervish'#. Also turn in #Q_'Centaur Bracers'# if it is done, if not don't worry." },
 			[4] = { str = "Make sure you finish up #Q_'Raptor Thieves'# #Q_'The Zhevra'# #Q_'Fungal Spores'# and #Q_'The Forgotten Pools'# before returning to the #A_Crossroads#." },
 			[5] = { str = "Run to #A_Crossroads# (Cross Roads at #C_[52,30]#).", x = 52, y = 30, zone = "The Barrens" },
 			[6] = { str = "Turn in ALL quests, grab ALL new ones." },
@@ -96,7 +96,7 @@ Table_003_Horde_12to20 = {
 			[32] = { str = "Then go east (grind mobs along the way) and do #Q_'Echeyakee'# (coords are at #C_[55,17]#).", x = 55, y = 17, zone = "The Barrens" },
 			[33] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads#." },
 			[34] = { str = "Turn in #Q_'Echeyakee'#. accept #Q_'The Angry Scytheclaws'#." },
-			[35] = { str = "Turn in #Q_'Serena Bloodfeather'# accept #Q_'Letter to Jin'Zil'#. Make sure that #Q_'Consumed by Hatred'# is also accepted." },
+			[35] = { str = "Turn in #Q_'Serena Bloodfeather'#. Accept #Q_'Letter to Jin'Zil'#. Make sure that #Q_'Consumed by Hatred'# is also accepted." },
 		}
 	},
 
@@ -113,7 +113,7 @@ Table_003_Horde_12to20 = {
 			[7] = { str = "Then grind your way to #A_Camp Taurajo# #C_[45,58]#.", x = 45, y = 58, zone = "The Barrens" },
 			[8] = { str = "Accept #Q_'Weapons of Choice'#." },
 			[9] = { str = "Go to gnoll in the cage." },
-			[10] = { str = "Turn in #Q_'Tribes at War'# accept #Q_'Blood Shards of Agamaggan'# and #Q_'Betrayal from Within'#." },
+			[10] = { str = "Turn in #Q_'Tribes at War'#. Accept #Q_'Blood Shards of Agamaggan'# and #Q_'Betrayal from Within'#." },
 
 			[11] = { str = "Turn in #Q_'Blood Shards of Agamaggan'#." },
 			[12] = { str = "Turn in 10 bloodshards for #Q_'Spirit of the Wind'# (repeatable quest) for fast run speed." },
@@ -128,7 +128,7 @@ Table_003_Horde_12to20 = {
 
 			[21] = { str = "Fly to #A_Ratchet#." },
 			[22] = { str = "Turn in #Q_'Chen's Empty Keg'# (if you did it, if not don't worry). accept the next part to it." },
-			[23] = { str = "Turn in #Q_'Raptor Horns'# accept #Q_'Deepmoss Spider Eggs'# and #Q_'Ziz Fizziks'#." },
+			[23] = { str = "Turn in #Q_'Raptor Horns'#. Accept #Q_'Deepmoss Spider Eggs'# and #Q_'Ziz Fizziks'#." },
 			[24] = { str = "Then go do: #Q_'The Guns of Northwatch'# at #C_[60,55]# (#VIDEOSee complete video on this quest along with the escort quest#).", x = 60, y = 55, zone = "The Barrens" },
 			[25] = { str = "Then once #Q_'The Guns of Northwatch'# is done, do:" },
 			[26] = { str = "#Q_'Free From the Hold'# (escort quest)." },

@@ -56,11 +56,11 @@ Table_003_Horde_20to30 = {
 			[9] = { str = "#Q_'Betrayal from Within'# and #Q_'Weapons of Choice'# #C_[43,79]#.", x = 43, y = 79, zone = "The Barrens" },
 			[10] = { str = "Accept #Q_'Gann's Reclamation'# from #N_Gann Stonespire#. Then go do it at #C_[46,86]#. Then turn it in, accept #Q_'Revenge of Gann'#.", x = 46, y = 86, zone = "The Barrens" },
 
-			[11] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Camp Taurajo#, turn in #Q_'Weapons of Choice'# and #Q_'Betrayal from Within'#. accept #Q_'Betrayal from Within'# part2." },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Camp Taurajo#, turn in #Q_'Weapons of Choice'# and #Q_'Betrayal from Within'#. accept #Q_'Betrayal from Within'# (2)." },
 			[12] = { str = "Fly to XR." },
-			[13] = { str = "Turn in #Q_'Betrayal from Within'# part2 and #Q_'Egg Hunt'#." },
+			[13] = { str = "Turn in #Q_'Betrayal from Within'# (2) and #Q_'Egg Hunt'#." },
 			[14] = { str = "Do #Q_'Ishamuhale'# at #C_[60,32]#.", x = 60, y = 32, zone = "The Barrens" },
-			[15] = { str = "Turn in #Q_'Further Instructions'# (at #A_Ratchet# #C_[63,37]#). accept #Q_'Further Instructions'# part2.", x = 63, y = 37, zone = "The Barrens" },
+			[15] = { str = "Turn in #Q_'Further Instructions'# (at #A_Ratchet# #C_[63,37]#). accept #Q_'Further Instructions'# (2).", x = 63, y = 37, zone = "The Barrens" },
 			[16] = { str = "Turn in #Q_'Deepmoss Spider Eggs'# and #Q_'Chen's Empty Keg'#." },
 			[17] = { str = "Fly to Stonetalon Mountains." },
 		}
@@ -82,7 +82,7 @@ Table_003_Horde_20to30 = {
 			[10] = { str = "Turn in #Q_'Cenarius' Legacy'#. accept #Q_'Ordanus'#." },
 
 			[11] = { str = "#HUNTER10) NOTE: I skip getting my level 24 spells/abilities (cause there's little that are useful at this level)#." },
-			[12] = { str = "Go turn in #Q_'Further Instructions'# part2 #C_[58,62]#. accept #Q_'Gerenzo Wrenchwhistle'#.", x = 58, y = 62, zone = "Stonetalon Mountains" },
+			[12] = { str = "Go turn in #Q_'Further Instructions'# (2) #C_[58,62]#. accept #Q_'Gerenzo Wrenchwhistle'#.", x = 58, y = 62, zone = "Stonetalon Mountains" },
 			[13] = { str = "Go do #Q_'Gerenzo Wrenchwhistle'# at #C_[64,41]# and #Q_'Shredding Machines'#  (kill #N_XT:4# and #N_XT:9#).", x = 64, y = 41, zone = "Stonetalon Mountains" },
 			[14] = { str = "Then turn in #Q_'Gerenzo Wrenchwhistle'#. #C_[58,62]#. If you couldn't do Arachnophobia, do it now!", x = 58, y = 62, zone = "Stonetalon Mountains" },
 			[15] = { str = "Run down south and turn in #Q_'Jin'Zil's Forest Magic'# #C_[74,97]#.", x = 74, y = 97, zone = "Stonetalon Mountains" },
@@ -122,7 +122,7 @@ Table_003_Horde_20to30 = {
 		title = "25-26 Thousand Needles",
 		items = {
 			[1] = { str = "25-26 Thousand Needles" },
-			[2] = { str = "Turn in #Q_'Message to Freewind Post'# accept #Q_'Pacify the Centaur'#." },
+			[2] = { str = "Turn in #Q_'Message to Freewind Post'#. Accept #Q_'Pacify the Centaur'#." },
 			[3] = { str = "Accept #Q_'Wanted - Arnak Grimtotem'# #Q_'Alien Egg'# and #Q_'Wind Rider'#." },
 			[4] = { str = "Get flight path there." },
 			[5] = { str = "Go do (in the following order):" },
@@ -189,7 +189,7 @@ Table_003_Horde_20to30 = {
 			[5] = { str = "Turn #Q_'Bloodfury Bloodline'# in." },
 			[6] = { str = "Fly to Thunder Bluff." },
 			[7] = { str = "Make Thunder Bluff your home." },
-			[8] = { str = "Turn in #Q_'The sacred Flame'# (#C_[54,51]# in #A_Thunder Bluff#). accept #Q_'The sacred Flame'# part2.", x = 54, y = 51, zone = "Thunder Bluff" },
+			[8] = { str = "Turn in #Q_'The sacred Flame'# (#C_[54,51]# in #A_Thunder Bluff#). accept #Q_'The sacred Flame'# (2).", x = 54, y = 51, zone = "Thunder Bluff" },
 			[9] = { str = "Fly to Thousand Needles." },
 		}
 	},
@@ -199,7 +199,7 @@ Table_003_Horde_20to30 = {
 		title = "27-29 Thousand Needles",
 		items = {
 			[1] = { str = "27-29 Thousand Needles" },
-			[2] = { str = "Turn in #Q_'The sacred Flame'#. accept #Q_'The sacred Flame'# part3." },
+			[2] = { str = "Turn in #Q_'The sacred Flame'#. accept #Q_'The sacred Flame'# (3)." },
 			[3] = { str = "I do the following order:" },
 			[4] = { str = "#Q_'The sacred Flame'# (charge the brazier in the cave at #C_[44,37]#).", x = 44, y = 37, zone = "Thousand Needles" },
 			[5] = { str = "Go to Whitereach Post #C_[21,32]#, accept #Q_'Hypercapacitor Gizmo'#, Turn in #Q_'Serpent Wild'#.accept #Q_'Sacred Fire'#.", x = 21, y = 32, zone = "Thousand Needles" },

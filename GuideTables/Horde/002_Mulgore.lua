@@ -14,7 +14,7 @@ Table_002_Mulgore = {
 			[9] = { str = "Run to #C_[53,81]# and kill Battleboar until you have 8 Flank and 8 Snout.", x = 53, y = 81, zone = "Mulgore" },
 			[10] = { str = "Run to the cave at #C_[58,85]# kill the Quilboar for 12 Belts as you make your way to the tent at #C_[64,77]# and kill Sharptusk making sure to loot him for #Q_'Break Sharptusk!'# then run to the little cave at #C_[63,82]# and on the inside is a Dirt-stained Map. Use it to start #Q_'Attack on Camp Narache'#.", x = 58, y = 85, zone = "Mulgore" },
 
-			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Narache# go to Chief Hawkwind #C_[44,77]# and turn in #Q_'The Battleboars'#, #Q_'Attack on Camp Narache'# and #Q_'Rite of Strength'# then accept #Q_'Rites of the Earthmother'# part 2.", x = 44, y = 77, zone = "Mulgore" },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Narache# go to Chief Hawkwind #C_[44,77]# and turn in #Q_'The Battleboars'#, #Q_'Attack on Camp Narache'# and #Q_'Rite of Strength'# then accept #Q_'Rites of the Earthmother'# (2).", x = 44, y = 77, zone = "Mulgore" },
 			[12] = { str = "Talk to Brave Windfeather and turn in #Q_'Break Sharptusk!'#." },
 			[13] = { str = "Go to #C_[38,81]# and speak to Antur Fallow and accept #Q_'A Task Unfinished'# then continue following the road to #A_Bloodhoof Village#.", x = 38, y = 81, zone = "Mulgore" },
 			[14] = { str = "Talk to Innkeeper Kauth and turn in #Q_'A Task Unfinished'# and make #A_Bloodhoof Village# your home." },
@@ -27,9 +27,9 @@ Table_002_Mulgore = {
 		title = "6-10 Mulgore",
 		items = {
 			[1] = { str = "6-10 Mulgore" },
-			[2] = { str = "Talk to Baine Bloodhoof and turn in #Q_'Rites of the Earthmother'# accept #Q_'Sharing the Land'#, #Q_'Rite of Vision'# and #Q_'Dwarven Digging'#." },
-			[3] = { str = "Accept #Q_'Poison Water'# from Mull Thunderhorn #C_[48,60]#. Talk to Zarlman Two-Moons #C_[47,57]# turn in #Q_'Rite of Vision'# and accept part 2.", x = 48, y = 60, zone = "Mulgore" },
-			[4] = { str = "Talk to Ruul Eagletalon #C_[47,62]# accept #Q_'Dangers of the Windfury'# then talk to Harken Windtotem #C_[48,59]# and accept #Q_'Swoop Hunting'#. Talk to Maur Raincaller #C_[47,57]# accept #Q_'Mazzranache'#.", x = 47, y = 62, zone = "Mulgore" },
+			[2] = { str = "Talk to Baine Bloodhoof and turn in #Q_'Rites of the Earthmother'#. Accept #Q_'Sharing the Land'#, #Q_'Rite of Vision'# and #Q_'Dwarven Digging'#." },
+			[3] = { str = "Accept #Q_'Poison Water'# from Mull Thunderhorn #C_[48,60]#. Talk to Zarlman Two-Moons #C_[47,57]# turn in #Q_'Rite of Vision'# and accept (2).", x = 48, y = 60, zone = "Mulgore" },
+			[4] = { str = "Talk to Ruul Eagletalon #C_[47,62]#. Accept #Q_'Dangers of the Windfury'# then talk to Harken Windtotem #C_[48,59]# and accept #Q_'Swoop Hunting'#. Talk to Maur Raincaller #C_[47,57]#. Accept #Q_'Mazzranache'#.", x = 47, y = 62, zone = "Mulgore" },
 			[5] = { str = "Go southeast to #C_[51,66]# and kill Trophy Swops for 8 Quills, Prairie Wolfs for 6 Paws, Plainstriders for 4 Talons and underneath trees loot 2 Ambercorns and 2 Well Stones near the well #C_[53,64]#.", x = 51, y = 66, zone = "Mulgore" },
 			[6] = { str = "Go to #C_[52,70]# and kill the Palemane for #Q_'Sharing the Land'#.", x = 52, y = 70, zone = "Mulgore" },
 			[7] = { str = "At #C_[33,41]# kill Harpies for 8 Windfury Talons. Then to #C_[31,50]# and acquire broken tools for #Q_'Dwarven Digging'#.", x = 33, y = 41, zone = "Mulgore" },
@@ -41,9 +41,9 @@ Table_002_Mulgore = {
 			[12] = { str = "Go to #C_[47,57]# and drink #Q_'Water of the Seers'# in your backpack, then follow the wolf spirit.", x = 47, y = 57, zone = "Mulgore" },
 			[13] = { str = "Turn in #Q_'Rite of Vision'# #C_[33,36]# when the spirit stops and accept #Q_'Rite of Wisdom'#.", x = 33, y = 36, zone = "Mulgore" },
 			[14] = { str = "Continue to #C_[59,25]# to Lorekeeper Raintotem and accept #Q_'A Sacred Burial'#.", x = 59, y = 25, zone = "Mulgore" },
-			[15] = { str = "Go to the Ancestral Spirit at the Red Rocks #C_[60,21]# turn in #Q_'Rite of Wisdom'# accept #Q_'Journey into Thunder Bluff'# and kill 8 Bristleback Interlopers nearby and once done speak to Lorekeeper Raintotem #C_[59,25]# and turn in #Q_'A Sacred Burial'#.", x = 60, y = 21, zone = "Mulgore" },
+			[15] = { str = "Go to the Ancestral Spirit at the Red Rocks #C_[60,21]# turn in #Q_'Rite of Wisdom'#. Accept #Q_'Journey into Thunder Bluff'# and kill 8 Bristleback Interlopers nearby and once done speak to Lorekeeper Raintotem #C_[59,25]# and turn in #Q_'A Sacred Burial'#.", x = 60, y = 21, zone = "Mulgore" },
 			[16] = { str = "Go to #A_Thunder Bluff# to the Forge at #C_[39,55]# and destroy the Prospector's Picks here by clicking on them to destroy them.", x = 39, y = 55, zone = "Thunder Bluff" },
-			[17] = { str = "Go to #C_[69,51]# and talk to Cairne Bloodhoof to turn in #Q_'Journey into Thunder Bluff'# accept #Q_'Rise of the Earthmother'#.", x = 69, y = 51, zone = "Thunder Bluff" },
+			[17] = { str = "Go to #C_[69,51]# and talk to Cairne Bloodhoof to turn in #Q_'Journey into Thunder Bluff'#. Accept #Q_'Rise of the Earthmother'#.", x = 69, y = 51, zone = "Thunder Bluff" },
 			[18] = { str = "You should now be level 10, if not grind to it. Its time to do your class quest and below will tell you each class quest and how to do them but you can wait until you hit 12 before doing them to continue with Joana's 12-60 guide." },
 		}
 	},
@@ -53,7 +53,7 @@ Table_002_Mulgore = {
 		title = "10-12 Mulgore",
 		items = {
 			[1] = { str = "10-12 Mulgore" },
-			[2] = { str = "Use your #I_[Hearthstone]# to return to #A_Bloodhoof Village#. Talk to Skorm Whitecloud #C_[46,60]# accept #Q_'The Hunter's Way'#.", x = 46, y = 60, zone = "Mulgore" },
+			[2] = { str = "Use your #I_[Hearthstone]# to return to #A_Bloodhoof Village#. Talk to Skorm Whitecloud #C_[46,60]#. Accept #Q_'The Hunter's Way'#.", x = 46, y = 60, zone = "Mulgore" },
 			[3] = { str = "Turn in #Q_'Dwarven Digging'# and #Q_'Thunderhorn Totem'# then accept #Q_'Thunderhorn Cleansing'#." },
 			[4] = { str = "Go to 48,60 and speak to Baine Bloodhoof and turn in #Q_'Sharing the Land'#.", x = 48, y = 60, zone = "Mulgore" },
 			[5] = { str = "Go to the Water Well at #C_[44,45]# and use it to cleanse your totem in your inventory.", x = 44, y = 45, zone = "Mulgore" },
