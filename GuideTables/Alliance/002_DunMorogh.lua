@@ -42,7 +42,7 @@ Table_002_DunMorogh = {
 			[3] = { str = "Once at #C_[46,53]# turn in #Q_'Senir's Observations'#(2)." },
 			[4] = { str = "Up ahead on the right, in front of the Inn, accept #Q_'Beer Basted Boar Ribs'#." },
 			[5] = { str = "Go in the Inn and turn in #Q_'Supplies to Tannok'#." },
-			[6] = { str = "Go to the Innkeeper, make it your home and purchase the #I_[Rhapsody Malt]# for #Q_'Beer Basted Boar Ribs'#." },
+			[6] = { str = "Talk to the #N_Innkeeper# to make #A_Kharanos# (#A_Dun Morogh#) your home. Purchase the #I_[Rhapsody Malt]# for #Q_'Beer Basted Boar Ribs'#." },
 			[7] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[8] = { str = "Go across the road from the Inn and accept #Q_'Tools For Steelgrill'#." },
 			[9] = { str = "Go NE to #C_[49,48]# and accept #Q_'Stocking Jetsteam'# and #Q_'The Grizzled Den'#.", x = 49, y = 48, zone = "Dun Morogh" },
@@ -70,16 +70,16 @@ Table_002_DunMorogh = {
 			[29] = { str = "Go into the Inn and buy a #I_[Thunder Ale]# off the Innkeeper and down in the basement, give the ale to #N_[Jarven Thunderbrew]#. When he leaves touch the barrel to turn in #Q_'Bitter Rivals'# accept #Q_'Return to Marleth'#." },
 			[30] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 
-			[31] = { str = "Go west to #A_Brewnall Village# again at #C_[30,45]# and turn in #Q_'The Perfect Stout'# and #Q_'A Favor For Evershine'# accept #Q_'Return to Bellowfiz'# and #Q_'Shimmer Stout'#.", x = 30, y = 45, zone = "Dun Morogh" },
+			[31] = { str = "Go west to #A_Brewnall Village# (#A_Dun Morogh#) again at #C_[30,45]# and turn in #Q_'The Perfect Stout'# and #Q_'A Favor For Evershine'# accept #Q_'Return to Bellowfiz'# and #Q_'Shimmer Stout'#.", x = 30, y = 45, zone = "Dun Morogh" },
 			[32] = { str = "Next to him turn in #Q_'Return to Marleth'# you should be past half way to 9 now." },
-			[33] = { str = "Go west of #A_Brewnall Village# and kill leper gnomes until you complete #Q_'Operation Recombobulation'# you should hit 9 getting kills." },
+			[33] = { str = "Go west of #A_Brewnall Village# (#A_Dun Morogh#) and kill leper gnomes until you complete #Q_'Operation Recombobulation'# you should hit 9 getting kills." },
 			[34] = { str = "Go to #C_[24,50]# and enter the cave kill 5 headhunters.", x = 24, y = 50, zone = "Dun Morogh" },
 			[35] = { str = "Explore the cave for #Q_'Frostmane Hold'# To explore it just run in and stay to the right, it will curve left and you can see a raised platform with mobs, get near it to complete exploration." },
 			[36] = { str = "Either straight down the steps of the Inn, or N of the #A_Graveyard#, turn in #Q_'Frostmane Hold'# accept #Q_'The Reports'#." },
 			[37] = { str = "Go NW in the house at #C_[45,49]# and turn in #Q_'Operation Recombobulation'#.", x = 45, y = 49, zone = "Dun Morogh" },
 			[38] = { str = "Go east to #C_[49,48]# and turn in #Q_'Return to Bellowfiz'# you should be half way to 10 now.", x = 49, y = 48, zone = "Dun Morogh" },
 			[39] = { str = "Go North to #A_Ironforge# at #C_[53,35]#.", x = 53, y = 35, zone = "Dun Morogh" },
-			[40] = { str = "Make #A_Ironforge# your home at #C_[21,55]#.", x = 21, y = 55, zone = "Ironforge" },
+			[40] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home at #C_[21,55]#.", x = 21, y = 55, zone = "Ironforge" },
 
 			[41] = { str = "Go to #C_[39,56]# in #A_Ironforge#, behind the bank, in the kings room, turn in #Q_'The Reports'#.", x = 39, y = 56, zone = "Ironforge" },
 			[42] = { str = "Enter the tram at #C_[76,51]#.", x = 76, y = 51, zone = "Ironforge" },
@@ -115,7 +115,7 @@ Table_002_DunMorogh = {
 			[70] = { str = "Go back to #C_[22,73]# and turn in #Q_'In Defense of the King's Lands'# and #Q_'The Trogg Threat'#.", x = 22, y = 73, zone = "Loch Modan" },
 
 			[71] = { str = "Go north to the tower at #C_[24,18]# and turn in #Q_'Stormpike's Delivery'# and #Q_'Mountaineer Stormpike's Task'#.", x = 24, y = 18, zone = "Loch Modan" },
-			[72] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor#, then boat to #A_Auberdine# from here." },
+			[72] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor# (#A_The Wetlands#), then boat to #A_Auberdine# from here." },
 		}
 	},
 }

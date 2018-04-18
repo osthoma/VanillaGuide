@@ -17,7 +17,7 @@ Table_002_Mulgore = {
 			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Camp Narache# go to Chief Hawkwind #C_[44,77]# and turn in #Q_'The Battleboars'#, #Q_'Attack on Camp Narache'# and #Q_'Rite of Strength'# then accept #Q_'Rites of the Earthmother'#(2).", x = 44, y = 77, zone = "Mulgore" },
 			[12] = { str = "Talk to Brave Windfeather and turn in #Q_'Break Sharptusk!'#." },
 			[13] = { str = "Go to #C_[38,81]# and speak to Antur Fallow and accept #Q_'A Task Unfinished'# then continue following the road to #A_Bloodhoof Village#.", x = 38, y = 81, zone = "Mulgore" },
-			[14] = { str = "Talk to Innkeeper Kauth and turn in #Q_'A Task Unfinished'# and make #A_Bloodhoof Village# your home." },
+			[14] = { str = "Talk to Innkeeper Kauth and turn in #Q_'A Task Unfinished'#. Talk to the #N_Innkeeper# to make #A_Bloodhoof Village# your home." },
 			[15] = { str = "You should be level 6 now, if not grind the little exp you should need until you are." },
 		}
 	},

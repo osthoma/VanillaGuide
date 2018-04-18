@@ -34,7 +34,7 @@ Table_003_Alliance_20to30 = {
 			[11] = { str = "Accept #Q_'On Guard in Stonetalon'# on the house to the right." },
 			[12] = { str = "Cross the road near the gazebo accept #Q_'Journey to Stonetalon Peak'#." },
 			[13] = { str = "In the Inn accept #Q_'Raene's Cleansing'# and #Q_'Culling the Threat'#." },
-			[14] = { str = "Make #A_Astranaar# (#A_Ashenvale#) your home." },
+			[14] = { str = "Talk to the #N_Innkeeper# to make #A_Astranaar# (#A_Ashenvale#) your home." },
 			[15] = { str = "Turn in #Q_'Orendil's Cure'# at the last house accept #Q_'Elune's Tear'#." },
 			[16] = { str = "Go to #Q_'The Zoram Strand'#. Stop at #C_[14,31]# accept #Q_'The Ancient Statuette'#.", x = 14, y = 31, zone = "Ashenvale" },
 			[17] = { str = "Do #Q_'The Zoram Strand'# Naga all around here." },
@@ -82,7 +82,7 @@ Table_003_Alliance_20to30 = {
  		items = {
 			[1] = { str = "23-24 Darkshore" },
 			[2] = { str = "Turn in #Q_'Beached Sea Turtle'# on the dock." },
-			[3] = { str = "Make #A_Auberdine# (#A_Darkshore#) your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Auberdine# (#A_Darkshore#) your home." },
 			[4] = { str = "Turn in #Q_'The Absent Minded Prospector'#(2) just outside the merchant house accept #Q_'The Absent Minded Prospector'#(3)." },
 			[5] = { str = "Go in the last house accept #Q_'A Lost Master'#." },
 			[6] = { str = "Fly to #A_Darnassus# and turn in #Q_'The Absent Minded Prospector'#(3) outside the Temple of the Moon at #C_[31,84]# accept #Q_'The Absent Minded Prospector'#(4) Get talents if you need them.", x = 31, y = 84, zone = "Darnassus" },
@@ -124,7 +124,7 @@ Table_003_Alliance_20to30 = {
 			[13] = { str = "Once you have all 5 inact bracers, use the scroll on them and then hand it back in at #C_[49,67]# SKIP #Q_'Mage Summoner'#.", x = 49, y = 67, zone = "Ashenvale" },
 			[14] = { str = "I’m usually about 1 bar from 25 so I grind to 25 on the elementals." },
 			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# (#A_Darkshore#)." },
-			[16] = { str = "Get on the boat to #A_Menethil Harbor#." },
+			[16] = { str = "Get on the boat to #A_Menethil Harbor# (#A_The Wetlands#)." },
  		}
 	},
 
@@ -139,7 +139,7 @@ Table_003_Alliance_20to30 = {
 			[5] = { str = "Go to the top floor of the castle, turn it in and accept	#Q_'War Banners'#." },
 			[6] = { str = "On the east side of town accept #Q_'Digging Through the Ooze'#." },
 			[6] = { str = "In front of the Inn accept #Q_'The Third Fleet'# and #Q_'The Greenwarden'#." },
-			[8] = { str = "Make #A_Menethil Harbor# your home." },
+			[8] = { str = "Talk to the #N_Innkeeper# to make #A_Menethil Harbor# (#A_The Wetlands#) your home." },
 			[9] = { str = "Go upstairs in the inn, turn in #Q_'The Absent Minded Prospector'#(4) accept #Q_'The Absent Minded Prospector'#(5)." },
 			[10] = { str = "Buy a Flagon of Mead from the bartender for #Q_'The Third Fleet'# and give it to the guy outside the inn. Accept #Q_'The Cursed Crew'#." },
 
@@ -166,7 +166,7 @@ Table_003_Alliance_20to30 = {
 			[30] = { str = "Do #Q_'Fire Taboo'# by killing any mosshides but the ones you just killed, The flints are easily dropped by the ones around #C_[44,33]# there is a few.", x = 44, y = 33, zone = "Wetlands" },
 
 			[31] = { str = "Turn in #Q_'Fire Taboo'# at #C_[56,40]# accept #Q_'Blisters on the Land'# Now this is one of those quests you just do as you go. Fen Creepers are stealthed elementals that lurk in the water. If you see one, kill it.", x = 56, y = 40, zone = "Wetlands" },
-			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor#." },
+			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor# (#A_The Wetlands#)." },
 			[33] = { str = "Turn in #Q_'The Absent Minded Prospector'#(5) 2nd floor of the Inn." },
 			[34] = { str = "Go inside the castle upstairs, turn in #Q_'War Banners'# accept #Q_'Nek'Rosh's Gambit'#." },
 			[35] = { str = "On the west side of town hand in #Q_'Daily Delivery'# and #Q_'Young Crocolisk Skins'# accept #Q_'Apprentice's Duties'#." },
@@ -180,7 +180,7 @@ Table_003_Alliance_20to30 = {
 			[42] = { str = "Stop at the sunken ships around #C_[14,28]# #C_[14,25]# and kill the unded on either ship for #Q_'The Cursed Crew'# Try to stay on top of the ships. Kill Snellig in the broken part of the first ship in the rear near the shore for the box.", x = 14, y = 28, zone = "Wetlands" },
 			[43] = { str = "From here north you should be able to find Giant crocolisks for #Q_'Apprentice's Duties'# as well as the fen dwellers (track hidden) in the waters all over this area while you head toward Ironbeard’s Tomb at #C_[44,25]# for #Q_'Digging Through the Ooze'# Kill oozes for the bag.", x = 44, y = 25, zone = "Wetlands" },
 			[44] = { str = "Now once all your fen creepers are dead head back to #Q_'The Greenwarden'# at #C_[56,40]# and hand in #Q_'Blisters on the Land'#.", x = 56, y = 40, zone = "Wetlands" },
-			[45] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor#." },
+			[45] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor# (#A_The Wetlands#)." },
 			[46] = { str = "Just outside hand in #Q_'The Cursed Crew'# accept #Q_'Lifting the Curse'#." },
 			[47] = { str = "Go north a little bit and hand in #Q_'Digging Through the Ooze'#." },
 			[48] = { str = "Go to the west side of town, turn in #Q_'Apprentice's Duties'#." },
@@ -202,7 +202,7 @@ Table_003_Alliance_20to30 = {
 			[3] = { str = "Accept #Q_'Blackrock Menace'# just over bridge on right." },
 			[4] = { str = "Go in the town hall, accept #Q_'Solomon's Law'#." },
 			[5] = { str = "Accept #Q_'Wanted: Lieutenant Fangore'# Outside the Inn on the wall." },
-			[6] = { str = "Make #A_Lakeshire# (#A_Redridge Mountains#) your home." },
+			[6] = { str = "Talk to the #N_Innkeeper# to make #A_Lakeshire# (#A_Redridge Mountains#) your home." },
 			[7] = { str = "Just west of town at the house past the inn, accept #Q_'An Unwelcome Guest'# now go do it just west of this house at #C_[16,49]# (Bellygrub) kill him then hand it back in.", x = 16, y = 49, zone = "Redridge Mountains" },
 			[8] = { str = "Go to Render’s Camp at #C_[44,19]# and kill the orcs here for #Q_'Blackrock Menace'# while you head NW to #C_[34,7]# for #Q_'Blackrock Bounty'#.", x = 44, y = 19, zone = "Redridge Mountains" },
 			[9] = { str = "Once at the cave kill for the axes and champions Go left when you go in towards the down area with water, there is an escort quest here." },
@@ -230,7 +230,7 @@ Table_003_Alliance_20to30 = {
 			[5] = { str = "Go towards town and the first big house on the left outside accept #Q_'Worgen in the Woods'#." },
 			[6] = { str = "Go in the house and accept #Q_'Raven Hill'# #Q_'The Hermit'# and #Q_'Deliveries to Sven'#." },
 			[7] = { str = "Exit the house and go straight to the house across the street and accept #Q_'The Legend of Stalvan'# and #Q_'The Totem of Infliction'#." },
-			[8] = { str = "Run out the door straight across to the Inn and make it your home." },
+			[8] = { str = "Run out the door straight across to the Inn. Talk to the #N_Innkeeper# to make #A_Darkshire# (#A_Duskwood#) your home." },
 			[9] = { str = "Exit and go to the right, accept #Q_'The Night Watch'#." },
 			[10] = { str = "Turn in #Q_'The Legend of Stalvan'# SKIP the rest." },
 
@@ -274,7 +274,7 @@ Table_003_Alliance_20to30 = {
 			[45] = { str = "Turn in #Q_'The Shadowy Figure'# at the house east of the Inn. Accept #Q_'The Shadowy Search Continues'#." },
 			[46] = { str = "Turn it in at the town hall, accept #Q_'Inquire at the Inn'# SKIP the rest." },
 			[47] = { str = "If you happened to find An Old History Book (drops off all mobs in Duskwood) start the quest #Q_'An Old History Book'# and Fly to #A_Stormwind# and turn it in at #C_[74,7]# and accept #Q_'Southshore'#.", x = 74, y = 7, zone = "Duskwood" },
-			[48] = { str = "Fly to #A_Menethil Harbor# and get on the boat to #A_Auberdine# (#A_Darkshore#), Fly to Ashenvale." },
+			[48] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) and get on the boat to #A_Auberdine# (#A_Darkshore#), Fly to Ashenvale." },
  		}
 	},
 
@@ -283,7 +283,7 @@ Table_003_Alliance_20to30 = {
  		title = "29-30 Ashenvale",
  		items = {
 			[1] = { str = "29-30 Ashenvale" },
-			[2] = { str = "Make #A_Astranaar# (#A_Ashenvale#) your home." },
+			[2] = { str = "Talk to the #N_Innkeeper# to make #A_Astranaar# (#A_Ashenvale#) your home." },
 			[3] = { str = "Stop at #C_[66,56]# and touch the crystal for the first part of #Q_'The Tower of Althalaxx'#(6).", x = 66, y = 56, zone = "Ashenvale" },
 			[4] = { str = "Kill Withered Ancients for the Wooden Key for #Q_'Raene’s Cleansing'#(4) around #C_[55,35]# then use the key on the chest at #C_[54,35]#.", x = 55, y = 35, zone = "Ashenvale" },
 			[5] = { str = "Run to #C_[53,46]# turn in #Q_'Raene’s Cleansing'#(4) accept #Q_'Raene’s Cleansing'#(5).", x = 53, y = 46, zone = "Ashenvale" },
@@ -300,7 +300,7 @@ Table_003_Alliance_20to30 = {
 			[15] = { str = "Hand in #Q_'Raene’s Cleansing'#(7) at the Inn, SKIP the rest but keep the rod, you can use it forever to transform for fun =P." },
 			[16] = { str = "Go to #C_[26,38]# turn in #Q_'The Tower of Althalaxx'#(6) SKIP the rest.", x = 26, y = 38, zone = "Ashenvale" },
 			[17] = { str = "Fly to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[18] = { str = "Fly to #A_Auberdine# (#A_Darkshore#) then get on the boat to #A_Menethil Harbor#." },
+			[18] = { str = "Fly to #A_Auberdine# (#A_Darkshore#) then get on the boat to #A_Menethil Harbor# (#A_The Wetlands#)." },
  		}
 	},
 
@@ -309,11 +309,11 @@ Table_003_Alliance_20to30 = {
  		title = "30-30 Wetlands",
  		items = {
 			[1] = { str = "30-30 Wetlands" },
-			[2] = { str = "Make #A_Menethil Harbor# your home." },
+			[2] = { str = "Talk to the #N_Innkeeper# to make #A_Menethil Harbor# (#A_The Wetlands#) your home." },
 			[3] = { str = "Go to #C_[14,25]# and kill Captain Halyndor for his key on top of the ship, the chest is in the bottom of the ship. Send your pet in to grab all the aggro, then send it out to attack a murloc so it trains them all out. Touch the chest and turn in #Q_'Lifting the Curse'# accept #Q_'The Eye of Paleth'#.", x = 14, y = 25, zone = "Wetlands" },
 			[4] = { str = "Touch the catapult at #C_[47,47]#, hand in #Q_'Nek'Rosh's Gambit'# accept #Q_'Defeat Nek’Rosh'#.", x = 47, y = 47, zone = "Wetlands" },
 			[5] = { str = "Go to #C_[53,55]# and clear the left side, walk up and around the back, to do #Q_'Defeat Nek’Rosh'# clear anything he might aggro, die doing so if you must. He’s kinda weak. Pretty easy for a 32 elite.", x = 53, y = 55, zone = "Wetlands" },
-			[6] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor#." },
+			[6] = { str = "Use your #I_[Hearthstone]# to return to #A_Menethil Harbor# (#A_The Wetlands#)." },
 			[7] = { str = "Turn in #Q_'The Eye of Paleth'# right in front of you, accept #Q_'Cleansing the Eye'#." },
 			[8] = { str = "Go up top of the castle, hand in #Q_'Defeat Nek’Rosh'#." },
 			[9] = { str = "Accept #Q_'Fall of Dun Modr'# just outside the inn." },

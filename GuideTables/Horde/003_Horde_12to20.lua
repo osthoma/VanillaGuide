@@ -9,7 +9,7 @@ Table_003_Horde_12to20 = {
 			[4] = { str = "Run to #A_Crossroads# (#A_The Barrens#) at #C_[52,30]# #HUNTER (If you're a hunter do step 4)#.", x = 52, y = 30, zone = "The Barrens" },
 			[5] = { str = "#HUNTER04) While on my way to #A_Crossroads# (#A_The Barrens#), I  abandon my crab and tame a Savannah Huntress cat, for my new pet.#." },
 			[6] = { str = "Once at #A_Crossroads# (#A_The Barrens#) at #C_[52,30]# turn in #Q_'Crossroads Conscription'# Then accept all quests in #A_Crossroads# (#A_The Barrens#) (which includes: #Q_'Meats to Orgrimmar'# #Q_'Plainstrider Menace'# #Q_'The Forgotten Pools'# #Q_'Raptor Thieves'# #Q_'Wharfmaster Dizzywig'# #Q_'Fungal Spores'# #Q_'Disrupt the Attacks'# #Q_'Supplies for the Crossroads'# and #Q_'Harpy Raiders'# on top of the watch tower). Turn in #Q_'Meats to Orgrimmar'# i SKIP '#N_Ride to Orgrimmar'#.", x = 52, y = 30, zone = "The Barrens" },
-			[7] = { str = "Make #A_Crossroads# (#A_The Barrens#) your home." },
+			[7] = { str = "Talk to the #N_Innkeeper# to make #A_Crossroads# (#A_The Barrens#) your home." },
 			[8] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[9] = { str = "Then go do: #Q_'Disrupt the Attacks'# along with #Q_'Plainstrider Menace'# and #Q_'Raptor Thieves'# (all around #C_[54,26]#). NOTE: If you find #Q_'Chen's Empty Keg'# accept it.", x = 54, y = 26, zone = "The Barrens" },
 			[10] = { str = "Once #Q_'Disrupt the Attacks'# is completed go turn it in at #C_[52,30]# and accept #Q_'Supplies for the Crossroads'.", x = 52, y = 30, zone = "The Barrens" },

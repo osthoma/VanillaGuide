@@ -48,7 +48,7 @@ Table_003_Horde_20to30 = {
 			[1] = { str = "22-23 Southern Barrens" },
 			[2] = { str = "Fly to #A_Camp Taurajo#." },
 			[3] = { str = "Turn in #Q_'Jorn Skyseer'#. Accept #Q_'Ishamuhale'# and #Q_'Melor Sends Word'#." },
-			[4] = { str = "Make #A_Camp Taurajo# your home." },
+			[4] = { str = "Talk to the #N_Innkeeper# to make #A_Camp Taurajo# your home." },
 			[5] = { str = "I give bloodshards to the gnoll in the cage to get increased agility/spirit." },
 			[6] = { str = "Run south and keep an eye out for the mob named #N_Owatanka# (around #C_[45,62]#), he drops 'Owatanka's Tailspike' which starts #Q_'Owatanka'#.", x = 45, y = 62, zone = "The Barrens" },
 			[7] = { str = "#Q_'Egg Hunt'# #C_[44,71]#.", x = 44, y = 71, zone = "The Barrens" },
@@ -72,7 +72,7 @@ Table_003_Horde_20to30 = {
 		items = {
 			[1] = { str = "23-25 Stonetalon Mountains" },
 			[2] = { str = "Accept all quests at #A_Sun Rock Retreat# (#A_Stonetalon Mountains#) (which include: #Q_'Cenarius' Legacy'# #Q_'Cycle of Rebirth'# and #Q_'Harpies Threaten'# )." },
-			[3] = { str = "Make #A_Sun Rock Retreat# (#A_Stonetalon Mountains#) your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Sun Rock Retreat# (#A_Stonetalon Mountains#) your home." },
 			[4] = { str = "Turn in #Q_'Boulderslide Ravine'#. I SKIP '#N_Earthen Arise'# (accept #Q_'Elemental War'# there though)." },
 			[5] = { str = "Do:" },
 			[6] = { str = "#Q_'Cycle of Rebirth'# (pick up the seeds around #C_[48,41]#).", x = 48, y = 41, zone = "Stonetalon Mountains" },
@@ -103,7 +103,7 @@ Table_003_Horde_20to30 = {
 		items = {
 			[1] = { str = "25-25 Southern Barrens" },
 			[2] = { str = "Turn in #Q_'Ishamuhale'#. Accept #Q_'Enraged Thunder Lizards'#." },
-			[3] = { str = "Make #A_Camp Taurajo# your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Camp Taurajo# your home." },
 			[4] = { str = "Accept #Q_'A New Ore Sample'# (need to be lvl 25 to get this)." },
 			[5] = { str = "Go down and do:" },
 			[6] = { str = "#Q_'Enraged Thunder Lizards'#." },
@@ -143,7 +143,7 @@ Table_003_Horde_20to30 = {
 			[19] = { str = "Turn in #Q_'Melor Sends Word'# (#C_[61,80]# on the Hunter Rise). Accept #Q_'Steelsnap'#.", x = 61, y = 80, zone = "Thunder Bluff" },
 			[20] = { str = "Accept #Q_'The sacred Flame'# #C_[55,51]#.", x = 55, y = 51, zone = "Thunder Bluff" },
 
-			[21] = { str = "Fly to #A_Splintertree Post#, #A_Ashenvale#." },
+			[21] = { str = "Fly to #A_Splintertree Post# (#A_Ashenvale#)." },
 		}
 	},
 
@@ -152,7 +152,7 @@ Table_003_Horde_20to30 = {
 		title = "26-27 Ashenvale",
 		items = {
 			[1] = { str = "26-27 Ashenvale" },
-			[2] = { str = "Make it your home." },
+			[2] = { str = "Talk to the #N_Innkeeper# to make #A_Splintertree Post# (#A_Ashenvale#) your home." },
 			[3] = { str = "Do the following order:" },
 			[4] = { str = "Accept all the quests, which include: #Q_'Stonetalon Standstill'# #Q_'Satyr Horns'# #Q_'Ashenvale Outrunners'# (accept this at #C_[71,68]#). Make sure #Q_'The Ashenvale Hunt'# is turned in at #N_Senani Thunderheart# (you can accept this quest right at the NPC itself). Note: I SKIP '#N_Warsong Supplies'# and '#N_The Lost Pages'#.", x = 71, y = 68, zone = "Ashenvale" },
 			[5] = { str = "Kill the first of the three mobs related to the Ashenvale hunt:" },
@@ -184,11 +184,11 @@ Table_003_Horde_20to30 = {
 		items = {
 			[1] = { str = "27-27 Stonetalon Mountains" },
 			[2] = { str = "Turn in #Q_'Ordanus'#. I SKIP '#N_The Den'#." },
-			[3] = { str = "Make #A_Sun Rock Retreat# (#A_Stonetalon Mountains#) your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Sun Rock Retreat# (#A_Stonetalon Mountains#) your home." },
 			[4] = { str = "Accept and do #Q_'Bloodfury Bloodline'#, go kill Bloodfury Ripper at #C_[30,63]# (grinding mobs along the way), then Use your #I_[Hearthstone]# to return to back." },
 			[5] = { str = "Turn #Q_'Bloodfury Bloodline'# in." },
 			[6] = { str = "Fly to #A_Thunder Bluff#." },
-			[7] = { str = "Make #A_Thunder Bluff# your home." },
+			[7] = { str = "Talk to the #N_Innkeeper# to make #A_Thunder Bluff# your home." },
 			[8] = { str = "Turn in #Q_'The sacred Flame'# (#C_[54,51]# in #A_Thunder Bluff#). Accept #Q_'The sacred Flame'#(2).", x = 54, y = 51, zone = "Thunder Bluff" },
 			[9] = { str = "Fly to #A_Thousand Needles#." },
 		}
@@ -213,7 +213,7 @@ Table_003_Horde_20to30 = {
 			[12] = { str = "Turn in #Q_'Steelsnap'# (on Hunter Rise). Accept #Q_'Frostmaw'#." },
 			[13] = { str = "Turn in #Q_'Sacred Fire'# (on Elder Rise). Accept #Q_'Arikara'#." },
 			[14] = { str = "Fly back to #A_Thousand Needles#." },
-			[15] = { str = "Make #A_Freewind Post# your home." },
+			[15] = { str = "Talk to the #N_Innkeeper# to make #A_Freewind Post# your home." },
 			[16] = { str = "Turn in #Q_'The sacred Flame'# and #Q_'Wind Rider'#." },
 			[17] = { str = "Go to the Darkcloud Pinnacle (the entrance ramp is at #C_[31,36]#) and do the following quests: #Q_'Grimtotem Spying'# (the notes are up in the rises at #C_[31,32]#, #C_[33,39]#, and #C_[39,41]#).", x = 31, y = 36, zone = "Thousand Needles" },
 			[18] = { str = "#Q_'Arikara'# (done up at #C_[37,35]#).", x = 37, y = 35, zone = "Thousand Needles" },
@@ -229,7 +229,7 @@ Table_003_Horde_20to30 = {
 			[27] = { str = "Turn in #Q_'Free at Last'# #Q_'Wanted - Arnak Grimtotem'# #Q_'Grimtotem Spying'#." },
 			[28] = { str = "NOTE: I skip '#N_Test of Endurance'#." },
 			[29] = { str = "Fly to #A_Orgrimmar#." },
-			[30] = { str = "Make #A_Orgrimmar# your home." },
+			[30] = { str = "Talk to the #N_Innkeeper# to make #A_Orgrimmar# your home." },
 
 			[31] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[32] = { str = "Go to #A_Undercity#. You need to get on the zeppelin just right outside of #A_Orgrimmar#." },

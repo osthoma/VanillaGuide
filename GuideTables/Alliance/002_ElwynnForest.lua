@@ -30,7 +30,7 @@ Table_002_ElwynnForest = {
 			[23] = { str = "If you’re not 6 you should be close, just grind on a few mobs while you head towards the house near #A_Goldshire# (#A_Elwynn Forest#) at #C_[46,62]# and pick up skinning if you want it.", x = 46, y = 42, zone = "Elwynn Forest" },
 			[24] = { str = "Reach #A_Goldshire# (#A_Elwynn Forest#) and enter the Inn at #C_[42,65]#.", x = 42, y = 65, zone = "Elwynn Forest" },
 			[25] = { str = "Just to your left accept #Q_'Kobold Candles'#." },
-			[26] = { str = "Near the bar turn in #Q_'Rest and Relaxation'# and make #A_Goldshire# (#A_Elwynn Forest#) your home." },
+			[26] = { str = "Near the bar turn in #Q_'Rest and Relaxation'#. Talk to the #N_Innkeeper# to make #A_Goldshire# (#A_Elwynn Forest#) your home." },
 			[27] = { str = "Exit the Inn and go straight out, turn in #Q_'Report to Goldshire'#. Accept #Q_'The Fargodeep Mine'#." },
 			[28] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[29] = { str = "Go near the carts at #C_[42,67]# and accept #Q_'Gold Dust Exchange'#.", x = 42, y = 67, zone = "Elwynn Forest" },
@@ -122,7 +122,7 @@ Table_002_ElwynnForest = {
 			[32] = { str = "Kill mobs from #C_[26,43]# and north for #Q_'Rat Catching'#, then turn it in at #A_Thelsamar# (#A_Loch Modan#)", x = 26, y = 43, zone = "Loch Modan" },
 			[33] = { str = "Go back to #C_[22,73]# and turn them both in.", x = 22, y = 73, zone = "Loch Modan" },
 			[34] = { str = "Go north to the tower at #C_[24,18]# and turn in #Q_'Stormpike's Delivery'#.", x = 24, y = 18, zone = "Loch Modan" },
-			[35] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor#, then boat to #A_Auberdine# from here." },
+			[35] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor# (#A_The Wetlands#), then boat to #A_Auberdine# from here." },
 		}
 	},
 }

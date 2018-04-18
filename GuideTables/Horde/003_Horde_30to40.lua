@@ -36,7 +36,7 @@ Table_003_Horde_30to40 = {
 			[13] = { str = "Fly to #A_Crossroads# (#A_The Barrens#)." },
 			[14] = { str = "Run west in the #A_Crossroads# (#A_The Barrens#). Accept #Q_'The Swarm Grows'#." },
 			[15] = { str = "Then run west from the #A_Crossroads# (#A_The Barrens#) to the guy in the hut. Accept #Q_'The Kolkar of Desolace'#." },
-			[16] = { str = "Run back to #A_Crossroads# (#A_The Barrens#), make #A_Crossroads# (#A_The Barrens#) your home." },
+			[16] = { str = "Run back to #A_Crossroads# (#A_The Barrens#). Talk to the #N_Innkeeper# to make #A_Crossroads# (#A_The Barrens#) your home." },
 			[17] = { str = "Fly to #A_Ratchet# (#A_The Barrens#)." },
 			[18] = { str = "Get on the boat at #A_Ratchet# (#A_The Barrens#) to go to #A_Booty Bay# (#A_Stranglethorn#)." },
 		}
@@ -124,7 +124,7 @@ Table_003_Horde_30to40 = {
 			[17] = { str = "Go back to Ghost Walker Post #C_[56,59]#, and turn in #Q_'Khan Dez'hepah'#. Accept #Q_'Centaur Bounty'#. Turn in #Q_'Befouled by Satyr'#. Turn in #Q_'The Corrupter'#(2). Accept #Q_'The Corrupter'# Part3.", x = 56, y = 59, zone = "Desolace" },
 			[18] = { str = "Then run to #A_Shadowprey Village# (#A_Desolace#) (stopping along the way to turn this in: #Q_'Gelkis Alliance'# at #C_[36,79]#). Accept #Q_'Stealing Supplies'#.", x = 36, y = 79, zone = "Desolace" },
 			[19] = { str = "Accept all quests at #A_Shadowprey Village# (#A_Desolace#) at #C_[24,71]#, which include: #Q_'Hunting in Stranglethorn'# #Q_'Hand of Iruxos'# #Q_'Clam Bait'# and #Q_'Other Fish to Fry'#.", x = 24, y = 71, zone = "Desolace" },
-			[20] = { str = "Make #A_Shadowprey Village# (#A_Desolace#) your home." },
+			[20] = { str = "Talk to the #N_Innkeeper# to make #A_Shadowprey Village# (#A_Desolace#) your home." },
 
 			[21] = { str = "Then do:" },
 			[22] = { str = "Go in the water and collect 10 '#N_Shellfish# (from the Shellfish traps)." },
@@ -180,7 +180,7 @@ Table_003_Horde_30to40 = {
 		title = "34-35 Stranglethorn Vale",
 		items = {
 			[1] = { str = "34-35 Stranglethorn Vale" },
-			[2] = { str = "Turn in #Q_'Goblin Sponsorship'#(2). Accept #Q_'Goblin Sponsorship'# Part3. Make #A_Booty Bay# (#A_Stranglethorn#) your home! Accept #Q_'Singing Blue Shards'# #Q_'Bloodscalp Ears'# #Q_'Hostile Takeover'# and #Q_'Investigate the Camp'#. Turn in #Q_'Goblin Sponsorship'# Part3 at Baron Revilgaz. Accept #Q_'Goblin Sponsorship'# Part4." },
+			[2] = { str = "Turn in #Q_'Goblin Sponsorship'#(2). Accept #Q_'Goblin Sponsorship'# Part3. Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home. Accept #Q_'Singing Blue Shards'# #Q_'Bloodscalp Ears'# #Q_'Hostile Takeover'# and #Q_'Investigate the Camp'#. Turn in #Q_'Goblin Sponsorship'# Part3 at Baron Revilgaz. Accept #Q_'Goblin Sponsorship'# Part4." },
 			[3] = { str = "Then do the following:" },
 			[4] = { str = "Fly to #A_Grom'Gol# (#A_Stranglethorn#)." },
 			[5] = { str = "Grab ALL quests in #A_Grom'Gol# (#A_Stranglethorn#): #Q_'The Defense of Grom'gol'# #Q_'Mok'thardin's Enchantment'# #Q_'Bloodscalp Insight'# #Q_'Hunt for Yenniku'# #Q_'Trollbane'# #Q_'Bloody Bone Necklaces'# #Q_'The Vile Reef'#." },
@@ -224,7 +224,7 @@ Table_003_Horde_30to40 = {
 		title = "35-37 Arathi Highlands",
 		items = {
 			[1] = { str = "35-37 Arathi Highlands" },
-			[2] = { str = "Make #A_Hammerfall# (#A_Arathi Highlands#) your home." },
+			[2] = { str = "Talk to the #N_Innkeeper# to make #A_Hammerfall# (#A_Arathi Highlands#) your home." },
 			[3] = { str = "Turn in #Q_'Trollbane'#. I SKIP '#N_Sigil of Strom'#." },
 			[4] = { str = "Accept #Q_'Call to Arms'#, #Q_'Foul Magics'# and #Q_'Guile of the Raptor'#." },
 			[5] = { str = "Grind your way down south and do: #Q_'Call to Arms'#." },
@@ -271,7 +271,7 @@ Table_003_Horde_30to40 = {
 
 			[11] = { str = "Once in #A_Orgrimmar#, turn in #Q_'Alliance Relations'# at #N_Keldran#. At #C_[21,53]#.", x = 21, y = 53, zone = "Orgrimmar" },
 			[12] = { str = "Then fly to #A_Crossroads# (#A_The Barrens#)." },
-			[13] = { str = "Make #A_Crossroads# (#A_The Barrens#) your home." },
+			[13] = { str = "Talk to the #N_Innkeeper# to make #A_Crossroads# (#A_The Barrens#) your home." },
 			[14] = { str = "Fly to Freewind Post (#A_Thousand Needles#)." },
 		}
 	},
@@ -336,7 +336,7 @@ Table_003_Horde_30to40 = {
 		items = {
 			[1] = { str = "38-40 Stranglethorn Vale" },
 			[2] = { str = "Accept #Q_'The Bloodsail Buccaneers'#, #Q_'Venture Company Mining'# and #Q_'Scaring Shaky'#." },
-			[3] = { str = "Make #A_Booty Bay# (#A_Stranglethorn#) your home, then go up the steps and turn in #Q_'The Rumormonger'#." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home. Go up the steps and turn in #Q_'The Rumormonger'#." },
 			[4] = { str = "Fly to #A_Grom'Gol# (#A_Stranglethorn#)." },
 			[5] = { str = "Accept #Q_'Mok'thardin's Enchantment'#." },
 			[6] = { str = "Turn in #Q_'The Troll Witchdoctor'#. right click the cauldron. Accept #Q_'Marg Speaks'#." },

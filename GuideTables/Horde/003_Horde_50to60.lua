@@ -46,11 +46,11 @@ Table_003_Horde_50to60 = {
 
 			[11] = { str = "Turn in all 4 delivery quests." },
 			[12] = { str = "Fly to #A_Crossroads# (#A_The Barrens#)." },
-			[13] = { str = "Make #A_Crossroads# (#A_The Barrens#) your home." },
+			[13] = { str = "Talk to the #N_Innkeeper# to make #A_Crossroads# (#A_The Barrens#) your home." },
 			[14] = { str = "Fly to #A_Ratchet# (#A_The Barrens#)." },
 			[15] = { str = "Pick up the '#N_Stone Circle# at Liv Rizzlefix shop. also accept #Q_'Volcanic Activity'# while your there." },
 			[16] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn#)." },
-			[17] = { str = "Fly to Stonard (swamp of sorrows)." },
+			[17] = { str = "Fly to #A_Stonard# (#A_Swamp of Sorrows#)." },
 			[18] = { str = "Go into Blasted Lands." },
 		}
 	},
@@ -173,7 +173,7 @@ Table_003_Horde_50to60 = {
 			[11] = { str = "Turn in #Q_'The Rise of the Machines'#. Accept #Q_'The Rise of the Machines'#(2)." },
 			[12] = { str = "Go turn in #Q_'The Rise of the Machines'#(2) (at #C_[25,46]# in #A_Badlands#).", x = 25, y = 46, zone = "Badlands" },
 			[13] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
-			[14] = { str = "Then fly to #A_Orgrimmar# and make it your home." },
+			[14] = { str = "Then fly to #A_Orgrimmar#. Talk to the #N_Innkeeper# to make #A_Orgrimmar# your home." },
 			[15] = { str = "Go turn in #Q_'Bone-Bladed Weapons'# at #C_[55,34]#.", x = 55, y = 34, zone = "Orgrimmar" },
 			[16] = { str = "Fly #A_Azshara#." },
 		}
@@ -248,7 +248,7 @@ Table_003_Horde_50to60 = {
 			[6] = { str = "Go to Everlook. at #C_[61,38]#.", x = 61, y = 38, zone = "Winterspring" },
 			[7] = { str = "Accept: #Q_'Are We There, Yeti?'# #Q_'The Everlook Report'# #Q_'Duke Nicholas Zverenhoff'# #Q_'Sister Pamela'# #Q_'Trouble in Winterspring'#and #Q_'Ursius of the Shardtooth'#." },
 			[8] = { str = "Turn in #Q_'Felnok Steelspring'#. Accept #Q_'Chillwind Horns'#." },
-			[9] = { str = "Make Everlook your home." },
+			[9] = { str = "Talk to the #N_Innkeeper# to make #A_Everlook# your home." },
 			[10] = { str = "Go do #Q_'Ursius of the Shardtooth'# (just keep grinding mobs on the hill north of everlook till #N_Ursius# shows up)." },
 
 			[11] = { str = "Then turn in #Q_'Ursius of the Shardtooth'#. Accept #Q_'Brumeran of the Chillwind'#." },
@@ -302,7 +302,7 @@ Table_003_Horde_50to60 = {
 
 			[21] = { str = "Then go turn in #Q_'Mystery Goo'# (at #C_[31,45]# in Winterspring). SKIP '#N_Toxic Horrors'#.", x = 31, y = 45, zone = "Winterspring" },
 			[22] = { str = "Then Use your #I_[Hearthstone]# to return to Everlook." },
-			[23] = { str = "Fly to #A_Orgrimmar# and make it your home." },
+			[23] = { str = "Fly to #A_Orgrimmar#. Talk to the #N_Innkeeper# to make #A_Orgrimmar# your home." },
 			[24] = { str = "If you happen to see #N_Warcaller Gorlach#, accept #Q_'A Call To Arms: The Plaguelands!'#." },
 			[25] = { str = "Fly to #A_Thunder Bluff#, then directly to Camp Mojache, Ferelas." },
 			[26] = { str = "Turn in #Q_'The Strength of Corruption'#." },
@@ -339,7 +339,7 @@ Table_003_Horde_50to60 = {
 			[20] = { str = "Go complete #Q_'A Sample of Slime.'# and #Q_'. and a Batch of Ooze'#." },
 
 			[21] = { str = "Go accept #Q_'A Call To Arms: The Plaguelands!'#." },
-			[22] = { str = "Make Under City your home." },
+			[22] = { str = "Talk to the #N_Innkeeper# to make #A_Undercity# your home." },
 			[23] = { str = "Go to the Bulwark. (which is a small village east of Tirisfal Glades)." },
 		}
 	},
@@ -472,7 +472,7 @@ Table_003_Horde_50to60 = {
 		items = {
 			[1] = { str = "58-60 Winterspring" },
 			[2] = { str = "First thing i do here is stable my pet." },
-			[3] = { str = "Then make Everlook your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Everlook# (#A_Winterspring#) your home." },
 			[4] = { str = "Turn in #Q_'Are We There, Yeti?'#(3)." },
 			[5] = { str = "Accept: #Q_'Luck Be With You'# (Elite) and #Q_'Ursius of the Shardtooth'# (Elite)." },
 			[6] = { str = "Then go tame a Winterspring Screecher (for Claw Rank8) (head south to do this)." },

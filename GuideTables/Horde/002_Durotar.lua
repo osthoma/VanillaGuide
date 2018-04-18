@@ -37,7 +37,7 @@ Table_002_Durotar = {
 			[7] = { str = "Then run up to #A_Razor Hill# (#A_Durotar#) at #C_[52,44]#, grinding mobs along the way, and make sure you get to level 6 before you get up there. Talk to your #N_Class Trainer# to learn new spells and abilities.", x = 52, y = 44, zone = "Durotar" },
 			[8] = { str = "Turn in #Q_'Report to Orgnil'# and collect all the quests at #A_Razor Hill# (#A_Durotar#) (#Q_'Dark Storms'# #Q_'Vanquish the Betrayers'#, #Q_'Encroachment'# #Q_'Break a Few Eggs'#." },
 			[9] = { str = "Go up to the watch tower north-west of #A_Razor Hill# (#A_Durotar#), at #C_[49,40]# and accept #Q_'Carry Your Weight'#.", x = 49, y = 40, zone = "Durotar" },
-			[10] = { str = "Go in the Inn at #C_[51,41]# and turn in #Q_'A Peon's Burden'#. And also make #A_Razor Hill# (#A_Durotar#) your home.", x = 51, y = 41, zone = "Durotar" },
+			[10] = { str = "Go in the Inn at #C_[51,41]# and turn in #Q_'A Peon's Burden'#. Talk to the #N_Innkeeper# to make #A_Razor Hill# (#A_Durotar#) your home.", x = 51, y = 41, zone = "Durotar" },
 
 			[11] = { str = "Get first aid at #C_[54,41]#.", x = 51, y = 41, zone = "Durotar" },
 			[12] = { str = "Then go do this: #Q_'Vanquish the Betrayers'# along with #Q_'Carry Your Weight'# (these are done at Tiragarde Keep, at #C_[57,55]#).", x = 57, y = 55, zone = "Durotar" },

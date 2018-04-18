@@ -69,7 +69,7 @@ Table_003_Alliance_50to60 = {
 			[59] = { str = "Go to the next section up here and turn in #Q_'Rise of the Silithid'#. Accept #Q_'March of the Silithid'#." },
 			[60] = { str = "Go to #C_[34,9]# at the top of the tower and turn in #Q_'Assisting Arch Druid Staghelm'#. Accept #Q_'Un'Goro Soil'#.", x = 34, y = 9, zone = "darnassus" },
 
-			[61] = { str = "Make #A_Darnassus# your home at #C_[67,15]#.", x = 67, y = 15, zone = "darnassus" },
+			[61] = { str = "Talk to the #N_Innkeeper# to make #A_Darnassus# your home at #C_[67,15]#.", x = 67, y = 15, zone = "darnassus" },
 			[62] = { str = "Now either fly to #A_Theramore# (#A_Dustwallow Marsh#) or boat to #A_Menethil Harbor# then to #A_Theramore# (#A_Dustwallow Marsh#)." },
 			[63] = { str = "Get first aid up to 290 if you haven’t for heavy runecloth bandages." },
 			[64] = { str = "Go over to #C_[54,55]# to the wrecked ship and grab the overdue package for #Q_'Ledger From Tanaris'#.", x = 54, y = 55, zone = "Duskwallow Marsh" },
@@ -295,7 +295,7 @@ Table_003_Alliance_50to60 = {
 		items = {
 			[1] = { str = "54-55 Winterspring" },
 			[2] = { str = "Go in Everlook accept #Q_'Enraged Wildkin'#." },
-			[3] = { str = "Go in the Inn, make it your home." },
+			[3] = { str = "Go in the Inn. Talk to the #N_Innkeeper# to make #A_Everlook# (#A_Winterspring#) your home." },
 			[4] = { str = "Accept #Q_'The Everlook Report'# #Q_'Duke Nicholas Zverenhoff'# and #Q_'Sister Pamela'#." },
 			[5] = { str = "On the other side of town accept #Q_'Are We There, Yeti?'#." },
 			[6] = { str = "Keep your eye out for those blue moonkin feathers to finish up #Q_'Moontouched Wildkin'#." },
@@ -323,7 +323,7 @@ Table_003_Alliance_50to60 = {
 			[26] = { str = "In Rut’theran Village turn in #Q_'Moontouched Wildkin'# #C_[55,92]# accept #Q_'Find Ranshalla'#.", x = 55, y = 92, zone = "Darnassus" },
 			[27] = { str = "Go into #A_Darnassus# up to #C_[34,8]# in the big tower and turn in #Q_'The New Frontier'# accept #Q_'The New Frontier'#(2) go down 1 floor and turn that in, accept #Q_'Rabine Saturna'#.", x = 34, y = 8, zone = "Darnassus" },
 			[28] = { str = "Fly to Moonglade to #C_[51,45]# and turn in #Q_'Rabine Saturna'# accept #Q_'Wasteland'#.", x = 51, y = 45, zone = "Moonglade" },
-			[29] = { str = "Fly to #A_Auberdine# (#A_Darkshore#), boat to #A_Menethil Harbor# and fly to #A_Ironforge#, make it your home. Make sure you have your black dragonflight molt." },
+			[29] = { str = "Fly to #A_Auberdine# (#A_Darkshore#), boat to #A_Menethil Harbor# and fly to #A_Ironforge#. Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Make sure you have your black dragonflight molt." },
 			[30] = { str = "Go to #C_[75,23]# and turn in #Q_'A Little Slime Goes A Long Way'#(2).", x = 75, y = 23, zone = "Ironforge" },
 
 			[31] = { str = "Go to #C_[38,55]# in the throne room and accept #Q_'The Smoldering Ruins of Thaurissan'# then click on her and listen to the story and turn it back in, accept #Q_'The Smoldering Ruins of Thaurissan'#(2).", x = 38, y = 55, zone = "Ironforge" },
@@ -377,7 +377,7 @@ Table_003_Alliance_50to60 = {
 		items = {
 			[1] = { str = "56-56 Tanaris" },
 			[2] = { str = "Go to the NW side of town and scare sprinkle for #Q_'Are We There, Yeti?'#(3)." },
-			[3] = { str = "Make #A_Gadgetzan# (#A_Tanaris#) your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Gadgetzan# (#A_Tanaris#) your home." },
 			[4] = { str = "To the south of lost rigger cove at #C_[70,49]# is a bunch of stones in a circle, Loot the stuff from the blue backpack and use the book to summon Aquementas He’s a level 54 water elemental pansy.", x = 70, y = 49, zone = "Tanaris" },
 			[5] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#) or die if it’s not up yet." },
 			[6] = { str = "Fly to Un’goro." },
@@ -395,7 +395,7 @@ Table_003_Alliance_50to60 = {
 			[2] = { str = "Near the moonwell accept #Q_'The Twilight Mystery'#." },
 			[3] = { str = "In front of the Inn, turn in #Q_'Taking Back Silithus'# accept #Q_'Securing the Supply Lines'#." },
 			[4] = { str = "SKIP the quest on the sign unless you get a group." },
-			[5] = { str = "Make Cenarion Hold your home." },
+			[5] = { str = "Talk to the #N_Innkeeper# to make #A_Cenarion Hold# (#A_Silithus#) your home." },
 			[6] = { str = "Upstairs accept #Q_'Deadly Desert Venom'#." },
 			[7] = { str = "There seems to be a lot of white ! because that’s a lot of AQ stuff you don’t have to worry about yet." },
 			[8] = { str = "Go do #Q_'Securing the Supply Lines'# and #Q_'Deadly Desert Venom'# North and NE of town all around #C_[55,24]# the dredges, scorpids, and skitterers for these 2 quests are all over this area.", x = 55, y = 24, zone = "Silithus" },
@@ -433,7 +433,7 @@ Table_003_Alliance_50to60 = {
 			[37] = { str = "Run over to #C_[51,44]# and turn in #Q_'Uncovering Past Secrets'#.", x = 44, y = 35, zone = "Moonglade" },
 			[38] = { str = "You should now be 80-85% into leveling." },
 			[39] = { str = "Fly to #A_Auberdine# (#A_Darkshore#) and boat to #A_Menethil Harbor# then fly to #A_Ironforge#." },
-			[40] = { str = "Make #A_Ironforge# your home, then find the wandering commander dwarf and accept #Q_'A Call To Arms: The Plaguelands!'#" },
+			[40] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Find the wandering commander dwarf and accept #Q_'A Call To Arms: The Plaguelands!'#" },
 
 			[41] = { str = "Fly to #A_Southshore# (#A_Hillsbrad Foothills#)." },
 			[42] = { str = "Run north into Alterac Mountains and over NE to #C_[80,34]# and run into Western Plaguelands (WPL).", x = 80, y = 34, zone = "Alterac Mountains" },

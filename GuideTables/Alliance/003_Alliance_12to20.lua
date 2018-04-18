@@ -6,7 +6,7 @@ Table_003_Alliance_12to20 = {
 			[1] = { str = "12-14 Darkshore" },
 			[2] = { str = "Once you land grab #Q_'Washed Ashore'# right in front of you at #C_[37,46]#.", x = 37, y = 46, zone = "Darkshore" },
 			[3] = { str = "Turn in #Q_'Flight to Auberdine'# accept #Q_'Return to Nessa'# I fly back to #A_Darnassus# to get it done. She’s right off the edge of the dock." },
-			[4] = { str = "Make #A_Auberdine# your home. Run out on the docks of #A_Auberdine# grab #Q_'For Love Eternal'# at #C_[35,43]#.", x = 35, y = 43, zone = "Darkshore" },
+			[4] = { str = "Talk to the #N_Innkeeper# to make #A_Auberdine# (#A_Darnassus#) your home. Run out on the docks of #A_Auberdine# (#A_Darnassus#) grab #Q_'For Love Eternal'# at #C_[35,43]#.", x = 35, y = 43, zone = "Darkshore" },
 			[5] = { str = "Go upstairs accept #Q_'Buzzbox 827'#." },
 			[6] = { str = "Accept #Q_'Cave Mushrooms'# in front of the Inn." },
 			[7] = { str = "Grab #Q_'The Red Crystal'# near the bridge." },
@@ -32,7 +32,7 @@ Table_003_Alliance_12to20 = {
 			[25] = { str = "Do #Q_'Bashal’Aran'#(4) at #C_[42,61]#.", x = 42, y = 61, zone = "Darkshore" },
 			[26] = { str = "Turn in #Q_'The Fall of Ameth'Aran'# at #C_[40,59]#.", x = 40, y = 59, zone = "Darkshore" },
 			[27] = { str = "To the west of Ameth’Aran do #Q_'Plagued Lands'#." },
-			[28] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# Turn in #Q_'Plagued Lands'# at the first house accept #Q_'Cleansing the Infected'#." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# (#A_Darnassus#) Turn in #Q_'Plagued Lands'# at the first house accept #Q_'Cleansing the Infected'#." },
 			[29] = { str = "Go inside hand in #Q_'How Big a Threat?'# accept #Q_'How Big a Threat?'#(2))." },
 			[30] = { str = "Accept #Q_'Thundris Windweaver'#." },
 
@@ -67,7 +67,7 @@ Table_003_Alliance_12to20 = {
 			[12] = { str = "Kill Grizzled Thistle Bear South of #Q_'Grove of the Ancients'# for #Q_'Buzzbox 525'# then turn it in at #C_[41,80]#.", x = 41, y = 80, zone = "Darkshore" },
 			[13] = { str = "Stop at #C_[35,74]# and do #Q_'WANTED: Murkdeep!'# you have to clear the camp, then the 2 waves from the ocean, then he comes. He’s lvl 19 If you have trouble with him just kite him.", x = 35, y = 74, zone = "Darkshore" },
 			[14] = { str = "Grind over to #C_[32,80]# and get #Q_'Beached Sea Creature'#.", x = 32, y = 80, zone = "Darkshore" },
-			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# and Turn in all beached creature quests at the hippograph dock." },
+			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# (#A_Darnassus#) and Turn in all beached creature quests at the hippograph dock." },
 			[16] = { str = "Go under the dock grab #Q_'Fruit of the Sea'#." },
 			[17] = { str = "Turn in #Q_'Cave Mushrooms'# in front of the Inn Accept #Q_'Onu'#." },
 			[18] = { str = "Turn in #Q_'The Fragments Within'# in front of the Inn." },
@@ -88,11 +88,11 @@ Table_003_Alliance_12to20 = {
 			[31] = { str = "Hand in #Q_'The Tower of Althalaxx'#(2) accept #Q_'The Tower of Althalaxx'#(3)." },
 			[32] = { str = "Run to #C_[53,18]# and grab #Q_'Beached Sea Creature'#.", x = 53, y = 18, zone = "Darkshore" },
 			[33] = { str = "Do #Q_'Fruit of the Sea'# from crawlers around here." },
-			[34] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# (if you’re not 17 yet you will be) turn in #Q_'Beached Sea Creature'# on the dock." },
+			[34] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# (#A_Darnassus#) (if you’re not 17 yet you will be) turn in #Q_'Beached Sea Creature'# on the dock." },
 			[35] = { str = "Turn in #Q_'Fruit of the Sea'# under the dock." },
 			[36] = { str = "Turn in #Q_'The Blackwood Corrupted'# in the merchant house." },
 			[37] = { str = "Turn in #Q_'Tharnariun's Hope'# at the last house." },
-			[38] = { str = "Get on boat to #A_Menethil Harbor#. Follow attached run to #A_Ironforge#." },
+			[38] = { str = "Get on boat to #A_Menethil Harbor# (#A_The Wetlands#). Follow attached run to #A_Ironforge#." },
 		}
 	},
 
@@ -170,7 +170,7 @@ Table_003_Alliance_12to20 = {
 			[27] = { str = "Kill Gnolls north of #A_Lakeshire# (#A_Redridge Mountains#) for #Q_'The Everstill Bridge'#." },
 			[28] = { str = "Turn in #Q_'The Everstill Bridge'# next to the Bridge." },
 			[29] = { str = "Turn in #Q_'Murloc Poachers'# in front of the shed." },
-			[30] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine#. You should definitely be 20 by this point and at least half way to 21." },
+			[30] = { str = "Use your #I_[Hearthstone]# to return to #A_Auberdine# (#A_Darnassus#). You should definitely be 20 by this point and at least half way to 21." },
 		}
 	},
 }

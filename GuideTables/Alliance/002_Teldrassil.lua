@@ -34,7 +34,7 @@ Table_002_Teldrassil = {
 			[1] = { str = "6-12 Teldrassil" },
 			[2] = { str = "Accept #Q_'Dolanaar Delivery'# at #C_[61,47]#.", x = 61, y = 47, zone = "Teldrassil" },
 			[3] = { str = "Accept #Q_'Zenn's Bidding'# at #C_[60,56]#.", x = 60, y = 56, zone = "Teldrassil" },
-			[4] = { str = "Make #A_Dolanaar# (#A_Teldrassil#) your home." },
+			[4] = { str = "Talk to the #N_Innkeeper# to make #A_Dolanaar# (#A_Teldrassil#) your home." },
 			[5] = { str = "Turn in #Q_'Dolanaar Delivery'# at #C_[55,59]# in #A_Dolanaar# (#A_Teldrassil#).", x = 55, y = 59, zone = "Teldrassil" },
 			[6] = { str = "Turn in #Q_'Crown of the Earth'#(2) at #C_[56,61]# accept #Q_'Crown of the Earth'#(3).", x = 56, y = 61, zone = "Teldrassil" },
 			[7] = { str = "At the tower in #A_Dolanaar# (#A_Teldrassil#) grab the following." },
