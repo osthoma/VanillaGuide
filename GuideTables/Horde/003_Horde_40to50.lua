@@ -4,7 +4,7 @@ Table_003_Horde_40to50 = {
 		title = "40-41 Badlands",
 		items = {
 			[1] = { str = "40-41 Badlands" },
-			[2] = { str = "The goal here is not to leave till your level 41, so grind mobs every where you go to.As you enter Badlands, run southwest to #C_[42,52]#.", x = 42, y = 52, zone = "Badlands" },
+			[2] = { str = "The goal here is not to leave till your level 41, so grind mobs every where you go to.As you enter #A_Badlands#, run southwest to #C_[42,52]#.", x = 42, y = 52, zone = "Badlands" },
 			[3] = { str = "Turn in #Q_'Martek the Exiled'# at #C_[42,52]#. Accept #Q_'Indurium'# and #Q_'Barbecued Buzzard Wings'#.", x = 42, y = 52, zone = "Badlands" },
 			[4] = { str = "Go down south a little and do #Q_'Indurium'# #C_[51,67]#.", x = 51, y = 67, zone = "Badlands" },
 			[5] = { str = "Go back up and turn #Q_'Indurium'# in. Accept #Q_'News for Fizzle'#." },
@@ -22,7 +22,7 @@ Table_003_Horde_40to50 = {
 			[16] = { str = "#Q_'Study of the Elements: Rock'# (#N_lesser rock elementals#), turn in, then do." },
 			[17] = { str = "#Q_'Study of the Elements: Rock'# (#N_rock elementals#), turn in, then do." },
 			[18] = { str = "#Q_'Study of the Elements: Rock'# (#N_greater rock elementals#)." },
-			[19] = { str = "Then make sure all Badlands quests (besides #Q_'Report to Helgrum'# ) are done and turned in." },
+			[19] = { str = "Then make sure all #A_Badlands# quests (besides #Q_'Report to Helgrum'# ) are done and turned in." },
 			[20] = { str = "You should be about level 41 right now, if not grind to it." },
 
 			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#) and check if you have #Q_'Dream Dust in the Swamp'# in your questlog. If not, go accept it from Krazek at #C_[27,77]#.", x = 27, y = 77, zone = "Stranglethorn Vale" },
@@ -335,7 +335,7 @@ Table_003_Horde_40to50 = {
 			[13] = { str = "Then go do #Q_'The Bloodsail Buccaneers'#(5) (kill the three pirates in the three ships).while doing it, find #Q_'Cortello's Riddle'# (it's usually a little scroll downstairs in the middle ship)." },
 			[14] = { str = "Then Use your #I_[Hearthstone]# to return to back to #A_Booty Bay# (#A_Stranglethorn#), if hearth stone still is on a cooldown, die on purpose." },
 			[15] = { str = "Turn in #Q_'The Captain's Chest'# and #Q_'The Bloodsail Buccaneers'#(5)." },
-			[16] = { str = "Fly to Kargath (Badlands)." },
+			[16] = { str = "Fly to Kargath  #A_Badlands#)." },
 			[17] = { str = "I get a stack of Silk Cloth out of the mailbox for the quest #Q_'Caught'#, then." },
 			[18] = { str = "Go into Searing Gorge." },
 		}

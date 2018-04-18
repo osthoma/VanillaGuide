@@ -321,7 +321,7 @@ Table_003_Alliance_20to30 = {
 
 			[11] = { str = "Go half way across the bridge to #C_[51,8]# and go in the door that leads down, look for the dead dwarf body, hand in #Q_'The Thandol Span'# accept #Q_'The Thandol Span'#(2) turn that back in at the camp at #C_[49,18]# accept #Q_'The Thandol Span'#(3).", x = 51, y = 8, zone = "Wetlands" },
 			[12] = { str = "Go back over the bridge, just to the right is a tinier bridge. Cross it and destroy the explosives cart for #Q_'The Thandol Span'#(3) at #C_[48,88]# accept #Q_'Plea to the Alliance'#.", x = 48, y = 88, zone = "Wetlands" },
-			[13] = { str = "Run into Arathi Highlands to #A_Refuge Point# (#A_Arathi Highlands#) at #C_[45,47]# and hand in #Q_'Plea to the Alliance'#.", x = 45, y = 47, zone = "Arathi Highlands" },
+			[13] = { str = "Run into #A_Arathi Highlands# to #A_Refuge Point# (#A_Arathi Highlands#) at #C_[45,47]# and hand in #Q_'Plea to the Alliance'#.", x = 45, y = 47, zone = "Arathi Highlands" },
 			[14] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[15] = { str = "You should be half way to 31 or more by now." },
 			[16] = { str = "Run towards #A_Hillsbrad Foothills#." },

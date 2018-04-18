@@ -148,7 +148,7 @@ Table_003_Horde_50to60 = {
 			[49] = { str = "Turn in #Q_'Whiskey Slim's Lost Grog'#." },
 			[50] = { str = "Also turn in #Q_'Rescue OOX-17/TN!'# (if you did it)." },
 
-			[51] = { str = "Fly to Kargath (Badlands)." },
+			[51] = { str = "Fly to Kargath  #A_Badlands#)." },
 			[52] = { str = "Turn in #Q_'Vivian Lagrave'#." },
 			[53] = { str = "Accept: #Q_'Dreadmaul Rock'# and #Q_'The Rise of the Machines'#." },
 			[54] = { str = "Then fly to #A_Burning Steppes#." },
@@ -167,11 +167,11 @@ Table_003_Horde_50to60 = {
 			[6] = { str = "#Q_'The Rise of the Machines'#." },
 			[7] = { str = "#Q_'Tablet of the Seven'# (it's at #C_[54,40]#).", x = 54, y = 40, zone = "Burning Steppes" },
 			[8] = { str = "Go turn in #Q_'Tablet of the Seven'# and #Q_'Broodling Essence'#. Accept #Q_'Felnok Steelspring'#." },
-			[9] = { str = "Then fly to Kargath (Badlands)." },
+			[9] = { str = "Then fly to Kargath  #A_Badlands#)." },
 			[10] = { str = "Turn in #Q_'Krom'Grul'#." },
 
 			[11] = { str = "Turn in #Q_'The Rise of the Machines'#. Accept #Q_'The Rise of the Machines'#(2)." },
-			[12] = { str = "Go turn in #Q_'The Rise of the Machines'#(2) (at #C_[25,46]# in Badlands).", x = 25, y = 46, zone = "Badlands" },
+			[12] = { str = "Go turn in #Q_'The Rise of the Machines'#(2) (at #C_[25,46]# in #A_Badlands#).", x = 25, y = 46, zone = "Badlands" },
 			[13] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
 			[14] = { str = "Then fly to #A_Orgrimmar# and make it your home." },
 			[15] = { str = "Go turn in #Q_'Bone-Bladed Weapons'# at #C_[55,34]#.", x = 55, y = 34, zone = "Orgrimmar" },

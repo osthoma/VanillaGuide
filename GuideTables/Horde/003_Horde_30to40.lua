@@ -12,7 +12,7 @@ Table_003_Horde_30to40 = {
 			[7] = { str = "Run back to #A_Tarren Mill# (#A_Hillsbrad Foothills#)." },
 			[8] = { str = "Turn in #Q_'Elixir of Pain'#." },
 			[9] = { str = "Accept #Q_'The Hammer May Fall'#." },
-			[10] = { str = "Run into Arathi Highlands." },
+			[10] = { str = "Run into #A_Arathi Highlands#." },
 		}
 	},
 
@@ -367,8 +367,8 @@ Table_003_Horde_30to40 = {
 			[29] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[30] = { str = "Then get on the zeppelin to go to the #A_Undercity#." },
 
-			[31] = { str = "Fly to #A_Hammerfall# (#A_Arathi Highlands#) and stop at the inn to get the #N_Frost Oil#, the #N_Gyrochronatom#, the #N_Healing Potion#, the #N_Lesser Invisibility Potion# and the #N_Patterned Bronze Bracers# items for some free XP in Badlands." },
-			[32] = { str = "Run all the way to the Badlands." },
+			[31] = { str = "Fly to #A_Hammerfall# (#A_Arathi Highlands#) and stop at the inn to get the #N_Frost Oil#, the #N_Gyrochronatom#, the #N_Healing Potion#, the #N_Lesser Invisibility Potion# and the #N_Patterned Bronze Bracers# items for some free XP in #A_Badlands#." },
+			[32] = { str = "Run all the way to the #A_Badlands#." },
 		}
 	},
 }
