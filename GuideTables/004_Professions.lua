@@ -8,7 +8,7 @@ Table_004_Professions = {
 		title = "1-300 Alchemy",
 		items = {
 			[1] = { str = "#N_1-300 Alchemy#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO60#x #I_Peacebloom# #VIDEO60#x #I_Silverleaf# #VIDEO75#x #I_Empty Vial#" ..
+			[2] = { str = "#Q_Aprx. Mats Required#: #VIDEO60#x #I_Peacebloom# #VIDEO60#x #I_Silverleaf# #VIDEO75#x #I_Empty Vial#" ..
 				"#VIDEO80#x #I_Briarthorn# #VIDEO30#x #I_Bruiseweed# #VIDEO65#x #I_Leaded Vial#" ..
 				"#VIDEO15#x #I_Mageroyal# #VIDEO40#x #I_Stranglekelp# #VIDEO30#x #I_Liferoot# #VIDEO30#x #I_Kingsblood#" ..
 				"#VIDEO45#x #I_Goldthorn# #VIDEO5#x #I_Steelbloom# #VIDEO70#x #I_Sungrass#" ..
@@ -34,7 +34,7 @@ Table_004_Professions = {
 		title = "1-300 Blacksmithing",
 		items = {
 			[1] = { str = "#N_1-300 Blacksmithing#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO90#x #I_Rough Stone# #VIDEO380#x #I_Copper Bar# #VIDEO20#x #I_Coarse Stone# " ..
+			[2] = { str = "#Q_Aprx. Mats Required#: #VIDEO90#x #I_Rough Stone# #VIDEO380#x #I_Copper Bar# #VIDEO20#x #I_Coarse Stone# " ..
 				"#VIDEO5#x #I_Silver Bar# #VIDEO120#x #I_Bronze Bar# #VIDEO150#x #I_Heavy Stone# " ..
 				"#VIDEO5#x #I_Gold Bar# #VIDEO200#x #I_Iron Bar# #VIDEO30#x #I_Green Dye# " ..
 				"#VIDEO380#x #I_Steel Bar# #VIDEO80#x #I_Solid Stone# #VIDEO230#x #I_Mithril Bar# " ..
@@ -167,7 +167,7 @@ Table_004_Professions = {
 		title = "1-300 Enchanting",
 		items = {
 			[1] = { str = "#N_1-300 Enchanting#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: " ..
+			[2] = { str = "#Q_Aprx. Mats Required#: " ..
 			"#VIDEO150#x #I_Strange Dust# #VIDEO90#x #I_Soul Dust# #VIDEO170#x #I_Vision Dust# " ..
 			"#VIDEO300#x #I_Dream Dust# #VIDEO90#x #I_Illusion Dust# #VIDEO15#x #I_Simple Wood# " ..
 			"#VIDEO15#x #I_Lesser Magic Essence# #VIDEO25#x #I_Greater Magic Essence# #VIDEO15#x #I_Lesser Astral Essence# " ..
@@ -211,7 +211,7 @@ Table_004_Professions = {
 		title = "1-300 Engineering",
 		items = {
 			[1] = { str = "#N_1-300 Engineering#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: " ..
+			[2] = { str = "#Q_Aprx. Mats Required#: " ..
 			"#VIDEO90#x #I_Rough Stone# #VIDEO80#x #I_Coarse Stone# #VIDEO75#x #I_Heavy Stone# " ..
 			"#VIDEO90#x #I_Solid Stone# #VIDEO50#x #I_Dense Stone# #VIDEO10#x #I_Wooden Stock# " ..
 			"#VIDEO29#x #I_Weak Flux# #VIDEO50#x #I_Heavy Leather# #VIDEO10#x #I_Wool Cloth# " ..
@@ -250,7 +250,7 @@ Table_004_Professions = {
 		title = "1-300 Leatherworking",
 		items = {
 			[1] = { str = "#N_1-300 Leatherworking#" },
-			[2] = { str = "#VIDEO[1-205]# #DOQUESTAprx. Mats Required#: " ..
+			[2] = { str = "#VIDEO[1-205]# #Q_Aprx. Mats Required#: " ..
 			"#VIDEO275#x #I_Light Leather# #VIDEO20#x #I_Light Hide# #VIDEO25#x #I_Medium Hide# " ..
 			"#VIDEO420#x #I_Heavy Leather# #VIDEO10#x #I_Heavy Hide# #VIDEO30#x #I_Bolt of Silk Cloth# " ..
 			"#VIDEO10#x #I_Iron Buckles#" },
@@ -267,7 +267,7 @@ Table_004_Professions = {
 			[13] = { str = "#VIDEO[180-190]# 10x Barbaric Shoulders (Total: 80x Heavy Leather, 10x Cured Heavy Hide)" },
 			[14] = { str = "#VIDEO[190-195]# 5x Dusky Bracers (Total: 80x Heavy Leather)" },
 			[15] = { str = "#VIDEO[195-205]# 10x Dusky Belt (Total: 100x Heavy Leather, 20x Bolt of Silk Cloth, 10x Iron Buckle)" },
-			[16] = { str = "#VIDEO[205-250]# #DOQUESTAprx. Mats Required#:                                            " ..
+			[16] = { str = "#VIDEO[205-250]# #Q_Aprx. Mats Required#:                                            " ..
 				"#ACCEPTElemental Leatherworking#: #VIDEO405-455#x #I_Thick Leather#                                            " ..
 				"#ACCEPTDragonscale Leatherworking:# #VIDEO441-483#x #I_Thick Leather# #VIDEO40#x #I_Scorpid Scale# #VIDEO10#x #I_Worn Dragonscale#                                            " ..
 				"#ACCEPTTribal Leatherworking#: #VIDEO427-449#x #I_Thick Leather# #VIDEO112#x #I_urtle Scale# #VIDEO11#x #I_Wildvine# #VIDEO2#x #I_Cured Thick Hide#" },
@@ -286,7 +286,7 @@ Table_004_Professions = {
 			[29] = { str = "#ACCEPTTribal Leatherworking# #VIDEO[229-230]# 1x Wild Leather Helmet (Total: 10x Thick Leather, 2x Wildvine)." },
 			[30] = { str = "#ACCEPTTribal Leatherworking# #VIDEO[230-232]# 2x Turtle Scale Helm (Total: 28x Thick Leather, 48x Turtle Scale)." },
 			[31] = { str = "#ACCEPTTribal Leatherworking# #VIDEO[232-250]# 18x Nightscape Pants (Total: 252x Thick Leather)" },
-			[32] = { str = "#VIDEO[250-300]# #DOQUESTAprx. Mats Required#: #VIDEO160#x #I_Thick Leather# #VIDEO470#x #I_Rugged Leather#" },
+			[32] = { str = "#VIDEO[250-300]# #Q_Aprx. Mats Required#: #VIDEO160#x #I_Thick Leather# #VIDEO470#x #I_Rugged Leather#" },
 			[33] = { str = "#VIDEO[250-260]# 10x Nightscape Boots (Total: 160x Thick Leather)" },
 			[34] = { str = "#VIDEO[260-270]# 10x Wicked Leather Gauntlets (Total: 80x Rugged Leather)" },
 			[35] = { str = "#VIDEO[270-285]# 15x Wicked Leather Bracers (Total: 180x Rugged Leather)" },
@@ -299,7 +299,7 @@ Table_004_Professions = {
 		title = "1-300 Tailoring",
 		items = {
 			[1] = { str = "#N_1-300 Tailoring#" },
-			[2] = { str = "#DOQUESTAprx. Mats Required#: #VIDEO160#x #I_Linen Cloth# #VIDEO200#x #I_Wool Cloth# #VIDEO760#x #I_Silk Cloth# " ..
+			[2] = { str = "#Q_Aprx. Mats Required#: #VIDEO160#x #I_Linen Cloth# #VIDEO200#x #I_Wool Cloth# #VIDEO760#x #I_Silk Cloth# " ..
 			"#VIDEO520#x #I_Mageweave Cloth# #VIDEO900#x #I_Runecloth# #VIDEO120#x #I_Rugged Leather# " ..
 			"#VIDEO75#x #I_Coarse Thread# #VIDEO135#x #I_Fine Thread# #VIDEO5#x #I_Gray Dye# " ..
 			"#VIDEO30#x #I_Blue Dye# #VIDEO10#x #I_Bleach# #VIDEO60#x #I_Red Dye# " ..

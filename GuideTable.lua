@@ -194,7 +194,7 @@ function objGuideTable:new(oSettings)
 				{ "v", "10-12 Westfall and Lock Modan", id = nil },
 			},
 			["Dwarves & Gnomes"] = {
-				{ "v", "1-6 Cold Ridge Valley", id = nil },
+				{ "v", "1-6 Coldridge Valley", id = nil },
 				{ "v", "6-12 Dun Morogh", id = nil },
 			},
 			["Night Elves"] = {

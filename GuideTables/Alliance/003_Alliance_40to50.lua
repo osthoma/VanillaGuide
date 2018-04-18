@@ -37,7 +37,7 @@ Table_003_Alliance_40to50 = {
 			[30] = { str = "Run to #C_[65,65]# turn in #Q_'Murdaloc'# accept the Uldaman part I’m almost 25% into 41 now.", x = 65, y = 65, zone = "Loch Modan" },
 
 			[31] = { str = "Fly to #A_Darkshire# (#A_Duskwood#). Talk to the #N_Innkeeper# to make #A_Darkshire# (#A_Duskwood#) your home. Fly to #A_Stormwind# Go to #C_[64,20]# and accept #Q_'In Search of The Temple'#.", x = 64, y = 20, zone = "Stormwind" },
-			[32] = { str = "Fly back to #A_Darkshire# (#A_Duskwood#), Run into Swamp of Sorrows." },
+			[32] = { str = "Fly back to #A_Darkshire# (#A_Duskwood#), Run into #A_Swamp of Sorrows#." },
 		}
 	},
 
@@ -226,7 +226,7 @@ Table_003_Alliance_40to50 = {
 			[34] = { str = "Go in the small house across from the Inn, turn in #Q_'The High Wilderness'# then go upstairs and turn in #Q_'Freed From the Hive'# accept #Q_'A Hero’s Welcome'#." },
 			[35] = { str = "Go to the big building next door and turn in #Q_'A Hero’s Welcome'#. Accept #Q_'Rise of the Silithid'#." },
 			[36] = { str = "Fly out to Thalanaar (spot between #A_Thousand Needles# and here) turn in #Q_'Thalanaar Delivery'# at #C_[89,46]#.", x = 89, y = 46, zone = "Feralas" },
-			[37] = { str = "Fly to Rut'theran Village (#A_Darnassus#)." },
+			[37] = { str = "Fly to #A_Darnassus#." },
 			[38] = { str = "Follow the dock and go in the house, turn in #Q_'Handle With Care'# accept #Q_'Favored of Elune?'#." },
 			[39] = { str = "Go upstairs, turn in #Q_'In Search of Knowledge'# then go to the back of the house on the 2nd floor, open the green book and accept #Q_'Feralas: A History'# turn it back in to her, accept #Q_'The Borrower'#." },
 			[40] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
@@ -270,7 +270,7 @@ Table_003_Alliance_40to50 = {
 			[12] = { str = "Go to #C_[49,37]# if you found OOX-09/HL Distress Beacon.", x = 49, y = 37, zone = "The Hinterlands" },
 			[13] = { str = "Go to #C_[56,41]# and kill Jade Oozes for of #Q_'Skulk Rock Clean-Up'#(2).", x = 56, y = 41, zone = "The Hinterlands" },
 			[14] = { str = "Go to the waterfall at #C_[81,46]# and dive into the water below, then go south along this shore until you see Gammerita and take her picture for #Q_'The Super Snapper FX'# Also you want to keep an eye out for bottles along the shore for #Q_'Whiskey Slim's Lost Grog'#.", x = 81, y = 46, zone = "The Hinterlands" },
-			[15] = { str = "Use your #I_[Hearthstone]# to return to Aerie Peak." },
+			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Aerie Peak# (#A_The Hinterlands#)." },
 			[16] = { str = "Go to the front of the Inn and turn in #Q_'Skulk Rock Clean-Up'#(2) and #Q_'Troll Necklace Bounty'# and any extra 5 necklaces you have." },
 			[17] = { str = "Go up past the flight path in the cave at #C_[9,44]# and turn in #Q_'Witherbark Cages'# accept #Q_'The Altar of Zul'#.", x = 9, y = 44, zone = "The Hinterlands" },
 			[18] = { str = "Go run up top of the Altar of Zul at #C_[48,68]# for #Q_'The Altar of Zul'#.", x = 48, y = 68, zone = "The Hinterlands" },
@@ -278,14 +278,14 @@ Table_003_Alliance_40to50 = {
 			[20] = { str = "Get the quest #Q_'Jammal'an the Prophet'# at #C_[33,75]# if you plan to do Sunken Temple later.", x = 33, y = 75, zone = "The Hinterlands" },
 
 			[21] = { str = "I’m sure by the time you near 47 you’re going to find OOX-09/HL Distress Beacon accept #Q_'Find OOX-09/HL'# and turn it in at #C_[49,37]# and then accept #Q_'Rescue OOX-09/HL'# and escort it to #C_[78,61]# Theres only 2 encounters of 3 mobs, but watch out for the stealthed wolves.", x = 49, y = 37, zone = "The Hinterlands" },
-			[22] = { str = "Once you’re about 6k or 1 bar from 47 use your #I_[Hearthstone]# to return to Aerie Peak." },
+			[22] = { str = "Once you’re about 6k or 1 bar from 47 use your #I_[Hearthstone]# to return to #A_Aerie Peak# (#A_The Hinterlands#)." },
 			[23] = { str = "Turn in any #Q_'Troll Necklace Bounty'# you have just before you go out." },
 			[24] = { str = "Go up past flight path to #C_[9,44]# and turn in #Q_'The Altar of Zul'# accept #Q_'Thadius Grimshade'#.", x = 9, y = 44, zone = "The Hinterlands" },
 			[25] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) and take the boat to #A_Auberdine# (#A_Darkshore#), then fly to Rut’theran Village." },
 			[26] = { str = "Run to the house at #C_[55,92]# and turn in #Q_'Favored of Elune?'#.", x = 55, y = 92, zone = "The Hinterlands" },
 			[27] = { str = "Go upstairs, turn in #Q_'The Super Snapper FX'# accept #Q_'Return to Troyas'#." },
 			[28] = { str = "You should now be 47 and about 8k into it." },
-			[29] = { str = "Fly to Feralas." },
+			[29] = { str = "Fly to #A_Feralas#." },
 		}
 	},
 
@@ -369,7 +369,7 @@ Table_003_Alliance_40to50 = {
 			[40] = { str = "Go to #C_[31,4]# and turn in #Q_'Passing the Burden'# accept #Q_'Arcane Runes'# and #Q_'An Easy Pickup'#.", x = 31, y = 4, zone = "Ironforge" },
 
 			[41] = { str = "Go to #C_[70,93]#, turn in #Q_'An Easy Pickup'# accept #Q_'Signal For Pickup'# then turn it back in. Now you got the flare gun to signal later on.", x = 70, y = 93, zone = "Ironforge" },
-			[42] = { str = "Fly to the Hinterlands." },
+			[42] = { str = "Fly to #A_The Hinterlands#." },
 		}
 	},
 
@@ -382,7 +382,7 @@ Table_003_Alliance_40to50 = {
 			[3] = { str = "Run up to #C_[26,48]# and turn in #Q_'Rhapsody's Kalimdor Kocktail'# Accept #Q_'Rhapsody's Tale'#.", x = 26, y = 48, zone = "The Hinterlands" },
 			[4] = { str = "Grind down to the lake at #C_[40,59]# and Violet Tragan (Mushroom) from the bottom of the lake for #Q_'Sprinkle's Secret Ingredient'#.", x = 40, y = 59, zone = "The Hinterlands" },
 			[5] = { str = "Grind until you’re east of #C_[57,47]# and kill Silvermane Stalkers for #Q_'Food For Baby'#.", x = 57, y = 47, zone = "The Hinterlands" },
-			[6] = { str = "Run back to Aerie Peak and go to the bottom floor of the Inn." },
+			[6] = { str = "Run back to #A_Aerie Peak# (#A_The Hinterlands#) and go to the bottom floor of the Inn." },
 			[7] = { str = "Turn in #Q_'Food For Baby'# accept #Q_'Becoming A Parent'# then turn it back in. Cute pet and good xp =)." },
 			[8] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Booty Bay# (#A_Stranglethorn#)." },
 		}
@@ -418,9 +418,9 @@ Table_003_Alliance_40to50 = {
 			[22] = { str = "Fly to #A_Stormwind# and go to #C_[64,20]# turn in #Q_'Rhapsody's Tale'# SKIP the rest.", x = 64, y = 20, zone = "Stormwind" },
 			[23] = { str = "From here on, either look at the AH when you go by one, or use your AH char to search for your Beaststalker Bracers. I got mine for 8g also look for a mithril casing for later in Un’Goro." },
 			[24] = { str = "Fly to #A_Duskwood#." },
-			[25] = { str = "Run east through Deadwind to the Swamp of Sorrows." },
+			[25] = { str = "Run east through #A_Deadwind Pass# to the #A_Swamp of Sorrows#." },
 			[26] = { str = "Follow the road until it forks and the left fork has a bridge at #C_[22,48]# and under it is A Soggy Scroll which turns in #Q_'Cortello's Riddle'#. Accept #Q_'Cortello's Riddle'#(2).", x = 22, y = 48, zone = "Swamp of Sorrow" },
-			[27] = { str = "Run down to the Blasted Lands" },
+			[27] = { str = "Run down to #A_The Blasted Lands#" },
 		}
 	},
 

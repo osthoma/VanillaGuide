@@ -10,7 +10,7 @@ Table_003_Alliance_50to60 = {
 			[5] = { str = "Run back down near the outhouse at #C_[65,62]# and get the last of your geologist kills if you need them and turn in #Q_'Caught!'# at the outhouse, accept #Q_'Ledger From Tanaris'# and grab the book he slips you under the door.", x = 65, y = 62, zone = "Searing Gorge" },
 			[6] = { str = "Run down to #C_[71,72]# and kill Margol the Rager, and grab Margol's Horn off him which starts #Q_'The Horn of the Beast'#. This gives you the searing gorge key, useless now that there is a flight path here but good XP.", x = 71, y = 72, zone = "Searing Gorge" },
 			[7] = { str = "Run over to #C_[39,38]# and accept #Q_'Divine Retribution'# then talk to him until completed, accept #Q_'The Flawless Flame'#.", x = 39, y = 38, zone = "Searing Gorge" },
-			[8] = { str = "Run up to #A_Thorium Point# at #C_[38,26]#.", x = 38, y = 26, zone = "Searing Gorge" },
+			[8] = { str = "Run up to #A_Thorium Point# (#A_Searing Gorge#) at #C_[38,26]#.", x = 38, y = 26, zone = "Searing Gorge" },
 			[9] = { str = "Grab these quests off the sign: #Q_'WANTED: Overseer Maltorius'# (this will require a group) #Q_'STOLEN: Smithing Tuyere'# and #Q_'Lookout's Spyglass'# and #Q_'JOB OPPORTUNITY: Culling the Competition'#." },
 			[10] = { str = "Accept #Q_'Curse These Fat Fingers'# #Q_'Fiery Menace!'# #Q_'Incendosaurs? Whateverosaur is More Like It'# near the tower." },
 
@@ -28,10 +28,10 @@ Table_003_Alliance_50to60 = {
 			[21] = { str = "Now the fun part, doing all these quests. Some of the mobs you have to kill are in a widespread area so I really won’t list coords on them." },
 			[22] = { str = "From here south kill glassweb spiders for #Q_'Ledger From Tanaris'#." },
 			[23] = { str = "Kill any golems you see over here for #Q_'The Flawless Flame'#." },
-			[24] = { str = "Go around the southern part of the cauldron (the pit) and circle it back towards #A_Thorium Point# and do the following:" },
+			[24] = { str = "Go around the southern part of the cauldron (the pit) and circle it back towards #A_Thorium Point# (#A_Searing Gorge#) and do the following:" },
 			[25] = { str = "Kill heavy war golems and infernal elementals (not magma elementalsfor #Q_'The Flawless Flame'# and heavy war golems for #Q_'Curse These Fat Fingers'#." },
 			[26] = { str = "Kill dark iron lookouts and steamsmiths (Only 6 of them, so come back if they don’t drop, they seem to drop outhouse key a lot) for #Q_'STOLEN: Smithing Tuyere'# and #Q_'Lookout's Spyglass'#." },
-			[27] = { str = "Turn in #Q_'The Flawless Flame'#. Accept #Q_'Forging the Shaft'# when you’re near #A_Thorium Point# again." },
+			[27] = { str = "Turn in #Q_'The Flawless Flame'#. Accept #Q_'Forging the Shaft'# when you’re near #A_Thorium Point# (#A_Searing Gorge#) again." },
 			[28] = { str = "Kill greater lava spiders (not searing) for #Q_'Fiery Menace!'# Mostly SW." },
 			[29] = { str = "If the Grimesilt Outhouse Key dropped, use it to start #Q_'The Key to Freedom'# and turn it in at #C_[65,62]#.", x = 65, y = 62, zone = "Searing Gorge" },
 			[30] = { str = "Go to #C_[63,38]# and start going down into the cauldron.", x = 63, y = 38, zone = "Searing Gorge" },
@@ -42,7 +42,7 @@ Table_003_Alliance_50to60 = {
 			[34] = { str = "Go up the ramp and stay right until #C_[40,35]# kill the boss here for #Q_'WANTED: Overseer Maltorius'# and grab #Q_'What The Flux?'# on the rail behind him. If you can’t find a group have the pet get the aggro and run the guys away from the plans. This is doable with 2 people but very tough. If you can’t get this quest done no big deal but I usually get it done.", x = 40, y = 35, zone = "Searing Gorge" },
 			[35] = { str = "Keep following the path that goes outside and curves back in. You’ll come to a big dead end area with lots of Incendosaur for #Q_'Incendosaurs? Whateverosaur is More Like It'# Save the scales." },
 			[36] = { str = "Grind until youre 36k from leveling." },
-			[37] = { str = "Die on purpose so you end up back at #A_Thorium Point# and turn in these quests." },
+			[37] = { str = "Die on purpose so you end up back at #A_Thorium Point# (#A_Searing Gorge#) and turn in these quests." },
 			[38] = { str = "Go next to the sign, turn in #Q_'WANTED: Overseer Maltorius'#." },
 			[39] = { str = "To the right of the tower, turn in #Q_'Curse These Fat Fingers'# #Q_'Fiery Menace!'# and #Q_'Incendosaurs? Whateverosaur is More Like It'#." },
 			[40] = { str = "Go to the tent behind here, turn in #Q_'STOLEN: Smithing Tuyere'# and #Q_'Lookout's Spyglass'# and #Q_'JOB OPPORTUNITY: Culling the Competition'#." },
@@ -60,11 +60,11 @@ Table_003_Alliance_50to60 = {
 
 			[51] = { str = "Now equip the staff and run to each of the 4 towers at N:#C_[33,53]# W:#C_[36,60]# S:#C_[44,61]# E:#C_[50,54]# and either kill the guys downstairs, and run up and light the brazier." },
 			[52] = { str = "When you get them all, look for a safe spot to jump down and go in the caves at #C_[41,54]# again and through the jail bar door at #C_[37,44]# and run to the room with the golem at #C_[41,25]# and touch the candle covered stone and turn in #Q_'Release Them'# SKIP the next part unless you wanna do it with a group, it’s very tough you have to fight that golem and a dwarf both elites.", x = 41, y = 54, zone = "Searing Gorge" },
-			[53] = { str = "Die on purpose so you end up at #A_Thorium Point# and go down to #C_[29,38]# and turn in #Q_'Set Them Ablaze!'# watch the cutscene as he turns into a dragon.", x = 29, y = 38, zone = "Searing Gorge" },
+			[53] = { str = "Die on purpose so you end up at #A_Thorium Point# (#A_Searing Gorge#) and go down to #C_[29,38]# and turn in #Q_'Set Them Ablaze!'# watch the cutscene as he turns into a dragon.", x = 29, y = 38, zone = "Searing Gorge" },
 			[54] = { str = "Open the chest on the ground accept #Q_'Trinkets'#. then open it again and complete it. Open it and keep the Black Dragonflight Molt for later In the #A_Burning Steppes#." },
 			[55] = { str = "Fly to the Blasted Lands and run up into the Swamp of Sorrows." },
 			[56] = { str = "Go to #C_[81,91]# and look for a named murloc Jarquia for #Q_'Ledger From Tanaris'#.", x = 81, y = 91, zone = "Swamp of Sorrows" },
-			[57] = { str = "Once you kill him use your #I_[Hearthstone]# to return to #A_Ironforge# then either get a portal to #A_Darnassus# or fly to #A_Menethil Harbor# then boat to #A_Auberdine# (#A_Darkshore#) and fly to #A_Darnassus#." },
+			[57] = { str = "Once you kill him use your #I_[Hearthstone]# to return to #A_Ironforge# then either get a portal to #A_Darnassus# or fly to #A_Menethil Harbor# (#A_The Wetlands#) then boat to #A_Auberdine# (#A_Darkshore#) and fly to #A_Darnassus#." },
 			[58] = { str = "Go to the top of the temple of the moon at #C_[38,80]# and turn in #Q_'Prayer to Elune'#(2).", x = 38, y = 80, zone = "darnassus" },
 			[59] = { str = "Go to the next section up here and turn in #Q_'Rise of the Silithid'#. Accept #Q_'March of the Silithid'#." },
 			[60] = { str = "Go to #C_[34,9]# at the top of the tower and turn in #Q_'Assisting Arch Druid Staghelm'#. Accept #Q_'Un'Goro Soil'#.", x = 34, y = 9, zone = "darnassus" },
@@ -228,12 +228,12 @@ Table_003_Alliance_50to60 = {
 			[44] = { str = "Fly to #A_Ratchet# (#A_The Barrens#)." },
 			[45] = { str = "Run west of the dock and turn in #Q_'Volcanic Activity'#." },
 			[46] = { str = "Run down to #C_[65,43]# and turn in #Q_'Seeking Spiritual Aid'# accept #Q_'Cleansed Water Returns to Felwood'#.", x = 65, y = 43, zone = "The Barrens" },
-			[47] = { str = "Fly to #A_Theramore# (#A_Dustwallow Marsh#) and boat to #A_Menethil Harbor# then fly to #A_Ironforge#." },
+			[47] = { str = "Fly to #A_Theramore# (#A_Dustwallow Marsh#) and boat to #A_Menethil Harbor# (#A_The Wetlands#) then fly to #A_Ironforge#." },
 			[48] = { str = "Just outside the military ward there should be a wandering npc, one is near flight path too, grab the quest #Q_'The New Frontier'#." },
 			[49] = { str = "Go to #C_[75,23]# and turn in #Q_'A Little Slime Goes A Long Way'# accept #Q_'A Little Slime Goes A Long Way'#(2).", x = 75, y = 23, zone = "Ironforge" },
 			[50] = { str = "Go to #C_[31,4]# and turn in #Q_'Return to Tymor'# see it was worth the run.", x = 31, y = 4, zone = "Ironforge" },
 
-			[51] = { str = "Fly to #A_Menethil Harbor# then boat to #A_Theramore# (#A_Dustwallow Marsh#) and fly to #A_Gadgetzan# (#A_Tanaris#)." },
+			[51] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) then boat to #A_Theramore# (#A_Dustwallow Marsh#) and fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
 
@@ -323,7 +323,7 @@ Table_003_Alliance_50to60 = {
 			[26] = { str = "In Rut’theran Village turn in #Q_'Moontouched Wildkin'# #C_[55,92]# accept #Q_'Find Ranshalla'#.", x = 55, y = 92, zone = "Darnassus" },
 			[27] = { str = "Go into #A_Darnassus# up to #C_[34,8]# in the big tower and turn in #Q_'The New Frontier'# accept #Q_'The New Frontier'#(2) go down 1 floor and turn that in, accept #Q_'Rabine Saturna'#.", x = 34, y = 8, zone = "Darnassus" },
 			[28] = { str = "Fly to Moonglade to #C_[51,45]# and turn in #Q_'Rabine Saturna'# accept #Q_'Wasteland'#.", x = 51, y = 45, zone = "Moonglade" },
-			[29] = { str = "Fly to #A_Auberdine# (#A_Darkshore#), boat to #A_Menethil Harbor# and fly to #A_Ironforge#. Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Make sure you have your black dragonflight molt." },
+			[29] = { str = "Fly to #A_Auberdine# (#A_Darkshore#), boat to #A_Menethil Harbor# (#A_The Wetlands#) and fly to #A_Ironforge#. Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Make sure you have your black dragonflight molt." },
 			[30] = { str = "Go to #C_[75,23]# and turn in #Q_'A Little Slime Goes A Long Way'#(2).", x = 75, y = 23, zone = "Ironforge" },
 
 			[31] = { str = "Go to #C_[38,55]# in the throne room and accept #Q_'The Smoldering Ruins of Thaurissan'# then click on her and listen to the story and turn it back in, accept #Q_'The Smoldering Ruins of Thaurissan'#(2).", x = 38, y = 55, zone = "Ironforge" },
@@ -366,7 +366,7 @@ Table_003_Alliance_50to60 = {
 			[25] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge#." },
 			[26] = { str = "Go to the throne room at #C_[38,55]# and turn in #Q_'The Smoldering Ruins of Thaurissan'#(2).", x = 38, y = 55, zone = "Ironforge" },
 			[27] = { str = "You should now be 56, talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[28] = { str = "Fly to #A_Menethil Harbor# and boat to #A_Theramore# (#A_Dustwallow Marsh#)." },
+			[28] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) and boat to #A_Theramore# (#A_Dustwallow Marsh#)." },
 			[29] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
@@ -432,7 +432,7 @@ Table_003_Alliance_50to60 = {
 			[36] = { str = "Go to #C_[44,35]# and turn in #Q_'Umber, Archivist'# accept #Q_'Uncovering Past Secrets'#.", x = 44, y = 35, zone = "Moonglade" },
 			[37] = { str = "Run over to #C_[51,44]# and turn in #Q_'Uncovering Past Secrets'#.", x = 44, y = 35, zone = "Moonglade" },
 			[38] = { str = "You should now be 80-85% into leveling." },
-			[39] = { str = "Fly to #A_Auberdine# (#A_Darkshore#) and boat to #A_Menethil Harbor# then fly to #A_Ironforge#." },
+			[39] = { str = "Fly to #A_Auberdine# (#A_Darkshore#) and boat to #A_Menethil Harbor# (#A_The Wetlands#) then fly to #A_Ironforge#." },
 			[40] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Find the wandering commander dwarf and accept #Q_'A Call To Arms: The Plaguelands!'#" },
 
 			[41] = { str = "Fly to #A_Southshore# (#A_Hillsbrad Foothills#)." },
@@ -491,7 +491,7 @@ Table_003_Alliance_50to60 = {
 
 			[41] = { str = "Turn around to the guy in front of the tent, and complete the quest #Q_'Mission Accomplished!'# no link for it cuz it’s not a quest again lol. Now see that running back and forth seemed out of the way but there was a huge xp boost at the end, and nice xp throughout." },
 			[42] = { str = "To your right turn in #Q_'Skeletal Fragments'# SKIP the next part unless you want to start on your scholo key." },
-			[43] = { str = "Run east to #C_[70,50]# and enter the Eastern Plaguelands (EPL).", x = 70, y = 50, zone = "Western Plaguelands" },
+			[43] = { str = "Run east to #C_[70,50]# and enter #A_Eastern Plaguelands#.", x = 70, y = 50, zone = "Western Plaguelands" },
 		}
 	},
 
@@ -520,7 +520,7 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "If you’re within 6600 XP to level then Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Stormwind#, if not then grind until you’re within range." },
 			[19] = { str = "Go to #C_[78,18]# in the keep and turn in #Q_'The Blightcaller Cometh'# now I SKIP the next part but it’s a good quest to do at 60.", x = 78, y = 18, zone = "Eastern Plaguelands" },
 			[18] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[19] = { str = "Fly back to WPL." },
+			[19] = { str = "Fly back to #A_Western Plaguelands#." },
 		}
 	},
 
@@ -587,9 +587,9 @@ Table_003_Alliance_50to60 = {
 			[14] = { str = "Once you’re 8k-8.5k from leveling, fly to Hinterlands and run all the way NE to the waterfall at #C_[80,46]# and jump off. Under the water loot the chest and finish #Q_'Cortello’s Riddle'#(3) I bet you thought I forgot about it.", x = 80, y = 46, zone = "The Hinterlands" },
 			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge#." },
 			[16] = { str = "Go to the throne room at #C_[43,52]# and accept #Q_'An Earnest Proposition'# (pick your class from the list) You have to have your classes tier 0 bracers in order to do this quest. You can buy it on AH.", x = 43, y = 52, zone = "Ironforge" },
-			[17] = { str = "Fly to #A_Menethil Harbor# and boat to #A_Auberdine# (#A_Darkshore#), fly to #A_Darnassus#." },
+			[17] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) and boat to #A_Auberdine# (#A_Darkshore#), fly to #A_Darnassus#." },
 			[18] = { str = "Go to #C_[35,8]# on the 2nd floor and turn in #Q_'Glyphed Oaken Branch'#.", x = 35, y = 8, zone = "Darnassus" },
-			[19] = { str = "You should be 59, fly to Winterspring." },
+			[19] = { str = "You should be 59, fly to #A_Winterspring#." },
 		}
 	},
 
@@ -625,7 +625,7 @@ Table_003_Alliance_50to60 = {
 			[24] = { str = "Run back up into Winterspring and over to #C_[31,45]# turn in #Q_'Toxic Horrors'# accept #Q_'Winterfall Runners'#.", x = 31, y = 45, zone = "Winterspring" },
 			[25] = { str = "Now to find the runners. They travel anywhere from the Timbermaw Cave east to #C_[53,34]# then up around the mountains north of everlook over to Winterfall Village. If you didn’t see them from the cave to here, head east. You don’t have to kill all 3.", x = 53, y = 34, zone = "Winterspring" },
 			[26] = { str = "Once you get the crate run back to #C_[31,45]# Turn in Winterfall Runners an ambush will come from the lake, if u don’t move from the tent they won’t aggro you. SKIP the next part unless you get a group.", x = 31, y = 45, zone = "Winterspring" },
-			[27] = { str = "Use your #I_[Hearthstone]# to return to Everlook." },
+			[27] = { str = "Use your #I_[Hearthstone]# to return to #A_Everlook# (#A_Winterspring#)." },
 			[28] = { str = "You should be 45-50% through 59. Now I make sure I got my mana bisquits and I start grinding until im 6600 to 60. Anywhere is fine where there is a lot of mobs It’s all a matter of preference. I choose the owl wing thicket at #C_[64,62]# or anything north of everlook. I like to kill the furlbogs for timbermaw rep also.", x = 64, y = 62, zone = "Winterspring" },
 			[29] = { str = "If you don’t want to grind this large amount then do BRD, scholo, or strat. You have a lot of quests in those spots to do." },
 			[30] = { str = "Once you’re 6600 to 60 go to #A_Ironforge# and turn in #Q_'An Earnest Proposition'#." },

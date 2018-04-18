@@ -102,7 +102,7 @@ Table_003_Alliance_30to40 = {
 			[16] = { str = "Run east to #C_[80,75]# turn in #Q_'Load Lightening'# accept #Q_'Goblin Sponsorship'#.", x = 80, y = 75, zone = "Thousand Needles" },
 			[17] = { str = "Go to #C_[81,77]# and turn in #Q_'A Bump in the Road'#.", x = 81, y = 77, zone = "Thousand Needles" },
 			[18] = { str = "Run south into #A_Tanaris#. Unlock the flight path by talking to the #N_Flight Master# at #A_Gadgetzan# (#A_Tanaris#)." },
-			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Menethil Harbor#, get on the boat to #A_Theramore# (#A_Dustwallow Marsh#). Unlock the flight path by talking to the #N_Flight Master# and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
+			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Menethil Harbor# (#A_The Wetlands#), get on the boat to #A_Theramore# (#A_Dustwallow Marsh#). Unlock the flight path by talking to the #N_Flight Master# and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
 		}
 	},
 

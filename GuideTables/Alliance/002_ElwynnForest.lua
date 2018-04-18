@@ -122,7 +122,7 @@ Table_002_ElwynnForest = {
 			[32] = { str = "Kill mobs from #C_[26,43]# and north for #Q_'Rat Catching'#, then turn it in at #A_Thelsamar# (#A_Loch Modan#)", x = 26, y = 43, zone = "Loch Modan" },
 			[33] = { str = "Go back to #C_[22,73]# and turn them both in.", x = 22, y = 73, zone = "Loch Modan" },
 			[34] = { str = "Go north to the tower at #C_[24,18]# and turn in #Q_'Stormpike's Delivery'#.", x = 24, y = 18, zone = "Loch Modan" },
-			[35] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor# (#A_The Wetlands#), then boat to #A_Auberdine# from here." },
+			[35] = { str = "You should be 12 now or close to it. You can grind if you’d like but it doesn’t matter much. Follow the Night Elf to #A_Ironforge# guide but just go backwards. You’re going to go north through the #A_Wetlands# to #A_Menethil Harbor# (#A_The Wetlands#), then boat to #A_Auberdine# (#A_Darkshore#) from here." },
 		}
 	},
 }

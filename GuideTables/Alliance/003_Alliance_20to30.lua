@@ -274,7 +274,7 @@ Table_003_Alliance_20to30 = {
 			[45] = { str = "Turn in #Q_'The Shadowy Figure'# at the house east of the Inn. Accept #Q_'The Shadowy Search Continues'#." },
 			[46] = { str = "Turn it in at the town hall, accept #Q_'Inquire at the Inn'# SKIP the rest." },
 			[47] = { str = "If you happened to find An Old History Book (drops off all mobs in Duskwood) start the quest #Q_'An Old History Book'# and Fly to #A_Stormwind# and turn it in at #C_[74,7]# and accept #Q_'Southshore'#.", x = 74, y = 7, zone = "Duskwood" },
-			[48] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) and get on the boat to #A_Auberdine# (#A_Darkshore#), Fly to Ashenvale." },
+			[48] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) and get on the boat to #A_Auberdine# (#A_Darkshore#), Fly to #A_Ashenvale#." },
  		}
 	},
 
