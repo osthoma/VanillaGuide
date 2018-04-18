@@ -92,7 +92,7 @@ Table_002_Teldrassil = {
 			[54] = { str = "Run to #A_Darnassus#, if you’re not within 1100xp to 12 yet grind on harpies North of the #A_Darnassus# entrance." },
 			[55] = { str = "Turn in #Q_'Crown of the Earth'#(6) #C_[34,8]# in #A_Darnassus#.", x = 34, y = 8, zone = "Darnassus" },
 			[56] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities and run through gate at #C_[30,41]#.", x = 30, y = 41, zone = "Darnassus" },
-			[57] = { str = "Run straight ahead to #C_[56,92]#, hand in #Q_'Nessa Shadowsong'# accept #Q_'The Bounty of Teldrassil'# go hand it in to the hippograph guy at #C_[58,93]# to get a free ride and start Flight to #A_Auberdine#.", x = 56, y = 92, zone = "Teldrassil" },
+			[57] = { str = "Run straight ahead to #C_[56,92]#, hand in #Q_'Nessa Shadowsong'# accept #Q_'The Bounty of Teldrassil'# go hand it in to the hippograph guy at #C_[58,93]# to get a free ride and start #Q_'Flight to Auberdine'#.", x = 56, y = 92, zone = "Teldrassil" },
  		}
 	},
 }

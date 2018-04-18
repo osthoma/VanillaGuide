@@ -4,7 +4,7 @@ Table_003_Alliance_30to40 = {
 		title = "30-31 Hillsbrad Foothills",
 		items = {
 			[1] = { str = "30-31 Hillsbrad Foothills" },
-			[2] = { str = "Run into southshore at #C_[49,52]# and grab the flight path.", x = 49, y = 52, zone = "Hillsbrad Foothills" },
+			[2] = { str = "Run into southshore at #C_[49,52]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 49, y = 52, zone = "Hillsbrad Foothills" },
 			[3] = { str = "Stop at the barn east of the flight path, accept #Q_'Costly Menace'#." },
 			[4] = { str = "Go to the house in front of the barn, turn in #Q_'Southshore'# SKIP the next part." },
 			[5] = { str = "Go in front of the Inn, accept #Q_'Hints of a New Plague'#." },
@@ -70,10 +70,10 @@ Table_003_Alliance_30to40 = {
 			[11] = { str = "Kill Stranglethorn Tigers for around #C_[29,10]# for #Q_'Tiger Mastery'#(2) and the Panthers around #C_[28,12]# for #Q_'Panther Mastery'#(2).", x = 29, y = 10, zone = "Stranglethorn Vale" },
 			[12] = { str = "Kill Stranglethorn Raptors for #C_[26,15]# #Q_'Raptor Mastery'#.", x = 26, y = 15, zone = "Stranglethorn Vale" },
 			[13] = { str = "Go back to Nessingway’s at #C_[35,10]# and turn in #Q_'Tiger Mastery'#(2), #Q_'Panther Mastery'#(2), and #Q_'Raptor Mastery'#. Accept #Q_'Tiger Mastery'#(3), #Q_'Panther Mastery'#(3) and #Q_'Raptor Mastery'#(2).", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[14] = { str = "Run to #A_Booty Bay# and get the flight path." },
+			[14] = { str = "Run to #A_Booty Bay#. Unlock the flight path by talking to the #N_Flight Master#." },
 			[15] = { str = "Turn in #Q_'Krazek's Cookery'# on the top floor of the inn, accept and hand back in (the bloodstone ores) #Q_'Favor for Krazek'# then accept #Q_'Return to Corporal Kaleb'# (this quest gives you your first helm) also accept #Q_'Investigate the Camp'# and #Q_'Supplies to Private Thorsen'#." },
 			[16] = { str = "Get on the Boat to Ratchet." },
-			[17] = { str = "Grab the flight path." },
+			[17] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[18] = { str = "Now for a little bit of a run through horde territory. Run all the way south in the barrens to the great lift and take it down into #A_Thousand Needles#. Jump off if you get attacked." },
 			[19] = { str = "Run all the way south in the barrens to the great lift and take it down into #A_Thousand Needles#. Jump off if you get attacked." },
 		}
@@ -84,7 +84,7 @@ Table_003_Alliance_30to40 = {
 		title = "32-33 Thousand Needles (Shimmering Flats)",
 		items = {
 			[1] = { str = "32-33 Thousand Needles (Shimmering Flats)" },
-			[2] = { str = "Now Get the flight path on the west side of this zone at #C_[8,18]#, it’s just inside Feralas. This will save a lot of time later on.", x = 8, y = 18, zone = "Thousand Needles" },
+			[2] = { str = "Unlock the flight path by talking to the #N_Flight Master# on the west side of this zone at #C_[8,18]#, it’s just inside Feralas. This will save a lot of time later on.", x = 8, y = 18, zone = "Thousand Needles" },
 			[3] = { str = "You should be close to level 33 so grind to it on your way to Shimmering Flats." },
 			[4] = { str = "Go to #C_[78,77]# and turn in #Q_'The Brassbolts Brothers'# accept #Q_'Hardened Shells'# and #Q_'Salt Flat Venom'#.", x = 78, y = 77, zone = "Thousand Needles" },
 			[5] = { str = "Go a little beside these guys and grab #Q_'Rocket Car Parts'#, #Q_'Wharfmaster Dizzywig'# and #Q_'Hemet Nesingwary'#." },
@@ -101,8 +101,8 @@ Table_003_Alliance_30to40 = {
 			[15] = { str = "Go to the 2 npc’s next east of here and hand in #Q_'Salt Flat Venom'# and #Q_'Hardened Shells'# then accept #Q_'Martek the Exiled'#." },
 			[16] = { str = "Run east to #C_[80,75]# turn in #Q_'Load Lightening'# accept #Q_'Goblin Sponsorship'#.", x = 80, y = 75, zone = "Thousand Needles" },
 			[17] = { str = "Go to #C_[81,77]# and turn in #Q_'A Bump in the Road'#.", x = 81, y = 77, zone = "Thousand Needles" },
-			[18] = { str = "Run south into Tanaris and Grab the flight path at Gadgetzan." },
-			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Menethil Harbor#, get on the boat to Theramore, Get flight path and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
+			[18] = { str = "Run south into Tanaris. Unlock the flight path by talking to the #N_Flight Master# at Gadgetzan." },
+			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Menethil Harbor#, get on the boat to Theramore. Unlock the flight path by talking to the #N_Flight Master# and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
 		}
 	},
 
@@ -156,8 +156,8 @@ Table_003_Alliance_30to40 = {
 			[32] = { str = "Go south a bit more, turn in #Q_'Centaur Bounty'#." },
 			[33] = { str = "Finally turn in #Q_'Return to Vahlarriel'#." },
 			[34] = { str = "You should be within 2 bars to 35 now. I grind down on the Centaurs at Gelkis Village at #C_[37,80]# until 35.", x = 37, y = 80, zone = "Desolace" },
-			[35] = { str = "Head south into Feralas to get the flight path, this will again save more time later on." },
-			[36] = { str = "Get on the Boat at #C_[43,42]# and grab the flight path in Feathermoon. Fly to Theramore, then to Ratchet.", x = 43, y = 42, zone = "Desolace" },
+			[35] = { str = "Head south into Feralas. Unlock the flight path by talking to the #N_Flight Master#. This will again save more time later on." },
+			[36] = { str = "Get on the Boat at #C_[43,42]#. Unlock the flight path by talking to the #N_Flight Master# in Feathermoon. Fly to Theramore, then to Ratchet.", x = 43, y = 42, zone = "Desolace" },
 			[37] = { str = "Go to the engineer hut at #C_[62,36]# and hand in #Q_'Goblin Sponsorship'# accept #Q_'Goblin Sponsorship'#(2) Then run out on the dock and hand in #Q_'Wharfmaster Dizzywig'# accept #Q_'Parts for Kravel'#.", x = 62, y = 36, zone = "Desolace" },
 			[38] = { str = "Get on the boat to #A_Booty Bay#." },
 		}

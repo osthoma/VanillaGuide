@@ -67,8 +67,8 @@ Table_002_Mulgore = {
 			[12] = { str = "Go behind #A_Thunder Bluff# and kill Bluffwatchers until you have 6 Azure and 6 Bronze Feathers then run back to #C_[38,60]# and turn it in.", x = 38, y = 60, zone = "Thunder Bluff" },
 			[13] = { str = "Run back to #A_Bloodhoof Village# but make sure you kill Prairie Alphas along the way until you have 8 Teeth." },
 			[14] = { str = "Go to #C_[49,60]# and turn in #Q_'Windmane Totem'#.", x = 49, y = 60, zone = "Mulgore" },
-			[15] = { str = "You should be level 12 now, if not grind to it then run into the Barrens following the path until you come to #A_Camp Taurajo#. Talk to Kirge Sternhorn #C_[44,58]# and accept #Q_'Journey to the Crossroads'# and get the Flight Path.", x = 44, y = 58, zone = "Mulgore" },
-			[16] = { str = "Run north up the road until you get to the #A_Crossroads# (#A_The Barrens#) and turn in #Q_'Journey to the Crossroads'# get the Flight Path." },
+			[15] = { str = "You should be level 12 now, if not grind to it then run into the Barrens following the path until you come to #A_Camp Taurajo#. Talk to Kirge Sternhorn #C_[44,58]# and accept #Q_'Journey to the Crossroads'#. Unlock the flight path by talking to the #N_Flight Master#.", x = 44, y = 58, zone = "Mulgore" },
+			[16] = { str = "Run north up the road until you get to the #A_Crossroads# (#A_The Barrens#) and turn in #Q_'Journey to the Crossroads'#. Unlock the flight path by talking to the #N_Flight Master#." },
 			[17] = { str = "Now you can continue with the 12-15 Barrens guide which is in the 1-60 guide." },
 		}
 	},

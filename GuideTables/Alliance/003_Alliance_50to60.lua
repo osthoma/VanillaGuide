@@ -15,7 +15,7 @@ Table_003_Alliance_50to60 = {
 			[10] = { str = "Accept 'Curse These Fat Fingers' 'Fiery Menace!' 'Incendosaurs? Whateverosaur is More Like It' near the tower." },
 
 			[11] = { str = "Under the tent accept 'What The Flux?'." },
-			[12] = { str = "Grab the flight path and fly to #A_Ironforge#." },
+			[12] = { str = "Unlock the flight path by talking to the #N_Flight Master# and fly to #A_Ironforge#." },
 			[13] = { str = "Stop at #C_[71,16]# and turn in 'Suntara Stones'(2) accept 'Dwarven Justice'.", x = 71, y = 16, zone = "Searing Gorge" },
 			[14] = { str = "Fly to #A_Thelsamar#." },
 			[15] = { str = "Run down to #C_[18,83]# and turn in 'The Horn of the Beast. Accept 'Proof of Deed'.", x = 18, y = 83, zone = "Searing Gorge" },
@@ -109,7 +109,7 @@ Table_003_Alliance_50to60 = {
 			[17] = { str = "To the right of the cave, accept #Q_'Alien Ecology'#." },
 			[18] = { str = "To the right again, turn in 'Williden’s Journal. Accept #Q_'Expedition Salvation'#." },
 			[19] = { str = "Run just south a bit and you’ll fine Linken just outside of a half hollow tree. Turn in 'It's A Secret to Everybody'(2) accept 'It's A Secret to Everybody'(3)." },
-			[20] = { str = "Get the flight path to the right of the cave (added in 1.11) then go in the cave all the way to the end and accept 'Crystals of Power' and then turn it in Accept the 3 pylon quests 'The Northern Pylon' 'The Eastern Pylon' 'The Western Pylon'." },
+			[20] = { str = "Unlock the flight path by talking to the #N_Flight Master# to the right of the cave (added in 1.11) then go in the cave all the way to the end and accept 'Crystals of Power' and then turn it in Accept the 3 pylon quests 'The Northern Pylon' 'The Eastern Pylon' 'The Western Pylon'." },
 
 			[21] = { str = "When ever you see the following mobs kill them on site until the quest associate with them is finished." },
 			[22] = { str = "Kill bloodpetals for #Q_'Muigin and Larion'#." },
@@ -145,7 +145,7 @@ Table_003_Alliance_50to60 = {
 			[50] = { str = "Turn in #Q_'Expedition Salvation'#." },
 
 			[51] = { str = "In the back of the cave turn in 'The Northern Pylon' 'The Eastern Pylon' 'The Western Pylon. Accept 'Making Sense of It' then turn it back in. She then tells you about buffs from the pylons." },
-			[52] = { str = "Run to #C_[29,22]# and follow the path into #A_Silithus# to #C_[50,34]# grab the flight path and fly to #A_Gadgetzan# (#A_Tanaris#).", x = 29, y = 22, zone = "Un’Goro Crater" },
+			[52] = { str = "Run to #C_[29,22]# and follow the path into #A_Silithus# to #C_[50,34]#. Unlock the flight path by talking to the #N_Flight Master# and fly to #A_Gadgetzan# (#A_Tanaris#).", x = 29, y = 22, zone = "Un’Goro Crater" },
 			[53] = { str = "Go to the NW part of town, turn in Bungle in the Jungle SKIP the next part then hand in Super Sticky between the 2 entrances." },
 			[54] = { str = "Use your #I_[Hearthstone]# to return to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[55] = { str = "You should have at least 50+ soils easy now." },
@@ -162,7 +162,7 @@ Table_003_Alliance_50to60 = {
 		title = "52-53 Azshara",
 		items = {
 			[1] = { str = "52-53 Azshara" },
-			[2] = { str = "Just as you enter, on the right at #C_[11,77]# grab the flight path.", x = 11, y = 77, zone = "Azshara" },
+			[2] = { str = "Unlock the flight path by talking to the #N_Flight Master# on the right at #C_[11,77]#", x = 11, y = 77, zone = "Azshara" },
 			[3] = { str = "Just behind him, accept Spiritual Unrest and A Land Filled With Hatred." },
 			[4] = { str = "Go just north to around #C_[14,72]# and #C_[16,67]#and kill all the ghosts around here until you complete Spiritual Unrest.", x = 14, y = 72, zone = "Azshara" },
 			[5] = { str = "Go just north to #C_[19,61]# and kill all the satyr’s around here for A Land Filled With Hatred.", x = 19, y = 61, zone = "Azshara" },
@@ -198,7 +198,7 @@ Table_003_Alliance_50to60 = {
 			[17] = { str = "Go up to #C_[42,20]# and kill Entropic beasts and horrors and explore the craters for Verifying the Corruption.", x = 42, y = 20, zone = "Felwood" },
 			[18] = { str = "Go up to #C_[46,14]# and follow it to the back, killing the demons for Further Corruption When you kill Xavaric he'll drop Flute of Xavaric which starts Flute of Xavaric kill the satyr’s now to complete this.", x = 46, y = 14, zone = "Felwood" },
 			[19] = { str = "Run over to Irontree Cavern at #C_[55,17]# and kill 15 of the elementals and that should be enough for Cleansing Felwood.", x = 55, y = 17, zone = "Felwood" },
-			[20] = { str = "Go up to #C_[62,24]# and get the flight path.", x = 62, y = 24, zone = "Felwood" },
+			[20] = { str = "Go up to #C_[62,24]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 62, y = 24, zone = "Felwood" },
 
 			[21] = { str = "Go north to #C_[64,8]# and turn in Speak to Nefian accept Deadwood of the North.", x = 64, y = 8, zone = "Felwood" },
 			[22] = { str = "Now fall off the cliff to the west and start killing for Deadwood of the North once you’re done you want to kill until you’re 150 rep from the next rank with the timbermaw (put the rep as an xp bar for ease)." },
@@ -206,7 +206,7 @@ Table_003_Alliance_50to60 = {
 			[24] = { str = "Go through the cave to Winterspring and just outside the cave to the right at #C_[27,34]# turn in Speak to Salfa.", x = 27, y = 34, zone = "Winterspring" },
 			[25] = { str = "Run south to #C_[31,45]# and turn in The New Springs accept Strange Sources also turn in It's A Secret to Everybody(3) accept The Videre Elixir and Threat of the Winterfall.", x = 31, y = 45, zone = "Winterspring" },
 			[26] = { str = "Run back throug the cave and go west at the fork into Moonglade." },
-			[27] = { str = "Go to #C_[48,67]# and grab the flight path.", x = 48, y = 67, zone = "Moodglade" },
+			[27] = { str = "Go to #C_[48,67]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 48, y = 67, zone = "Moodglade" },
 			[28] = { str = "You should be a hair from leveling now. You can kill something or just wait. Use your #I_[Hearthstone]# to return to #A_Astranaar# and fly to Feralas." },
 			[29] = { str = "Go in the Inn, accept Jonespyre's Request." },
 			[30] = { str = "Go up to the top of the tower, turn it in, accept The Mystery of Morrowgrain turn it back in unless you’re still making the stuff. If you don’t have enough no big deal during this guide I didn’t have enough." },
@@ -224,7 +224,7 @@ Table_003_Alliance_50to60 = {
 
 			[41] = { str = "Go through the cave to Winterfall and just outside the cave accept Winterfall Activity." },
 			[42] = { str = "Go to #C_[31,45]# and turn in The Videre Elixir accept Meet at the Grave.", x = 31, y = 45, zone = "Winterspring" },
-			[43] = { str = "Go to #C_[62,36]# and grab the flight path.", x = 62, y = 36, zone = "Winterspring" },
+			[43] = { str = "Go to #C_[62,36]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 62, y = 36, zone = "Winterspring" },
 			[44] = { str = "Fly to Rachet." },
 			[45] = { str = "Run west of the dock and turn in Volcanic Activity." },
 			[46] = { str = "Run down to #C_[65,43]# and turn in Seeking Spiritual Aid accept Cleansed Water Returns to Felwood.", x = 65, y = 43, zone = "The Barrens" },
@@ -338,7 +338,7 @@ Table_003_Alliance_50to60 = {
 		title = "55-56 Burning Steppes",
 		items = {
 			[1] = { str = "55-56 Burning Steppes" },
-			[2] = { str = "Go to #C_[83,63]# and follow the path up and grab the flight path.", x = 83, y = 63, zone = "Burning Steps" },
+			[2] = { str = "Go to #C_[83,63]# and follow the path up. Unlock the flight path by talking to the #N_Flight Master#.", x = 83, y = 63, zone = "Burning Steps" },
 			[3] = { str = "Accept Extinguish the Firegut and FIFTY! YEP!" },
 			[4] = { str = "In front of the broken house, accept Dragonkin Menace This is the start of the ony key chain." },
 			[5] = { str = "Start killing ogres all over the mountain at #C_[81,42]# for Extinguish the Firegut then run back to #C_[84,68]# and turn it in, accept Gor'tesh the Brute Lord.", x = 81, y = 42, zone = "Burning Steps" },
@@ -446,7 +446,7 @@ Table_003_Alliance_50to60 = {
 		items = {
 			[1] = { str = "56-57 Western Plaguelands" },
 			[2] = { str = "Next to the shack accept A Plague Upon Thee." },
-			[3] = { str = "Grab the flight path." },
+			[3] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[3] = { str = "Whenever you come back to camp here always check the vendor for the stormshroud pants recipe. It’s like 1.3g and you can easily sell it for 10 or 20g+ It’s a limited recipe that restocks 1 every hour." },
 			[4] = { str = "Go to the tent and turn in A Call To Arms: The Plaguelands!, accept Clear The Way." },
 			[5] = { str = "Go to the 3 Argent Dawn people near the other tent and turn in The Everlook Report and also complete Argent Dawn Commission it’s not a quest you had she just uses it to give you the trinket which you should always wear when in WPL and EPL because it gives you AD rep and allows the scourge tokens to drop, which she also has 3 new quests on those for turn ins. You most likely won’t get anything past the first quest as the rest are mainly in the instances." },
@@ -511,7 +511,7 @@ Table_003_Alliance_50to60 = {
 			[10] = { str = "Kill Frenzied Plaguehounds for Demon Dogs all around #C_[61,41]# this is north of blackwood lake but now west of it.", x = 61, y = 41, zone = "Eastern Plaguelands" },
 
 			[11] = { str = "Head to lights hope chapel at #C_[81,58]# if you still need grub meat for Carrion Grubbage, then kill them as you.", x = 81, y = 58, zone = "Eastern Plaguelands" },
-			[12] = { str = "Get the flight path." },
+			[12] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[13] = { str = "Turn in Uncle Carlin accept Defenders of Darrowshire." },
 			[14] = { str = "Turn around and turn in Duke Nicholas Zverenhoff." },
 			[15] = { str = "Run SW to #C_[79,63]# and accept Zaeldarr the Outcast.", x = 79, y = 63, zone = "Eastern Plaguelands" },

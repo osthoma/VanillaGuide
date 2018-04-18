@@ -91,7 +91,7 @@ Table_002_ElwynnForest = {
 			[4] = { str = "Go in the house at #C_[56,30]# and turn in #Q_'Westfall Stew'#.", x = 56, y = 30, zone = "Westfall" },
 			[5] = { str = "Go to #C_[56,47]# and turn in #Q_'Report to Gryan Stoutmantle'#.", x = 56, y = 47, zone = "Westfall" },
 			[6] = { str = "Go in the tower and accept #Q_'A Swift Message'#." },
-			[7] = { str = "Get the flight path at #C_[56,52]# and turn in #Q_'A Swift Message'# accept #Q_'Continue to Stormwind'#.", x = 56, y = 52, zone = "Westfall" },
+			[7] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[56,52]# and turn in #Q_'A Swift Message'# accept #Q_'Continue to Stormwind'#.", x = 56, y = 52, zone = "Westfall" },
 			[8] = { str = "Fly to #A_Stormwind# unless you did hogger, then use your #I_[Hearthstone]# to return to #A_Goldshire# (#A_Elwynn Forest#) and turn it in outside the Inn then train." },
 			[9] = { str = "In #A_Stormwind# go to #C_[56,64]# and turn in #Q_'Shipment to Stormwind'#.", x = 56, y = 64, zone = "Stormwind" },
 			[10] = { str = "Train new weapons at #C_[57,57]#.", x = 57, y = 57, zone = "Stormwind" },
@@ -105,7 +105,7 @@ Table_002_ElwynnForest = {
 			[17] = { str = "Kick bartleby’s ass then talk to him again and accept #Q_'Bartleby's Mug'# then turn it in behind you and learn your defense." },
 			[18] = { str = "Go into the tram at #C_[63,8]# and take it to #A_Ironforge#.", x = 63, y = 8, zone = "Stormwind" },
 			[19] = { str = "Once it stops accept #Q_'Deeprun Rat Roundup'# just collect 5 rats and turn it in. You could skip this and keep the flute, It can really piss people off if you play it non stop around the #A_Ironforge# bank. SKIP #Q_'Me Brother, Nipsy'# unless you go back to #A_Stormwind# on the tram because you get crap xp." },
-			[20] = { str = "Grab the flight path at #C_[55,47]#.", x = 55, y = 47, zone = "Ironforge" },
+			[20] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[55,47]#.", x = 55, y = 47, zone = "Ironforge" },
 
 			[21] = { str = "After the rat quest you should be real close to 11." },
 			[22] = { str = "Leave #A_Ironforge# and head into #A_Dun Morogh#." },
@@ -115,7 +115,7 @@ Table_002_ElwynnForest = {
 			[26] = { str = "Go east to #C_[80,51]# and follow the path into #A_Loch Modan#.", x = 80, y = 51, zone = "Dun Morogh" },
 			[27] = { str = "Go to #C_[22,73]# and accept #Q_'In Defense of the King's Lands'#.", x = 22, y = 73, zone = "Loch Modan" },
 			[28] = { str = "Go up in the tower and accept #Q_'The Trogg Threat'#." },
-			[29] = { str = "At #C_[33,50]# grab the flight path.", x = 33, y = 50, zone = "Loch Modan" },
+			[29] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[33,50]#.", x = 33, y = 50, zone = "Loch Modan" },
 			[30] = { str = "Look for the wandering NPC #N_Mountaineer Kadrell# and accept #Q_'Rat Catching'#." },
 
 			[31] = { str = "Kill troggs from #C_[27,53]# and north for #Q_'In Defense of the King's Lands'# and #Q_'The Trogg Threat'#.", x = 27, y = 53, zone = "Loch Modan" },

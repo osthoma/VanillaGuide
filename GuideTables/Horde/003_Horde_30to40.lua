@@ -27,7 +27,7 @@ Table_003_Horde_30to40 = {
 			[5] = { str = "Accept #Q_'Hammerfall'#." },
 			[6] = { str = "Turn in #Q_'Hammerfall'#. Accept #Q_'Raising Spirits'#." },
 			[7] = { str = "Turn in #Q_'The Hammer May Fall'#." },
-			[8] = { str = "Get flight path there." },
+			[8] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[9] = { str = "Then do #Q_'Raising Spirits'# (just to the left of #A_Hammerfall# (#A_Arathi Highlands#) all around #C_[64,37]#). Then turn it in. Accept #Q_'Raising Spirits'#(2).", x = 64, y = 37, zone = "Arathi Highlands" },
 			[10] = { str = "Turn in #Q_'Raising Spirits'#(2). Accept #Q_'Raising Spirits'#(3)." },
 
@@ -47,7 +47,7 @@ Table_003_Horde_30to40 = {
 		title = "30-31 Stranglethorn Vale",
 		items = {
 			[1] = { str = "30-31 Stranglethorn Vale" },
-			[2] = { str = "Get the flight path at #A_Booty Bay# (#A_Stranglethorn#) and run up to #A_Grom'Gol# (#A_Stranglethorn#) (get the flight path there too)." },
+			[2] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #A_Booty Bay# (#A_Stranglethorn#) and run up to #A_Grom'Gol# (#A_Stranglethorn#). Unlock the flight path by talking to the #N_Flight Master#." },
 			[3] = { str = "Go up north #C_[35,10]# and start doing the STV hunt quests:", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[4] = { str = "#Q_'Welcome to the Jungle'# (just accept this and turn in in right there)." },
 			[5] = { str = "#Q_'Tiger Mastery'# (#N_Young Stranglethorn Tigers#) #C_[33,10]#.", x = 33, y = 10, zone = "Stranglethorn Vale" },
@@ -87,7 +87,7 @@ Table_003_Horde_30to40 = {
 			[14] = { str = "#Q_'Martek the Exiled'#." },
 			[15] = { str = "SKIP #Q_'Encrusted Tail Fins'# (Elite)." },
 			[16] = { str = "You may or may not be level 32 right now, if not that's okay." },
-			[17] = { str = "Go south into Tanaris to get flight path in #A_Gadgetzan# (#A_Tanaris#) at #C_[51,25]#.", x = 51, y = 25, zone = "Tanaris" },
+			[17] = { str = "Go south into Tanaris. Unlock the flight path by talking to the #N_Flight Master# in #A_Gadgetzan# (#A_Tanaris#) at #C_[51,25]#.", x = 51, y = 25, zone = "Tanaris" },
 			[18] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
 			[19] = { str = "Fly to #A_Orgrimmar#." },
 			[20] = { str = "Turn in #Q_'The Swarm Grows'# at #C_[75,34]#. Accept #Q_'The Swarm Grows'#(2).", x = 75, y = 34, zone = "Orgrimmar" },

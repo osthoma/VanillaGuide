@@ -59,7 +59,7 @@ Table_003_Alliance_40to50 = {
 			[11] = { str = "Grind down to #C_[48,39]# to the busted up looking tent and open the chest to complete 'Galen’s Escape'.", x = 48, y = 39, zone = "Swamp of Sorrows" },
 			[12] = { str = "Go back to #C_[26,31]# and turn in #Q_'Draenethyst Crystals'#.", x = 26, y = 31, zone = "Swamp of Sorrows" },
 			[13] = { str = "Go to #C_[26,59]# and turn in #Q_'The Lost Caravan'# accept #Q_'Driftwood'#.", x = 26, y = 59, zone = "Swamp of Sorrows" },
-			[14] = { str = "Run through the swamp and go south into the Blasted Lands at #C_[36,59]# and over to Nethergarde Keep at #C_[54,78]#. Grab the flight path and fly to Darkshire.", x = 54, y = 78, zone = "Blasted Lands" },
+			[14] = { str = "Run through the swamp and go south into the Blasted Lands at #C_[36,59]# and over to Nethergarde Keep at #C_[54,78]#. Unlock the flight path by talking to the #N_Flight Master# and fly to Darkshire.", x = 54, y = 78, zone = "Blasted Lands" },
 			[15] = { str = "Stable your cat and get the badlands cat back out." },
 			[16] = { str = "Grab #Q_'Supplies for Nethergarde'# on your way back NE." },
 			[17] = { str = "Fly back to Nethergarde, turn in #Q_'Supplies for Nethergarde'# easy xp." },
@@ -257,7 +257,7 @@ Table_003_Alliance_40to50 = {
 		items = {
 			[1] = { str = "46-47 The Hinterlands" },
 			[2] = { str = "Go up to #C_[11,46]# and turn in #Q_'In Search of The Hinterlands'# accept #Q_'Gryphon Master Talonaxe'#.", x = 11, y = 46, zone = "The Hinterlands" },
-			[3] = { str = "Get the flight path at #C_[11,46]# way up top then go in the cave and turn in #Q_'Gryphon Master Talonaxe'#, accept #Q_'Rhapsody Shindigger'# and #Q_'Witherbark Cages'#.", x = 11, y = 46, zone = "The Hinterlands" },
+			[3] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[11,46]# way up top then go in the cave and turn in #Q_'Gryphon Master Talonaxe'#, accept #Q_'Rhapsody Shindigger'# and #Q_'Witherbark Cages'#.", x = 11, y = 46, zone = "The Hinterlands" },
 			[4] = { str = "Go into the Inn and turn right, accept 'Skulk Rock Clean-Up' and 'Troll Necklace Bounty'." },
 			[5] = { str = "Go way in the back of the Inn up to around #C_[13,41]# and make Aerie Peak your home.", x = 13, y = 41, zone = "The Hinterlands" },
 			[6] = { str = "Grind east to #C_[20,48]# to the path while keeping an eye out for feathers on the ground for 'Favored of Elune?' You don’t need them all yet.", x = 20, y = 48, zone = "The Hinterlands" },

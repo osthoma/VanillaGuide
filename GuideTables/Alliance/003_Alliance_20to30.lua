@@ -28,7 +28,7 @@ Table_003_Alliance_20to30 = {
 			[6] = { str = "Go back to Maestra’s Post at #C_[26,38]# and turn in #Q_'The Tower of Althalaxx'#(4) Accept #Q_'The Tower of Althalaxx'#(5).", x = 26, y = 36, zone = "Ashenvale" },
 			[7] = { str = "Turn in #Q_'Bathran's Hair'# accept #Q_'Orendil's Cure'#." },
 			[8] = { str = "Go to #C_[22,51]# turn in #Q_'Therylune's Escape'#.", x = 22, y = 51, zone = "Ashenvale" },
-			[9] = { str = "Run into #A_Astranaar# at #C_[33,48]# and get flight path.", x = 33, y = 48, zone = "Ashenvale" },
+			[9] = { str = "Run into #A_Astranaar# at #C_[33,48]#. Unlock the flight path by talking to the #N_Flight Master#.", x = 33, y = 48, zone = "Ashenvale" },
 			[10] = { str = "Accept #Q_'The Zoram Strand'# right as you enter town." },
 
 			[11] = { str = "Accept #Q_'On Guard in Stonetalon'# on the house to the right." },
@@ -72,7 +72,7 @@ Table_003_Alliance_20to30 = {
 			[7] = { str = "Then go to #C_[59,66]# and turn in #Q_'A Gnome’s Respite'# accept #Q_'An Old Colleague'# and #Q_'A Scroll From Mauren'# We’ll do these later.", x = 59, y = 66, zone = "Stonetalon Mountains" },
 			[8] = { str = "Stop at Mirkfallon Lake at #C_[48,40]# and kill Pridewings for #Q_'Pridewings of Stonetalon'# South and East of it.", x = 48, y = 40, zone = "Stonetalon Mountains" },
 			[9] = { str = "Run to #C_[37,8]# turn in #Q_'Journey to Stonetalon Peak'# SKIP #Q_'Reclaiming The Charred Vale'# for now.", x = 37, y = 8, zone = "Stonetalon Mountains" },
-			[10] = { str = "Grab flight path at #C_[36,7]# and Fly to #A_Auberdine# (#A_Darkshore#).", x = 36, y = 7, zone = "Stonetalon Mountains" },
+			[10] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[36,7]# and Fly to #A_Auberdine# (#A_Darkshore#).", x = 36, y = 7, zone = "Stonetalon Mountains" },
  		}
 	},
 
@@ -225,7 +225,7 @@ Table_003_Alliance_20to30 = {
  		items = {
 			[1] = { str = "28-29 Duskwood" },
 			[2] = { str = "Note on Duskwood, it has a few long, pointless chains that you only do a few parts of, then SKIP the rest." },
-			[3] = { str = "Follow the road until you get to Darkshire and get flight path at #C_[72,44]#.", x = 72, y = 44, zone = "Duskwood" },
+			[3] = { str = "Follow the road until you get to Darkshire. Unlock the flight path by talking to the #N_Flight Master# at #C_[72,44]#.", x = 72, y = 44, zone = "Duskwood" },
 			[4] = { str = "Go to the house just south of flight path at #C_[79,47]# accept #Q_'Look to the Stars'# Buy a bronze tube from the gnome engineer just south of here at #C_[78,48]# and hand it back in, accept #Q_'Look to the Stars'#(2).", x = 79, y = 47, zone = "Duskwood" },
 			[5] = { str = "Go towards town and the first big house on the left outside accept #Q_'Worgen in the Woods'#." },
 			[6] = { str = "Go in the house and accept #Q_'Raven Hill'# #Q_'The Hermit'# and #Q_'Deliveries to Sven'#." },
@@ -322,7 +322,7 @@ Table_003_Alliance_20to30 = {
 			[11] = { str = "Go half way across the bridge to #C_[51,8]# and go in the door that leads down, look for the dead dwarf body, hand in #Q_'The Thandol Span'# accept #Q_'The Thandol Span'#(2) turn that back in at the camp at #C_[49,18]# accept #Q_'The Thandol Span'#(3).", x = 51, y = 8, zone = "Wetlands" },
 			[12] = { str = "Go back over the bridge, just to the right is a tinier bridge. Cross it and destroy the explosives cart for #Q_'The Thandol Span'#(3) at #C_[48,88]# accept #Q_'Plea to the Alliance'#.", x = 48, y = 88, zone = "Wetlands" },
 			[13] = { str = "Run into Arathi Highlands to Refuge Point at #C_[45,47]# and hand in #Q_'Plea to the Alliance'#.", x = 45, y = 47, zone = "Arathi Highlands" },
-			[14] = { str = "Grab the flight path." },
+			[14] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[15] = { str = "You should be half way to 31 or more by now." },
 			[16] = { str = "Run towards Hillsbrad Foothills." },
 			[17] = { str = "Stop at #C_[27,49]# and run south into Stormgarde Keep, at the first intersection go right and hug the wall around over the bridge, buy all 3 first aid books at #C_[26,58]#.", x = 27, y = 49, zone = "Arathi Highlands" },
