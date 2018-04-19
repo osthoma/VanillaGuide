@@ -169,7 +169,7 @@ function objGuideTable:new(oSettings)
 				{ "v", "47-47 Stranglethorn Vale", id = nil },
 				{ "v", "47-48 Searing Gorge", id = nil },
 				{ "v", "48-48 Swamp of Sorrows", id = nil },
-				{ "v", "48-49 Ferelas", id = nil },
+				{ "v", "48-49 Feralas", id = nil },
 				{ "v", "49-50 Tanaris", id = nil },
 			},
 			["[H] 50-60"] = {

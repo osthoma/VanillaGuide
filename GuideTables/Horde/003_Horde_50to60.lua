@@ -25,7 +25,7 @@ Table_003_Horde_50to60 = {
 			[19] = { str = ". Then complete #Q_'Seeping Corruption'# for the final time." },
 			[20] = { str = "Then accept #Q_'A Sample of Slime.'# and #Q_'. and a Batch of Ooze'#." },
 
-			[21] = { str = "Then fly to #A_Raventusk Village#." },
+			[21] = { str = "Then fly to #A_Revantusk Village# (#A_The Hinterlands#)." },
 		}
 	},
 
@@ -42,7 +42,7 @@ Table_003_Horde_50to60 = {
 			[7] = { str = "Then go turn in #Q_'Snapjaws, Mon!'# #Q_'Gammerita, Mon!'# and #Q_'Lard Lost His Lunch'#." },
 			[8] = { str = "Then go do #Q_'Sprinkle's Secret Ingredient'# at #C_[41,60]#.", x = 41, y = 60, zone = "The Hinterlands" },
 			[9] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Orgrimmar#." },
-			[10] = { str = "Fly to #A_Azshara#." },
+			[10] = { str = "Fly to #A_Valormok# (#A_Azshara#)." },
 
 			[11] = { str = "Turn in all 4 delivery quests." },
 			[12] = { str = "Fly to #A_Crossroads# (#A_The Barrens#)." },
@@ -79,7 +79,7 @@ Table_003_Horde_50to60 = {
 			[17] = { str = "Turn in all quests." },
 			[18] = { str = "I turn in #Q_'The Decisive Striker'# in last for Ground Scorpok Assay (+50 to agility)." },
 			[19] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
-			[20] = { str = "Fly to #A_Tanaris# (GET A MITHRIL CASING for a later quest in Un’Goro!!!)." },
+			[20] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#) (GET A MITHRIL CASING for a later quest in Un’Goro!!!)." },
 
 			[21] = { str = "Turn in #Q_'Sprinkle's Secret Ingredient'#. Accept #Q_'Delivery for Marin'#." },
 			[22] = { str = "Turn in #Q_'March of the Silithid'#. Accept #Q_'Bungle in the Jungle'#." },
@@ -133,7 +133,7 @@ Table_003_Horde_50to60 = {
 			[35] = { str = "#Q_'The Western Pylon'# at #C_[23,58]#.", x = 23, y = 58, zone = "Un’Goro Crater" },
 			[36] = { str = "Go back to #A_Marshal's Refuge# killing oozes along the way." },
 			[37] = { str = "Turn in quests. make sure you complete #Q_'Making Sense of It'# (just talk to the gnome in the cave)." },
-			[38] = { str = "Fly to #A_Tanaris#." },
+			[38] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
 			[39] = { str = "Turn in #Q_'Super Sticky'# and #Q_'Bungle in the Jungle'#. I SKIP '#N_Pawn Captures Queen'#." },
 			[40] = { str = "Then fly to #A_Thunder Bluff#." },
 
@@ -175,7 +175,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
 			[14] = { str = "Then fly to #A_Orgrimmar#. Talk to the #N_Innkeeper# to make #A_Orgrimmar# your home." },
 			[15] = { str = "Go turn in #Q_'Bone-Bladed Weapons'# at #C_[55,34]#.", x = 55, y = 34, zone = "Orgrimmar" },
-			[16] = { str = "Fly to #A_Azshara#." },
+			[16] = { str = "Fly to #A_Valormok# (#A_Azshara#)." },
 		}
 	},
 
@@ -199,7 +199,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "#Q_'Kim'jael's 'Missing' Equipment'#." },
 			[14] = { str = "#Q_'Wavethrashing'#." },
 			[15] = { str = "Once both are done, Use your #I_[Hearthstone]# to return to #A_Orgrimmar#." },
-			[16] = { str = "Then Fly to #A_Azshara#." },
+			[16] = { str = "Then Fly to #A_Valormok# (#A_Azshara#)." },
 			[17] = { str = "Turn in #Q_'Betrayed'#. Accept #Q_'Betrayed'#." },
 			[18] = { str = "Turn in #Q_'Wavethrashing'#. i SKIP #N_'The Green Drake'#." },
 			[19] = { str = "Turn in #Q_'Kim'jael's 'Missing' Equipment'#." },
@@ -270,7 +270,7 @@ Table_003_Horde_50to60 = {
 			[26] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Everlook# (#A_Winterspring#) and accept #Q_'A Strange One '#." },
 			[27] = { str = "Go turn in #Q_'Are We There, Yeti?'#. Accept #Q_'Are We There, Yeti?'#(3)." },
 			[28] = { str = "Go scare Legacki with the mechanical yeti for the quest #Q_'Are We There, Yeti?'#(3)." },
-			[29] = { str = "Then fly to #A_Felwood#." },
+			[29] = { str = "Then fly to #A_Bloodvenom Post# (#A_Felwood#)." },
 		}
 	},
 
@@ -306,7 +306,7 @@ Table_003_Horde_50to60 = {
 			[24] = { str = "If you happen to see #N_Warcaller Gorlach#, accept #Q_'A Call To Arms: The Plaguelands!'#." },
 			[25] = { str = "Fly to #A_Thunder Bluff#, then directly to Camp Mojache, Ferelas." },
 			[26] = { str = "Turn in #Q_'The Strength of Corruption'#." },
-			[27] = { str = "Then fly to #A_Tanaris#." },
+			[27] = { str = "Then fly to #A_Gadgetzan# (#A_Tanaris#)." },
 			[28] = { str = "Go scare #N_Sprinkle# with the mechanical yeti for the quest #Q_'Are We There, Yeti?'#(3)." },
 			[29] = { str = "Then fly to #A_Silithus#." },
 		}
@@ -462,7 +462,7 @@ Table_003_Horde_50to60 = {
 			[32] = { str = "Then go get on the zeppelin to go to #A_Orgrimmar#. (while waiting, make heavy runecloth bandages)." },
 			[33] = { str = "Once in #A_Orgrimmar# talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[34] = { str = "Bank 2/3rd of my manna biscuits." },
-			[35] = { str = "Then fly to #A_Winterspring#." },
+			[35] = { str = "Then fly to #A_Everlook# (#A_Winterspring#)." },
 		}
 	},
 

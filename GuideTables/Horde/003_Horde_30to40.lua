@@ -95,7 +95,7 @@ Table_003_Horde_30to40 = {
 			[21] = { str = "Accept #Q_'Alliance Relations'# (get it from Craven Drok in the Cleft of Shadow, #C_[47,50]#).", x = 47, y = 50, zone = "Orgrimmar" },
 			[22] = { str = "Then go to #N_Keldran# in #A_Orgrimmar# #C_[23,53]# to accept #Q_'Alliance Relations'#(2).", x = 23, y = 53, zone = "Orgrimmar" },
 			[23] = { str = "Stop at first aid guy to buy silk bandage training. #VIDEONOTE:# Make sure you save all your extra Cloths in either your bank or mailbox, you will need them later for Cloth Donation quests." },
-			[24] = { str = "Then fly to #A_Stonetalon Mountains#." },
+			[24] = { str = "Then fly to #A_Sun Rock Retreat# (#A_Stonetalon Mountains#)." },
 			[25] = { str = "Run into #A_Desolace#." },
 		}
 	},
@@ -292,7 +292,7 @@ Table_003_Horde_30to40 = {
 			[10] = { str = "Turn in #Q_'Parts of the Swarm'#. Accept #Q_'Parts of the Swarm'#(2)." },
 
 			[11] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[12] = { str = "Fly to #A_Dustwallow Marsh#." },
+			[12] = { str = "Fly to #A_Brackenwall Village# (#A_Dustwallow Marsh#)." },
 		}
 	},
 

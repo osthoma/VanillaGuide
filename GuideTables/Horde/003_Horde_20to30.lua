@@ -62,7 +62,7 @@ Table_003_Horde_20to30 = {
 			[14] = { str = "Do #Q_'Ishamuhale'# at #C_[60,32]#.", x = 60, y = 32, zone = "The Barrens" },
 			[15] = { str = "Turn in #Q_'Further Instructions'# (at #A_Ratchet# (#A_The Barrens#) #C_[63,37]#). Accept #Q_'Further Instructions'#(2).", x = 63, y = 37, zone = "The Barrens" },
 			[16] = { str = "Turn in #Q_'Deepmoss Spider Eggs'# and #Q_'Chen's Empty Keg'#." },
-			[17] = { str = "Fly to #A_Stonetalon Mountains#." },
+			[17] = { str = "Fly to #A_Sun Rock Retreat# (#A_Stonetalon Mountains#)." },
 		}
 	},
 
@@ -174,7 +174,7 @@ Table_003_Horde_20to30 = {
 			[20] = { str = "Go do: #Q_'Satyr Horns'# (done at the Night Run, #C_[67,53]#) (entrance to the area is around #C_[64,42]#).", x = 67, y = 53, zone = "Ashenvale" },
 
 			[21] = { str = "Run back to #A_Splintertree Post# (#A_Ashenvale#) (don't hearth). Turn in #Q_'Satyr Horns'#." },
-			[22] = { str = "Fly to #A_Stonetalon Mountains#." },
+			[22] = { str = "Fly to #A_Sun Rock Retreat# (#A_Stonetalon Mountains#)." },
 		}
 	},
 
@@ -190,7 +190,7 @@ Table_003_Horde_20to30 = {
 			[6] = { str = "Fly to #A_Thunder Bluff#." },
 			[7] = { str = "Talk to the #N_Innkeeper# to make #A_Thunder Bluff# your home." },
 			[8] = { str = "Turn in #Q_'The sacred Flame'# (#C_[54,51]# in #A_Thunder Bluff#). Accept #Q_'The sacred Flame'#(2).", x = 54, y = 51, zone = "Thunder Bluff" },
-			[9] = { str = "Fly to #A_Thousand Needles#." },
+			[9] = { str = "Fly to #A_Freewind Post# (#A_Thousand Needles#)." },
 		}
 	},
 

@@ -96,7 +96,7 @@ Table_003_Horde_40to50 = {
 			[20] = { str = "Fly to #A_Thunder Bluff#." },
 
 			[21] = { str = "Turn in #Q_'Frostmaw'#. Accept #Q_'Deadmire'# (hint: i usually keep Frostmaw's mane in my bank for a long time)." },
-			[22] = { str = "Fly to #A_Desolace# if you're not 4/5 bars into lvl 43 or #A_Dustwallow Marsh# if you're." },
+			[22] = { str = "Fly to #A_Shadowprey Village# (#A_Desolace#) if you're not 4/5 bars into lvl 43 or #A_Brackenwall Village# (#A_Dustwallow Marsh#) if you're." },
 		}
 	},
 
@@ -118,7 +118,7 @@ Table_003_Horde_40to50 = {
 			[11] = { str = "Turn in #Q_'The Corrupter'# (Elite) at #C_[53,54]#.", x = 53, y = 54, zone = "Desolace" },
 			[12] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Shadowprey Village# (#A_Desolace#)." },
 			[13] = { str = "Turn in #Q_'Portals of the Legion'#." },
-			[14] = { str = "Fly to #A_Thunder Bluff#, then to #A_Dustwallow Marsh#." },
+			[14] = { str = "Fly to #A_Thunder Bluff#, then to #A_Brackenwall Village# (#A_Dustwallow Marsh#)." },
 		}
 	},
 
@@ -228,7 +228,7 @@ Table_003_Horde_40to50 = {
 			[33] = { str = "Go turn in #Q_'Report to Zor'#. Accept/complete #Q_'Service to the Horde'# (valley of wisdom, #C_[38,38]#).", x = 38, y = 38, zone = "Orgrimmar" },
 			[34] = { str = "Go turn in #Q_'The Gordunni Orb'# (valley of spirits, #C_[39,86]#).", x = 39, y = 86, zone = "Orgrimmar" },
 			[35] = { str = "Turn in #Q_'A Donation of Silk'# and #Q_'A Donation of Mageweave'# (for the troll faction, at #C_[37,87]#).", x = 37, y = 87, zone = "Orgrimmar" },
-			[36] = { str = "Now, before hearthing back to #A_Feralas#, go #A_Durotar# and buy your mount!" },
+			[36] = { str = "Now, before hearthing back to #A_Camp Mojache# (#A_Feralas#), go #A_Durotar# and buy your mount!" },
 			[37] = { str = "Turn in #Q_'Retrun to Witch Doctor Uzer'i'#. Accept #Q_'Natural Materials'# and #Q_'Testing the Vessel'#." },
 			[38] = { str = "Then do #Q_'Natural Materials'#." },
 			[39] = { str = "Grind away at hippogryphs till it's completed." },
@@ -253,7 +253,7 @@ Table_003_Horde_40to50 = {
 			[1] = { str = "46-46 Azshara" },
 			[2] = { str = "Go accept #Q_'Spiritual Unrest'# and #Q_'A Land Filled with Hatred'# at #C_[10,78]#.", x = 10, y = 78, zone = "Azshara" },
 			[3] = { str = "Then go do them (at #C_[17,66]# and #C_[20,62]#), and turn them in.", x = 17, y = 66, zone = "Azshara" },
-			[4] = { str = "Then go to Valormok at #C_[21,52]#.", x = 21, y = 52, zone = "Azshara" },
+			[4] = { str = "Then go to #A_Valormok# (#A_Azshara#) at #C_[21,52]#.", x = 21, y = 52, zone = "Azshara" },
 			[5] = { str = "Turn in #Q_'Betrayed'# (skip the next part to this quest for now)." },
 			[6] = { str = "Unlock the flight path by talking to the #N_Flight Master# and fly to #A_Orgrimmar#." },
 			[7] = { str = "Then head to #A_Undercity#." },
@@ -274,7 +274,7 @@ Table_003_Horde_40to50 = {
 		items = {
 			[1] = { str = "46-47 Hinterlands" },
 			[2] = { str = "Go turn in #Q_'Ripple Recovery'# at #C_[27,49]#. Accept #Q_'A Sticky Situation'#.", x = 27, y = 49, zone = "Hinterlands" },
-			[3] = { str = "Ride all the way to Revantusk Village at #C_[77,80]#.", x = 77, y = 80, zone = "Hinterlands" },
+			[3] = { str = "Ride all the way to #A_Revantusk Village# (#A_The Hinterlands#) at #C_[77,80]#.", x = 77, y = 80, zone = "Hinterlands" },
 			[4] = { str = "Accept: #Q_'Vilebranch Hooligans'#, #Q_'Cannibalistic Cousins'#, #Q_'Message to the Wildhammer'#, #Q_'Stalking the Stalkers'#, #Q_'Hunt the Savages'# and #Q_'Avenging the Fallen'#." },
 			[5] = { str = "Then go do the following:" },
 			[6] = { str = "#Q_'Whiskey Slim's Lost Grog'#." },
@@ -302,7 +302,7 @@ Table_003_Horde_40to50 = {
 			[26] = { str = "I then get all my magewaeve out from my mailbox, then fly to #A_Hammerfall# (#A_Arathi Highlands#)." },
 			[27] = { str = "Then go to Doctor Gregory Victor to build up first aid." },
 			[28] = { str = "I’m usually able to get to 290 first aid for Heavy Runecloth bandage." },
-			[29] = { str = "Then fly back to TM." },
+			[29] = { str = "Then fly back to #A_Tarren Mill# (#A_Hillsbrad Foothills#)." },
 			[30] = { str = "Then ride back into Hinterlands (don’t fly)." },
 
 			[31] = { str = "Go do #Q_'Undamaged Venom Sac'# and #Q_'The Atal'ai Exile'#. Accept #Q_'Return to Fel'Zerul'#." },
@@ -404,15 +404,15 @@ Table_003_Horde_40to50 = {
 			[22] = { str = "Then die on purpose, so you end up back at #A_Brackenwall Village# (#A_Dustwallow Marsh#)." },
 			[23] = { str = "Turn in #Q_'The Brood of Onyxia'#. Accept #Q_'Challenge Overlord Mok'Morokk'# (??? TBC Quest)." },
 			[24] = { str = "Do #Q_'Challenge Overlord Mok'Morokk'# Then turn it in. (??? TBC Quest)." },
-			[25] = { str = "Then fly to #A_Tanaris#." },
+			[25] = { str = "Then fly to #A_Gadgetzan# (#A_Tanaris#)." },
 			[26] = { str = "Turn in #Q_'Ledger from Tanaris'# and #Q_'Into the Field'#. Accept and complete #Q_'Slake that Thirst'#." },
-			[27] = { str = "Then fly to #A_Ferelas#." },
+			[27] = { str = "Then fly to #A_Camp Mojache# (#A_Feralas#)." },
 		}
 	},
 
 --------48-49 Feralas
 	[4849] = {
-		title = "48-49 Ferelas",
+		title = "48-49 Feralas",
 		items = {
 			[1] = { str = "48-49 Feralas" },
 			[2] = { str = "Turn in #Q_'Testing the Vessel'#. Accept #Q_'Hippogryph Muisek'#." },
@@ -440,7 +440,7 @@ Table_003_Horde_40to50 = {
 			[22] = { str = "Turn in #Q_'Mountain Giant Muisek'# (Elite). Accept #Q_'Weapons of Spirit'#. then turn it in complete it." },
 			[23] = { str = "Turn in #Q_'Improved Quality'#, #Q_'Perfect Yeti Hide'#, #Q_'Vengeance on the Northspring'# and #Q_'Dark Heart'#." },
 			[24] = { str = "Accept #Q_'The Strength of Corruption'#." },
-			[25] = { str = "Fly to #A_Tanaris#." },
+			[25] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
 		}
 	},
 
@@ -481,7 +481,7 @@ Table_003_Horde_40to50 = {
 			[29] = { str = "Talk to the #N_Innkeeper# to make #A_Orgrimmar# your home." },
 			[30] = { str = "Get the Box of Empty Vials out of your Bank." },
 
-			[31] = { str = "Fly to #A_Azshara#." },
+			[31] = { str = "Fly to #A_Valormok# (#A_Azshara#)." },
 		}
 	},
 }

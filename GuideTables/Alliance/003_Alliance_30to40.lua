@@ -48,7 +48,7 @@ Table_003_Alliance_30to40 = {
 			[7] = { str = "Fly to #A_Stormwind#." },
 			[8] = { str = "Go to the Keep at #C_[72,15]# and hand in #Q_'Reassignment'#.", x = 72, y = 15, zone = "Stormwind City" },
 			[9] = { str = "Go to #C_[39,27]# in the Cathedral and hand in #Q_'Cleansing the Eye'#.", x = 39, y = 27, zone = "Stormwind City" },
-			[10] = { str = "Fly to #A_Duskwood#, then run to #C_[44,66]# and go south into #A_Stranglethorn#.", x = 44, y = 66, zone = "Duskwood" }
+			[10] = { str = "Fly to #A_Darkshire# (#A_Duskwood#), then run to #C_[44,66]# and go south into #A_Stranglethorn#.", x = 44, y = 66, zone = "Duskwood" }
 		}
 	},
 
@@ -102,7 +102,7 @@ Table_003_Alliance_30to40 = {
 			[16] = { str = "Run east to #C_[80,75]# turn in #Q_'Load Lightening'# accept #Q_'Goblin Sponsorship'#.", x = 80, y = 75, zone = "Thousand Needles" },
 			[17] = { str = "Go to #C_[81,77]# and turn in #Q_'A Bump in the Road'#.", x = 81, y = 77, zone = "Thousand Needles" },
 			[18] = { str = "Run south into #A_Tanaris#. Unlock the flight path by talking to the #N_Flight Master# at #A_Gadgetzan# (#A_Tanaris#)." },
-			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Menethil Harbor# (#A_The Wetlands#), get on the boat to #A_Theramore# (#A_Dustwallow Marsh#). Unlock the flight path by talking to the #N_Flight Master# and either fly to Stonetalon Mountains or go back and reboat to Darkshore." },
+			[19] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Menethil Harbor# (#A_The Wetlands#), get on the boat to #A_Theramore# (#A_Dustwallow Marsh#). Unlock the flight path by talking to the #N_Flight Master# and either fly to #A_Stonetalon Mountains# or go back and reboat to #A_Auberdine# (#A_Darkshore#)." },
 		}
 	},
 

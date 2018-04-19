@@ -73,7 +73,7 @@ Table_003_Alliance_40to50 = {
 			[24] = { str = "Run down into the Blasted Lands and turn in #Q_'Deliver the Shipment'# at #C_[66,21]#.", x = 66, y = 21, zone = "Blasted Lands" },
 			[25] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn#) and turn in #Q_'Dream Dust In the Swamp'# atop the Inn and accept #Q_'Rumors for Kravel'#." },
 			[26] = { str = "Get on the ship to #A_Ratchet# (#A_The Barrens#) and fly to #A_Theramore# (#A_Dustwallow Marsh#) and turn in #Q_'… and bugs'# at the Inn." },
-			[27] = { str = "Fly to #A_Desolace#." },
+			[27] = { str = "Fly to #A_Nijel’s Point# (#A_Desolace#)." },
 		}
 	},
 
@@ -179,7 +179,7 @@ Table_003_Alliance_40to50 = {
 			[31] = { str = "Turn in #Q_'More Wastewander Justice'#." },
 			[32] = { str = "Accept #Q_'Handle With Care'# near the north side of town." },
 			[33] = { str = "You should be about 75% to the next level now." },
-			[34] = { str = "Fly to #A_Feralas#." },
+			[34] = { str = "Fly to #A_Feathermoon Stronghold# (#A_Feralas#)." },
 		}
 	},
 
@@ -189,7 +189,7 @@ Table_003_Alliance_40to50 = {
 		items = {
 			[1] = { str = "43-45 Feralas" },
 			[2] = { str = "On the water side of the inn in the gazebo, accept #Q_'The Mark of Quality'#." },
-			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Feralas# your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Feathermoon Stronghold# (#A_Feralas#) your home." },
 			[4] = { str = "Go into the big building across from the Inn, accept #Q_'The Missing Courier'# and #Q_'The Ruins of Solarsal'#." },
 			[5] = { str = "Go to the building just west accept #Q_'In Search of Knowledge'# and #Q_'The High Wilderness'#." },
 			[6] = { str = "Go upstairs turn in #Q_'The Missing Courier'#. Accept #Q_'The Missing Courier'#(2)." },
@@ -225,7 +225,7 @@ Table_003_Alliance_40to50 = {
 			[33] = { str = "On the water side of the Gazebo, turn in #Q_'The Mark of Quality'# accept #Q_'Improved Quality'#." },
 			[34] = { str = "Go in the small house across from the Inn, turn in #Q_'The High Wilderness'# then go upstairs and turn in #Q_'Freed From the Hive'# accept #Q_'A Hero’s Welcome'#." },
 			[35] = { str = "Go to the big building next door and turn in #Q_'A Hero’s Welcome'#. Accept #Q_'Rise of the Silithid'#." },
-			[36] = { str = "Fly out to Thalanaar (spot between #A_Thousand Needles# and here) turn in #Q_'Thalanaar Delivery'# at #C_[89,46]#.", x = 89, y = 46, zone = "Feralas" },
+			[36] = { str = "Fly out to #A_Thalanaar# (#A_Feralas#) (spot between #A_Thousand Needles# and here) turn in #Q_'Thalanaar Delivery'# at #C_[89,46]#.", x = 89, y = 46, zone = "Feralas" },
 			[37] = { str = "Fly to #A_Darnassus#." },
 			[38] = { str = "Follow the dock and go in the house, turn in #Q_'Handle With Care'# accept #Q_'Favored of Elune?'#." },
 			[39] = { str = "Go upstairs, turn in #Q_'In Search of Knowledge'# then go to the back of the house on the 2nd floor, open the green book and accept #Q_'Feralas: A History'# turn it back in to her, accept #Q_'The Borrower'#." },
@@ -285,7 +285,7 @@ Table_003_Alliance_40to50 = {
 			[26] = { str = "Run to the house at #C_[55,92]# and turn in #Q_'Favored of Elune?'#.", x = 55, y = 92, zone = "The Hinterlands" },
 			[27] = { str = "Go upstairs, turn in #Q_'The Super Snapper FX'# accept #Q_'Return to Troyas'#." },
 			[28] = { str = "You should now be 47 and about 8k into it." },
-			[29] = { str = "Fly to #A_Feralas#." },
+			[29] = { str = "Fly to #A_Feathermoon Stronghold# (#A_Feralas#)." },
 		}
 	},
 
@@ -369,7 +369,7 @@ Table_003_Alliance_40to50 = {
 			[40] = { str = "Go to #C_[31,4]# and turn in #Q_'Passing the Burden'# accept #Q_'Arcane Runes'# and #Q_'An Easy Pickup'#.", x = 31, y = 4, zone = "Ironforge" },
 
 			[41] = { str = "Go to #C_[70,93]#, turn in #Q_'An Easy Pickup'# accept #Q_'Signal For Pickup'# then turn it back in. Now you got the flare gun to signal later on.", x = 70, y = 93, zone = "Ironforge" },
-			[42] = { str = "Fly to #A_The Hinterlands#." },
+			[42] = { str = "Fly to #A_Aerie Peak# (#A_The Hinterlands#)." },
 		}
 	},
 
@@ -417,7 +417,7 @@ Table_003_Alliance_40to50 = {
 			[21] = { str = "Go up top of the Inn, turn in #Q_'The Bloodsail Buccaneers'#(5)." },
 			[22] = { str = "Fly to #A_Stormwind# and go to #C_[64,20]# turn in #Q_'Rhapsody's Tale'# SKIP the rest.", x = 64, y = 20, zone = "Stormwind" },
 			[23] = { str = "From here on, either look at the AH when you go by one, or use your AH char to search for your Beaststalker Bracers. I got mine for 8g also look for a mithril casing for later in Un’Goro." },
-			[24] = { str = "Fly to #A_Duskwood#." },
+			[24] = { str = "Fly to #A_Darkshire# (#A_Duskwood#)." },
 			[25] = { str = "Run east through #A_Deadwind Pass# to the #A_Swamp of Sorrows#." },
 			[26] = { str = "Follow the road until it forks and the left fork has a bridge at #C_[22,48]# and under it is A Soggy Scroll which turns in #Q_'Cortello's Riddle'#. Accept #Q_'Cortello's Riddle'#(2).", x = 22, y = 48, zone = "Swamp of Sorrow" },
 			[27] = { str = "Run down to #A_The Blasted Lands#." },
@@ -444,7 +444,7 @@ Table_003_Alliance_40to50 = {
 			[13] = { str = "Get on the boat to #A_Ratchet# (#A_The Barrens#)." },
 			[14] = { str = "Accept #Q_'Volcanic Activity'# at the first hut off the dock." },
 			[15] = { str = "Just outside this hut is a green chest, open it for #Q_'The Stone Circle'#." },
-			[16] = { str = "Fly to #A_Tanaris#." },
+			[16] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#)." },
 			[17] = { str = "Go near the NW entrance, turn in #Q_'Sprinkle's Secret Ingredient'# accept #Q_'Delivery For Marin'#." },
 			[18] = { str = "Go back near the South entrance and turn in #Q_'Delivery For Marin'# accept #Q_'Noggenfogger Elixir'# then turn it back in. Now you get 5 elixirs and can buy them. These have some useful effects but are more fun than useful." },
 			[19] = { str = "Run in the Shimmering Flats to #C_[77,77]# and turn in #Q_'Zanzil's Mixture'# and #Q_'A Fool's Stout'# accept #Q_'Get the Goblins Drunk'# go to #C_[79,76]# and turn it in.", x = 77, y = 77, zone = "Thousand Needles" },
@@ -459,7 +459,7 @@ Table_003_Alliance_40to50 = {
 			[27] = { str = "Make sure you get at least 15 silk cloths out of the mailbox or AH alt." },
 			[28] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Accept #Q_'Assisting Arch Druid Staghelm'#." },
 			[29] = { str = "Fly to #A_Thelsamar# (#A_Loch Modan#)." },
-			[30] = { str = "Run down into the #A_Badlands# all the way west to #C_[1,62]# and enter the Searing Gorge.", x = 1, y = 62, zone = "Badlands" },
+			[30] = { str = "Run down into the #A_Badlands# all the way west to #C_[1,62]# and enter the #A_Searing Gorge#.", x = 1, y = 62, zone = "Badlands" },
 		}
 	},
 }

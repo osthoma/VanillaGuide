@@ -81,7 +81,7 @@ Table_003_Alliance_50to60 = {
 			[70] = { str = "Between the 2 North gates accept #Q_'Super Sticky'#." },
 
 			[71] = { str = "Go to the hut just west and turn in #Q_'March of the Silithid'#. Accept #Q_'Bungle in the Jungle'#." },
-			[72] = { str = "Run down into the Un’Goro Crater at #C_[26,52]#.", x = 26, y = 52, zone = "Tanaris" },
+			[72] = { str = "Run down into the #A_Un’Goro Crater# at #C_[26,52]#.", x = 26, y = 52, zone = "Tanaris" },
 		}
 	},
 
@@ -360,7 +360,7 @@ Table_003_Alliance_50to60 = {
 			[20] = { str = "Go to #C_[78,18]# into the #A_Stormwind# keep and turn in #Q_'The True Masters'#(2) accept #Q_'The True Masters'#(3) then talk to the lady and then turn it back in and accept #Q_'The True Masters'#(4).", x = 78, y = 18, zone = "Stormwind City" },
 
 			[21] = { str = "Fly back to #A_Lakeshire# (#A_Redridge Mountains#) and go to the townhall at #C_[29,44]# and turn in #Q_'The True Masters'#(4) accept #Q_'The True Masters'#(5).", x = 29, y = 44, zone = "Redridge Mountains" },
-			[22] = { str = "Fly to the #A_Burning Steppes# and turn in #Q_'The True Masters'#(5) when you land and accept #Q_'The True Masters'#(6)." },
+			[22] = { str = "Fly to the #A_Morgan's Vigil# (#A_Burning Steppes#) and turn in #Q_'The True Masters'#(5) when you land and accept #Q_'The True Masters'#(6)." },
 			[23] = { str = "Run up to #C_[64,23]# and listen to ragged john then run back to #C_[84,68]# and turn in #Q_'The True Masters'#(6) I SKIP the next part, do it later if you’re worried about speed leveling. That was an easy 30k xp for doing nothing and your ony key chain is started.", x = 64, y = 23, zone = "Burning Steps" },
 			[24] = { str = "You should be about 10k from 56, go grind until 5k on the orcs at #C_[49,55]#.", x = 49, y = 55, zone = "Burning Steps" },
 			[25] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge#." },
@@ -383,7 +383,7 @@ Table_003_Alliance_50to60 = {
 			[6] = { str = "Fly to Un’goro." },
 			[7] = { str = "Find Quixxil and scare him for #Q_'Are We There, Yeti?'#(3)." },
 			[8] = { str = "Go to the back of the cave and turn in #Q_'Aquementas'# accept #Q_'Linken's Adventure'# and turn it in just outside the cave by the big tree SKIP the next part." },
-			[9] = { str = "Fly to #A_Silithus#." },
+			[9] = { str = "Fly to #A_Cenarion Hold# (#A_Silithus#)." },
 		}
 	},
 
@@ -510,7 +510,7 @@ Table_003_Alliance_50to60 = {
 			[9] = { str = "Kill Plaguehounds for #Q_'Demon Dogs'# all around #C_[56,57]# this is north of the scar and south of blackwood lake. Don’t forget the grubs.", x = 56, y = 57, zone = "Eastern Plaguelands" },
 			[10] = { str = "Kill Frenzied Plaguehounds for #Q_'Demon Dogs'# all around #C_[61,41]# this is north of blackwood lake but now west of it.", x = 61, y = 41, zone = "Eastern Plaguelands" },
 
-			[11] = { str = "Head to lights hope chapel at #C_[81,58]# if you still need grub meat for #Q_'Carrion Grubbage'#, then kill them as you go.", x = 81, y = 58, zone = "Eastern Plaguelands" },
+			[11] = { str = "Head to #A_Lights Hope Chapel# (#A_Eastern Plaguelands#) at #C_[81,58]# if you still need grub meat for #Q_'Carrion Grubbage'#, then kill them as you go.", x = 81, y = 58, zone = "Eastern Plaguelands" },
 			[12] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[13] = { str = "Turn in #Q_'Uncle Carlin'# accept #Q_'Defenders of Darrowshire'#." },
 			[14] = { str = "Turn around and turn in #Q_'Duke Nicholas Zverenhoff'#." },
@@ -520,7 +520,7 @@ Table_003_Alliance_50to60 = {
 			[18] = { str = "If you’re within 6600 XP to level then Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Stormwind#, if not then grind until you’re within range." },
 			[19] = { str = "Go to #C_[78,18]# in the keep and turn in #Q_'The Blightcaller Cometh'# now I SKIP the next part but it’s a good quest to do at 60.", x = 78, y = 18, zone = "Eastern Plaguelands" },
 			[18] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[19] = { str = "Fly back to #A_Western Plaguelands#." },
+			[19] = { str = "Fly back to #A_Chillwind Point# (#A_Western Plaguelands#)." },
 		}
 	},
 
@@ -545,7 +545,7 @@ Table_003_Alliance_50to60 = {
 		title = "58-58 Eastern Plaguelands",
 		items = {
 			[1] = { str = "58-58 Eastern Plaguelands" },
-			[2] = { str = "Run out of here and into EPL up to the NW at #C_[7,43]# and turn in the 3 quests #Q_'Demon Dogs'# #Q_'Blood Tinged Skies'# and #Q_'Carrion Grubbage'# accept #Q_'Redemption'# then listen to him and turn it back in. Then accept #Q_'Of Forgotten Memories'#.", x = 7, y = 43, zone = "Eastern Plaguelands" },
+			[2] = { str = "Run out of here and into #A_Eastern Plaguelands# up to the NW at #C_[7,43]# and turn in the 3 quests #Q_'Demon Dogs'# #Q_'Blood Tinged Skies'# and #Q_'Carrion Grubbage'# accept #Q_'Redemption'# then listen to him and turn it back in. Then accept #Q_'Of Forgotten Memories'#.", x = 7, y = 43, zone = "Eastern Plaguelands" },
 			[3] = { str = "Go to the Undercroft at #C_[28,86]# and run behind it. Touch the dirt pile to summon Mercutio and 3 guards. Easiest way to do this is to kite him away from his buddies or get a group. Loot his body for the hammer for #Q_'Of Forgotten Memories'#.", x = 28, y = 86, zone = "Eastern Plaguelands" },
 			[4] = { str = "Now go to the bottom of the crypt and kill the very big troll for #Q_'Zaeldarr the Outcast'# Only grab the scroll on the floor if u want." },
 			[5] = { str = "Go back to #C_[7,43]# and turn in #Q_'Of Forgotten Memories'# accept #Q_'Of Lost Honor'#.", x = 7, y = 43, zone = "Eastern Plaguelands" },
@@ -559,9 +559,9 @@ Table_003_Alliance_50to60 = {
 			[12] = { str = "Go to the lake at #C_[71,33]# and grab the flag next to the cage, it’s hard to see and is laying flat for #Q_'Of Lost Honor'#.", x = 71, y = 33, zone = "Eastern Plaguelands" },
 			[13] = { str = "Go NW to the tower at #C_[56,24]# and turn in #Q_'Troubled Spirits of Kel'Theril# SKIP the next part.", x = 56, y = 24, zone = "Eastern Plaguelands" },
 			[14] = { str = "Run West to #C_[45,34]# and loot the termite mounds here for #Q_'A Plague Upon Thee'# until you get 100 termites, also kill ghouls to finish up #Q_'Defenders of Darrowshire'#.", x = 45, y = 34, zone = "Eastern Plaguelands" },
-			[15] = { str = "Run to Lights Hope Chapel now." },
+			[15] = { str = "Run to #A_Lights Hope Chapel# (#A_Eastern Plaguelands#) now." },
 			[16] = { str = "Go by the tent and turn in #Q_'Defenders of Darrowshire'# and #Q_'Villains of Darrowshire'#." },
-			[17] = { str = "Fly to WPL." },
+			[17] = { str = "Fly to #A_Chillwind Point# (#A_Western Plaguelands#)." },
 			[18] = { str = "Next to the house turn in #Q_'A Plague Upon Thee'#. Accept #Q_'A Plague Upon Thee'#(2)." },
 		}
 	},
@@ -589,7 +589,7 @@ Table_003_Alliance_50to60 = {
 			[16] = { str = "Go to the throne room at #C_[43,52]# and accept #Q_'An Earnest Proposition'# (pick your class from the list) You have to have your classes tier 0 bracers in order to do this quest. You can buy it on AH.", x = 43, y = 52, zone = "Ironforge" },
 			[17] = { str = "Fly to #A_Menethil Harbor# (#A_The Wetlands#) and boat to #A_Auberdine# (#A_Darkshore#), fly to #A_Darnassus#." },
 			[18] = { str = "Go to #C_[35,8]# on the 2nd floor and turn in #Q_'Glyphed Oaken Branch'#.", x = 35, y = 8, zone = "Darnassus" },
-			[19] = { str = "You should be 59, fly to #A_Winterspring#." },
+			[19] = { str = "You should be 59, fly to #A_Everlook# (#A_Winterspring#)." },
 		}
 	},
 
