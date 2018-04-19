@@ -206,7 +206,7 @@ Table_003_Horde_50to60 = {
 			[20] = { str = "At this point im usually about 3/4th the way to lvl 54, I grind my way to level 54 on BloodElfs." },
 
 			[21] = { str = "I grind bloodelfs, cause their 'squishy' mobs (mobs that have 30% fewer health/armor, than the average mob that level). I used to grind satyrs on previous speed runs, but I was able to cut off almost a whole hour with the blood elfs." },
-			[22] = { str = "OPTIONAL: Instead of the grinding you could go do BRD instance instead." },
+			[22] = { str = "OPTIONAL: Instead of the grinding you could go do Blackrock Depths instance instead." },
 			[23] = { str = "Once i hit 54 (or a few bars past it), i then Use your #I_[Hearthstone]# to return to #A_Orgrimmar#." },
 			[24] = { str = "I then go turn in #Q_'Bone-Bladed Weapons'# and #Q_'Betrayed'#." },
 			[25] = { str = "Then fly to #A_Splintertree Post# (#A_Ashenvale#)." },

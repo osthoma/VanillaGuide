@@ -397,7 +397,7 @@ Table_003_Alliance_50to60 = {
 			[4] = { str = "SKIP the quest on the sign unless you get a group." },
 			[5] = { str = "Talk to the #N_Innkeeper# to make #A_Cenarion Hold# (#A_Silithus#) your home." },
 			[6] = { str = "Upstairs accept #Q_'Deadly Desert Venom'#." },
-			[7] = { str = "There seems to be a lot of white ! because that’s a lot of AQ stuff you don’t have to worry about yet." },
+			[7] = { str = "There seems to be a lot of white ! because that’s a lot of Ahn Quiraj stuff you don’t have to worry about yet." },
 			[8] = { str = "Go do #Q_'Securing the Supply Lines'# and #Q_'Deadly Desert Venom'# North and NE of town all around #C_[55,24]# the dredges, scorpids, and skitterers for these 2 quests are all over this area.", x = 55, y = 24, zone = "Silithus" },
 			[9] = { str = "Run up to #C_[81,18]# and turn in #Q_'Wasteland'# accept #Q_'The Spirits of Southwind'#.", x = 81, y = 18, zone = "Silithus" },
 			[10] = { str = "Run up NW to around 22.9 and pick up the twilight tablet fragments for #Q_'The Twilight Mystery'# They litter this spot.", x = 22, y = 9, zone = "Silithus" },
@@ -424,11 +424,11 @@ Table_003_Alliance_50to60 = {
 			[29] = { str = "Go to the top of the tower at #C_[61,52]# Be careful 3 bugs spawn when you enter. Shift right click the pod because as soon as you open it some amushers spawn. Kill at least 1 and loot it for #Q_'Hive in the Tower'#.", x = 61, y = 52, zone = "Silithus" },
 			[30] = { str = "Go up to #C_[81,18]# and turn in #Q_'Hive in the Tower'# accept #Q_'Umber, Archivist'#.", x = 81, y = 18, zone = "Silithus" },
 
-			[31] = { str = "Use your #I_[Hearthstone]# to return to Cenarion Hold." },
+			[31] = { str = "Use your #I_[Hearthstone]# to return to #A_Cenarion Hold# (#A_Silithus#)." },
 			[32] = { str = "Ignore." },
 			[33] = { str = "Go upstairs and turn in #Q_'Noggle's Lost Satchel'#." },
 			[34] = { str = "Go into the long building and turn in #Q_'A Terrible Purpose'#." },
-			[35] = { str = "Fly to Moonglade." },
+			[35] = { str = "Fly to #A_Moonglade#." },
 			[36] = { str = "Go to #C_[44,35]# and turn in #Q_'Umber, Archivist'# accept #Q_'Uncovering Past Secrets'#.", x = 44, y = 35, zone = "Moonglade" },
 			[37] = { str = "Run over to #C_[51,44]# and turn in #Q_'Uncovering Past Secrets'#.", x = 44, y = 35, zone = "Moonglade" },
 			[38] = { str = "You should now be 80-85% into leveling." },
@@ -436,7 +436,7 @@ Table_003_Alliance_50to60 = {
 			[40] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Find the wandering commander dwarf and accept #Q_'A Call To Arms: The Plaguelands!'#" },
 
 			[41] = { str = "Fly to #A_Southshore# (#A_Hillsbrad Foothills#)." },
-			[42] = { str = "Run north into Alterac Mountains and over NE to #C_[80,34]# and run into Western Plaguelands (WPL).", x = 80, y = 34, zone = "Alterac Mountains" },
+			[42] = { str = "Run north into #A_Alterac Mountains# and over NE to #C_[80,34]# and run into #A_Western Plaguelands#.", x = 80, y = 34, zone = "Alterac Mountains" },
 		}
 	},
 
@@ -474,7 +474,7 @@ Table_003_Alliance_50to60 = {
 			[25] = { str = "Emma travels between the cathedral and the trade district, find her and turn in #Q_'Good Natured Emma'# accept #Q_'Good Luck Charm'#." },
 			[26] = { str = "Go into the keep at #C_[78,17]# and accept #Q_'The First and the Last'#.", x = 78, y = 17, zone = "Stormwind" },
 			[27] = { str = "Go to #C_[75,79]# and turn in #Q_'The First and the Last'# accept #Q_'Honor the Dead'# then turn it right back in, accept #Q_'Flint Shadowmore'#.", x = 75, y = 79, zone = "Stormwind" },
-			[28] = { str = "Fly back to WPL." },
+			[28] = { str = "Fly back to #A_Western Plaguelands#." },
 			[29] = { str = "In front of the house turn in #Q_'Flint Shadowmore'# accept #Q_'The Eastern Plagues'#." },
 			[30] = { str = "Go back to Felstone field to the house upstairs at #C_[38,54]# and turn in #Q_'Good Luck Charm'# accept #Q_'Two Halves Become One'# Go outside and look for a jabbering ghoul. You can’t miss him he carry’s a pitchfork. Keep clearing in front of the house until you find him. This will give you a good time to get those #Q_'Skeletal Fragments'#.", x = 38, y = 54, zone = "Western Plaguelands" },
 
@@ -515,7 +515,7 @@ Table_003_Alliance_50to60 = {
 			[13] = { str = "Turn in #Q_'Uncle Carlin'# accept #Q_'Defenders of Darrowshire'#." },
 			[14] = { str = "Turn around and turn in #Q_'Duke Nicholas Zverenhoff'#." },
 			[15] = { str = "Run SW to #C_[79,63]# and accept #Q_'Zaeldarr the Outcast'#.", x = 79, y = 63, zone = "Eastern Plaguelands" },
-			[16] = { str = "Fly back to EPL." },
+			[16] = { str = "Fly back to #A_Lights Hope Chapel# (#A_Eastern Plaguelands#)." },
 			[17] = { str = "In front of the house turn in #Q_'The Eastern Plagues'# accept #Q_'The Blightcaller Cometh'#." },
 			[18] = { str = "If you’re within 6600 XP to level then Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Stormwind#, if not then grind until you’re within range." },
 			[19] = { str = "Go to #C_[78,18]# in the keep and turn in #Q_'The Blightcaller Cometh'# now I SKIP the next part but it’s a good quest to do at 60.", x = 78, y = 18, zone = "Eastern Plaguelands" },
@@ -578,8 +578,8 @@ Table_003_Alliance_50to60 = {
 			[6] = { str = "Go to #C_[57,36]# and kill Huntsman Radly for #Q_'Unfinished Business'#(2) then north to the tower at #C_[55,23]# and kill Cavalier Durgen at the top.", x = 57, y = 36, zone = "Western Plaguelands" },
 			[7] = { str = "Go straight out of the tower over the mountains to #C_[51,28]# and turn in #Q_'Unfinished Business'#(2) doing the 3rd part #Q_'Unfinished Business'#(3) is optional. Some classes can do it easier than others. You have to run north to hearthglen and run up into the big tower in the center of town at #C_[45,18]# and look over the edge until it says complete.", x = 45, y = 18, zone = "Western Plaguelands" },
 			[8] = { str = "Run back straight south over the mountains to #C_[51,28]# and turn in #Q_'Unfinished Business'#(3).", x = 51, y = 28, zone = "Western Plaguelands" },
-			[9] = { str = "Run into EPL and up to #C_[7,43]# and turn in #Q_'Of Lost Honor'# accept #Q_'Of Love and Family'#.", x = 7, y = 43, zone = "Eastern Plaguelands" },
-			[10] = { str = "Go back to WPL and run/swim to the island Scholo is on at #C_[65,75]# and turn in #Q_'Of Love and Family'# SKIP the rest until you do strat.", x = 65, y = 75, zone = "Western Plaguelands" },
+			[9] = { str = "Run into #A_Eastern Plaguelands# and up to #C_[7,43]# and turn in #Q_'Of Lost Honor'# accept #Q_'Of Love and Family'#.", x = 7, y = 43, zone = "Eastern Plaguelands" },
+			[10] = { str = "Go back to #A_Western Plaguelands# and run/swim to the island Scholo is on at #C_[65,75]# and turn in #Q_'Of Love and Family'# SKIP the rest until you do strat.", x = 65, y = 75, zone = "Western Plaguelands" },
 
 			[11] = { str = "Go back to Chillwind Camp at #C_[43,84]# and turn in #Q_'A Plague Upon Thee'#(3).", x = 43, y = 84, zone = "Western Plaguelands" },
 			[12] = { str = "Now you want to do 2 things here. Get friendly with Argent Dawn and get 8-8.5k from leveling. You can do #Q_'Alas, Andorhal'# if you can find a group, it’s not that hard but can take 5-10 people. This will give you an easy 8300 xp instead of grinding." },

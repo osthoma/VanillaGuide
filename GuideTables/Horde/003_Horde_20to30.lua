@@ -249,7 +249,7 @@ Table_003_Horde_20to30 = {
 			[6] = { str = "Accept #Q_'Elixir of Pain'#." },
 			[7] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[8] = { str = "Go start killing Yetis." },
-			[9] = { str = "I keep grinding away at Yetis until I hit 30. (OPTIONAL: you could go do RFK instead of the grinding)." },
+			[9] = { str = "I keep grinding away at Yetis until I hit 30. (OPTIONAL: you could go do Razorfen Kraul instead of the grinding)." },
 			[10] = { str = "Also, the '#N_Helcular's Rod'# should have dropped before hitting 30, if not keep grinding away till it does." },
 
 			[11] = { str = "As soon as you hit 30, Use your #I_[Hearthstone]# to return to #A_Orgrimmar# and talk to your #N_Class Trainer# to learn new spells and abilities." },

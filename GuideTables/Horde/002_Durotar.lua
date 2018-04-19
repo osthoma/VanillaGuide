@@ -105,7 +105,7 @@ Table_002_Durotar = {
 			[34] = { str = "Go to Cleft of Shadows at #C_[47,53]# and turn in #Q_'Finding the Antidote'#.", x = 47, y = 53, zone = "Orgrimmar" },
 			[35] = { str = "Turn in #Q_'Neeru Fireblade'# and #Q_'Burning Shadows'# at Neeru Fireblade at #C_[49,50]#. Accept #Q_'Ak'Zeloth'#.", x = 49, y = 50, zone = "Orgrimmar" },
 			[36] = { str = "Also keep talking to him to complete #Q_'Hidden Enemies'#." },
-			[37] = { str = "Then go back to Thrall and turn in #Q_'Hidden Enemies'# again. The 3rd part refers to RFC instance, which I skip." },
+			[37] = { str = "Then go back to Thrall and turn in #Q_'Hidden Enemies'# again. The 3rd part refers to Ragefire Chasm instance, which I skip." },
 			[38] = { str = "Leave #A_Orgrimmar#, and turn in #Q_'Need for a Cure'# at #C_[41,18]# (you will most likely have to accept it again to turn it in).", x = 40, y = 62, zone = "Durotar" },
 			[39] = { str = "Use your #I_[Hearthstone]# to return to #A_Razor Hill# (#A_Durotar#)." },
 			[40] = { str = "Build up first aid." },

@@ -116,7 +116,7 @@ Table_002_ElwynnForest = {
 			[27] = { str = "Go to #C_[22,73]# and accept #Q_'In Defense of the King's Lands'#.", x = 22, y = 73, zone = "Loch Modan" },
 			[28] = { str = "Go up in the tower and accept #Q_'The Trogg Threat'#." },
 			[29] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #C_[33,50]#.", x = 33, y = 50, zone = "Loch Modan" },
-			[30] = { str = "Look for the wandering NPC #N_Mountaineer Kadrell# and accept #Q_'Rat Catching'#." },
+			[30] = { str = "Look for the wandering #N_Mountaineer Kadrell# and accept #Q_'Rat Catching'#." },
 
 			[31] = { str = "Kill troggs from #C_[27,53]# and north for #Q_'In Defense of the King's Lands'# and #Q_'The Trogg Threat'#.", x = 27, y = 53, zone = "Loch Modan" },
 			[32] = { str = "Kill mobs from #C_[26,43]# and north for #Q_'Rat Catching'#, then turn it in at #A_Thelsamar# (#A_Loch Modan#)", x = 26, y = 43, zone = "Loch Modan" },

@@ -160,8 +160,8 @@ Table_003_Horde_30to40 = {
 			[50] = { str = "You should be level 34 now for sure." },
 
 			[51] = { str = "Turn in #Q_'Stealing Supplies'# #C_[36,79]# and accept #Q_'Ongeku'#.", x = 36, y = 79, zone = "Desolace" },
-			[52] = { str = "Fly to CT (In the Barrens). (the flight master is on the docks in #A_Shadowprey Village# (#A_Desolace#))." },
-			[53] = { str = "Once at CT, run south-east into Dustwallow Marsh (#C_[51,79]# in the Barrens).", x = 51, y = 79, zone = "The Barrens" },
+			[52] = { str = "Fly to #A_Camp Taurajo# (#A_The Barrens#). (the flight master is on the docks in #A_Shadowprey Village# (#A_Desolace#))." },
+			[53] = { str = "Once at #A_Camp Taurajo# (#A_The Barrens#), run south-east into Dustwallow Marsh (#C_[51,79]# in the Barrens).", x = 51, y = 79, zone = "The Barrens" },
 			[54] = { str = "Collect the 3 quest-objects at the Shady Rest Inn:" },
 			[55] = { str = "#Q_'Suspicious Hoofprints'# (just right outside in front of the inn)." },
 			[56] = { str = "#Q_'Lieutenant Paval Reethe'# (laying on one of the planks on the ground)." },

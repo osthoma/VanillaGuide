@@ -196,7 +196,7 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "Go to the gazebo at #C_[26,52]# and turn in #Q_'The Ruins of Solarsal'# accept #Q_'Return to Feathermoon Stronghold'#.", x = 26, y = 52, zone = "Feralas" },
 			[8] = { str = "Go back to Feathermoon to the big building, turn in #Q_'Return to Feathermoon Stronghold'# accept #Q_'Against the Hatecrest'# turn around and hand it in accept #Q_'Against the Hatecrest'#(2)." },
 			[9] = { str = "Kill naga around #C_[26,54]# for #Q_'Against the Hatecrest'#(2).", x = 26, y = 54, zone = "Feralas" },
-			[10] = { str = "I kill the naga until im about 2500 TNL because I’m usually under 15k TNL when I get to this part. They give an average of 250 per kill." },
+			[10] = { str = "I kill the naga until im about 2500 to next level because I’m usually under 15k to next level when I get to this part. They give an average of 250 per kill." },
 
 			[11] = { str = "Go back to Feathermoon to the big building, turn in #Q_'Against the Hatecrest'#(2). Accept #Q_'Against Lord Shalzaru'#." },
 			[12] = { str = "Go down to the cave at #C_[26,66]# and kill Lord Shalzaru at the end for #Q_'Against Lord Shalzaru'#.", x = 26, y = 66, zone = "Feralas" },
@@ -344,7 +344,7 @@ Table_003_Alliance_40to50 = {
 			[17] = { str = "Go up to the noxious lair around #C_[34,46]# and kill centipaar there for #Q_'Noxious Lair Investigation'# If you can’t get them all before tooga has 10 minutes left, go turn that in and then come back.", x = 34, y = 76, zone = "Tanaris" },
 			[18] = { str = "Turn in #Q_'Tooga’s Quest'# near steamwheedle port at #C_[66,25]#.", x = 66, y = 25, zone = "Tanaris" },
 			[19] = { str = "Accept #Q_'Yuka Screwspigot'#." },
-			[20] = { str = "Turn in #Q_'Screecher Spirits'# at #C_[66,22]# SKIP the ZF part.", x = 66, y = 22, zone = "Tanaris" },
+			[20] = { str = "Turn in #Q_'Screecher Spirits'# at #C_[66,22]# SKIP the Zul Farrak part.", x = 66, y = 22, zone = "Tanaris" },
 
 			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#)." },
 			[22] = { str = "Go near the entrance and accept #Q_'The Thirsty Goblin'# back and turn it in accept #Q_'In Good Taste'#." },
@@ -416,7 +416,7 @@ Table_003_Alliance_40to50 = {
 
 			[21] = { str = "Go up top of the Inn, turn in #Q_'The Bloodsail Buccaneers'#(5)." },
 			[22] = { str = "Fly to #A_Stormwind# and go to #C_[64,20]# turn in #Q_'Rhapsody's Tale'# SKIP the rest.", x = 64, y = 20, zone = "Stormwind" },
-			[23] = { str = "From here on, either look at the AH when you go by one, or use your AH char to search for your Beaststalker Bracers. I got mine for 8g also look for a mithril casing for later in Un’Goro." },
+			[23] = { str = "From here on, either look at the Auction House when you go by one, or use your Auction House char to search for your Beaststalker Bracers. I got mine for 8g also look for a mithril casing for later in Un’Goro." },
 			[24] = { str = "Fly to #A_Darkshire# (#A_Duskwood#)." },
 			[25] = { str = "Run east through #A_Deadwind Pass# to the #A_Swamp of Sorrows#." },
 			[26] = { str = "Follow the road until it forks and the left fork has a bridge at #C_[22,48]# and under it is A Soggy Scroll which turns in #Q_'Cortello's Riddle'#. Accept #Q_'Cortello's Riddle'#(2).", x = 22, y = 48, zone = "Swamp of Sorrow" },
@@ -437,7 +437,7 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "Grind down to #C_[51,35]# and accept #Q_'Everything Counts In Large Amounts'# If you do find one of these, hand it back in when you pass her, you’re bound to find at least one while here. Don’t even bother with the other quest you’ll Never find it. I’ve been playing WoW since release and never found one.", x = 51, y = 35, zone = "Blasted Lands" },
 			[8] = { str = "Go to #C_[50,14]# and turn in the 5 quests, #Q_'The Basilisk's Bite'# #Q_'Vulture's Vigor'# #Q_'Snickerfang Jowls'# #Q_'A Boar's Vitality'# and #Q_'The Decisive Striker'# but turn in the one you want the most last, because you get buffed and get an item as well. These each give 4700 xp.", x = 50, y = 14, zone = "Blasted Lands" },
 			[9] = { str = "Go to Nethergarde Keep to the top of the tall tower at #C_[66,19]# and turn in #Q_'Thadius Grimshade'# SKIP the next part.", x = 66, y = 19, zone = "Blasted Lands" },
-			[10] = { str = "You should be close to 70% into 49 now. If you don’t want to do ZF to hit 50, grind here until you’re about 13k from 50. If you wanna do ZF go to the next step." },
+			[10] = { str = "You should be close to 70% into 49 now. If you don’t want to do Zul Farrak to hit 50, grind here until you’re about 13k from 50. If you wanna do Zul Farrak go to the next step." },
 
 			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
 			[12] = { str = "Accept #Q_'Zanzil's Mixture'# and #Q_'A Fool's Stout'#." },
@@ -451,12 +451,12 @@ Table_003_Alliance_40to50 = {
 			[20] = { str = "Go back to #C_[77,77]# and accept #Q_'Report Back to Fizzlebub'#.", x = 77, y = 77, zone = "Thousand Needles" },
 
 			[21] = { str = "Go to #C_[52,45]# and turn in #Q_'The Stone Circle'# SKIP the rest unless you plan on doing the Sunken Temple.", x = 52, y = 45, zone = "Thousand Needles" },
-			[22] = { str = "You should be about 30k from 50 now, Like I said above, either go do ZF or you should have grinded in Blasted Lands." },
-			[23] = { str = "If you do ZF you only really need to complete at least 2-3 of the following quests #Q_'Troll Temper'# #Q_'Divino-matic Rod'# #Q_'Gahz'rilla'# #Q_'The Prophecy of Mosh'Aru'# I highly suggest getting #Q_'Divino-matic Rod'# and #Q_'Gahz'rilla'# because you get an awesome ring and a mount speed inscrease trinket which I’ve used since the start of WoW and you will use them on up to 60 and then some." },
-			[24] = { str = "Now you should be about 1-2 bars into 50 if you went to ZF. From here on out there is a lot more fresh content, as you seen 45-50 is a pain in the ass. We still have a lot of untouched areas to XP in now." },
+			[22] = { str = "You should be about 30k from 50 now, Like I said above, either go do Zul Farrak or you should have grinded in Blasted Lands." },
+			[23] = { str = "If you do Zul Farrak you only really need to complete at least 2-3 of the following quests #Q_'Troll Temper'# #Q_'Divino-matic Rod'# #Q_'Gahz'rilla'# #Q_'The Prophecy of Mosh'Aru'# I highly suggest getting #Q_'Divino-matic Rod'# and #Q_'Gahz'rilla'# because you get an awesome ring and a mount speed inscrease trinket which I’ve used since the start of WoW and you will use them on up to 60 and then some." },
+			[24] = { str = "Now you should be about 1-2 bars into 50 if you went to Zul Farrak. From here on out there is a lot more fresh content, as you seen 45-50 is a pain in the ass. We still have a lot of untouched areas to XP in now." },
 			[25] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#) and turn in #Q_'Report Back to Fizzlebub'#." },
 			[26] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Accept the quest #Q_'The Hunter's Charm'#." },
-			[27] = { str = "Make sure you get at least 15 silk cloths out of the mailbox or AH alt." },
+			[27] = { str = "Make sure you get at least 15 silk cloths out of the mailbox or Auction House alt." },
 			[28] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Accept #Q_'Assisting Arch Druid Staghelm'#." },
 			[29] = { str = "Fly to #A_Thelsamar# (#A_Loch Modan#)." },
 			[30] = { str = "Run down into the #A_Badlands# all the way west to #C_[1,62]# and enter the #A_Searing Gorge#.", x = 1, y = 62, zone = "Badlands" },

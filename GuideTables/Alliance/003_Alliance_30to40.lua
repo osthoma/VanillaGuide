@@ -25,8 +25,8 @@ Table_003_Alliance_30to40 = {
 		title = "31-31 Alterac Mountains",
 		items = {
 			[1] = { str = "31-31 Alterac Mountains" },
-			[2] = { str = "Run up into Alterac Mountains near the AV entrance around #C_[64,38]# and kill lions for #Q_'Costly Menace'# They’re all along the southern border near AV. I usually get all mine in front and West of AV.", x = 64, y = 38, zone = "Alterac Mountains" },
-			[3] = { str = "Go east of AV and do #Q_'Syndicate Assassins'# at the camp around #C_[55,67]#. There is a camp close to AV but this one has a quest you can grab near the tents on the table. Clear the camp and touch the syndicate document, accept #Q_'Foreboding Plans'# and #Q_'Encrypted Letter'#.", x = 55, y = 67, zone = "Alterac Mountains" },
+			[2] = { str = "Run up into Alterac Mountains near the Alterac Valley entrance around #C_[64,38]# and kill lions for #Q_'Costly Menace'# They’re all along the southern border near Alterac Valley. I usually get all mine in front and West of Alterac Valley.", x = 64, y = 38, zone = "Alterac Mountains" },
+			[3] = { str = "Go east of Alterac Valley and do #Q_'Syndicate Assassins'# at the camp around #C_[55,67]#. There is a camp close to Alterac Valley but this one has a quest you can grab near the tents on the table. Clear the camp and touch the syndicate document, accept #Q_'Foreboding Plans'# and #Q_'Encrypted Letter'#.", x = 55, y = 67, zone = "Alterac Mountains" },
 			[4] = { str = "Use your #I_[Hearthstone]# to return to #A_Southshore# (#A_Hillsbrad Foothills#)." },
 			[5] = { str = "Go into the town hall, turn in #Q_'Syndicate Assassins'# and #Q_'Foreboding Plans'# accept #Q_'Noble Deaths'#." },
 			[6] = { str = "Stop at the house North of the Inn, turn in #Q_'Encrypted Letter'# accept #Q_'Letter to Stormpike'#." },
@@ -320,7 +320,7 @@ Table_003_Alliance_30to40 = {
 			[10] = { str = "Once you’re 39, grind your way east to the road then to #C_[41,41]# and kill the goblins for #Q_'Venture Company Mining'#.", x = 41, y = 41, zone = "Stranglethorn Vale" },
 
 			[11] = { str = "Run up to the camps around #C_[42,37]# and do #Q_'Skullsplitter Tusks'#.", x = 42, y = 37, zone = "Stranglethorn Vale" },
-			[12] = { str = "Now you’re gonna have to find Bhag'thera for #Q_'Panther Mastery'#(4) she is anywhere between just north of Mosh’ogg at #C_[49,25]# to just north of the ZG entrance at #C_[48,17]# she’s elite. Easy way to do it is lay immolation trap and run her into it, once pet gets half health fear it and keep attacking it.", x = 48, y = 25, zone = "Stranglethorn Vale" },
+			[12] = { str = "Now you’re gonna have to find Bhag'thera for #Q_'Panther Mastery'#(4) she is anywhere between just north of Mosh’ogg at #C_[49,25]# to just north of the Zul Gurub entrance at #C_[48,17]# she’s elite. Easy way to do it is lay immolation trap and run her into it, once pet gets half health fear it and keep attacking it.", x = 48, y = 25, zone = "Stranglethorn Vale" },
 			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
 			[14] = { str = "Turn in #Q_'Venture Company Mining'#." },
 			[15] = { str = "Go upstairs, turn in #Q_'Skullsplitter Tusks'#." },
