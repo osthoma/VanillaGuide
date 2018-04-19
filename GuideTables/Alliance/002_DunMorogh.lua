@@ -14,10 +14,10 @@ Table_002_DunMorogh = {
 			[9] = { str = "Follow the road south to #C_[22,71]# and turn in #Q_'Coldridge Valley Mail Delivery'# accept #Q_'Coldridge Valley Mail Delivery'#(2) and #Q_'The Boar Hunter'#.", x = 22, y = 71, zone = "Dun Morogh" },
 			[10] = { str = "Just behind him start killing small boars until you have 12 for #Q_'The Boar Hunter'# then go back to #C_[22,71]# and turn it in." },
 
-			[11] = { str = "At #C_[20,76]# clear the front of the tent and grab #I_[Felix's Box]# for #Q_'A Refugee's Quandary'#.", x = 20, y = 76, zone = "Dun Morogh" },
-			[12] = { str = "At #C_[22,80]# clear in front of the tent and grab #I_[Felix's Chest]# for #Q_'A Refugee's Quandary'#.", x = 22, y = 80, zone = "Dun Morogh" },
+			[11] = { str = "At #C_[20,76]# clear the front of the tent and grab #I_[Felix’s Box]# for #Q_'A Refugee's Quandary'#.", x = 20, y = 76, zone = "Dun Morogh" },
+			[12] = { str = "At #C_[22,80]# clear in front of the tent and grab #I_[Felix’s Chest]# for #Q_'A Refugee's Quandary'#.", x = 22, y = 80, zone = "Dun Morogh" },
 			[13] = { str = "Run up to #C_[25,75]# (it’s the end of the road on the map) and turn in #Q_'Coldridge Valley Mail Delivery'#(2) and accept #Q_'The Troll Cave'#.", x = 25, y = 75, zone = "Dun Morogh" },
-			[14] = { str = "At #C_[26,79]# clear in front of the cave and grab #I_[Felix's Bucket of Bolts]# for #Q_'A Refugee's Quandary'# then kill the trolls in and out of it until you complete #Q_'The Troll Cave'#.", x = 26, y = 79, zone = "Dun Morogh" },
+			[14] = { str = "At #C_[26,79]# clear in front of the cave and grab #I_[Felix’s Bucket of Bolts]# for #Q_'A Refugee's Quandary'# then kill the trolls in and out of it until you complete #Q_'The Troll Cave'#.", x = 26, y = 79, zone = "Dun Morogh" },
 			[15] = { str = "Run back up to #C_[25,75]# and turn in #Q_'The Troll Cave'# accept #Q_'The Stolen Journal'# you should be 5 or very close to it now.", x = 25, y = 75, zone = "Dun Morogh" },
 			[16] = { str = "Go back in the cave at #C_[26,79]# and go left at the 3 directions to #C_[30,80]# and kill Grik'nir the Cold for #Q_'The Stolen Journal'#.", x = 30, y = 80, zone = "Dun Morogh" },
 			[17] = { str = "Return back to #C_[25,75]# and turn in #Q_'The Stolen Journal'# accept #Q_'Senir's Observations'#.", x = 25, y = 75, zone = "Dun Morogh" },

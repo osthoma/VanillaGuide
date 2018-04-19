@@ -9,9 +9,9 @@ Table_003_Horde_40to50 = {
 			[4] = { str = "Go down south a little and do #Q_'Indurium'# #C_[51,67]#.", x = 51, y = 67, zone = "Badlands" },
 			[5] = { str = "Go back up and turn #Q_'Indurium'# in. Accept #Q_'News for Fizzle'#." },
 			[6] = { str = "Then go north-west and accept #Q_'Study of the Elements: Rock'# at #C_[25,44]#. #VIDEONOTE:# If you have the #N_Frost Oil#, the #N_Gyrochronatom#, the #N_Healing Potion#, the #N_Lesser Invisibility Potion# and the #N_Patterned Bronze Bracers# items, accept and complete all the quests there.", x = 25, y = 44, zone = "Badlands" },
-			[7] = { str = "Grind your way west to Kargath #C_[4,46]#.", x = 4, y = 46, zone = "Badlands" },
-			[8] = { str = "Unlock the flight path by talking to the #N_Flight Master# at Kargath." },
-			[9] = { str = "Do NOT make Kargath your home. (it should still be #A_Booty Bay# (#A_Stranglethorn#))." },
+			[7] = { str = "Grind your way west to #A_Kargath# (#A_Badlands#) #C_[4,46]#.", x = 4, y = 46, zone = "Badlands" },
+			[8] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #A_Kargath# (#A_Badlands#)." },
+			[9] = { str = "Do NOT make #A_Kargath# (#A_Badlands#) your home. (it should still be #A_Booty Bay# (#A_Stranglethorn#))." },
 			[10] = { str = "Accept: #Q_'Coyote Thieves'# #Q_'Report to Helgrum'# #Q_'Broken Alliances'# and #Q_'Badlands Reagent Run'#." },
 
 			[11] = { str = "Then go do:" },
@@ -28,10 +28,10 @@ Table_003_Horde_40to50 = {
 			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#) and check if you have #Q_'Dream Dust in the Swamp'# in your questlog. If not, go accept it from Krazek at #C_[27,77]#.", x = 27, y = 77, zone = "Stranglethorn Vale" },
 			[22] = { str = "Fly to #A_Grom'Gol# (#A_Stranglethorn#)." },
 			[23] = { str = "Go turn in all the #N_The Green Hills of Stranglethorn Chapters/Quests# at Nesingwary's Expedition #C_[35,10]# if you have all the pages for it, if not you have another chance to turn this in again later. You can also look in the AH for your missing pages.", x = 35, y = 10, zone = "Badlands" },
-			[24] = { str = "Then run all the way to Swamp of Sorrows, stopping along the way to accept this quest: #Q_'Nothing But the Truth'# (in #A_Duskwood# at #C_[87,35]#).", x = 87, y = 35, zone = "Duskwood" },
+			[24] = { str = "Then run all the way to #A_Swamp of Sorrows#, stopping along the way to accept this quest: #Q_'Nothing But the Truth'# (in #A_Duskwood# at #C_[87,35]#).", x = 87, y = 35, zone = "Duskwood" },
 			[25] = { str = "Then turn in #Q_'Nothing But the Truth'# (the guy right next to him)." },
 			[26] = { str = "#Q_'Nothing But the Truth'# again." },
-			[27] = { str = "Then run into Swamp of Sorrows." },
+			[27] = { str = "Then run into #A_Swamp of Sorrows#." },
 		}
 	},
 
@@ -86,17 +86,17 @@ Table_003_Horde_40to50 = {
 
 			[11] = { str = "#Q_'Skullsplitter Tusks'# along with #Q_'Split Bone Necklace'#." },
 			[12] = { str = "I keep grinding away at Skullsplitter trolls until im at least 2-3 bars away from 43." },
-			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)" },
+			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
 			[14] = { str = "Turn in ALL quests and make sure to accept #Q_'Tran'Rek'# and #Q_'Rumors for Kravel'# from Krazek and #Q_'Whiskey Slim's Lost Grog'# from Whiskey Slim" },
 			[15] = { str = "Fly to #A_Grom'Gol# (#A_Stranglethorn#)." },
 			[16] = { str = "Turn in #Q_'Mok'thardin's Enchantment'#(4) and #Q_'Split Bone Necklace'#." },
 			[17] = { str = "Accept #Q_'Grim Message'#." },
-			[18] = { str = "Get on the zeppelin to #A_Orgrimmar#" },
+			[18] = { str = "Get on the zeppelin to #A_Orgrimmar#." },
 			[19] = { str = "Once there go to Belgrom Rockmaul at #C_[75,34]# and accept #Q_'A Threath in Ferelas'#.", x = 75, y = 34, zone = "Orgrimmar" },
-			[20] = { str = "Fly to #A_Thunder Bluff#" },
+			[20] = { str = "Fly to #A_Thunder Bluff#." },
 
-			[21] = { str = "Turn in #Q_'Frostmaw'#. Accept #Q_'Deadmire'# (hint: i usually keep Frostmaw's mane in my bank for a long time)" },
-			[22] = { str = "Fly to Desolace if you're not 4/5 bars into lvl 43 or Dustwallow Marsh if you're." },
+			[21] = { str = "Turn in #Q_'Frostmaw'#. Accept #Q_'Deadmire'# (hint: i usually keep Frostmaw's mane in my bank for a long time)." },
+			[22] = { str = "Fly to #A_Desolace# if you're not 4/5 bars into lvl 43 or #A_Dustwallow Marsh# if you're." },
 		}
 	},
 
@@ -133,7 +133,7 @@ Table_003_Horde_40to50 = {
 			[5] = { str = "#Q_'Deadmire'#." },
 			[6] = { str = "#Q_'Marg Speaks'# Kill the mobs at around #C_[58,63]#.", x = 58, y = 63, zone = "Dustwallow Marsh" },
 			[7] = { str = "#Q_'Identifying the Brood'#." },
-			[8] = { str = "Then grind your way back to Brackenwall Village." },
+			[8] = { str = "Then grind your way back to #A_Brackenwall Village# (#A_Dustwallow Marsh#)." },
 			[9] = { str = "Turn in #Q_'Questioning Reethe'# and #Q_'Identifying the Brood'#. Accept #Q_'The Brood of Onyxia'#." },
 			[10] = { str = "Run back and forth until #Q_'The Brood of Onyxia'# is done, but don't actually do the final quest yet (this will be done later at #N_level 48#, so you can abandon it for now)." },
 
@@ -181,7 +181,7 @@ Table_003_Horde_40to50 = {
 
 			[31] = { str = "Then Use your #I_[Hearthstone]# to return to #A_Gadgetzan# (#A_Tanaris#). Make sure you save (put in your bank) all the Wastewander Water Pouches you have, because you will need them for a later quest." },
 			[32] = { str = "Turn in #Q_'More Wastewander Justice'# and #Q_'WANTED: Caliph Scorpidsting'#." },
-			[33] = { str = "Fly to #A_Freewind Post#." },
+			[33] = { str = "Fly to #A_Freewind Post# (#A_Thousand Needles#)." },
 			[34] = { str = "Run west into #A_Feralas#." },
 		}
 	},
@@ -191,7 +191,7 @@ Table_003_Horde_40to50 = {
 		title = "44-46 Feralas",
 		items = {
 			[1] = { str = "44-46 Feralas" },
-			[2] = { str = "Run into Camp Mojache. #C_[75,44]#.", x = 75, y = 44, zone = "Feralas" },
+			[2] = { str = "Run into #A_Camp Mojache# (#A_Feralas#). #C_[75,44]#.", x = 75, y = 44, zone = "Feralas" },
 			[3] = { str = "Accept ALL quests there: #Q_'A New Cloak's Sheen'# #Q_'The Ogres of Feralas'# #Q_'Gordunni Cobalt'# #Q_'War on the Woodpaw'# #Q_'The Mark of Quality'# #Q_'A Strange Request'#." },
 			[4] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
 			[5] = { str = "Talk to the #N_Innkeeper# to make #A_Camp Mojache# (#A_Feralas#) your home." },
@@ -214,7 +214,7 @@ Table_003_Horde_40to50 = {
 
 			[21] = { str = "#Q_'Dark Ceremony'# #C_[59,68]#.", x = 59, y = 68, zone = "Feralas" },
 			[22] = { str = "#Q_'The Mark of Quality'# #C_[53,55]#.", x = 53, y = 55, zone = "Feralas" },
-			[23] = { str = "Run back to Camp Mojache, then go turn those quests in, accept all new quests just from those quest givers." },
+			[23] = { str = "Run back to #A_Camp Mojache# (#A_Feralas#), then go turn those quests in, accept all new quests just from those quest givers." },
 			[24] = { str = "Then do the following (If you have 90+ gold, go buy your mount! You should have them by now.):" },
 			[25] = { str = "Fly to #A_Orgrimmar#." },
 			[26] = { str = "Make sure to get 120 Silk Cloths and 120 Mageweave out from either your bank or mailbox. For those of you who can't add, that's 6 stacks of 20 for both Silk and Mageweave." },
@@ -228,7 +228,7 @@ Table_003_Horde_40to50 = {
 			[33] = { str = "Go turn in #Q_'Report to Zor'#. Accept/complete #Q_'Service to the Horde'# (valley of wisdom, #C_[38,38]#).", x = 38, y = 38, zone = "Orgrimmar" },
 			[34] = { str = "Go turn in #Q_'The Gordunni Orb'# (valley of spirits, #C_[39,86]#).", x = 39, y = 86, zone = "Orgrimmar" },
 			[35] = { str = "Turn in #Q_'A Donation of Silk'# and #Q_'A Donation of Mageweave'# (for the troll faction, at #C_[37,87]#).", x = 37, y = 87, zone = "Orgrimmar" },
-			[36] = { str = "Now, before hearting back to Ferelas, go Durotar and buy your mount!" },
+			[36] = { str = "Now, before hearthing back to #A_Feralas#, go #A_Durotar# and buy your mount!" },
 			[37] = { str = "Turn in #Q_'Retrun to Witch Doctor Uzer'i'#. Accept #Q_'Natural Materials'# and #Q_'Testing the Vessel'#." },
 			[38] = { str = "Then do #Q_'Natural Materials'#." },
 			[39] = { str = "Grind away at hippogryphs till it's completed." },
@@ -236,7 +236,7 @@ Table_003_Horde_40to50 = {
 
 			[41] = { str = "Turn in #Q_'Find OOX-22/FE!'# at #C_[51,57]#.", x = 51, y = 57, zone = Ferelas },
 			[42] = { str = "If your not level 46, grind till you are on hippogryphs." },
-			[43] = { str = "Use your #I_[Hearthstone]# to return to back to Camp Mojache." },
+			[43] = { str = "Use your #I_[Hearthstone]# to return to back to #A_Camp Mojache# (#A_Feralas#)." },
 			[44] = { str = "Turn #Q_'Natural Materials'# in. Accept #Q_'The Sunken Temple'#." },
 			[45] = { str = "Fly to #A_Thunder Bluff#." },
 			[46] = { str = "Turn in #Q_'Deadmire'#." },
@@ -256,7 +256,7 @@ Table_003_Horde_40to50 = {
 			[4] = { str = "Then go to Valormok at #C_[21,52]#.", x = 21, y = 52, zone = "Azshara" },
 			[5] = { str = "Turn in #Q_'Betrayed'# (skip the next part to this quest for now)." },
 			[6] = { str = "Unlock the flight path by talking to the #N_Flight Master# and fly to #A_Orgrimmar#." },
-			[7] = { str = "Then head to Under City." },
+			[7] = { str = "Then head to #A_Undercity#." },
 			[8] = { str = "Then go to Magic Quarter and accept #Q_'Lines of Communication'#." },
 			[9] = { str = "Head to Apothecarium Quarter and accept: #Q_'Seeping Corruption'# and #Q_'Errand for Apothecary Zinge'#." },
 			[10] = { str = "Then go turn in #Q_'Errand for Apothecary Zinge'# (out in the other room)." },
@@ -264,7 +264,7 @@ Table_003_Horde_40to50 = {
 			[11] = { str = "Go return back, and turn in #Q_'Errand for Apothecary Zinge'# again. Accept #Q_'Into the Field'#." },
 			[12] = { str = "You can put the 'Field Testing Kit' and the 'Box of Empty Vials' in the Bank for now." },
 			[13] = { str = "Fly to #A_Tarren Mill# (#A_Hillsbrad Foothills#). Talk to the #N_Innkeeper# to make #A_Tarren Mill# (#A_Hillsbrad Foothills#) your home." },
-			[14] = { str = "Head to the Hinterlands. There a passage at around #C_[83,33]#.", x = 83, y = 33, zone = "Hillsbard Foothills" },
+			[14] = { str = "Head to #A_The Hinterlands#. There a passage at around #C_[83,33]#.", x = 83, y = 33, zone = "Hillsbard Foothills" },
 		}
 	},
 
@@ -297,7 +297,7 @@ Table_003_Horde_40to50 = {
 			[21] = { str = "Turn in #Q_'Rin'ji is Trapped!'# at #C_[86,59]#. Accept #Q_'Rin'ji's Secret'#.", x = 86, y = 59, zone = "Hinterlands" },
 			[22] = { str = "Go to Revantusk Village." },
 			[23] = { str = "Turn in ALL quests." },
-			[24] = { str = "Unlock the flight path by talking to the #N_Flight Master# and fly to #A_Tarren Mill#." },
+			[24] = { str = "Unlock the flight path by talking to the #N_Flight Master# and fly to #A_Tarren Mill# (#A_Hillsbrad Foothills#)." },
 			[25] = { str = "Turn in #Q_'Venom Bottles'#. Accept #Q_'Undamaged Venom Sac'#." },
 			[26] = { str = "I then get all my magewaeve out from my mailbox, then fly to #A_Hammerfall# (#A_Arathi Highlands#)." },
 			[27] = { str = "Then go to Doctor Gregory Victor to build up first aid." },
@@ -379,7 +379,7 @@ Table_003_Horde_40to50 = {
 		title = "48-48 Swamp of Sorrows",
 		items = {
 			[1] = { str = "48-48 Swamp of Sorrows" },
-			[2] = { str = "Do NOT make #A_Stonard# (#A_Swamp of Sorrows#) your home. (it should still be Booty Bay)." },
+			[2] = { str = "Do NOT make #A_Stonard# (#A_Swamp of Sorrows#) your home. (it should still be #A_Booty Bay# (#A_Stranglethorn#))." },
 			[3] = { str = "Go to the #N_Fallen Hero of the Horde# #C_[34,66]#. keep talking to him till you get this quest: #Q_'The Disgraced One'#.", x = 34, y = 66, zone = "Searing Gorge" },
 			[4] = { str = "Then go do #Q_'Cortello's Riddle'# (#C_[22,48]# under the bridge).", x = 22, y = 48, zone = "Searing Gorge" },
 			[5] = { str = "Accept #Q_'Cortello's Riddle'#(2)." },
@@ -394,14 +394,14 @@ Table_003_Horde_40to50 = {
 			[13] = { str = "Then die on purpose, so you end up at #A_Stonard# (#A_Swamp of Sorrows#)." },
 			[14] = { str = "Go to the #N_Fallen Hero of the Horde# #C_[34,66]# and turn in #Q_'The Swamp Talker'#.", x = 34, y = 66, zone = "Searing Gorge" },
 			[15] = { str = "Accept and do #Q_'A Tale of Sorrow'# (Just talk to the guy)." },
-			[16] = { str = "Use your #I_[Hearthstone]# to return to Booty Bay." },
+			[16] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
 			[17] = { str = "Get on the boat to go to #A_Ratchet# (#A_The Barrens#)." },
-			[18] = { str = "Fly to Brackenwall Village (Dustwallow Marsh). Once there accept #Q_'The Brood of Onyxia'#." },
+			[18] = { str = "Fly to #A_Brackenwall Village# (#A_Dustwallow Marsh#). Once there accept #Q_'The Brood of Onyxia'#." },
 			[19] = { str = "Then head south and get the #N_Overdue Package# for the quest #Q_'Ledger from Tanaris'# at #C_[54,55]#.", x = 54, y = 55, zone = "Dustwallow Marsh" },
 			[20] = { str = "Go down a bit and do #Q_'The Brood of Onyxia'# (the eggs can be found at #C_[53,72]# and #C_[48,75]#).", x = 53, y = 72, zone = "Dustwallow Marsh" },
 
 			[21] = { str = "Then head west to Bloodfen Burrow cave #C_[32,67]#, and do #Q_'Cortello's Riddle'#. Accept the next part to it.", x = 32, y = 67, zone = "Dustwallow Marsh" },
-			[22] = { str = "Then die on purpose, so you end up back at Brackenwall Village." },
+			[22] = { str = "Then die on purpose, so you end up back at #A_Brackenwall Village# (#A_Dustwallow Marsh#)." },
 			[23] = { str = "Turn in #Q_'The Brood of Onyxia'#. Accept #Q_'Challenge Overlord Mok'Morokk'# (??? TBC Quest)." },
 			[24] = { str = "Do #Q_'Challenge Overlord Mok'Morokk'# Then turn it in. (??? TBC Quest)." },
 			[25] = { str = "Then fly to #A_Tanaris#." },

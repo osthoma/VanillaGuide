@@ -420,7 +420,7 @@ Table_003_Alliance_40to50 = {
 			[24] = { str = "Fly to #A_Duskwood#." },
 			[25] = { str = "Run east through #A_Deadwind Pass# to the #A_Swamp of Sorrows#." },
 			[26] = { str = "Follow the road until it forks and the left fork has a bridge at #C_[22,48]# and under it is A Soggy Scroll which turns in #Q_'Cortello's Riddle'#. Accept #Q_'Cortello's Riddle'#(2).", x = 22, y = 48, zone = "Swamp of Sorrow" },
-			[27] = { str = "Run down to #A_The Blasted Lands#" },
+			[27] = { str = "Run down to #A_The Blasted Lands#." },
 		}
 	},
 

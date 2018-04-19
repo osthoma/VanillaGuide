@@ -326,7 +326,7 @@ Table_003_Alliance_20to30 = {
 			[15] = { str = "You should be half way to 31 or more by now." },
 			[16] = { str = "Run towards #A_Hillsbrad Foothills#." },
 			[17] = { str = "Stop at #C_[27,49]# and run south into Stormgarde Keep, at the first intersection go right and hug the wall around over the bridge, buy all 3 first aid books at #C_[26,58]#.", x = 27, y = 49, zone = "Arathi Highlands" },
-			[18] = { str = "Continue heading to #A_Hillsbrad Foothills#" },
+			[18] = { str = "Continue heading to #A_Hillsbrad Foothills#." },
  		}
 	},
 }
