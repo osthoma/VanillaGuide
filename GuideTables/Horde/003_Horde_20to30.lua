@@ -113,7 +113,7 @@ Table_003_Horde_20to30 = {
 			[10] = { str = "Head south down the path to the Great Lift (at #C_[44,91]# in the barrens) and turn in #Q_'Calling in the Reserves'#.", x = 44, y = 91, zone = "The Barrens" },
 
 			[11] = { str = "Accept #Q_'Message to Freewind Post'#." },
-			[12] = { str = "Run to #A_Freewind Post# (#A_Thousand Needles#) at #C_[45,50]#." x = 45, y = 50, zone = "Thousand Needles" },
+			[12] = { str = "Run to #A_Freewind Post# (#A_Thousand Needles#) at #C_[45,50]#.", x = 45, y = 50, zone = "Thousand Needles" },
 		}
 	},
 
