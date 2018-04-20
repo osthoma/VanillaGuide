@@ -104,8 +104,8 @@ function objGuideTable:new(oSettings)
 				{ "s", "Undeads" },
 			},
 			["[A] Starting Zones"] = {
-				{ "s", "Humans" },
 				{ "s", "Dwarves & Gnomes" },
+				{ "s", "Humans" },
 				{ "s", "Night Elves" },
 			},
 		},
@@ -121,22 +121,21 @@ function objGuideTable:new(oSettings)
 				{ "v", "10-12 Mulgore", id = nil },
 			},
 			["Undeads"] = {
-				{ "v", "1-6 DeathKnell", id = nil },
+				{ "v", "1-6 Tirisfal Glades", id = nil },
 				{ "v", "6-10 Tirisfal Glades", id = nil },
 				{ "v", "10-12 Tirisfal Glades", id = nil },
 			},
 			["[H] 12-20"] = {
-				{ "v", "12-15 Barrens", id = nil },
+				{ "v", "12-15 The Barrens", id = nil },
 				{ "v", "15-16 Stonetalon Mountains", id = nil },
-				{ "v", "16-20 Barrens (part 1)", id = nil },
-				{ "v", "16-20 Barrens (part 2)", id = nil },
+				{ "v", "16-20 The Barrens", id = nil },
 			},
 			["[H] 20-30"] = {
 				{ "v", "20-21 Stonetalon Mountains", id = nil },
 				{ "v", "21-21 Ashenvale", id = nil },
-				{ "v", "22-23 Southern Barrens", id = nil },
+				{ "v", "22-23 The Barrens", id = nil },
 				{ "v", "23-25 Stonetalon Mountains", id = nil },
-				{ "v", "25-25 Southern Barrens", id = nil },
+				{ "v", "25-25 The Barrens", id = nil },
 				{ "v", "25-26 Thousand Needles", id = nil },
 				{ "v", "26-27 Ashenvale", id = nil },
 				{ "v", "27-27 Stonetalon Mountains", id = nil },
@@ -147,7 +146,7 @@ function objGuideTable:new(oSettings)
 				{ "v", "30-30 Alterac Mountains", id = nil },
 				{ "v", "30-30 Arathi Highlands", id = nil },
 				{ "v", "30-31 Stranglethorn Vale", id = nil },
-				{ "v", "31-32 TN (Shimmering Flats)", id = nil },
+				{ "v", "31-32 Thousand Needles", id = nil },
 				{ "v", "32-34 Desolace", id = nil },
 				{ "v", "34-35 Stranglethorn Vale", id = nil },
 				{ "v", "35-37 Arathi Highlands", id = nil },
@@ -165,7 +164,7 @@ function objGuideTable:new(oSettings)
 				{ "v", "43-44 Tanaris", id = nil },
 				{ "v", "44-46 Feralas", id = nil },
 				{ "v", "46-46 Azshara", id = nil },
-				{ "v", "46-47 Hinterlands", id = nil },
+				{ "v", "46-47 The Hinterlands", id = nil },
 				{ "v", "47-47 Stranglethorn Vale", id = nil },
 				{ "v", "47-48 Searing Gorge", id = nil },
 				{ "v", "48-48 Swamp of Sorrows", id = nil },
@@ -174,7 +173,7 @@ function objGuideTable:new(oSettings)
 			},
 			["[H] 50-60"] = {
 				{ "v", "50-50 Azshara", id = nil },
-				{ "v", "50-50 Hinterlands", id = nil },
+				{ "v", "50-50 The Hinterlands", id = nil },
 				{ "v", "50-51 Blasted Lands", id = nil },
 				{ "v", "51-52 Un’Goro Crater", id = nil },
 				{ "v", "52-53 Burning Steppes", id = nil },
@@ -191,7 +190,7 @@ function objGuideTable:new(oSettings)
 
 			["Humans"] = {
 				{ "v", "1-10 Elwynn Forest", id = nil },
-				{ "v", "10-12 Westfall and Lock Modan", id = nil },
+				{ "v", "10-12 Westfall and Loch Modan", id = nil },
 			},
 			["Dwarves & Gnomes"] = {
 				{ "v", "1-6 Coldridge Valley", id = nil },
@@ -205,7 +204,7 @@ function objGuideTable:new(oSettings)
 				{ "v", "12-14 Darkshore", id = nil },
 				{ "v", "14-17 Darkshore", id = nil },
 				{ "v", "17-18 Loch Modan", id = nil },
-				{ "v", "18-20 Redredge Mountains", id = nil },
+				{ "v", "18-20 Redridge Mountains", id = nil },
 			},
 			["[A] 20-30"] = {
 				{ "v", "20-21 Darkshore", id = nil },
@@ -213,18 +212,18 @@ function objGuideTable:new(oSettings)
 				{ "v", "22-23 Stonetalon Mountains", id = nil },
 				{ "v", "23-24 Darkshore", id = nil },
 				{ "v", "24-25 Ashenvale", id = nil },
-				{ "v", "25-27 Wetlands", id = nil },
-				{ "v", "27-28 Lakeshire", id = nil },
+				{ "v", "25-27 The Wetlands", id = nil },
+				{ "v", "27-28 Redridge Mountains", id = nil },
 				{ "v", "28-29 Duskwood", id = nil },
 				{ "v", "29-30 Ashenvale", id = nil },
-				{ "v", "30-30 Wetlands", id = nil },
+				{ "v", "30-30 The Wetlands", id = nil },
 			},
 			["[A] 30-40"] = {
 				{ "v", "30-31 Hillsbrad Foothills", id = nil },
 				{ "v", "31-31 Alterac Mountains", id = nil },
 				{ "v", "31-32 Arathi Highlands", id = nil },
 				{ "v", "32-32 Stranglethorn Vale", id = nil },
-				{ "v", "32-33 Thousand Needles (Shimmering Flats)", id = nil },
+				{ "v", "32-33 Thousand Needles", id = nil },
 				{ "v", "33-33 Stonetalon Mountains", id = nil },
 				{ "v", "33-35 Desolace", id = nil },
 				{ "v", "35-36 Stranglethorn Vale", id = nil },
@@ -398,9 +397,9 @@ function objGuideTable:new(oSettings)
 			xSearchID(obj.TableDDM.lvl3["Taurens"])
 			xSearchID(obj.TableDDM.lvl3["Undeads"])
 		else
+			xSearchID(obj.TableDDM.lvl3["Dwarves & Gnomes"])
 			xSearchID(obj.TableDDM.lvl3["Humans"])
 			xSearchID(obj.TableDDM.lvl3["Night Elves"])
-			xSearchID(obj.TableDDM.lvl3["Dwarves & Gnomes"])
 		end
 	end
 
@@ -502,13 +501,13 @@ do
 		[1012] = {	title = "10-12 Mulgore" },
 	}
 	Table_002_TirisfalGlades = {
-		[0106] = {	title = "1-6 DeathKnell (Tirisfal Glades)" },
+		[0106] = {	title = "1-6 Tirisfal Glades" },
 		[0610] = {	title = "6-10 Tirisfal Glades" },
 		[1012] = {	title = "10-12 Tirisfal Glades" },
 	}
 -----------------------------------------------------------------
 	Table_002_DunMorogh = {
-		[0106] = {	title = "1-6 Cold Ridge Valley" },
+		[0106] = {	title = "1-6 Coldridge Valley" },
         [0612] = {	title = "6-12 Dun Morogh" },
     }
 	Table_002_Teldrassil = {
@@ -521,17 +520,16 @@ do
 	}
 -----------------------------------------------------------------
 	Table_003_Horde_12to20 = {
-		[1215] = {	title = "12-15 Barrens" },
+		[1215] = {	title = "12-15 The Barrens" },
 		[1516] = {	title = "15-16 Stonetalon Mountains" },
-		[1618] = {	title = "16-20 Barrens Part 1" },
-		[1820] = {	title = "16-20 Barrens Part 2" },
+		[1620] = {	title = "16-20 The Barrens" },
 	}
 	Table_003_Horde_20to30 = {
-		[2021] = { title = "20-21 Stonetalon Mountains" },
+		[2021] = {  title = "20-21 Stonetalon Mountains" },
 		[2121] = {	title = "21-21 Ashenvale" },
-		[2223] = {	title = "22-23 Southern Barrens" },
+		[2223] = {	title = "22-23 The Barrens" },
 		[2325] = {	title = "23-25 Stonetalon Mountains" },
-		[2525] = {	title = "25-25 Southern Barrens" },
+		[2525] = {	title = "25-25 The Barrens" },
 		[2526] = {	title = "25-26 Thousand Needles" },
 		[2627] = {	title = "26-27 Ashenvale" },
 		[2727] = {	title = "27-27 Stonetalon Mountains" },
@@ -542,7 +540,7 @@ do
 		[3029] = {	title = "30-30 Alterac Mountains" },
 		[3030] = {	title = "30-30 Arathi Highlands" },
 		[3031] = {	title = "30-31 Stranglethorn Vale" },
-		[3132] = {	title = "31-32 TN (Shimmering Flats)" },
+		[3132] = {	title = "31-32 Thousand Needles" },
 		[3234] = {	title = "32-34 Desolace" },
 		[3435] = {	title = "34-35 Stranglethorn Vale" },
 		[3537] = {	title = "35-37 Arathi Highlands" },
@@ -560,7 +558,7 @@ do
 		[4344] = {	title = "43-44 Tanaris" },
 		[4446] = {	title = "44-46 Feralas" },
 		[4646] = {	title = "46-46 Azshara" },
-		[4647] = {	title = "46-47 Hinterlands" },
+		[4647] = {	title = "46-47 The Hinterlands" },
 		[4747] = {	title = "47-47 Stranglethorn Vale" },
 		[4748] = {	title = "47-48 Searing Gorge" },
 		[4848] = {	title = "48-48 Swamp of Sorrows" },
@@ -569,7 +567,7 @@ do
 	}
 	Table_003_Horde_50to60 = {
 		[5049] = {	title = "50-50 Azshara" },
-		[5050] = {	title = "50-50 Hinterlands" },
+		[5050] = {	title = "50-50 The Hinterlands" },
 		[5051] = {	title = "50-51 Blasted Lands" },
 		[5152] = {	title = "51-52 Un’Goro Crater" },
 		[5253] = {	title = "52-53 Burning Steppes" },
@@ -588,7 +586,7 @@ do
 		[1214] = {	title = "12-14 Darkshore" },
 		[1417] = {	title = "14-17 Darkshore" },
 		[1718] = {	title = "17-18 Loch Modan" },
-		[1820] = {	title = "18-20 Redredge Mountains" },
+		[1820] = {	title = "18-20 Redridge Mountains" },
 	}
 	Table_003_Alliance_20to30 = {
 		[2021] = {  title = "20-21 Darkshore" },
@@ -596,24 +594,24 @@ do
         [2223] = {  title = "22-23 Stonetalon Mountains" },
         [2324] = {  title = "23-24 Darkshore" },
         [2425] = {  title = "24-25 Ashenvale" },
-        [2526] = {  title = "25-27 Wetlands" },
-        [2728] = {  title = "27-28 Lakeshire" },
+        [2526] = {  title = "25-27 The Wetlands" },
+        [2728] = {  title = "27-28 Redridge Mountains" },
         [2829] = {  title = "28-29 Duskwood" },
         [2930] = {	title = "29-30 Ashenvale" },
-		[3030] = {  title = "30-30 Wetlands" },
+		    [3030] = {  title = "30-30 The Wetlands" },
 	}
 	Table_003_Alliance_30to40 = {
 		[3031] = {	title = "30-31 Hillsbrad Foothills" },
 		[3131] = {	title = "31-31 Alterac Mountains" },
 		[3132] = {	title = "31-32 Arathi Highlands" },
 		[3232] = {	title = "32-32 Stranglethorn Vale" },
-		[3233] = {	title = "32-33 Thousand Needles (Shimmering Flats)" },
+		[3233] = {	title = "32-33 Thousand Needles" },
 		[3333] = {	title = "33-33 Stonetalon Mountains" },
 		[3335] = {	title = "33-35 Desolace" },
 		[3536] = {	title = "35-36 Stranglethorn Vale" },
 		[3637] = {	title = "36-37 Alterac Mountains" },
 		[3738] = {  title = "37-38 Arathi Highlands" },
-	    [3838] = {	title = "38-38 Dustwallow Marsh", }
+	  [3838] = {	title = "38-38 Dustwallow Marsh", }
 		[3840] = {	title = "38-40 Stranglethorn Vale" },
 	}
 	Table_003_Alliance_40to50 = {
