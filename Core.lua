@@ -8,43 +8,43 @@ debug_info = true
 debug_verbose = false
 
 do
-    function Di(...)
-    	if debug_info then
-    	    for k, v in pairs(arg) do arg[k] = tostring(v) end
-    		local s = table.concat(arg, ", ")
-    		s = string.gsub(s, "([=:]),", "%1")
-    		DEFAULT_CHAT_FRAME:AddMessage("|cFFff6633VGuide info:|r" .. s)
-        end
-        --return s
+  function Di(...)
+    if debug_info then
+      for k, v in pairs(arg) do arg[k] = tostring(v) end
+      local s = table.concat(arg, ", ")
+      s = string.gsub(s, "([=:]),", "%1")
+      DEFAULT_CHAT_FRAME:AddMessage("|cFFff6633VGuide info:|r" .. s)
     end
-    function Dv(...)
-        if debug_verbose then
-            for k, v in pairs(arg) do arg[k] = tostring(v) end
-            local s = table.concat(arg, ", ")
-            s = string.gsub(s, "([=:]),", "%1")
-            DEFAULT_CHAT_FRAME:AddMessage("     |cFFff6677VGuide debug:|r" .. s)
-        end
-        --return s
+    --return s
+  end
+  function Dv(...)
+    if debug_verbose then
+      for k, v in pairs(arg) do arg[k] = tostring(v) end
+      local s = table.concat(arg, ", ")
+      s = string.gsub(s, "([=:]),", "%1")
+      DEFAULT_CHAT_FRAME:AddMessage("     |cFFff6677VGuide debug:|r" .. s)
     end
-    function Dtprint (tbl, indent)
-        if not debug_verbose then return end
-        if not indent then indent = 0 end
-        for k, v in pairs(tbl) do
-            formatting = string.rep(" ", indent) .. "[" .. k .."]" .. ": "
-            if type(v) == "table" then
-                Dv(formatting)
-                Dtprint(v, indent+4)
-            elseif type(v) == "boolean" then
-                Dv(formatting .. tostring(v))
-            elseif type(v) == "function" then
-                Dv(formatting .. tostring(v))
-            elseif type(v) == "userdata" then
-                Dv(formatting .. tostring(v))
-            else
-                Dv(formatting .. v)
-            end
-        end
+    --return s
+  end
+  function Dtprint (tbl, indent)
+    if not debug_verbose then return end
+    if not indent then indent = 0 end
+    for k, v in pairs(tbl) do
+      formatting = string.rep(" ", indent) .. "[" .. k .."]" .. ": "
+      if type(v) == "table" then
+        Dv(formatting)
+        Dtprint(v, indent + 4)
+      elseif type(v) == "boolean" then
+        Dv(formatting .. tostring(v))
+      elseif type(v) == "function" then
+        Dv(formatting .. tostring(v))
+      elseif type(v) == "userdata" then
+        Dv(formatting .. tostring(v))
+      else
+        Dv(formatting .. v)
+      end
     end
+  end
 end
 
 --[[--------------------------------------------------
@@ -69,122 +69,122 @@ Dv(" Starting!")
 Dv("  on: " .. date())
 
 function VGuide:OnInitialize(Addon_Name)
-    -- fired upon Blizz's Event ADDON_LOADED
-    --Dv("    -- OnInitialize Start")
-    --Dv("        arg1: 'name'  -->  ", tostring(Addon_Name))
-    --self:Print(self:PrintAddonInfo())
+  -- fired upon Blizz's Event ADDON_LOADED
+  --Dv("    -- OnInitialize Start")
+  --Dv("        arg1: 'name'  -->  ", tostring(Addon_Name))
+  --self:Print(self:PrintAddonInfo())
 
-    -- Fires when non-addon-specific saved variables are loaded
-    --self:RegisterEvent("VARIABLES_LOADED")
-    -- Fires when an addon and its saved variables are loaded
-    self:RegisterEvent("ADDON_LOADED")
-    -- Fires immediately before `PLAYER_ENTERING_WORLD` on login and UI reload
-    self:RegisterEvent("PLAYER_LOGIN")
-    -- Fired when the player enters the world, reloads the UI,
-    -- enters/leaves an instance or battleground, or respawns at a graveyard.
-    -- Also fires any other time the player sees a loading screen
-    --self:RegisterEvent("PLAYER_ENTERING_WORLD")
-    self:RegisterEvent("OnProfileEnable")
-    self:RegisterEvent("Ace2_AddonInitialized")
-    self:RegisterEvent("Ace2_AddonEnabled")
+  -- Fires when non-addon-specific saved variables are loaded
+  --self:RegisterEvent("VARIABLES_LOADED")
+  -- Fires when an addon and its saved variables are loaded
+  self:RegisterEvent("ADDON_LOADED")
+  -- Fires immediately before `PLAYER_ENTERING_WORLD` on login and UI reload
+  self:RegisterEvent("PLAYER_LOGIN")
+  -- Fired when the player enters the world, reloads the UI,
+  -- enters/leaves an instance or battleground, or respawns at a graveyard.
+  -- Also fires any other time the player sees a loading screen
+  --self:RegisterEvent("PLAYER_ENTERING_WORLD")
+  self:RegisterEvent("OnProfileEnable")
+  self:RegisterEvent("Ace2_AddonInitialized")
+  self:RegisterEvent("Ace2_AddonEnabled")
 
-    if Addon_Name == "VanillaGuide"  then
-        Dv("      -- Event |c00FF3333OnInitialize|r: " .. Addon_Name)
-    end
-    --Dv("    -- OnInitialize End")
+  if Addon_Name == "VanillaGuide" then
+    Dv("      -- Event |c00FF3333OnInitialize|r: " .. Addon_Name)
+  end
+  --Dv("    -- OnInitialize End")
 end
 
 function VGuide:Ace2_AddonInitialized(addon)
-    --Dv("    -- Ace2_AddonInitialized Start")
-    --self:Print("|c00FF3333"..addon.."|r: VGuide v1.0 Initialized!")
-    if tostring(addon) == "VanillaGuide"  then
-        Dv("        -- Event |c00FF3333Ace2_AddonInitialized|r: " .. tostring(addon))
-    end
-    --Dv("    -- Ace2_AddonInitialized End")
+  --Dv("    -- Ace2_AddonInitialized Start")
+  --self:Print("|c00FF3333"..addon.."|r: VGuide v1.0 Initialized!")
+  if tostring(addon) == "VanillaGuide" then
+    Dv("        -- Event |c00FF3333Ace2_AddonInitialized|r: " .. tostring(addon))
+  end
+  --Dv("    -- Ace2_AddonInitialized End")
 end
 
 function VGuide:ADDON_LOADED(name)
-    --Dv("    -- ADDON_LOADED Start")
+  --Dv("    -- ADDON_LOADED Start")
 
-    if name == "VanillaGuide" then
-        Dv("      -- Event |c00FF3333ADDON_LOADED|r: " .. name)
-        Dv("        |c00FF3333Vanilla Guide|r and its own SavedVariables should be loaded now!")
+  if name == "VanillaGuide" then
+    Dv("      -- Event |c00FF3333ADDON_LOADED|r: " .. name)
+    Dv("        |c00FF3333Vanilla Guide|r and its own SavedVariables should be loaded now!")
 
-    end
-    --Dv("    -- ADDON_LOADED End")
+  end
+  --Dv("    -- ADDON_LOADED End")
 end
 
 
 function VGuide:PLAYER_LOGIN()
-    --Dv("    -- PLAYER_LOGIN Start")
-    Dv("      -- Event |c00FF3333PLAYER_LOGIN|r:  Player should be logged in now....")
-    --Dv("    -- PLAYER_LOGIN End")
+  --Dv("    -- PLAYER_LOGIN Start")
+  Dv("      -- Event |c00FF3333PLAYER_LOGIN|r:  Player should be logged in now....")
+  --Dv("    -- PLAYER_LOGIN End")
 end
 
 function VGuide:OnProfileEnable()
-    Dv("    -- OnProfileEnable Start")
-    Dv("    -- OnProfileEnable End")
+  Dv("    -- OnProfileEnable Start")
+  Dv("    -- OnProfileEnable End")
 end
 
 function VGuide:OnEnable(first)
-    -- fired upon Blizz's Event PLAYER_LOGIN
-    -- guess this is after VARIABLE_LOADED
-    --Dv("    -- OnEnable Start")
-    --Dv("        arg1: 'first'  -->  ", tostring(first))
-    local _, title = GetAddOnInfo("VanillaGuide")
-    local author = GetAddOnMetadata("VanillaGuide", "Author")
-    local version = GetAddOnMetadata("VanillaGuide", "Version")
-    local CharName = UnitName("player")
-    local RealmName = GetRealmName()
-    local Class = UnitClass("player")
-    local Race = UnitRace("player")
-    local Faction = UnitFactionGroup("player")
-    Di(" Title: " .. title)
-    Di("    Author: " .. author .. "     Version: |cccff1919" .. version .. "|r")
-    Dv("     - CharName: " .. CharName)
-    Dv("     - RealmName: " .. RealmName)
-    Dv("     - Class: " .. Class)
-    Dv("     - Race: " .. Race)
-    Dv("     - Faction: " .. Faction)
-    Dv("                ...let's check our old SavedVariables or create a new set...")
+  -- fired upon Blizz's Event PLAYER_LOGIN
+  -- guess this is after VARIABLE_LOADED
+  --Dv("    -- OnEnable Start")
+  --Dv("        arg1: 'first'  -->  ", tostring(first))
+  local _, title = GetAddOnInfo("VanillaGuide")
+  local author = GetAddOnMetadata("VanillaGuide", "Author")
+  local version = GetAddOnMetadata("VanillaGuide", "Version")
+  local CharName = UnitName("player")
+  local RealmName = GetRealmName()
+  local Class = UnitClass("player")
+  local Race = UnitRace("player")
+  local Faction = UnitFactionGroup("player")
+  Di(" Title: " .. title)
+  Di("    Author: " .. author .. "     Version: |cccff1919" .. version .. "|r")
+  Dv("     - CharName: " .. CharName)
+  Dv("     - RealmName: " .. RealmName)
+  Dv("     - Class: " .. Class)
+  Dv("     - Race: " .. Race)
+  Dv("     - Faction: " .. Faction)
+  Dv("                ...let's check our old SavedVariables or create a new set...")
 
-    self.Settings = objSettings:new()
+  self.Settings = objSettings:new()
 
-	self.Settings:CheckSettings()
-    --self.Settings:PrintSettings()
-    self.GuideTable = objGuideTable:new(self.Settings)
-    self.Display = objDisplay:new(self.Settings, self.GuideTable)
-    self.UI = objUI:new(self.Settings, self.Display)
+  self.Settings:CheckSettings()
+  --self.Settings:PrintSettings()
+  self.GuideTable = objGuideTable:new(self.Settings)
+  self.Display = objDisplay:new(self.Settings, self.GuideTable)
+  self.UI = objUI:new(self.Settings, self.Display)
 
 
 
-    Dv("      -- Event |c00FF3333OnEnable|r:  Player is logged in...loading UI!")
-    --Dv("    -- OnEnable End")
+  Dv("      -- Event |c00FF3333OnEnable|r:  Player is logged in...loading UI!")
+  --Dv("    -- OnEnable End")
 end
 
 function VGuide:Ace2_AddonEnabled(addon, first)
-    --Dv("    -- Ace2_AddonEnabled Start")
-    if tostring(addon) == "VanillaGuide"  then
-        if first then
-            Dv("        -- Event |c00FF3333Ace2_AddonEnabled|r: " .. tostring(addon) .. " Enabled for the first time!")
-        else
-            Dv("        -- Event |c00FF3333Ace2_AddonEnabled|r: " .. tostring(addon) .. " Enabled after...")
-        end
+  --Dv("    -- Ace2_AddonEnabled Start")
+  if tostring(addon) == "VanillaGuide" then
+    if first then
+      Dv("        -- Event |c00FF3333Ace2_AddonEnabled|r: " .. tostring(addon) .. " Enabled for the first time!")
+    else
+      Dv("        -- Event |c00FF3333Ace2_AddonEnabled|r: " .. tostring(addon) .. " Enabled after...")
     end
-    --Dv("    -- Ace2_AddonEnabled End")
+  end
+  --Dv("    -- Ace2_AddonEnabled End")
 end
 
 function VGuide:OnDisable()
-    -- fired when AddOn is disabled
-    Dv("    -- OnDisable Start")
-    --local db = self.Settings:GetSettingsEntireCharDB()
-    --self.Settings:SetEntireCharDB(db)
-    Dv("    -- OnSidable End")
+  -- fired when AddOn is disabled
+  Dv("    -- OnDisable Start")
+  --local db = self.Settings:GetSettingsEntireCharDB()
+  --self.Settings:SetEntireCharDB(db)
+  Dv("    -- OnSidable End")
 end
 
 function VGuide:ZONE_CHANGED()
-    Dv("    -- ZONE_CHANGED Start")
-    --[[
+  Dv("    -- ZONE_CHANGED Start")
+  --[[
     if GetBindLocation() == GetSubZoneText() then
         if self:IsShowInChat() then
             self:Print(self:GetMessage())
@@ -194,7 +194,7 @@ function VGuide:ZONE_CHANGED()
         end
     end
     ]]
-    Dv("    -- ZONE_CHANGED End")
+  Dv("    -- ZONE_CHANGED End")
 end
 
 Dv(" VGuide Core.lua End")
