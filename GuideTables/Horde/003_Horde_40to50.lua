@@ -1,5 +1,5 @@
 Table_003_Horde_40to50 = {
------------40-41 Badlands
+
 	[4041] = {
 		title = "40-41 Badlands",
 		items = {
@@ -11,7 +11,7 @@ Table_003_Horde_40to50 = {
 			[6] = { str = "Then go north-west and accept #Q_'Study of the Elements: Rock'# at #C_[25,44]#. #VIDEONOTE:# If you have the #N_Frost Oil#, the #N_Gyrochronatom#, the #N_Healing Potion#, the #N_Lesser Invisibility Potion# and the #N_Patterned Bronze Bracers# items, accept and complete all the quests there.", x = 25, y = 44, zone = "Badlands" },
 			[7] = { str = "Grind your way west to #A_Kargath# (#A_Badlands#) #C_[4,46]#.", x = 4, y = 46, zone = "Badlands" },
 			[8] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #A_Kargath# (#A_Badlands#)." },
-			[9] = { str = "Do NOT make #A_Kargath# (#A_Badlands#) your home. (it should still be #A_Booty Bay# (#A_Stranglethorn#))." },
+			[9] = { str = "Do NOT make #A_Kargath# (#A_Badlands#) your home. (it should still be #A_Booty Bay# (#A_Stranglethorn Vale#))." },
 			[10] = { str = "Accept: #Q_'Coyote Thieves'# #Q_'Report to Helgrum'# #Q_'Broken Alliances'# and #Q_'Badlands Reagent Run'#." },
 
 			[11] = { str = "Then go do:" },
@@ -25,8 +25,8 @@ Table_003_Horde_40to50 = {
 			[19] = { str = "Then make sure all #A_Badlands# quests (besides #Q_'Report to Helgrum'# ) are done and turned in." },
 			[20] = { str = "You should be about level 41 right now, if not grind to it." },
 
-			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#) and check if you have #Q_'Dream Dust in the Swamp'# in your questlog. If not, go accept it from Krazek at #C_[27,77]#.", x = 27, y = 77, zone = "Stranglethorn Vale" },
-			[22] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn#)." },
+			[21] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#) and check if you have #Q_'Dream Dust in the Swamp'# in your questlog. If not, go accept it from Krazek at #C_[27,77]#.", x = 27, y = 77, zone = "Stranglethorn Vale" },
+			[22] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
 			[23] = { str = "Go turn in all the #N_The Green Hills of Stranglethorn Chapters/Quests# at Nesingwary’s Expedition #C_[35,10]# if you have all the pages for it, if not you have another chance to turn this in again later. You can also look in the AH for your missing pages.", x = 35, y = 10, zone = "Badlands" },
 			[24] = { str = "Then run all the way to #A_Swamp of Sorrows#, stopping along the way to accept this quest: #Q_'Nothing But the Truth'# (in #A_Duskwood# at #C_[87,35]#).", x = 87, y = 35, zone = "Duskwood" },
 			[25] = { str = "Then turn in #Q_'Nothing But the Truth'# (the guy right next to him)." },
@@ -35,7 +35,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------41-42 Swamp of Sorrows
 	[4142] = {
 		title = "41-42 Swamp of Sorrows",
 		items = {
@@ -65,20 +64,19 @@ Table_003_Horde_40to50 = {
 			[22] = { str = "Use your #I_[Hearthstone]# to return to #A_Stonard# (#A_Swamp of Sorrows#)." },
 			[23] = { str = "Turn in #Q_'Fresh Meat'# and #Q_'Pool of Tears'#. Accept #Q_'The Atal’ai Exile'#." },
 			[24] = { str = "Should be about lvl 42 now, if not grind to it. Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[25] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn#)." },
+			[25] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
 		}
 	},
 
------------42-43 Stranglethorn Vale
 	[4243] = {
 		title = "42-43 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 42 to 43 in #A_Stranglethorn Vale#." },
 			[2] = { str = "Accept #Q_'Mok’thardin’s Enchantment'#(4) and #Q_'Split Bone Necklace'#." },
-			[3] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn#)." },
-			[4] = { str = "Accept ALL quests in #A_Booty Bay# (#A_Stranglethorn#): #Q_'The Bloodsail Buccaneers'# #Q_'Up to Snuff'# #Q_'Zanzil’s Secret'# #Q_'Akiris by the Bundle'# #Q_'Voodoo Dues'# #Q_'Stoley’s Debt'# #Q_'Stranglethorn Fever'# and #Q_'Keep An Eye Out'#." },
+			[3] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
+			[4] = { str = "Accept ALL quests in #A_Booty Bay# (#A_Stranglethorn Vale#): #Q_'The Bloodsail Buccaneers'# #Q_'Up to Snuff'# #Q_'Zanzil’s Secret'# #Q_'Akiris by the Bundle'# #Q_'Voodoo Dues'# #Q_'Stoley’s Debt'# #Q_'Stranglethorn Fever'# and #Q_'Keep An Eye Out'#." },
 			[5] = { str = "Turn in #Q_'Dream Dust in the Swamp'#." },
-			[6] = { str = "Talk to the #N_Innkeeper# to make  #A_Booty Bay# (#A_Stranglethorn#) your home." },
+			[6] = { str = "Talk to the #N_Innkeeper# to make  #A_Booty Bay# (#A_Stranglethorn Vale#) your home." },
 			[7] = { str = "Then go do in the following order:" },
 			[8] = { str = "#Q_'The Bloodsail Buccaneers'# along with #Q_'Up to Snuff'# and #Q_'Keep An Eye Out'# (these are done at the shore around #C_[31,80]#, and some more mobs can be found at #C_[27,70]#). Also do #Q_'Stranglethorn Fever'# (for #Q_'Stranglethorn Fever'# you will need one gorilla fang, and the witch doctor is in the cave at #C_[34,60]#)", x = 31, y = 80, zone = "Stranglethorn Vale" },
 			[9] = { str = "#Q_'Mok’thardin’s Enchantment'#(4) along with #Q_'Akiris by the Bundle'# #C_[25,63]#.", x = 25, y = 63, zone = "Stranglethorn Vale" },
@@ -86,9 +84,9 @@ Table_003_Horde_40to50 = {
 
 			[11] = { str = "#Q_'Skullsplitter Tusks'# along with #Q_'Split Bone Necklace'#." },
 			[12] = { str = "I keep grinding away at Skullsplitter trolls until im at least 2-3 bars away from 43." },
-			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[14] = { str = "Turn in ALL quests and make sure to accept #Q_'Tran’Rek'# and #Q_'Rumors for Kravel'# from Krazek and #Q_'Whiskey Slim’s Lost Grog'# from Whiskey Slim" },
-			[15] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn#)." },
+			[15] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
 			[16] = { str = "Turn in #Q_'Mok’thardin’s Enchantment'#(4) and #Q_'Split Bone Necklace'#." },
 			[17] = { str = "Accept #Q_'Grim Message'#." },
 			[18] = { str = "Get on the zeppelin to #A_Orgrimmar#." },
@@ -100,7 +98,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------43-43 Desolace
 	[4342] = {
 		title = "43-43 Desolace",
 		items = {
@@ -122,7 +119,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------43-43 Dustwallow Marsh
 	[4343] = {
 		title = "43-43 Dustwallow Marsh",
 		items = {
@@ -142,7 +138,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------43-44 Tanaris
 	[4344] = {
 		title = "43-44 Tanaris",
 		items = {
@@ -186,7 +181,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------44-46 Feralas
 	[4446] = {
 		title = "44-46 Feralas",
 		items = {
@@ -246,7 +240,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------46-46 Azshara
 	[4646] = {
 		title = "46-46 Azshara",
 		items = {
@@ -268,7 +261,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------46-47 Hinterlands
 	[4647] = {
 		title = "46-47 The Hinterlands",
 		items = {
@@ -311,29 +303,28 @@ Table_003_Horde_40to50 = {
 			[34] = { str = "Fly to #A_Undercity#." },
 			[35] = { str = "Go to magic quarter and turn in #Q_'A Donation of Mageweave'# (you need 60 mageweave cloth for this quest)." },
 			[36] = { str = "Then turn in: #Q_'Lines of Communication'# and #Q_'Rin’ji’s Secret'#.then complete #Q_'Oran’s Gratitude'#." },
-			[37] = { str = "Get on the zeppelin to go to #A_Grom’Gol# (#A_Stranglethorn#)." },
+			[37] = { str = "Get on the zeppelin to go to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
 		}
 	},
 
------------47-47 Stranglethorn Vale
 	[4747] = {
 		title = "47-47 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through level 47 in #A_Stranglethorn Vale#." },
 			[2] = { str = "Go do #Q_'Raptor Mastery'# (#N_Tethis#) #C_[28,44]# and go turn it in.", x = 28, y = 44, zone = "Stranglethorn Vale" },
 			[3] = { str = "Accept #Q_'Big Game Hunter'# (Elite), go do it, then turn it in." },
-			[4] = { str = "Go to #A_Grom’Gol# (#A_Stranglethorn#) and turn in #Q_'Grim Message'# (if you did the Hinterlands section)." },
-			[5] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[4] = { str = "Go to #A_Grom’Gol# (#A_Stranglethorn Vale#) and turn in #Q_'Grim Message'# (if you did the Hinterlands section)." },
+			[5] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[6] = { str = "Accept #Q_'The Bloodsail Buccaneers'#(5) and #Q_'Whiskey Slim’s Lost Grog'#." },
-			[7] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home." },
+			[7] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn Vale#) your home." },
 			[8] = { str = "Accept #Q_'The Captain’s Chest'# (Elite) then go do it at #C_[36,65]# NOTE: This quest is tough to solo, it can be soloed, but you should find a group to help you kill Gorlash, I personally skip it while racing to 60.", x = 36, y = 65, zone = "Stranglethorn Vale" },
 			[9] = { str = "Turn in #Q_'Back to Booty Bay'# and #Q_'Deliver to MacKinley'#." },
 			[10] = { str = "Make sure that #Q_'The Captain’s Chest'# is accepted, then go do it at #C_[36,65]#. If your class has troubles, either find a group to help, or you can simply skip it.", x = 36, y = 65, zone = "Stranglethorn Vale" },
 
-			[11] = { str = "Find a small bottle laying around the shore east of #A_Booty Bay# (#A_Stranglethorn#), until this item: #N_Carefully Folded Note# shows up. which starts #Q_'Message in a Bottle'#." },
+			[11] = { str = "Find a small bottle laying around the shore east of #A_Booty Bay# (#A_Stranglethorn Vale#), until this item: #N_Carefully Folded Note# shows up. which starts #Q_'Message in a Bottle'#." },
 			[12] = { str = "Go turn #Q_'Message in a Bottle'# in at #C_[38,80]#.", x = 38, y = 80, zone = "Stranglethorn Vale" },
 			[13] = { str = "Then go do #Q_'The Bloodsail Buccaneers'#(5) (kill the three pirates in the three ships).while doing it, find #Q_'Cortello’s Riddle'# (it’s usually a little scroll downstairs in the middle ship)." },
-			[14] = { str = "Then Use your #I_[Hearthstone]# to return to back to #A_Booty Bay# (#A_Stranglethorn#), if hearth stone still is on a cooldown, die on purpose." },
+			[14] = { str = "Then Use your #I_[Hearthstone]# to return to back to #A_Booty Bay# (#A_Stranglethorn Vale#), if hearth stone still is on a cooldown, die on purpose." },
 			[15] = { str = "Turn in #Q_'The Captain’s Chest'# and #Q_'The Bloodsail Buccaneers'#(5)." },
 			[16] = { str = "Fly to #A_Kargath# (#A_Badlands#)." },
 			[17] = { str = "I get a stack of Silk Cloth out of the mailbox for the quest #Q_'Caught'#, then." },
@@ -341,7 +332,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------47-48 Searing Gorge
 	[4748] = {
 		title = "47-48 Searing Gorge",
 		items = {
@@ -374,12 +364,11 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------48-48 Swamp of Sorrows
 	[4848] = {
 		title = "48-48 Swamp of Sorrows",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through level 48 in #A_Swamp of Sorrows#." },
-			[2] = { str = "Do NOT make #A_Stonard# (#A_Swamp of Sorrows#) your home. (it should still be #A_Booty Bay# (#A_Stranglethorn#))." },
+			[2] = { str = "Do NOT make #A_Stonard# (#A_Swamp of Sorrows#) your home. (it should still be #A_Booty Bay# (#A_Stranglethorn Vale#))." },
 			[3] = { str = "Go to the #N_Fallen Hero of the Horde# #C_[34,66]#. keep talking to him till you get this quest: #Q_'The Disgraced One'#.", x = 34, y = 66, zone = "Searing Gorge" },
 			[4] = { str = "Then go do #Q_'Cortello’s Riddle'# (#C_[22,48]# under the bridge).", x = 22, y = 48, zone = "Searing Gorge" },
 			[5] = { str = "Accept #Q_'Cortello’s Riddle'#(2)." },
@@ -394,7 +383,7 @@ Table_003_Horde_40to50 = {
 			[13] = { str = "Then die on purpose, so you end up at #A_Stonard# (#A_Swamp of Sorrows#)." },
 			[14] = { str = "Go to the #N_Fallen Hero of the Horde# #C_[34,66]# and turn in #Q_'The Swamp Talker'#.", x = 34, y = 66, zone = "Searing Gorge" },
 			[15] = { str = "Accept and do #Q_'A Tale of Sorrow'# (Just talk to the guy)." },
-			[16] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[16] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[17] = { str = "Get on the boat to go to #A_Ratchet# (#A_The Barrens#)." },
 			[18] = { str = "Fly to #A_Brackenwall Village# (#A_Dustwallow Marsh#). Once there accept #Q_'The Brood of Onyxia'#." },
 			[19] = { str = "Then head south and get the #N_Overdue Package# for the quest #Q_'Ledger from Tanaris'# at #C_[54,55]#.", x = 54, y = 55, zone = "Dustwallow Marsh" },
@@ -410,7 +399,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
---------48-49 Feralas
 	[4849] = {
 		title = "48-49 Feralas",
 		items = {
@@ -444,7 +432,6 @@ Table_003_Horde_40to50 = {
 		}
 	},
 
------------49-50 Tanaris
 	[4950] = {
 		title = "49-50 Tanaris",
 		items = {

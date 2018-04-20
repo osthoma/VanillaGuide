@@ -1,5 +1,5 @@
 Table_003_Horde_12to20 = {
------------12-15 Barrens
+
 	[1215] = {
 		title = "12-15 The Barrens",
 		items = {
@@ -41,7 +41,6 @@ Table_003_Horde_12to20 = {
 		}
 	},
 
------------15-16 Stonetalon Mountains
 	[1516] = {
 		title = "15-16 Stonetalon Mountains",
 		items = {
@@ -55,7 +54,6 @@ Table_003_Horde_12to20 = {
 		}
 	},
 
------------16-20 Barrens PART1
 	[1620] = {
 		title = "16-20 The Barrens",
 		items = {

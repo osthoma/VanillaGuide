@@ -1,5 +1,5 @@
 Table_003_Horde_50to60 = {
------------50-50 Azshara
+
 	[5049] = {
 		title = "50-50 Azshara",
 		items = {
@@ -27,9 +27,7 @@ Table_003_Horde_50to60 = {
 
 			[21] = { str = "Then fly to #A_Revantusk Village# (#A_The Hinterlands#)." },
 		}
-	},
 
------------50-50 Hinterlands
 	[5050] = {
 		title = "50-50 Hinterlands",
 		items = {
@@ -49,13 +47,12 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "Talk to the #N_Innkeeper# to make #A_Crossroads# (#A_The Barrens#) your home." },
 			[14] = { str = "Fly to #A_Ratchet# (#A_The Barrens#)." },
 			[15] = { str = "Pick up the '#N_Stone Circle# at Liv Rizzlefix shop. also accept #Q_'Volcanic Activity'# while your there." },
-			[16] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[16] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[17] = { str = "Fly to #A_Stonard# (#A_Swamp of Sorrows#)." },
 			[18] = { str = "Go into #A_Blasted Lands#." },
 		}
 	},
 
-------------50-51 Blasted Lands
 	[5051] = {
 		title = "50-51 Blasted Lands",
 		items = {
@@ -89,7 +86,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------51-52 Un’Goro Crater
 	[5152] = {
 		title = "51-52 Un’Goro Crater",
 		items = {
@@ -144,7 +140,7 @@ Table_003_Horde_50to60 = {
 			[45] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
 			[46] = { str = "Then fly to #A_Ratchet# (#A_The Barrens#)." },
 			[47] = { str = "Turn in #Q_'Volcanic Activity'# and #Q_'Marvon’s Workshop'# - I SKIP '#N_Zapper Fuel'#." },
-			[48] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[48] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[49] = { str = "Turn in #Q_'Whiskey Slim’s Lost Grog'#." },
 			[50] = { str = "Also turn in #Q_'Rescue OOX-17/TN!'# (if you did it)." },
 
@@ -155,7 +151,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------52-53 Burning Steppes
 	[5253] = {
 		title = "52-53 Burning Steppes",
 		items = {
@@ -179,7 +174,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
---------------53-54 Azshara
 	[5354] = {
 		title = "53-54 Azshara",
 		items = {
@@ -214,7 +208,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------54-54 Felwood
 	[5454] = {
 		title = "54-54 Felwood",
 		items = {
@@ -236,7 +229,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------54-55 Winterspring
 	[5455] = {
 		title = "54-55 Winterspring",
 		items = {
@@ -274,7 +266,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------55-55 Felwood
 	[5554] = {
 		title = "55-55 Felwood",
 		items = {
@@ -312,7 +303,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
-------------55-55 Silithus
 	[5555] = {
 		title = "55-55 Silithus",
 		items = {
@@ -344,7 +334,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------55-56 Western Plaguelands
 	[5556] = {
 		title = "55-56 Western Plaguelands",
 		items = {
@@ -375,7 +364,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------56-57 Eastern Plaguelands
 	[5657] = {
 		title = "56-57 Eastern Plaguelands",
 		items = {
@@ -421,7 +409,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
------------57-58 Western Plaguelands
 	[5758] = {
 		title = "57-58 Western Plaguelands",
 		items = {
@@ -466,7 +453,6 @@ Table_003_Horde_50to60 = {
 		}
 	},
 
-------------58-60 Winterspring
 	[5860] = {
 		title = "58-60 Winterspring",
 		items = {

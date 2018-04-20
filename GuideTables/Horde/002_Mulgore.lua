@@ -1,5 +1,5 @@
 Table_002_Mulgore = {
------------1-6 Mulgore
+
 	[0106] = {
 		title = "1-6 Mulgore",
 		items = {
@@ -22,7 +22,6 @@ Table_002_Mulgore = {
 		}
 	},
 
------------6-10 Mulgore
 	[0610] = {
 		title = "6-10 Mulgore",
 		items = {
@@ -48,7 +47,6 @@ Table_002_Mulgore = {
 		}
 	},
 
------------10-12 Mulgore
 	[1012] = {
 		title = "10-12 Mulgore",
 		items = {

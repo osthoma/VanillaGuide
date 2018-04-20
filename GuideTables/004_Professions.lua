@@ -1,9 +1,5 @@
---[[--------------------------------------------------
-Connection:
---]]--------------------------------------------------
-
 Table_004_Professions = {
------------1-300 Alchemy
+
 	[7002] = {
 		title = "1-300 Alchemy",
 		items = {
@@ -29,7 +25,6 @@ Table_004_Professions = {
 		}
 	},
 
------------1-300 Blacksmithing
 	[7003] = {
 		title = "1-300 Blacksmithing",
 		items = {
@@ -71,7 +66,6 @@ Table_004_Professions = {
 		}
 	},
 
------------1-300 Cooking (Horde & Alliance)
 	[7004] = {
 		title = "1-300 [H] Cooking",
 		items = {
@@ -115,7 +109,6 @@ Table_004_Professions = {
 		}
 	},
 
------------1-300 Cooking (Horde & Alliance)
 	[7005] = {
 		title = "1-300 [A] Cooking",
 		items = {
@@ -162,7 +155,6 @@ Table_004_Professions = {
 		}
 	},
 
------------1-300 Enchanting
 	[7006] = {
 		title = "1-300 Enchanting",
 		items = {
@@ -206,7 +198,6 @@ Table_004_Professions = {
 		}
 	},
 
------------1-300 Engineering
 	[7007] = {
 		title = "1-300 Engineering",
 		items = {
@@ -245,7 +236,6 @@ Table_004_Professions = {
 		}
 	},
 
------------1-300 Leatherworking
 	[7008] = {
 		title = "1-300 Leatherworking",
 		items = {
@@ -294,7 +284,6 @@ Table_004_Professions = {
 		}
 	},
 
------------1-300 Tailoring
 	[7009] = {
 		title = "1-300 Tailoring",
 		items = {

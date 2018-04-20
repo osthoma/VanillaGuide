@@ -1,5 +1,5 @@
 Table_003_Alliance_40to50 = {
------------40-41 Badlands
+
 	[4041] = {
 		title = "40-41 Badlands",
 		items = {
@@ -41,7 +41,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------41-41 Swamp of Sorrows
 	[4141] = {
 		title = "41-41 Swamp of Sorrows",
 		items = {
@@ -71,13 +70,12 @@ Table_003_Alliance_40to50 = {
 			[22] = { str = "Fly to Nethergarde and run back up into the swamp." },
 			[23] = { str = "Go to #C_[26,59]# and turn in #Q_'Driftwood'# accept #Q_'Deliver the Shipment'#.", x = 26, y = 59, zone = "Swamp of Sorrows" },
 			[24] = { str = "Run down into the Blasted Lands and turn in #Q_'Deliver the Shipment'# at #C_[66,21]#.", x = 66, y = 21, zone = "Blasted Lands" },
-			[25] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn#) and turn in #Q_'Dream Dust In the Swamp'# atop the Inn and accept #Q_'Rumors for Kravel'#." },
+			[25] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn Vale#) and turn in #Q_'Dream Dust In the Swamp'# atop the Inn and accept #Q_'Rumors for Kravel'#." },
 			[26] = { str = "Get on the ship to #A_Ratchet# (#A_The Barrens#) and fly to #A_Theramore# (#A_Dustwallow Marsh#) and turn in #Q_'… and bugs'# at the Inn." },
 			[27] = { str = "Fly to #A_Nijel’s Point# (#A_Desolace#)." },
 		}
 	},
 
------------41-42 Desolace
 	[4142] = {
 		title = "41-42 Desolace",
 		items = {
@@ -97,24 +95,23 @@ Table_003_Alliance_40to50 = {
 			[13] = { str = "Fly to #A_Theramore# (#A_Dustwallow Marsh#), Boat to #A_Menethil Harbor# (#A_The Wetlands#) and Fly to #A_Ironforge#." },
 			[14] = { str = "Turn in #Q_'Reagents For Reclaimers Inc'#(4) at #C_[67,17]#.", x = 67, y = 17, zone = "Ironforge" },
 			[15] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
-			[16] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[16] = { str = "Fly to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 		}
 	},
 
------------42-43 Stranglethron Vale
 	[4243] = {
 		title = "42-43 Stranglethron Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 42 to 43 in #A_Stranglethron Vale#." },
 			[2] = { str = "Go into the Inn, accept #Q_'Tran’Rek'#." },
-			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn Vale#) your home." },
 			[4] = { str = "Accept #Q_'Zanzil’s Secret'# and #Q_'Whiskey Slim’s Lost Grog'#." },
 			[5] = { str = "Go near the Bank, accept #Q_'Akiris By the Bundle'#." },
 			[6] = { str = "Go in the house next to the half ship, accept #Q_'Stoley’s Debt'#." },
 			[7] = { str = "Where the dock forks up and down, go up and around the corner, accept #Q_'Keep An Eye Out'#." },
-			[8] = { str = "Go out of #A_Booty Bay# (#A_Stranglethorn#) and to the right and south. All around #C_[31,79]# You’re gonna kill the buccaneers for #Q_'Up To Snuff'# and #Q_'Keep An Eye Out'#.", x = 31, y = 79, zone = "Stranglethorn Vale" },
+			[8] = { str = "Go out of #A_Booty Bay# (#A_Stranglethorn Vale#) and to the right and south. All around #C_[31,79]# You’re gonna kill the buccaneers for #Q_'Up To Snuff'# and #Q_'Keep An Eye Out'#.", x = 31, y = 79, zone = "Stranglethorn Vale" },
 			[9] = { str = "Kill the swashbucklers around the two camps at #C_[29,81]#(bloodsail charts are here on the box) and #C_[27,82]# (bloodsail orders, on the box, NE tent) for #Q_'The Bloodsail Buccaneers'#(4).", x = 27, y = 82, zone = "Stranglethorn Vale" },
-			[10] = { str = "Run back up into #A_Booty Bay# (#A_Stranglethorn#), and turn left." },
+			[10] = { str = "Run back up into #A_Booty Bay# (#A_Stranglethorn Vale#), and turn left." },
 
 			[11] = { str = "Turn in #Q_'Keep An Eye Out'# near the forge." },
 			[12] = { str = "Go up in the Inn, turn in #Q_'Up To Snuff'#." },
@@ -130,7 +127,7 @@ Table_003_Alliance_40to50 = {
 			[21] = { str = "Die on purpose so you’re near the rebel camp." },
 			[22] = { str = "Go to the rebel camp at #C_[38,3]# and turn in #Q_'Colonel Kurzen'#.", x = 38, y = 3, zone = "Stranglethorn Vale" },
 			[23] = { str = "Kill the trolls around #C_[44,34]# until you’re about 9k from leveling.", x = 44, y = 34, zone = "Stranglethorn Vale" },
-			[24] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[24] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[25] = { str = "Turn in #Q_'Zanzil’s Secret'#." },
 			[26] = { str = "Go down by the Bank, turn in #Q_'Akiris By the Bundle'#. Accept #Q_'Akiris By the Bundle'#(2)." },
 			[27] = { str = "Go to the house in front of the half boat, turn in #Q_'Voodoo Dues'# accept #Q_'Cracking Maury’s Foot'#." },
@@ -139,7 +136,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------43-43 Tanaris
 	[4343] = {
 		title = "43-43 Tanaris",
 		items = {
@@ -183,7 +179,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------43-45 Feralas
 	[4345] = {
 		title = "43-45 Feralas",
 		items = {
@@ -237,7 +232,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------45-46 Uldaman
 	[4546] = {
 		title = "45-46 Uldaman",
 		items = {
@@ -251,7 +245,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------46-47 The Hinterlands
 	[4647] = {
 		title = "46-47 The Hinterlands",
 		items = {
@@ -289,7 +282,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------47-47 Feralas
 	[4747] = {
 		title = "47-47 Feralas",
 		items = {
@@ -320,7 +312,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------47-48 Tanaris
 	[4748] = {
 		title = "47-48 Tanaris",
 		items = {
@@ -373,7 +364,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
------------48-48 The Hinterlands
 	[4848] = {
 		title = "48-48 The Hinterlands",
 		items = {
@@ -384,16 +374,15 @@ Table_003_Alliance_40to50 = {
 			[5] = { str = "Grind until you’re east of #C_[57,47]# and kill Silvermane Stalkers for #Q_'Food For Baby'#.", x = 57, y = 47, zone = "The Hinterlands" },
 			[6] = { str = "Run back to #A_Aerie Peak# (#A_The Hinterlands#) and go to the bottom floor of the Inn." },
 			[7] = { str = "Turn in #Q_'Food For Baby'# accept #Q_'Becoming A Parent'# then turn it back in. Cute pet and good xp =)." },
-			[8] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[8] = { str = "Use your #I_[Hearthstone]# to return to #A_Ironforge# and fly to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 		}
 	},
 
------------48-49 Stranglethorn Vale
 	[4849] = {
 		title = "48-49 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 48 to 49 in #A_Stranglethorn Vale#." },
-			[2] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home." },
+			[2] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn Vale#) your home." },
 			[3] = { str = "Turn in #Q_'Back To Booty Bay'# and #Q_'Whiskey Slim’s Lost Grog'#." },
 			[4] = { str = "Enter the house next to the upside down, half ship, turn in #Q_'Deliver to MacKinley'#." },
 			[5] = { str = "Under that boat outside, accept #Q_'Stranglethorn Fever'#." },
@@ -404,14 +393,14 @@ Table_003_Alliance_40to50 = {
 			[10] = { str = "Run up to #C_[48,25]# and kill the elite ogres all around here until Maury’s Key drops for #Q_'Cracking Maury’s Foot'# If you don’t find this after an hour just abandon the quest. It has a low drop rate. I grind till im 2 bars from 49 if I don’t get the key. Usally it’s about an hours worth.", x = 48, y = 25, zone = "Stranglethorn Vale" },
 
 			[11] = { str = "Go up to Nessingways at #C_[35,10]# and turn in #Q_'Big Game Hunter'#.", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[12] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#) Run up to the half boat just outside the Inn." },
+			[12] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#) Run up to the half boat just outside the Inn." },
 			[13] = { str = "Turn in #Q_'Stranglethorn Fever'#." },
-			[14] = { str = "Run to the shore just east of #A_Booty Bay# (#A_Stranglethorn#) and open blue bottles until you get Carefully Folded Note which starts #Q_'Message in A Bottle'#." },
+			[14] = { str = "Run to the shore just east of #A_Booty Bay# (#A_Stranglethorn Vale#) and open blue bottles until you get Carefully Folded Note which starts #Q_'Message in A Bottle'#." },
 			[15] = { str = "Go to #C_[36,69]# and kill Gorlash for #Q_'The Captain’s Chest'# He’s a 47 elite, it can be tough but I did it. Use everything you have.", x = 36, y = 69, zone = "Stranglethorn Vale" },
 			[16] = { str = "Go to #C_[38,80]# and turn in #Q_'Message in A Bottle'# SKIP the next part, unless you can get a group to kill the 51 ape.", x = 38, y = 80, zone = "Stranglethorn Vale" },
 			[17] = { str = "Go down to the pirate ships, 1 is at #C_[33,87]# and the other 2 are at #C_[30,88]# You want to go to the 2nd floor near the front of the ship and kill the captain of each for #Q_'The Bloodsail Buccaneers'#(5).", x = 33, y = 87, zone = "Stranglethorn Vale" },
 			[18] = { str = "Look for a scroll on one of the ships called Cortello’s Riddle which starts #Q_'Cortello’s Riddle'#." },
-			[19] = { str = "If your #I_[Hearthstone]# is up, use it, otherwise die so you end up at #A_Booty Bay# (#A_Stranglethorn#)." },
+			[19] = { str = "If your #I_[Hearthstone]# is up, use it, otherwise die so you end up at #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[20] = { str = "Go near the boat, turn in #Q_'The Captain’s Chest'#." },
 
 			[21] = { str = "Go up top of the Inn, turn in #Q_'The Bloodsail Buccaneers'#(5)." },
@@ -424,7 +413,6 @@ Table_003_Alliance_40to50 = {
 		}
 	},
 
---------49-50 Blasted Lands
 	[4950] = {
 		title = "49-50 Blasted Lands",
 		items = {
@@ -439,7 +427,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "Go to Nethergarde Keep to the top of the tall tower at #C_[66,19]# and turn in #Q_'Thadius Grimshade'# SKIP the next part.", x = 66, y = 19, zone = "Blasted Lands" },
 			[10] = { str = "You should be close to 70% into 49 now. If you don’t want to do Zul Farrak to hit 50, grind here until you’re about 13k from 50. If you wanna do Zul Farrak go to the next step." },
 
-			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[11] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[12] = { str = "Accept #Q_'Zanzil’s Mixture'# and #Q_'A Fool’s Stout'#." },
 			[13] = { str = "Get on the boat to #A_Ratchet# (#A_The Barrens#)." },
 			[14] = { str = "Accept #Q_'Volcanic Activity'# at the first hut off the dock." },
@@ -454,7 +442,7 @@ Table_003_Alliance_40to50 = {
 			[22] = { str = "You should be about 30k from 50 now, Like I said above, either go do Zul Farrak or you should have grinded in Blasted Lands." },
 			[23] = { str = "If you do Zul Farrak you only really need to complete at least 2-3 of the following quests #Q_'Troll Temper'# #Q_'Divino-matic Rod'# #Q_'Gahz’rilla'# #Q_'The Prophecy of Mosh’Aru'# I highly suggest getting #Q_'Divino-matic Rod'# and #Q_'Gahz’rilla'# because you get an awesome ring and a mount speed inscrease trinket which I’ve used since the start of WoW and you will use them on up to 60 and then some." },
 			[24] = { str = "Now you should be about 1-2 bars into 50 if you went to Zul Farrak. From here on out there is a lot more fresh content, as you seen 45-50 is a pain in the ass. We still have a lot of untouched areas to XP in now." },
-			[25] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#) and turn in #Q_'Report Back to Fizzlebub'#." },
+			[25] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#) and turn in #Q_'Report Back to Fizzlebub'#." },
 			[26] = { str = "Fly to #A_Ironforge# and talk to your #N_Class Trainer# to learn new spells and abilities. Accept the quest #Q_'The Hunter’s Charm'#." },
 			[27] = { str = "Make sure you get at least 15 silk cloths out of the mailbox or Auction House alt." },
 			[28] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home. Accept #Q_'Assisting Arch Druid Staghelm'#." },

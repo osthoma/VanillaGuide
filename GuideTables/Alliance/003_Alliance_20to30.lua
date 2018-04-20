@@ -1,5 +1,5 @@
 Table_003_Alliance_20to30 = {
------------20-21 Darkshore
+
 	[2021] = {
  		title = "20-21 Darkshore",
  		items = {
@@ -16,7 +16,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------21-22 Ashenvale
 	[2122] = {
  		title = "21-22 Ashenvale",
  		items = {
@@ -59,7 +58,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------22-23 Stonetalon Mountains
 	[2223] = {
 		title = "22-23 Stonetalon Mountains",
 		items = {
@@ -76,7 +74,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------23-24 Darkshore
 	[2324] = {
  		title = "23-24 Darkshore",
  		items = {
@@ -104,7 +101,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------24-25 Ashenvale
 	[2425] = {
  		title = "24-25 Ashenvale",
  		items = {
@@ -128,7 +124,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------25-27 Wetlands
 	[2526] = {
  		title = "25-27 Wetlands",
  		items = {
@@ -193,7 +188,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------27-28 Lakeshire
 	[2728] = {
  		title = "27-28 Redridge Mountains",
  		items = {
@@ -219,7 +213,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------28-29 Duskwood
 	[2829] = {
  		title = "28-29 Duskwood",
  		items = {
@@ -263,7 +256,7 @@ Table_003_Alliance_20to30 = {
 			[35] = { str = "Go in the house east of the Inn, turn in #Q_'The Totem of Infliction'# and #Q_'Supplies From Darkshire'#. Accept #Q_'Ghost Hair Thread'#." },
 			[36] = { str = "Go in the last house to the east, turn in #Q_'Look to the Stars'#(4)." },
 			[37] = { str = "Go to Blind Mary in the house at #C_[81,59]# turn in #Q_'Ghost Hair Thread'#. Accept #Q_'Return the Comb'# Go turn it in at the house east of the Inn, accept #Q_'Deliver the Thread'#.", x = 81, y = 59, zone = "Duskwood" },
-			[38] = { str = "Go to #C_[49,77]# (you can sneak around everything to here by going towards #A_Stranglethorn# and then to this location) and turn in #Q_'Sven’s Revenge'# accept Sven’s Camp.", x = 49, y = 77, zone = "Duskwood" },
+			[38] = { str = "Go to #C_[49,77]# (you can sneak around everything to here by going towards #A_Stranglethorn Vale# and then to this location) and turn in #Q_'Sven’s Revenge'# accept Sven’s Camp.", x = 49, y = 77, zone = "Duskwood" },
 			[39] = { str = "Run up to the shack NE of Raven Hill and hand in #Q_'Deliver the Thread'#. Accept #Q_'Zombie Juice'#." },
 			[40] = { str = "Go to the underground at #C_[23,35]# kill plagued spreaders just around here and down inside for #Q_'The Night Watch'#(3) you probably won’t get them all in 1 pass.", x = 23, y = 35, zone = "Duskwood" },
 
@@ -278,7 +271,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------29-30 Ashenvale
 	[2930] = {
  		title = "29-30 Ashenvale",
  		items = {
@@ -304,7 +296,6 @@ Table_003_Alliance_20to30 = {
  		}
 	},
 
------------30-30 Wetlands
 	[3030] = {
  		title = "30-30 Wetlands",
  		items = {

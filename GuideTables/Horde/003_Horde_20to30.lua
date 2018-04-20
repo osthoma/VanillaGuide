@@ -1,5 +1,5 @@
 Table_003_Horde_20to30 = {
------------20-21 Stonetalon Mountains
+
 	[2021] = {
 		title = "20-21 Stonetalon Mountains",
 		items = {
@@ -25,7 +25,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------21-21 Ashenvale
 	[2121] = {
 		title = "21-21 Ashenvale",
 		items = {
@@ -41,7 +40,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------22-23 Southern Barrens
 	[2223] = {
 		title = "22-23 The Barrens",
 		items = {
@@ -66,7 +64,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------23-25 Stonetalon Mountains
 	[2325] = {
 		title = "23-25 Stonetalon Mountains",
 		items = {
@@ -97,7 +94,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------25-25 Southern Barrens2
 	[2525] = {
 		title = "25-25 The Barrens",
 		items = {
@@ -117,7 +113,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------25-26 Thousand Needles
 	[2526] = {
 		title = "25-26 Thousand Needles",
 		items = {
@@ -147,7 +142,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------26-27 Ashenvale
 	[2627] = {
 		title = "26-27 Ashenvale",
 		items = {
@@ -178,7 +172,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------27-27 Stonetalon Mountains
 	[2727] = {
 		title = "27-27 Stonetalon Mountains",
 		items = {
@@ -194,7 +187,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------27-29 Thousand Needles
 	[2729] = {
 		title = "27-29 Thousand Needles",
 		items = {
@@ -237,7 +229,6 @@ Table_003_Horde_20to30 = {
 		}
 	},
 
------------29-30 Hillsbrad Foothills
 	[2930] = {
 		title = "29-30 Hillsbrad Foothills",
 		items = {

@@ -1,5 +1,5 @@
 Table_002_TirisfalGlades = {
------------1-6 Deathknell (Tirisfal Glades)
+
 	[0106] = {
 		title = "1-6 Tirisfal Glades",
 		items = {
@@ -23,7 +23,6 @@ Table_002_TirisfalGlades = {
 		}
 	},
 
------------6-10 Tirisfal Glades
 	[0610] = {
 		title = "6-10 Tirisfal Glades",
 		items = {
@@ -55,7 +54,6 @@ Table_002_TirisfalGlades = {
 		}
 	},
 
------------10 -12 Tirisfal Glades
 	[1012] = {
 		title = "10-12 Tirisfal Glades",
 		items = {

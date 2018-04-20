@@ -1,5 +1,5 @@
 Table_003_Alliance_30to40 = {
------------30-31 Hillsbrad Foothills
+
 	[3031] = {
 		title = "30-31 Hillsbrad Foothills",
 		items = {
@@ -20,7 +20,6 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------31-31 Alterac Mountains
 	[3131] = {
 		title = "31-31 Alterac Mountains",
 		items = {
@@ -35,7 +34,6 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------31-32 Arathi Highlands
 	[3132] = {
 		title = "31-32 Arathi Highlands",
 		items = {
@@ -44,15 +42,14 @@ Table_003_Alliance_30to40 = {
 			[3] = { str = "Use your #I_[Hearthstone]# to return to #A_Southshore# (#A_Hillsbrad Foothills#), Fly to #A_Refuge Point# (#A_Arathi Highlands#), turn in #Q_'Northfold Manor'# Fly to #A_Ironforge#." },
 			[4] = { str = "Go to the hall of explorers at #C_[69,20]# in #A_Ironforge#. Accept #Q_'Reclaimers’ Business in Desolace'# then go turn in #Q_'Letter to Stormpike'# accept #Q_'Further Mysteries'#.", x = 69, y = 20, zone = "Arathi Highlands" },
 			[5] = { str = "Accept #Q_'The Brassbolts Brothers'# in The Hall of Arms at #C_[72,93]# then talk to your #N_Class Trainer# to learn new spells and abilities.", x = 72, y = 93, zone = "Arathi Highlands" },
-			[6] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home at #C_[18,51]# Buy some Bloodstone Ore for a quest later in #A_Stranglethorn#. If there is none check the AH in #A_Booty Bay# (#A_Stranglethorn#).", x = 18, y = 51, zone = "Arathi Highlands" },
+			[6] = { str = "Talk to the #N_Innkeeper# to make #A_Ironforge# your home at #C_[18,51]# Buy some Bloodstone Ore for a quest later in #A_Stranglethorn Vale#. If there is none check the AH in #A_Booty Bay# (#A_Stranglethorn Vale#).", x = 18, y = 51, zone = "Arathi Highlands" },
 			[7] = { str = "Fly to #A_Stormwind#." },
 			[8] = { str = "Go to the Keep at #C_[72,15]# and hand in #Q_'Reassignment'#.", x = 72, y = 15, zone = "Stormwind City" },
 			[9] = { str = "Go to #C_[39,27]# in the Cathedral and hand in #Q_'Cleansing the Eye'#.", x = 39, y = 27, zone = "Stormwind City" },
-			[10] = { str = "Fly to #A_Darkshire# (#A_Duskwood#), then run to #C_[44,66]# and go south into #A_Stranglethorn#.", x = 44, y = 66, zone = "Duskwood" }
+			[10] = { str = "Fly to #A_Darkshire# (#A_Duskwood#), then run to #C_[44,66]# and go south into #A_Stranglethorn Vale#.", x = 44, y = 66, zone = "Duskwood" }
 		}
 	},
 
------------32-32 Stranglethorn Vale
 	[3232] = {
 		title = "32-32 Stranglethorn Vale",
 		items = {
@@ -70,7 +67,7 @@ Table_003_Alliance_30to40 = {
 			[11] = { str = "Kill Stranglethorn Tigers for around #C_[29,10]# for #Q_'Tiger Mastery'#(2) and the Panthers around #C_[28,12]# for #Q_'Panther Mastery'#(2).", x = 29, y = 10, zone = "Stranglethorn Vale" },
 			[12] = { str = "Kill Stranglethorn Raptors for #C_[26,15]# #Q_'Raptor Mastery'#.", x = 26, y = 15, zone = "Stranglethorn Vale" },
 			[13] = { str = "Go back to Nessingway’s at #C_[35,10]# and turn in #Q_'Tiger Mastery'#(2), #Q_'Panther Mastery'#(2), and #Q_'Raptor Mastery'#. Accept #Q_'Tiger Mastery'#(3), #Q_'Panther Mastery'#(3) and #Q_'Raptor Mastery'#(2).", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[14] = { str = "Run to #A_Booty Bay# (#A_Stranglethorn#). Unlock the flight path by talking to the #N_Flight Master#." },
+			[14] = { str = "Run to #A_Booty Bay# (#A_Stranglethorn Vale#). Unlock the flight path by talking to the #N_Flight Master#." },
 			[15] = { str = "Turn in #Q_'Krazek’s Cookery'# on the top floor of the inn, accept and hand back in (the bloodstone ores) #Q_'Favor for Krazek'# then accept #Q_'Return to Corporal Kaleb'# (this quest gives you your first helm) also accept #Q_'Investigate the Camp'# and #Q_'Supplies to Private Thorsen'#." },
 			[16] = { str = "Get on the Boat to #A_Ratchet# (#A_The Barrens#)." },
 			[17] = { str = "Unlock the flight path by talking to the #N_Flight Master#." },
@@ -79,9 +76,8 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------32-33 Thousand Needles (Shimmering Flats)
 	[3233] = {
-		title = "32-33 Thousand Needles (Shimmering Flats)",
+		title = "32-33 Thousand Needles",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 32 to 33 in #A_Thousand Needles#." },
 			[2] = { str = "Unlock the flight path by talking to the #N_Flight Master# on the west side of this zone at #C_[8,18]#, it’s just inside Feralas. This will save a lot of time later on.", x = 8, y = 18, zone = "Thousand Needles" },
@@ -106,7 +102,6 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------33-33 Stonetalon Mountains
 	[3333] = {
 		title = "33-33 Stonetalon Mountains",
 		items = {
@@ -115,7 +110,6 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------33-35 Desolace
 	[3335] = {
 		title = "33-35 Desolace",
 		items = {
@@ -159,17 +153,16 @@ Table_003_Alliance_30to40 = {
 			[35] = { str = "Head south into Feralas. Unlock the flight path by talking to the #N_Flight Master#. This will again save more time later on." },
 			[36] = { str = "Get on the Boat at #C_[43,42]#. Unlock the flight path by talking to the #N_Flight Master# in Feathermoon. Fly to #A_Theramore# (#A_Dustwallow Marsh#), then to #A_Ratchet# (#A_The Barrens#).", x = 43, y = 42, zone = "Desolace" },
 			[37] = { str = "Go to the engineer hut at #C_[62,36]# and hand in #Q_'Goblin Sponsorship'# accept #Q_'Goblin Sponsorship'#(2) Then run out on the dock and hand in #Q_'Wharfmaster Dizzywig'# accept #Q_'Parts for Kravel'#.", x = 62, y = 36, zone = "Desolace" },
-			[38] = { str = "Get on the boat to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[38] = { str = "Get on the boat to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 		}
 	},
 
------------35-36 Stranglethorn Vale
 	[3536] = {
 		title = "35-36 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 35 to 36 in #A_Stranglethorn Vale#." },
 			[2] = { str = "Hand in #Q_'Goblin Sponsorship'#(2) as you get off the boat, accept #Q_'Goblin Sponsorship'#(3)." },
-			[3] = { str = "Go in the Inn. Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home. Accept #Q_'Singing Blue Shards'#." },
+			[3] = { str = "Go in the Inn. Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn Vale#) your home. Accept #Q_'Singing Blue Shards'#." },
 			[4] = { str = "Accept #Q_'Hostile Takeover'# and #Q_'Bloodscalp Ears'#." },
 			[5] = { str = "Accept #Q_'The Haunted Isle'# and turn it in just outside the door, accept #Q_'The Stone of the Tides'# Then turn in #Q_'Goblin Sponsorship'#(3) accept #Q_'Goblin Sponsorship'#(4)." },
 			[6] = { str = "Go into the shop Tan-Your-Hide Leatherworks and accept #Q_'Supply and Demand'# (it’s down the ramp from the flight path)." },
@@ -196,7 +189,7 @@ Table_003_Alliance_30to40 = {
 			[25] = { str = "Kill Bloodscalp at #C_[29,19]# for #Q_'Bloodscalp Ears'# You’ll probably have to clear it 2-3 times. They’re easy.", x = 29, y = 19, zone = "Stranglethorn Vale" },
 			[26] = { str = "Kill Basalisks to finish #Q_'Singing Blue Shards'# just west of here above the shore." },
 			[27] = { str = "Run south on the Island till it says complete for #Q_'The Stone of the Tides'# Go back up and kill basalisks if needed." },
-			[28] = { str = "Use your #I_[Hearthstone]# to return to to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[28] = { str = "Use your #I_[Hearthstone]# to return to to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[29] = { str = "Turn in #Q_'Singing Blue Shards'# SKIP the next for now." },
 			[30] = { str = "Go upstairs turn in #Q_'Investigate the Camp'#, #Q_'Bloodscalp Ears'#." },
 
@@ -211,7 +204,6 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------36-37 Alterac Mountains
  	[3637] = {
 		title = "36-37 Alterac Mountains",
 		items = {
@@ -228,14 +220,13 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------37-38 Arathi Highlands
 	[3738] = {
 		title = "37-38 Arathi Highlands",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 37 to 38 in #A_Arathi Highlands#." },
 			[2] = { str = "Accept #Q_'Worth Its Weight In Gold'#." },
 			[3] = { str = "Run to #C_[62,33]# touch the crystal and accept #Q_'The Princess Trapped'#.", x = 62, y = 33, zone = "Arathi Highlands" },
-			[4] = { str = "Go just east of #A_Hammerfall# (#A_Arathi Highlands#) to #C_[80,40]#. (Load up on bloodstone ore here, you can sell it for a few g per 4 in #A_Booty Bay# (#A_Stranglethorn#)) This is a tree, behind it is the path up to the cave to kill kobolds for #Q_'The Princess Trapped'# If you get them all before the end of the cave you have to continue to the end to hand it in by touching Iridescent Shards and accept #Q_'Stones of Binding'#.", x = 80, y = 40, zone = "Arathi Highlands" },
+			[4] = { str = "Go just east of #A_Hammerfall# (#A_Arathi Highlands#) to #C_[80,40]#. (Load up on bloodstone ore here, you can sell it for a few g per 4 in #A_Booty Bay# (#A_Stranglethorn Vale#)) This is a tree, behind it is the path up to the cave to kill kobolds for #Q_'The Princess Trapped'# If you get them all before the end of the cave you have to continue to the end to hand it in by touching Iridescent Shards and accept #Q_'Stones of Binding'#.", x = 80, y = 40, zone = "Arathi Highlands" },
 			[5] = { str = "You should be just about ¼ through this level when you exit the cave." },
 			[6] = { str = "Go to the circle of east binding, just west of #A_Hammerfall# (#A_Arathi Highlands#) at #C_[80,36]# and grab the cresting key from the rock.", x = 80, y = 36, zone = "Arathi Highlands" },
 			[7] = { str = "Stop at #C_[60,53]# and hand in #Q_'Hints of a New Plague?'# accept #Q_'Hints of a New Plague?'#(2) If you see the courier kill him. Simply send your pet in get aggro, when he’s hurt some multi shot some off of him. He’s easy, just feign and let pet die once courier is dead. The courier walks between refuge and tarren mill.", x = 60, y = 53, zone = "Arathi Highlands" },
@@ -265,7 +256,6 @@ Table_003_Alliance_30to40 = {
 		}
 	},
 
------------38-38 Dustwallow Marsh
 	[3838] = {
 		title = "38-38 Dustwallow Marsh",
 		items = {
@@ -300,18 +290,17 @@ Table_003_Alliance_30to40 = {
 			[27] = { str = "Turn in #Q_'Stinky’s Escape'# in the Inn." },
 			[28] = { str = "Go up in the castle, turn in #Q_'The Deserters'#(2)." },
 			[29] = { str = "Fly to #A_Gadgetzan# (#A_Tanaris#) and run up to the Shimmering Flats to #C_[80,76]# turn in #Q_'Razzeric’s Tweaking'#. Accept #Q_'Safety First'# turn it in in #A_Gadgetzan# (#A_Tanaris#) and accept #Q_'Safety First'#(2) then run back to the flats and hand it in.", x = 80, y = 76, zone = "Dustwallow Marsh" },
-			[30] = { str = "Use your #I_[Hearthstone]# to return to #A_Theramore# (#A_Dustwallow Marsh#) and fly to #A_Ratchet# (#A_The Barrens#), get on the boat to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[30] = { str = "Use your #I_[Hearthstone]# to return to #A_Theramore# (#A_Dustwallow Marsh#) and fly to #A_Ratchet# (#A_The Barrens#), get on the boat to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 		}
 	},
 
------------38-40 Stranglethorn Vale
 	[3840] = {
 		title = "38-40 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 38 to 40 in #A_Stranglethorn Vale#." },
 			[2] = { str = "Run towards the Inn, accept #Q_'The Bloodsail Buccaneers'# halfway." },
 			[3] = { str = "Go in the building next to the half boat upside down, accept #Q_'Scaring Shaky'#." },
-			[4] = { str = "Go in the Inn. Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home. Accept #Q_'Venture Company Mining'#." },
+			[4] = { str = "Go in the Inn. Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn Vale#) your home. Accept #Q_'Venture Company Mining'#." },
 			[5] = { str = "Go upstairs, turn in #Q_'The Rumormonger'# accept #Q_'Dream Dust In the Swamp'# and #Q_'Skullsplitter Tusks'#." },
 			[6] = { str = "Go just outside, hand in #Q_'Sunken Treasure'#(4) SKIP the next." },
 			[7] = { str = "Go to around #C_[33,39]# and kill raptors for #Q_'Raptor Mastery'#(3).", x = 33, y = 39, zone = "Stranglethorn Vale" },
@@ -321,28 +310,28 @@ Table_003_Alliance_30to40 = {
 
 			[11] = { str = "Run up to the camps around #C_[42,37]# and do #Q_'Skullsplitter Tusks'#.", x = 42, y = 37, zone = "Stranglethorn Vale" },
 			[12] = { str = "Now you’re gonna have to find Bhag’thera for #Q_'Panther Mastery'#(4) she is anywhere between just north of Mosh’ogg at #C_[49,25]# to just north of the Zul Gurub entrance at #C_[48,17]# she’s elite. Easy way to do it is lay immolation trap and run her into it, once pet gets half health fear it and keep attacking it.", x = 48, y = 25, zone = "Stranglethorn Vale" },
-			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[13] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[14] = { str = "Turn in #Q_'Venture Company Mining'#." },
 			[15] = { str = "Go upstairs, turn in #Q_'Skullsplitter Tusks'#." },
 			[16] = { str = "Walk outside, turn in #Q_'Water Elementals'# SKIP the next." },
 			[17] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in." },
 			[18] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in #Q_'Some assembly required'# accept #Q_'Excelsior'#." },
-			[19] = { str = "Go out of #A_Booty Bay# (#A_Stranglethorn#) and turn left to the camp of pirates at #C_[27,69]# and touch the letter on the barrel, turn in #Q_'The Bloodsail Buccaneers'#. Accept #Q_'The Bloodsail Buccaneers'#(2).", x = 27, y = 69, zone = "Stranglethorn Vale" },
-			[20] = { str = "Go kill gorillas around #C_[32,65]# just NE of #A_Booty Bay# (#A_Stranglethorn#) for #Q_'Scaring Shaky'#.", x = 32, y = 65, zone = "Stranglethorn Vale" },
+			[19] = { str = "Go out of #A_Booty Bay# (#A_Stranglethorn Vale#) and turn left to the camp of pirates at #C_[27,69]# and touch the letter on the barrel, turn in #Q_'The Bloodsail Buccaneers'#. Accept #Q_'The Bloodsail Buccaneers'#(2).", x = 27, y = 69, zone = "Stranglethorn Vale" },
+			[20] = { str = "Go kill gorillas around #C_[32,65]# just NE of #A_Booty Bay# (#A_Stranglethorn Vale#) for #Q_'Scaring Shaky'#.", x = 32, y = 65, zone = "Stranglethorn Vale" },
 
-			[21] = { str = "Run back to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[21] = { str = "Run back to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[22] = { str = "Turn right after the tunnel, turn in #Q_'Scaring Shaky'# accept #Q_'Return to MacKinley'#." },
 			[23] = { str = "Follow the lower dock towards the Inn, turn in #Q_'The Bloodsail Buccaneers'#(2) acept #Q_'The Bloodsail Buccaneers'#(3)." },
 			[24] = { str = "Go In the house across from the half ship, turn in #Q_'Return to MacKinley'# accept #Q_'Voodoo Dues'#." },
 			[25] = { str = "Go up top the Inn, accept #Q_'Up To Snuff'#." },
 			[26] = { str = "Go just outside, turn in #Q_'The Bloodsail Buccaneers'#(3). Accept #Q_'The Bloodsail Buccaneers'#(4)." },
-			[27] = { str = "You should have close to all the #A_Stranglethorn# pages, if not buy the few that you need. You don’t need 1-27 they go in this order. 1,4,6,8,10,11,14,16,18,20,21,24,25,26,27." },
+			[27] = { str = "You should have close to all the #A_Stranglethorn Vale# pages, if not buy the few that you need. You don’t need 1-27 they go in this order. 1,4,6,8,10,11,14,16,18,20,21,24,25,26,27." },
 			[28] = { str = "Go up near Grom’Gol, search the shore there for the 38 elite croc for #Q_'Excelsior'# stay away from the base or the guards will get you." },
 			[29] = { str = "Run up to Nessingways at #C_[35,10]# and turn in #Q_'Raptor Mastery'#(3) and #Q_'Panther Mastery'#(4). Accept #Q_'Raptor Mastery'#(4).", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[30] = { str = "Accept #Q_'The Green Hills of Stranglethorn'# then turn it in." },
 
 			[31] = { str = "You should be at lest 25% or less to 40 now go grind on basalisks and raptors around #C_[33,39]# until you’re 40.", x = 33, y = 39, zone = "Stranglethorn Vale" },
-			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[32] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[33] = { str = "Go into the shop Tan-Your-Hide Leatherworks and turn in #Q_'Excelsior'#." },
 			[34] = { str = "Now fly to #A_Ironforge# and accept #Q_'Ironband Wants You'# from Prospector Stormpike at 74 11, and either to #A_Darnassus# and talk to your #N_Class Trainer# to learn new spells and abilities and your mount, or get skills in #A_Ironforge# and prepare for a few badlands quests by buying a frost oil and a gyrochronatom (don’t by a gyro if you can’t find a frost oil) Then a healing potion and lesser invisibility potion. Again don’t get either of the potions if you can’t get a frost oil or gyro.", x = 74, y = 11, zone = "Iron Forge" },
 			[35] = { str = "Fly to Loch Modan Stable your pet. Talk to the #N_Innkeeper# to make #A_Thelsamar# (#A_Loch Modan#) your home." },

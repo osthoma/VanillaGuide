@@ -1,5 +1,5 @@
 Table_002_Durotar = {
------------1-6 Durotar
+
 	[0106] = {
 		title = "1-6 Durotar",
 		items = {
@@ -24,7 +24,6 @@ Table_002_Durotar = {
 		}
 	},
 
------------6-9 Durotar
 	[0609] = {
 		title = "6-9 Durotar",
 		items = {
@@ -62,7 +61,6 @@ Table_002_Durotar = {
 		}
 	},
 
------------9-12 Durotar
 	[0912] = {
 		title = "9-12 Durotar",
 		items = {

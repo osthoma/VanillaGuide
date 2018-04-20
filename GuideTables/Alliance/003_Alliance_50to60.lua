@@ -1,5 +1,5 @@
 Table_003_Alliance_50to60 = {
------------50-51 Searing Gorge
+
 	[5051] = {
 		title = "50-51 Searing Gorge",
 		items = {
@@ -85,7 +85,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------51-52 Un’Goro Crater
 	[5152] = {
 		title = "51-52 Un’Goro Crater",
 		items = {
@@ -157,7 +156,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------52-53 Azshara
 	[5253] = {
 		title = "52-53 Azshara",
 		items = {
@@ -174,7 +172,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
-------------53-54 Felwood
 	[5354] = {
 		title = "53-54 Felwood",
 		items = {
@@ -237,7 +234,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------54-54 Tanaris
 	[5453] = {
 		title = "54-54 Tanaris",
 		items = {
@@ -265,7 +261,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------54-54 Felwood
 	[5454] = {
 		title = "54-54 Felwood",
 		items = {
@@ -289,7 +284,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
---------------54-55 Winterspring
 	[5455] = {
 		title = "54-55 Winterspring",
 		items = {
@@ -333,7 +327,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------55-56 Burning Steppes
 	[5556] = {
 		title = "55-56 Burning Steppes",
 		items = {
@@ -371,7 +364,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------56-56 Tanaris
 	[5655] = {
 		title = "56-56 Tanaris",
 		items = {
@@ -387,7 +379,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------56-56 Silithus
 	[5656] = {
 		title = "56-56 Silithus",
 		items = {
@@ -440,7 +431,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
-------------56-57 Western Plaguelands
 	[5657] = {
 		title = "56-57 Western Plaguelands",
 		items = {
@@ -495,7 +485,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------57-58 Eastern Plaguelands
 	[5758] = {
 		title = "57-58 Eastern Plaguelands",
 		items = {
@@ -524,7 +513,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------58-58 Western Plaguelands
 	[5857] = {
 		title = "58-58 Western Plaguelands",
 		items = {
@@ -540,7 +528,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
------------58-58 Eastern Plaguelands
 	[5858] = {
 		title = "58-58 Eastern Plaguelands",
 		items = {
@@ -566,7 +553,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
-------------58-59 Western Plaguelands
 	[5859] = {
 		title = "58-59 Western Plaguelands",
 		items = {
@@ -593,7 +579,6 @@ Table_003_Alliance_50to60 = {
 		}
 	},
 
-------------59-60 Winterspring
 	[5960] = {
 		title = "59-60 Winterspring",
 		items = {

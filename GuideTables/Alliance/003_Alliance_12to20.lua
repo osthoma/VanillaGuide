@@ -1,5 +1,5 @@
 Table_003_Alliance_12to20 = {
------------12-14 Darkshore
+
 	[1214] = {
 		title = "12-14 Darkshore",
 		items = {
@@ -48,7 +48,6 @@ Table_003_Alliance_12to20 = {
 		}
 	},
 
------------14-17 Darkshore
 	[1417] = {
 		title = "14-17 Darkshore",
 		items = {
@@ -96,7 +95,6 @@ Table_003_Alliance_12to20 = {
 		}
 	},
 
------------17-18 Loch Modan
 	[1718] = {
 		title = "17-18 Loch Modan",
 		items = {
@@ -135,7 +133,6 @@ Table_003_Alliance_12to20 = {
 		}
 	},
 
------------18-20 Redridge Mountains
 	[1820] = {
 		title = "18-20 Redridge Mountains",
 		items = {

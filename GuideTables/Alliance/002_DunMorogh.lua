@@ -1,5 +1,5 @@
 Table_002_DunMorogh = {
------------1-6 Coldridge Valley
+
 	[0106] = {
 		title = "1-6 Coldridge Valley",
 		items = {
@@ -33,7 +33,6 @@ Table_002_DunMorogh = {
 		}
 	},
 
------------6-12 Dun Morogh
 	[0612] = {
 		title = "6-12 Dun Morogh",
 		items = {

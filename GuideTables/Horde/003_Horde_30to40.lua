@@ -1,5 +1,5 @@
 Table_003_Horde_30to40 = {
------------30-30 Alterac Mountains
+
 	[3029] = {
 		title = "30-30 Alterac Mountains",
 		items = {
@@ -16,7 +16,6 @@ Table_003_Horde_30to40 = {
 		}
 	},
 
------------30-30 Arathi Highlands
 	[3030] = {
 		title = "30-30 Arathi Highlands",
 		items = {
@@ -38,17 +37,16 @@ Table_003_Horde_30to40 = {
 			[15] = { str = "Then run west from the #A_Crossroads# (#A_The Barrens#) to the guy in the hut. Accept #Q_'The Kolkar of Desolace'#." },
 			[16] = { str = "Run back to #A_Crossroads# (#A_The Barrens#). Talk to the #N_Innkeeper# to make #A_Crossroads# (#A_The Barrens#) your home." },
 			[17] = { str = "Fly to #A_Ratchet# (#A_The Barrens#)." },
-			[18] = { str = "Get on the boat at #A_Ratchet# (#A_The Barrens#) to go to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[18] = { str = "Get on the boat at #A_Ratchet# (#A_The Barrens#) to go to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 		}
 	},
 
------------30-31 Stranglethorn Vale
 	[3031] = {
 		title = "30-31 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 30 to 31 in #A_Stranglethorn Vale#." },
-			[2] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #A_Booty Bay# (#A_Stranglethorn#) and run up to #A_Grom’Gol# (#A_Stranglethorn#). Unlock the flight path by talking to the #N_Flight Master#." },
-			[3] = { str = "Go up north #C_[35,10]# and start doing the #A_Stranglethorn# hunt quests:", x = 35, y = 10, zone = "Stranglethorn Vale" },
+			[2] = { str = "Unlock the flight path by talking to the #N_Flight Master# at #A_Booty Bay# (#A_Stranglethorn Vale#) and run up to #A_Grom’Gol# (#A_Stranglethorn Vale#). Unlock the flight path by talking to the #N_Flight Master#." },
+			[3] = { str = "Go up north #C_[35,10]# and start doing the #A_Stranglethorn Vale# hunt quests:", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[4] = { str = "#Q_'Welcome to the Jungle'# (just accept this and turn in in right there)." },
 			[5] = { str = "#Q_'Tiger Mastery'# (#N_Young Stranglethorn Tigers#) #C_[33,10]#.", x = 33, y = 10, zone = "Stranglethorn Vale" },
 			[6] = { str = "#Q_'Panther Mastery'# (#N_Young Panthers#) #C_[41,9]#.", x = 41, y = 9, zone = "Stranglethorn Vale" },
@@ -66,7 +64,6 @@ Table_003_Horde_30to40 = {
 		}
 	},
 
------------31-32 Thousand needles (Shimmering Flats)
 	[3132] = {
 		title = "31-32 Thousand Needles",
 		items = {
@@ -100,7 +97,6 @@ Table_003_Horde_30to40 = {
 		}
 	},
 
------------32-34 Desolace
 	[3234] = {
 		title = "32-34 Desolace",
 		items = {
@@ -171,19 +167,18 @@ Table_003_Horde_30to40 = {
 			[60] = { str = "Stop at the troll vendor, buy the 3 first aid books." },
 
 			[61] = { str = "Fly to #A_Ratchet# (#A_The Barrens#) to turn in #Q_'Goblin Sponsorship'# & #Q_'Wharfmaster Dizzywig'#. Accept #Q_'Goblin Sponsorship'#(2) and #Q_'Parts for Kravel'#." },
-			[62] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn#). (while waiting for the boat, build up first aid)." },
+			[62] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn Vale#). (while waiting for the boat, build up first aid)." },
 		}
 	},
 
------------34-35 Stranglethorn Vale
 	[3435] = {
 		title = "34-35 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 34 to 35 in #A_Stranglethorn Vale#." },
-			[2] = { str = "Turn in #Q_'Goblin Sponsorship'#(2). Accept #Q_'Goblin Sponsorship'# Part3. Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home. Accept #Q_'Singing Blue Shards'# #Q_'Bloodscalp Ears'# #Q_'Hostile Takeover'# and #Q_'Investigate the Camp'#. Turn in #Q_'Goblin Sponsorship'# Part3 at Baron Revilgaz. Accept #Q_'Goblin Sponsorship'# Part4." },
+			[2] = { str = "Turn in #Q_'Goblin Sponsorship'#(2). Accept #Q_'Goblin Sponsorship'# Part3. Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn Vale#) your home. Accept #Q_'Singing Blue Shards'# #Q_'Bloodscalp Ears'# #Q_'Hostile Takeover'# and #Q_'Investigate the Camp'#. Turn in #Q_'Goblin Sponsorship'# Part3 at Baron Revilgaz. Accept #Q_'Goblin Sponsorship'# Part4." },
 			[3] = { str = "Then do the following:" },
-			[4] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn#)." },
-			[5] = { str = "Grab ALL quests in #A_Grom’Gol# (#A_Stranglethorn#): #Q_'The Defense of Grom’gol'# #Q_'Mok’thardin’s Enchantment'# #Q_'Bloodscalp Insight'# #Q_'Hunt for Yenniku'# #Q_'Trollbane'# #Q_'Bloody Bone Necklaces'# #Q_'The Vile Reef'#." },
+			[4] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
+			[5] = { str = "Grab ALL quests in #A_Grom’Gol# (#A_Stranglethorn Vale#): #Q_'The Defense of Grom’gol'# #Q_'Mok’thardin’s Enchantment'# #Q_'Bloodscalp Insight'# #Q_'Hunt for Yenniku'# #Q_'Trollbane'# #Q_'Bloody Bone Necklaces'# #Q_'The Vile Reef'#." },
 			[6] = { str = "Talk to your #N_Class Trainer# to learn new spells and abilities." },
 			[7] = { str = "#VIDEOIMPORTANT:# Make sure you save any Green Hills of Stranglethorn pages you find and mail them to your alt for storage, you will need them for a later quest. You will need one of each of the following pages: 1, 4, 6, 8, 10, 11, 14, 16, 18, 20, 21, 24, 25, 26, and 27. Once your alt collects all the pages, mail them back to your main. Now go complete these quests:" },
 			[8] = { str = "#Q_'Singing Blue Shards'# #C_[25,19]#.", x = 25, y = 19, zone = "Stranglethorn Vale" },
@@ -194,7 +189,7 @@ Table_003_Horde_30to40 = {
 			[12] = { str = "#Q_'Bloody Bone Necklaces'# (you don’t have to finish all of this now)." },
 			[13] = { str = "#Q_'Raptor Mastery'# (#N_Lashtail Raptors#)." },
 			[14] = { str = "#Q_'The Defense of Grom’gol'#." },
-			[15] = { str = "Once all those are done (besides #Q_'Bloody Bone Necklaces'# ), go to #A_Grom’Gol# (#A_Stranglethorn#)." },
+			[15] = { str = "Once all those are done (besides #Q_'Bloody Bone Necklaces'# ), go to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
 			[16] = { str = "Turn in #Q_'Hunt for Yenniku'#. Accept #Q_'Headhunting'#." },
 			[17] = { str = "Turn in #Q_'The Defense of Grom’gol'#. Accept #Q_'The Defense of Grom’gol'#(2)." },
 			[18] = { str = "Should be lvl 35 now, either way buy lvl 35 food/water/repair (so that you are prepared for when you do turn level 35), then go do in the following order:" },
@@ -207,9 +202,9 @@ Table_003_Horde_30to40 = {
 			[24] = { str = "#Q_'Panther Mastery'# along with #Q_'Mok’thardin’s Enchantment'# (kill #N_shadowmaw panthers#) #C_[48,21]#.", x = 48, y = 21, zone = "Stranglethorn Vale" },
 			[25] = { str = "#Q_'The Defense of Grom’gol'#(2) #C_[36,30]#, once that’s done.", x = 36, y = 30, zone = "Stranglethorn Vale" },
 			[26] = { str = "Head up north and turn in #Q_'Panther Mastery'#.accept #Q_'Panther Mastery'# (#N_Bhag’thera#) but don’t do it now." },
-			[27] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#), turn in #Q_'Singing Blue Shards'# #Q_'Hostile Takeover'# #Q_'Bloodscalp Ears'# #Q_'Investigate the Camp'#." },
+			[27] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#), turn in #Q_'Singing Blue Shards'# #Q_'Hostile Takeover'# #Q_'Bloodscalp Ears'# #Q_'Investigate the Camp'#." },
 			[28] = { str = "Turn in #Q_'Goblin Sponsorship'#(4). Accept #Q_'Goblin Sponsorship'#(5)." },
-			[29] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn#), turn in all quests: #Q_'The Defense of Grom’gol'# #Q_'Mok’thardin’s Enchantment'# #Q_'Headhunting'# #Q_'Bloody Bone Necklaces'# and #Q_'The Vile Reef'#." },
+			[29] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn Vale#), turn in all quests: #Q_'The Defense of Grom’gol'# #Q_'Mok’thardin’s Enchantment'# #Q_'Headhunting'# #Q_'Bloody Bone Necklaces'# and #Q_'The Vile Reef'#." },
 			[30] = { str = "Should be level 36 now, if not, grind to it. Accept #Q_'Trollbane'#. Talk to your #N_Class Trainer# to learn new spells and abilities." },
 
 			[31] = { str = "Get on the zeppelin to go to the #A_Undercity#." },
@@ -219,7 +214,6 @@ Table_003_Horde_30to40 = {
 		}
 	},
 
------------35-37 Arathi Highlands
 	[3537] = {
 		title = "35-37 Arathi Highlands",
 		items = {
@@ -254,7 +248,6 @@ Table_003_Horde_30to40 = {
 		}
 	},
 
------------37-37 Alterac Mountains
 	[3736] = {
 		title = "37-37 Alterac Mountains",
 		items = {
@@ -276,7 +269,6 @@ Table_003_Horde_30to40 = {
 		}
 	},
 
------------37-37 Thousand Needles
 	[3737] = {
 		title = "37-37 Thousand Needles",
 		items = {
@@ -296,7 +288,6 @@ Table_003_Horde_30to40 = {
 		}
 	},
 
------------37-38 Dustwallow Marsh
 	[3738] = {
 		title = "37-38 Dustwallow Marsh",
 		items = {
@@ -325,19 +316,18 @@ Table_003_Horde_30to40 = {
 			[21] = { str = "Turn in #Q_'The Severed Head'#. Accept #Q_'The Troll Witchdoctor'#." },
 			[22] = { str = "Use your #I_[Hearthstone]# to return to #A_Crossroads# (#A_The Barrens#)." },
 			[23] = { str = "Fly to #A_Ratchet# (#A_The Barrens#), turn in #Q_'Stinky’s Escape'# while your there." },
-			[24] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[24] = { str = "Get on the boat to go to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 
 		}
 	},
 
------------38-40 Stranglethorn Vale
 	[3840] = {
 		title = "38-40 Stranglethorn Vale",
 		items = {
 			[1] = { str = "Welcome to Azeroth, friend! \nThis section of the VanillaGuide will guide you through levels 38 to 40 in #A_Stranglethorn Vale#." },
 			[2] = { str = "Accept #Q_'The Bloodsail Buccaneers'#, #Q_'Venture Company Mining'# and #Q_'Scaring Shaky'#." },
-			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn#) your home. Go up the steps and turn in #Q_'The Rumormonger'#." },
-			[4] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn#)." },
+			[3] = { str = "Talk to the #N_Innkeeper# to make #A_Booty Bay# (#A_Stranglethorn Vale#) your home. Go up the steps and turn in #Q_'The Rumormonger'#." },
+			[4] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
 			[5] = { str = "Accept #Q_'Mok’thardin’s Enchantment'#." },
 			[6] = { str = "Turn in #Q_'The Troll Witchdoctor'#. right click the cauldron. Accept #Q_'Marg Speaks'#." },
 			[7] = { str = "Go do:" },
@@ -345,22 +335,22 @@ Table_003_Horde_30to40 = {
 			[9] = { str = "Grind away at raptors/cold eye ballisks till level 39, then do:" },
 			[10] = { str = "#Q_'Venture Company Mining'# at #C_[40,42]#.", x = 40, y = 42, zone = "Stranglethorn Vale" },
 
-			[11] = { str = "Once that is done, go back to #A_Grom’Gol# (#A_Stranglethorn#) and turn in #Q_'Mok’thardin’s Enchantment'#. Accept #Q_'Mok’thardin’s Enchantment'#(3)." },
+			[11] = { str = "Once that is done, go back to #A_Grom’Gol# (#A_Stranglethorn Vale#) and turn in #Q_'Mok’thardin’s Enchantment'#. Accept #Q_'Mok’thardin’s Enchantment'#(3)." },
 			[12] = { str = "Then do #Q_'Panther Mastery'# (#N_Bhag’thera#) (he has 3 different spawn points, either at #C_[48,20]#, #C_[49,23]#, or #C_[47,26]#).", x = 48, y = 20, zone = "Stranglethorn Vale" },
 			[13] = { str = "Then turn in #Q_'Panther Mastery'# (#N_Bhag’thera#) and #Q_'Raptor Mastery'# (#N_Jungle Stalkers#) at Nesingwary’s Expedition #C_[35,10]#.", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[14] = { str = "Accept #Q_'Raptor Mastery'# (#N_Tethis#) but don’t do it now." },
-			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn#)." },
+			[15] = { str = "Use your #I_[Hearthstone]# to return to #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 			[16] = { str = "Turn in #Q_'Venture Company Mining'#." },
 			[17] = { str = "Then go do:" },
-			[18] = { str = "#Q_'The Bloodsail Buccaneers'# (just slightly north-west of #A_Booty Bay# (#A_Stranglethorn#) at #C_[27,69]#, there’s a little note on a barrel, click on it, accept new quest).", x = 27, y = 69, zone = "Stranglethorn Vale" },
+			[18] = { str = "#Q_'The Bloodsail Buccaneers'# (just slightly north-west of #A_Booty Bay# (#A_Stranglethorn Vale#) at #C_[27,69]#, there’s a little note on a barrel, click on it, accept new quest).", x = 27, y = 69, zone = "Stranglethorn Vale" },
 			[19] = { str = "#Q_'Scaring Shaky'# along with #Q_'Mok’thardin’s Enchantment'#(3) #C_[32,66]#.", x = 32, y = 66, zone = "Stranglethorn Vale" },
-			[20] = { str = "Once that’s done run back into #A_Booty Bay# (#A_Stranglethorn#)." },
+			[20] = { str = "Once that’s done run back into #A_Booty Bay# (#A_Stranglethorn Vale#)." },
 
 			[21] = { str = "Turn in #Q_'Scaring Shaky'#. Accept #Q_'Return to MacKinley'#." },
 			[22] = { str = "Turn in #Q_'The Bloodsail Buccaneers'#. Accept #Q_'The Bloodsail Buccaneers'#." },
 			[23] = { str = "Turn in #Q_'Return to MacKinley'#." },
 			[24] = { str = "Then turn in #Q_'The Bloodsail Buccaneers'# at Fleet Master Seahorn." },
-			[25] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn#)." },
+			[25] = { str = "Fly to #A_Grom’Gol# (#A_Stranglethorn Vale#)." },
 			[26] = { str = "Turn in #Q_'Mok’thardin’s Enchantment'#(3). Accept #Q_'Mok’thardin’s Enchantment'#(4)." },
 			[27] = { str = "You should be level 40 for sure now. If not grind the rest of the way to 40 on raptors/cold eye basilisks." },
 			[28] = { str = "OPTIONAL: Scarlet Monastery instance instead of the grinding." },

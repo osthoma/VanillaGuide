@@ -1,5 +1,5 @@
 Table_002_ElwynnForest = {
------------1-10 Elwynn Forest
+
 	[0110] = {
 		title = "1-10 Elwynn Forest",
 		items = {
@@ -81,7 +81,6 @@ Table_002_ElwynnForest = {
 		}
 	},
 
------------10-12 Westfall and Loch Modan
 	[1012] = {
 		title = "10-12 Westfall and Loch Modan",
 		items = {

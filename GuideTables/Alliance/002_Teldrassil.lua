@@ -1,5 +1,5 @@
 Table_002_Teldrassil = {
------------1-6 Teldrassil
+
 	[0106] = {
 		title = "1-6 Teldrassil",
 		items = {
@@ -27,7 +27,6 @@ Table_002_Teldrassil = {
 		}
 	},
 
------------6-12 Teldrassil
 	[0612] = {
 		title = "6-12 Teldrassil",
 		items = {
