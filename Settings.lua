@@ -180,7 +180,7 @@ function objSettings:new()
     end
 
     if obj.db.char.CharInfo.CharName == "Unknown" then
-      Di(" New Settings for \"|cFFbb7777" .. AceLibrary("AceDB - 2.0").CHAR_ID .. " - " .. AceLibrary("AceDB - 2.0").FACTION .."|r\"")
+      Di(" New Settings for \"|cFFbb7777" .. AceLibrary("AceDB-2.0").CHAR_ID .. " - " .. AceLibrary("AceDB-2.0").FACTION .."|r\"")
       obj.db.char.CharInfo.CharName = AceLibrary("AceDB-2.0").NAME
       obj.db.char.CharInfo.RealmName = AceLibrary("AceDB-2.0").REALM
       obj.db.char.CharInfo.Class = AceLibrary("AceDB-2.0").CLASS_ID
@@ -188,11 +188,11 @@ function objSettings:new()
       obj.db.char.CharInfo.Faction = AceLibrary("AceDB-2.0").FACTION
     elseif obj.db.char.CharInfo.CharName == AceLibrary("AceDB-2.0").NAME then
       if obj.db.char.CharInfo.Faction ~= AceLibrary("AceDB-2.0").FACTION then
-        Di(" Settings for \"|cFFbb7777 " .. AceLibrary("AceDB - 2.0").CHAR_ID .. " - " .. AceLibrary("AceDB - 2.0").FACTION .. "|r\" need to be wiped out!")
+        Di(" Settings for \"|cFFbb7777 " .. AceLibrary("AceDB-2.0").CHAR_ID .. " - " .. AceLibrary("AceDB-2.0").FACTION .. "|r\" need to be wiped out!")
         Di("   This character was already used on the opposite faction!")
         obj:ResetDB("char")
       else
-        Di(" Settings for \"|cFFbb7777" .. AceLibrary("AceDB - 2.0").CHAR_ID .. " - " .. AceLibrary("AceDB - 2.0").FACTION .. "|r\" loaded!")
+        Di(" Settings for \"|cFFbb7777" .. AceLibrary("AceDB-2.0").CHAR_ID .. " - " .. AceLibrary("AceDB-2.0").FACTION .. "|r\" loaded!")
       end
     end
 
