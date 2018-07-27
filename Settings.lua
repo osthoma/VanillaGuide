@@ -89,6 +89,9 @@ function objSettings:new()
       NotesEnable = false,
       BWPEnable = false,
     },
+    TomTom = {
+      Enabled = false
+    }
   }
 
   obj = AceLibrary("AceAddon-2.0"):new("AceDB-2.0")
@@ -221,6 +224,10 @@ function objSettings:new()
     return obj.db.char.MetaMap
   end
 
+  obj.GetSettingsTomTom = function(self)
+    return obj.db.char.TomTom
+  end
+
   obj.GetSettingsEntireCharDB = function(self)
     return obj.db.char
   end
@@ -243,6 +250,10 @@ function objSettings:new()
 
   obj.SetSettingsMetaMap = function(self, tMetaMap)
     obj.db.char.MetaMap = tMetaMap
+  end
+
+  obj.SetSettingsTomTom = function(self, tTomTom)
+    obj.db.char.TomTom = tTomTom
   end
 
   obj.SetSettingEntireCharDB = function(self, tSettingsTable)
