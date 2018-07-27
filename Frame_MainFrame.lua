@@ -766,6 +766,29 @@ if tMetaMap.Presence then
     end
   end
 
+  obj.RefreshTomTom = function(self)
+    if TomTom == nil or not oSettings:GetSettingsTomTom().Enabled then
+      return
+    end
+    local title = oDisplay:GetGuideTitle()
+    local step = oDisplay:GetCurrentStep()
+    local label = oDisplay:GetStepLabel()
+    local t = oDisplay:GetCurrentStepInfo()
+    -- title = guide name '43-45 Ferelas'
+    -- step = the number of the step '7'
+    -- label = guide content like 'Go to the gzebo at ...'
+    --TomTom:Print("'%s','%s','%s', %s", title, step, label, t)
+    TomTom:RemoveWaypointsOfGroup("VanillaGuide")
+    if t.x and t.y and t.zone then
+      local wp = TomTom:SetCrazyArrow({z = t.zone, x = t.x / 100, y = t.y / 100}, 30, label, true)
+      if wp then
+        wp.group = "VanillaGuide"
+      else
+        TomTom:Print("VG: TomTom was not able to put a waypoint")
+      end
+    end
+  end
+
   obj.RefreshData = function(self)
     obj:RefreshStepFrameLabel()
     obj:RefreshStepNumberFrameLabel()
@@ -773,6 +796,7 @@ if tMetaMap.Presence then
     obj:RefreshDropDownMenuLabel()
     obj:RefreshScrollFrame()
     obj:RefreshMetaMap()
+    obj:RefreshTomTom()
   end
 
   local function AddToDDM(nLevel, sType, sLabel, nID)
